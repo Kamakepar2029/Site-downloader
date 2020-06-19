@@ -10,5 +10,3 @@ Sites:
 # [telsi.ru](http://site-downloader.tk/telsi.ru/)
 # [m.vk.com](http://site-downloader.tk/m.vk.com/)
 # [vk.com](http://site-downloader.tk/vk.com/)
-# [try--kamakepar.repl.co](http://site-downloader.tk/try--kamakepar.repl.co/)
-# [try--kamakepar.repl.co](https://kamakepar2029.github.io/Site-downloader/try--kamakepar.repl.co/)
