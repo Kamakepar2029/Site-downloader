@@ -1,0 +1,120 @@
+<?php 
+if (isset($_POST['sites'])){
+$stat = 'bash create.sh '.$_POST['sites'];
+exec($stat);
+?>
+<html>
+  <head>
+    <title>
+      Download Your Site
+    </title>
+  </head>
+  <body style="position: relative; min-height: 100%; margin: 0px; padding: 0px; background-color: rgb(11, 65, 130);">
+    <div class="download" style="width: 100%; min-height: 100%; background: linear-gradient(0deg, #0b4182 1%, #1e88e5 100%); display:flex;flex-direction:column;align-items:center;">
+      <div class="download-box" style="background:white; margin-top:50px;padding:20px;border-radius:5px;">
+      <h1 class="download-title" style="color:#0084df;">
+        Download Your site
+      </h1>
+      <div class="download-form">
+        <form action='/' method="POST">
+            <input class="input" type="text" placeholder="example.com" name="sites" style="width:100%;" required><br>
+            <input type="submit" value="Download my Site" style="width:100%;">
+        </form>
+      </div>
+      <?php echo 'Your site is availible <a href="/'.$_POST['sites'].'/index.html">Here</a>';?>
+      </div>
+    </div>
+    <style>
+  .input{
+    border: 1px solid #DCDEE0;
+    vertical-align: middle;
+    border-radius: 3px;
+    height: 50px;
+    padding: 0px 16px;
+    font-size: 14px;
+    color: #555555;
+    background-color: #ffffff;
+    }
+  input[type=submit]{
+    display: inline-block;
+    vertical-align: middle;
+    padding: 12px 24px;
+    margin: 0px;
+    font-size: 15px;
+    font-weight: bold;
+    line-height: 24px;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    cursor: pointer;
+    color: #ffffff;
+    background-color: #1e88e5;
+    border-radius: 3px;
+    border: none;
+    -webkit-appearance: none;
+    transition: all ease-in .1s;
+  }
+  input[type=submit]:hover{
+        background-color: #3ba3ff;
+  }
+    </style>
+  </body>
+</html>
+<?php } else{?>
+<html>
+  <head>
+    <title>
+      Download Your Site
+    </title>
+  </head>
+  <body style="position: relative; min-height: 100%; margin: 0px; padding: 0px; background-color: rgb(11, 65, 130);">
+    <div class="download" style="width: 100%; min-height: 100%; background: linear-gradient(0deg, #0b4182 1%, #1e88e5 100%); display:flex;flex-direction:column;align-items:center;">
+      <div class="download-box" style="background:white; margin-top:50px;padding:20px;border-radius:5px;">
+      <h1 class="download-title" style="color:#0084df;">
+        Download Your site
+      </h1>
+      <div class="download-form">
+        <form action='/' method="POST">
+            <input class="input" type="text" placeholder="example.com" name="sites" style="width:100%;" required><br>
+            <input type="submit" value="Download my Site" style="width:100%;">
+        </form>
+      </div>
+      </div>
+    </div>
+    <style>
+  .input{
+    border: 1px solid #DCDEE0;
+    vertical-align: middle;
+    border-radius: 3px;
+    height: 50px;
+    padding: 0px 16px;
+    font-size: 14px;
+    color: #555555;
+    background-color: #ffffff;
+    }
+  input[type=submit]{
+    display: inline-block;
+    vertical-align: middle;
+    padding: 12px 24px;
+    margin: 0px;
+    font-size: 15px;
+    font-weight: bold;
+    line-height: 24px;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    cursor: pointer;
+    color: #ffffff;
+    background-color: #1e88e5;
+    border-radius: 3px;
+    border: none;
+    -webkit-appearance: none;
+    transition: all ease-in .1s;
+  }
+  input[type=submit]:hover{
+        background-color: #3ba3ff;
+  }
+    </style>
+  </body>
+</html>
+<?php }?>
