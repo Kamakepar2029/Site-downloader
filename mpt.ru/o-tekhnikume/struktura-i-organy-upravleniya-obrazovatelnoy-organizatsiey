@@ -1,0 +1,2425 @@
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Структура и органы управления образовательной организацией</title>
+    
+    <!-- Bootstrap -->
+    <link href="../local/templates/mpt/css/bootstrap.css" rel="stylesheet">
+
+    <!-- Links -->
+    <link href='https://fonts.googleapis.com/css?family=PT+Sans:400,700' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Lato' rel='stylesheet' type='text/css'>
+    <link href="../local/templates/mpt/css/font-awesome.css" rel="stylesheet">
+    <link href="../local/templates/mpt/css/material-design.css" rel="stylesheet">
+    <link href="../local/templates/mpt/css/rd-mailform.css" rel="stylesheet">
+    <link href="../local/templates/mpt/css/jquery.fancybox.min.css" rel="stylesheet">
+
+    <!--JS-->
+    <script src="../local/templates/mpt/js/jquery.js"></script>
+    <script src="../local/templates/mpt/js/jquery-migrate-1.2.1.min.js"></script>
+
+    <!--[if lt IE 9]>
+    <div style=' clear: both; text-align:center; position: relative;'>
+        <a href="http://windows.microsoft.com/en-US/internet-explorer/..">
+            <img src="images/ie8-panel/warning_bar_0000_us.jpg" border="0" height="42" width="820"
+                 alt="You are using an outdated browser. For a faster, safer browsing experience, upgrade for free today."/>
+        </a>
+    </div>
+    <script src="js/html5shiv.js"></script>
+    <![endif]-->
+    <script src='../local/templates/mpt/js/device.min.js'></script>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<link href="https://mpt.ru/bitrix/js/main/core/css/core.css?15514225323963" type="text/css" rel="stylesheet" />
+
+
+
+<link href="../local/templates/.default/components/bitrix/menu/top_menu/style.css?1551422539878" type="text/css"  data-template-style="true"  rel="stylesheet" />
+<link href="../local/templates/mpt/components/bitrix/breadcrumb/.default/style.css?1558935984585" type="text/css"  data-template-style="true"  rel="stylesheet" />
+<link href="../local/templates/mpt/components/ogecut/empty/hot_line_form/style.css?158444143334" type="text/css"  data-template-style="true"  rel="stylesheet" />
+<link href="../local/templates/mpt/styles.css?15646672401301" type="text/css"  data-template-style="true"  rel="stylesheet" />
+<link href="../local/templates/mpt/template_styles.css?15646672404868" type="text/css"  data-template-style="true"  rel="stylesheet" />
+<script type="text/javascript">if(!window.BX)window.BX={};if(!window.BX.message)window.BX.message=function(mess){if(typeof mess=='object') for(var i in mess) BX.message[i]=mess[i]; return true;};</script>
+<script type="text/javascript">(window.BX||top.BX).message({'JS_CORE_LOADING':'Загрузка...','JS_CORE_NO_DATA':'- Нет данных -','JS_CORE_WINDOW_CLOSE':'Закрыть','JS_CORE_WINDOW_EXPAND':'Развернуть','JS_CORE_WINDOW_NARROW':'Свернуть в окно','JS_CORE_WINDOW_SAVE':'Сохранить','JS_CORE_WINDOW_CANCEL':'Отменить','JS_CORE_WINDOW_CONTINUE':'Продолжить','JS_CORE_H':'ч','JS_CORE_M':'м','JS_CORE_S':'с','JSADM_AI_HIDE_EXTRA':'Скрыть лишние','JSADM_AI_ALL_NOTIF':'Показать все','JSADM_AUTH_REQ':'Требуется авторизация!','JS_CORE_WINDOW_AUTH':'Войти','JS_CORE_IMAGE_FULL':'Полный размер'});</script>
+
+<script type="text/javascript" src="https://mpt.ru/bitrix/js/main/core/core.js?1588581841543330"></script>
+
+<script>BX.setJSList(['/bitrix/js/main/core/core_ajax.js','/bitrix/js/main/core/core_promise.js','/bitrix/js/main/polyfill/promise/js/promise.js','/bitrix/js/main/loadext/loadext.js','/bitrix/js/main/loadext/extension.js','/bitrix/js/main/polyfill/promise/js/promise.js','/bitrix/js/main/polyfill/find/js/find.js','/bitrix/js/main/polyfill/includes/js/includes.js','/bitrix/js/main/polyfill/matches/js/matches.js','/bitrix/js/ui/polyfill/closest/js/closest.js','/bitrix/js/main/polyfill/fill/main.polyfill.fill.js','/bitrix/js/main/polyfill/find/js/find.js','/bitrix/js/main/polyfill/matches/js/matches.js','/bitrix/js/main/polyfill/core/dist/polyfill.bundle.js','/bitrix/js/main/core/core.js','/bitrix/js/main/polyfill/intersectionobserver/js/intersectionobserver.js','/bitrix/js/main/lazyload/dist/lazyload.bundle.js','/bitrix/js/main/polyfill/core/dist/polyfill.bundle.js','/bitrix/js/main/parambag/dist/parambag.bundle.js']);
+BX.setCSSList(['/bitrix/js/main/core/css/core.css','/bitrix/js/main/lazyload/dist/lazyload.bundle.css','/bitrix/js/main/parambag/dist/parambag.bundle.css']);</script>
+<script type="text/javascript">(window.BX||top.BX).message({'LANGUAGE_ID':'ru','FORMAT_DATE':'DD.MM.YYYY','FORMAT_DATETIME':'DD.MM.YYYY HH:MI:SS','COOKIE_PREFIX':'MPT_','SERVER_TZ_OFFSET':'10800','SITE_ID':'s1','SITE_DIR':'/','USER_ID':'','SERVER_TIME':'1592574378','USER_TZ_OFFSET':'0','USER_TZ_AUTO':'Y','bitrix_sessid':'8dd62250495462a45eaeea5bf582bc12'});</script>
+
+
+<script type="text/javascript" src="https://mpt.ru/bitrix/js/main/polyfill/customevent/main.polyfill.customevent.js?1551422533913"></script>
+<script type="text/javascript" src="https://mpt.ru/bitrix/js/ui/dexie/dist/dexie.bitrix.bundle.js?1588584522196209"></script>
+<script type="text/javascript" src="https://mpt.ru/bitrix/js/main/core/core_ls.js?155142253210430"></script>
+<script type="text/javascript" src="https://mpt.ru/bitrix/js/main/core/core_fx.js?155142253216888"></script>
+<script type="text/javascript" src="https://mpt.ru/bitrix/js/main/core/core_frame_cache.js?158858136315905"></script>
+
+
+<script type="text/javascript" src="../local/templates/mpt/components/ogecut/empty/hot_line_form/script.js?15844460961016"></script>
+<script type="text/javascript">var _ba = _ba || []; _ba.push(["aid", "b3fb52729eb9d09eeaa5dcfa8da2e3b2"]); _ba.push(["host", "mpt.ru"]); (function() {var ba = document.createElement("script"); ba.type = "text/javascript"; ba.async = true;ba.src = (document.location.protocol == "https:" ? "https://" : "http://") + "bitrix.info/ba.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ba, s);})();</script>
+
+
+  </head>
+  <body>
+              
+  <div class="page">
+  <!--========================================================
+                            HEADER
+  =========================================================-->
+    <header class="parallax text-center">
+<!--header class="parallax text-center" data-mobile="true" data-color="#dee7eb" data-speed="3"-->
+
+<div class="parallax_cnt">
+      <section>
+
+        <div id="stuck_container" class="stuck_container">
+          <div class="">
+
+            <div class="row">
+				<div class="blue-wrapper">
+          <div class="container">
+            <div class="row">
+				<div class="col-md-6 col-sm-6 col-xs-12 head-row left-sm">
+					<div class="f-left"><a href="../index.html"><img src="../upload/logoq.png" alt="logo"style="height:115px;max-width:164px;" /></a></div>
+				<div class="f-left">
+                  <span class="head-title">Московский <br>приборостроительный <br> техникум					</span>
+<br>
+ФГБОУ ВО РЭУ ИМ. Г.В. ПЛЕХАНОВА					</div>
+              </div>
+              <div class="col-md-6 col-sm-6 col-xs-12 head-row right-sm">
+
+<p class="top-contacts">
+	 г. Москва, Нежинская улица, 7<br>
+ <br>
+	 г. Москва, Нахимовский проспект, 21
+</p>
+<p class="top-contacts">
+<b style="font-size: 16pt; color: red;">Горячая линия приемной комиссии:</b><br>
+ <br>
+	<span style="font-size: 15pt;"><!--8 (903) 792-83-02-->8 (495) 792 83 02</span><br><br>
+ <b style="font-size: 16pt; color: red;">Горячая линия дистанционного обучения:</b><br>
+ <br>
+	<span style="font-size: 15pt;">8 (926) 057-70-95</span><br><br>
+<b style="font-size: 16pt; color: red;">Горячая линия психолога:</b><br>
+ <br>
+	<span style="font-size: 15pt;">8 (903) 502-82-50</span>
+</p>
+
+<!--
+<p style="
+    font-size: 22pt;
+    font-weight: bold;
+    color: #fff700;
+    "><a href="/translations">Трансляция Дня открытых дверей »</a></p>
+-->
+
+<!--
+<p class="top-contacts" style="font-size: 20px">
+<b>
+Приёмная комиссия: <a href="tel:84993170409">8 (499) 317-04-09</a><br><br>
+<a href="tel:84958001200,2094">8 (495) 800-12-00 <small>(доб. 2094)</small></a>
+</b>
+</p>
+-->
+<!--<p class="top-contacts">
+<div style="padding-top: 5px; padding-bottom: 7px;">
+<b>
+КАНЦЕЛЯРИЯ: <a href="tel:84954426577">8 (495) 442-65-77</a>;
+<a href="tel:84958001200,2092">8 (495) 800-12-00 <small>(доб. 2092)</small></a>
+</b>
+<a href="89160634434">8 (916) 063-44-34</b></a>
+</div>
+</p>--><div class="versionsv">
+            <a href="struktura-i-organy-upravleniya-obrazovatelnoy-organizatsiey#sv_settings_collapse" id="sv_on" class="btn btn-default" data-toggle="collapse" role="button">
+                <strong>Версия для слабовидящих</strong>
+            </a>
+<a href="struktura-i-organy-upravleniya-obrazovatelnoy-organizatsiey" class="hot-line" style="color: #ffffff;background-color: #7c9fb0;border-color: #7c9fb0;display: inline-block;font-weight: 700;cursor: pointer;border: 1px solid transparent;background: transparent;outline: none;text-transform: uppercase;letter-spacing: 0.06em;padding: 15px 26px;font-size: 18px;line-height: 19px;border-radius: 0;-moz-transition: 0.2s all ease;-webkit-transition: 0.2s all ease;-o-transition: 0.2s all ease;transition: 0.2s all ease;color: #ffffff;background-color: #7c9fb0;border-color: #7c9fb0;">
+<strong>Задать вопрос!</strong>
+</a>
+            <div id="sv_settings_collapse" class="collapse">
+              <div id="sv_settings" class="sv_settings text-left" id="">
+                  <div>Размер шрифта
+                      <span class="fs-outer">
+                          <button data-font-size="14px" class="btn btn-default fs-n" id="fs-n" style="font-size: 14px">А</button>
+                          <button data-font-size="18px" style="font-size: 18px" class="btn btn-default fs-m" id="fs-m">А</button>
+                          <button data-font-size="24px" style="font-size: 24px" class="btn btn-default fs-l" id="fs-l">А</button>
+
+                      </span>
+                  </div>
+                  <br>
+                  <div class="mgl20">Цветовая схема
+                      <span class="cs-outer">
+                          <button class="btn btn-default cs-bw" id="cs-bw">А</button>
+                          <button class="btn btn-default cs-wb" id="cs-wb">А</button>
+                          <button class="btn btn-default cs-bb" id="cs-bb">А</button>
+                          <button class="btn btn-default cs-gb" id="cs-gb">А</button>
+                          <button class="btn btn-default cs-yg" id="cs-yg">А</button>
+                      </span>
+                  </div>
+                  <br>
+                  <div class="mgl20">
+                    Изображения
+                      <span class="img-outer">
+                          <button class="btn btn-default btn-xs" id="img-onoff"><span class="glyphicon glyphicon-picture"></span><span id="img-onoff-text"> Отключить</span></button>
+                      </span>
+                  </div>
+              </div>
+            </div>
+        </div>
+</div>
+
+<div class="clearfix"></div>
+</div>
+</div>
+              </div>
+            </div>
+           
+<nav class="navbar navbar-default navbar-static-top ">
+
+  <div class="navbar-header">
+    <h1 class="navbar-brand">
+      <a href="../index.html">
+              </a>
+    </h1>
+  </div>
+  <ul class="navbar-nav sf-menu navbar-right" data-type="navbar">
+
+
+	
+	
+					<li class="dropdown hovered ">
+
+			 	<a href="index.html">Сведения об образовательной организации</a>
+				<ul class="dropdown-menu">
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="osnovnye-svedeniya">Основные сведения</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+					<li class="dropdown  ">
+				<a href="../abiturientu/index.html">Абитуриент</a>
+				<ul class="dropdown-menu">
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="informatsiya-o-tekhnikume/index.html">Информация о техникуме</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="http://priem.mpt.ru/">Приёмная комиссия</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="../spetsialnosti/obshchie-svedeniya/index.html">О специальностях</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="../sayty-otdeleniy">Сайты отделений</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="../abiturientu/dni-otkrytykh-dverey/index.html">Дни открытых дверей</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="https://sites.google.com/a/mpt.ru/pk/">Подготовительные курсы</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="../spetsialnosti/formy-obucheniya/index.html">Формы обучения</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="../translations/index.html">Трансляция Дня открытых дверей</a>
+				</li>
+			
+		
+	
+	
+
+			</ul></li>	
+	
+		
+							<li  class="active">
+					<a href="struktura-i-organy-upravleniya-obrazovatelnoy-organizatsiey">Структура и органы управления образовательной организацией</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="dokumenty_new/index.html">Документы</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="obrazovanie">Образование</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="http://zamur.mpt.ru/standards">Образовательные стандарты</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="rukovodstvo-pedagogicheskiy-nauchno-pedagogicheskiy-sostav">Руководство. Педагогический (научно-педагогический) состав</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="materialno-tekhnicheskoe-obespechenie-i-osnashchennost-obrazovatelnogo-protsessa">Материально-техническое обеспечение и оснащенность образовательного процесса</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="stipendii-i-inye-vidy-materialnoy-podderzhki">Стипендии и иные виды материальной поддержки</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="platnye-obrazovatelnye-uslugi">Платные образовательные услуги</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="finansovo-khozyaystvennaya-deyatelnost">Финансово-хозяйственная деятельность</a>
+				</li>
+			
+		
+	
+	
+
+			</ul></li>	
+	
+					<li class="dropdown hovered ">
+
+			 	<a href="../abiturientu/index.html">Абитуриенту</a>
+				<ul class="dropdown-menu">
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="informatsiya-o-tekhnikume/index.html">Информация о техникуме</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="http://priem.mpt.ru/">Приёмная комиссия</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+					<li class="dropdown  ">
+				<a href="../spetsialnosti/obshchie-svedeniya/index.html">О специальностях</a>
+				<ul class="dropdown-menu">
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="https://mpt.ru/sayty-otdeleniy/otdelenie-pervogo-kursa/">Отделение первого курса</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="../spetsialnosti/obshchie-svedeniya/kompyuternye-sistemy-i-kompleksy">09.02.01 «Компьютерные системы и комплексы»</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="../spetsialnosti/obshchie-svedeniya/kompyuternye-seti">09.02.02 «Компьютерные сети»</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="../spetsialnosti/obshchie-svedeniya/programmirovanie-v-kompyuternykh-sistemakh">09.02.03 «Программирование в компьютерных системах»</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="../spetsialnosti/obshchie-svedeniya/informatsionnye-sistemy-po-otraslyam-">09.02.04 «Информационные системы (по отраслям)»</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="../spetsialnosti/obshchie-svedeniya/prikladnaya-informatika-po-otraslyam">09.02.05 «Прикладная информатика (по отраслям)»</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="../spetsialnosti/obshchie-svedeniya/informatsionnaya-bezopasnost-avtomatizirovannykh-sistem">10.02.03 «Информационная безопасность автоматизированных систем»</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="../spetsialnosti/obshchie-svedeniya/pravo-i-organizatsiya-sotsialnogo-obespecheniya">40.02.01 «Право и организация социального обеспечения»</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="../spetsialnosti/obshchie-svedeniya/09-02-06-setevoe-i-sistemnoe-administrirovanie">09.02.06 «Сетевое и системное администрирование»</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="../spetsialnosti/obshchie-svedeniya/09-02-07-informatsionnye-sistemy-i-programmirovanie/index.html">09.02.07 «Информационные системы и программирование»</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="../spetsialnosti/obshchie-svedeniya/10-02-05-obespechenie-informatsionnoy-bezopasnosti-avtomatizirovannykh-sistem">10.02.05 «Обеспечение информационной безопасности автоматизированных систем»</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="struktura-i-organy-upravleniya-obrazovatelnoy-organizatsiey"></a>
+				</li>
+			
+		
+	
+	
+
+			</ul></li>	
+	
+		
+							<li >
+					<a href="../sayty-otdeleniy">Сайты отделений</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="../abiturientu/dni-otkrytykh-dverey/index.html">Дни открытых дверей</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="https://sites.google.com/a/mpt.ru/pk/">Подготовительные курсы</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="../spetsialnosti/formy-obucheniya/index.html">Формы обучения</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="../translations/index.html">Трансляция Дня открытых дверей</a>
+				</li>
+			
+		
+	
+	
+
+			</ul></li>	
+	
+					<li class="dropdown hovered ">
+
+			 	<a href="../studentu/index.html">Студенту</a>
+				<ul class="dropdown-menu">
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="../studentu/raspisanie-zanyatiy/index.html">Расписание занятий</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="../studentu/izmeneniya-v-raspisanii/index.html">Изменения в расписании</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="../studentu/raspisanie-ekzamenov/index.html">Расписание экзаменов</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+					<li class="dropdown  ">
+				<a href="../studentu/praktiki/index.html">Практики</a>
+				<ul class="dropdown-menu">
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="../studentu/praktiki/raspisanie/files/raspisanie-praktik.pdf">Расписание</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="../studentu/praktiki/bazy-praktik">Базы практик</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="../studentu/praktiki/tseli-i-zadachi-praktiki">Цели и задачи практики</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="../studentu/praktiki/vidy-deyatelnosti">Виды деятельности</a>
+				</li>
+			
+		
+	
+	
+
+			</ul></li>	
+	
+		
+							<li >
+					<a href="https://sites.google.com/a/mpt.ru/lib_mpt/">Библиотека</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="../studentu/studencheskaya-zhizn/index.html">Студенческая жизнь</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="https://ucmpt.ru/">Дополнительное образование</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+					<li class="dropdown  ">
+				<a href="../studentu/distantsionnoe-obuchenie/index.html">Дистанционное обучение</a>
+				<ul class="dropdown-menu">
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="http://forum.mpt.ru/">Форум</a>
+				</li>
+			
+		
+	
+	
+
+			</ul></li>	
+	
+		
+							<li >
+					<a href="http://psy-mpt.tilda.ws/">Психологическое консультирование</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="../studentu/sportivnaya-zhizn">Спортивная жизнь</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+					<li class="dropdown  ">
+				<a href="../studentu/studencheskiy-portal/index.html">Студенческий портал</a>
+				<ul class="dropdown-menu">
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="http://student.mpt.ru">Заказ справок в канцелярии</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="http://student.mpt.ru">Показ выписанных направлений</a>
+				</li>
+			
+		
+	
+	
+
+			</ul></li>	
+	
+		
+							<li >
+					<a href="fotoarkhiv">Фотоархив</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+					<li class="dropdown  ">
+				<a href="sorevnovaniya-chempionaty/index.html">Соревнования, чемпионаты</a>
+				<ul class="dropdown-menu">
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="sorevnovaniya-chempionaty/otborochnyy-chempionat-reu-plekhanova-vorldskills">Вузовский чемпионат ФГБОУ ВО «РЭУ имени Г.В. Плеханова» по стандартам Ворлдскиллс</a>
+				</li>
+			
+		
+	
+	
+
+			</ul></li>	
+	
+		
+							<li >
+					<a href="../studentu/%25D0%2592%25D0%25BE%25D0%25BF%25D1%2580%25D0%25BE%25D1%2581%25D1%258B-%25D0%25BE%25D1%2582%25D0%25B2%25D0%25B5%25D1%2582%25D1%258B.pdf">Вопросы-ответы</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="../studentu/trudoustroystvo">Трудоустройство</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="../studentu/studsovet/index.html">Студсовет</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="../studentu/opros-o-distantsionnom-obuchenii">Опрос о дистанционном обучении</a>
+				</li>
+			
+		
+	
+	
+
+			</ul></li>	
+	
+		
+							<li class="hovered">
+					<a href="https://ucmpt.ru/" class="">Доп. образование</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+					<li class="dropdown hovered ">
+
+			 	<a href="../avtoshkola/index.html">Автошкола</a>
+				<ul class="dropdown-menu">
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="https://mpt.ru/avtoshkola">Главная</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="../avtoshkola/pravila-priyema">Правила приёма</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="../avtoshkola/obuchenie">Обучение</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="../avtoshkola/foto">Фото</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="../avtoshkola/kontakty">Контакты</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+					<li class="dropdown  ">
+				<a href="index.html">Сведения об образовательной организации</a>
+				<ul class="dropdown-menu">
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="osnovnye-svedeniya">Основные сведения</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="../abiturientu/index.html">Абитуриент</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li  class="active">
+					<a href="struktura-i-organy-upravleniya-obrazovatelnoy-organizatsiey">Структура и органы управления образовательной организацией</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="dokumenty_new/index.html">Документы</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="obrazovanie">Образование</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="http://zamur.mpt.ru/standards">Образовательные стандарты</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="rukovodstvo-pedagogicheskiy-nauchno-pedagogicheskiy-sostav">Руководство. Педагогический (научно-педагогический) состав</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="materialno-tekhnicheskoe-obespechenie-i-osnashchennost-obrazovatelnogo-protsessa">Материально-техническое обеспечение и оснащенность образовательного процесса</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="stipendii-i-inye-vidy-materialnoy-podderzhki">Стипендии и иные виды материальной поддержки</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="platnye-obrazovatelnye-uslugi">Платные образовательные услуги</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="finansovo-khozyaystvennaya-deyatelnost">Финансово-хозяйственная деятельность</a>
+				</li>
+			
+		
+	
+	
+
+			</ul></li></ul></li>	
+	
+		
+							<li class="hovered">
+					<a href="../kontakty/index.html" class="">Контакты</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li class="hovered">
+					<a href="../elektronnaya-informatsionno-obrazovatelnaya-sreda" class="">Электронная информационно-образовательная среда</a>
+				</li>
+			
+		
+	
+	
+
+
+</ul>
+</nav>
+          </div>
+        </div>
+
+		  
+      </section>
+</div>
+    </header>
+
+    <!--========================================================
+                              CONTENT
+    =========================================================-->
+
+	  <main>
+
+				  <div class="container-fluid text-page">
+	<div class="container">
+<link href="https://mpt.ru/bitrix/css/main/font-awesome.css?155142253228777" type="text/css" rel="stylesheet" />
+<div class="bx-breadcrumb" itemprop="http://schema.org/breadcrumb" itemscope itemtype="http://schema.org/BreadcrumbList">
+			<div class="bx-breadcrumb-item" id="bx_breadcrumb_0" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+				
+				<a href="../index.html" title="Главная" itemtype="https://schema.org/Thing" itemprop="item">
+					<span itemprop="name">Главная</span>
+				</a>
+				<meta itemprop="position" content="1" />
+			</div>
+			<div class="bx-breadcrumb-item" id="bx_breadcrumb_1" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+				<i class="fa fa-angle-right"></i>
+				<a href="index.html" title="О техникуме" itemtype="https://schema.org/Thing" itemprop="item">
+					<span itemprop="name">О техникуме</span>
+				</a>
+				<meta itemprop="position" content="2" />
+			</div>
+			<div class="bx-breadcrumb-item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+				<i class="fa fa-angle-right"></i>
+				<a href="struktura-i-organy-upravleniya-obrazovatelnoy-organizatsiey" itemtype="https://schema.org/Thing" itemprop="item" class="hidden">
+					<span itemprop="name">Структура и органы управления образовательной организацией</span>
+				</a>
+				<span itemprop="name">Структура и органы управления образовательной организацией</span>
+				<meta itemprop="position" content="3" />
+			</div><div style="clear:both"></div></div><div>
+
+
+
+
+
+<span>
+<p style="text-align: center;">
+</p>
+<p style="margin-left: -5.4pt; text-align: center;">
+</p>
+<table style="border-width: initial; border-style: none;">
+ <colgroup><col width="141"><col width="140"><col width="140"><col width="201"><col width="140"><col width="146"><col width="140"></colgroup>
+<tbody>
+<tr style="height: 0pt;">
+	<td style="border-width: 0.5pt; border-style: solid; border-color: #000000; vertical-align: middle; padding: 0pt 5.4pt;">
+		<p dir="ltr" style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt; text-align: center;">
+ <span style="font-size: 11pt; font-family: &quot;times new roman&quot;; color: #000000; background-color: transparent; vertical-align: baseline; white-space: pre-wrap;">Наименование структурного подразделения</span>
+		</p>
+	</td>
+	<td style="border-width: 0.5pt; border-style: solid; border-color: #000000; vertical-align: middle; padding: 0pt 5.4pt;">
+		<p dir="ltr" style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt; text-align: center;">
+ <span style="font-size: 11pt; font-family: &quot;times new roman&quot;; color: #000000; background-color: transparent; vertical-align: baseline; white-space: pre-wrap;">Руководители структурных подразделения</span>
+		</p>
+	</td>
+	<td style="border-width: 0.5pt; border-style: solid; border-color: #000000; vertical-align: middle; padding: 0pt 5.4pt;">
+		<p dir="ltr" style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt; text-align: center;">
+ <span style="font-size: 11pt; font-family: &quot;times new roman&quot;; color: #000000; background-color: transparent; vertical-align: baseline; white-space: pre-wrap;">Должность &nbsp;руководится структурного подразделения</span>
+		</p>
+	</td>
+	<td style="border-width: 0.5pt; border-style: solid; border-color: #000000; vertical-align: middle; padding: 0pt 5.4pt;">
+		<p dir="ltr" style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt; text-align: center;">
+ <span style="font-size: 11pt; font-family: &quot;times new roman&quot;; color: #000000; background-color: transparent; vertical-align: baseline; white-space: pre-wrap;">Местонахождения структурного подразделения</span>
+		</p>
+	</td>
+	<td style="border-width: 0.5pt; border-style: solid; border-color: #000000; vertical-align: middle; padding: 0pt 5.4pt;">
+		<p dir="ltr" style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt; text-align: center;">
+ <span style="font-size: 11pt; font-family: &quot;times new roman&quot;; color: #000000; background-color: transparent; vertical-align: baseline; white-space: pre-wrap;">Адрес официального сайте &nbsp;«Интернет» сруктурного подразделения</span>
+		</p>
+	</td>
+	<td style="border-width: 0.5pt; border-style: solid; border-color: #000000; vertical-align: middle; padding: 0pt 5.4pt;">
+		<p dir="ltr" style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt; text-align: center;">
+ <span style="font-size: 11pt; font-family: &quot;times new roman&quot;; color: #000000; background-color: transparent; vertical-align: baseline; white-space: pre-wrap;">Адрес электронной почты структурного подразделения</span>
+		</p>
+	</td>
+	<td style="border-width: 0.5pt; border-style: solid; border-color: #000000; vertical-align: middle; padding: 0pt 5.4pt;">
+		<p dir="ltr" style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt; text-align: center;">
+ <span style="font-size: 11pt; font-family: &quot;times new roman&quot;; color: #000000; background-color: transparent; vertical-align: baseline; white-space: pre-wrap;">Положение о стуктурном подразделеии &nbsp;(об органах управления)</span>
+		</p>
+	</td>
+</tr>
+<tr style="height: 0pt;">
+	<td style="border-width: 0.5pt; border-style: solid; border-color: #000000; vertical-align: middle; padding: 0pt 5.4pt;">
+		<p dir="ltr" style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;">
+ <span style="font-size: 11pt; font-family: &quot;times new roman&quot;; color: #000000; background-color: transparent; vertical-align: baseline; white-space: pre-wrap;">Учебно-методический отдел</span>
+		</p>
+	</td>
+	<td style="border-width: 0.5pt; border-style: solid; border-color: #000000; vertical-align: middle; padding: 0pt 5.4pt;">
+		<p dir="ltr" style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;">
+ <span style="font-size: 11pt; font-family: &quot;times new roman&quot;; color: #000000; background-color: transparent; vertical-align: baseline; white-space: pre-wrap;">Попова </span>
+		</p>
+		<p dir="ltr" style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;">
+ <span style="font-size: 11pt; font-family: &quot;times new roman&quot;; color: #000000; background-color: transparent; vertical-align: baseline; white-space: pre-wrap;">Любовь Юрьевна </span>
+		</p>
+		<p dir="ltr" style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;">
+ <span style="font-size: 11pt; font-family: &quot;times new roman&quot;; color: #000000; background-color: transparent; vertical-align: baseline; white-space: pre-wrap;">+ 7 (495) 800-12-00 (доб.2097)</span>
+		</p>
+	</td>
+	<td style="border-width: 0.5pt; border-style: solid; border-color: #000000; vertical-align: middle; padding: 0pt 5.4pt;">
+		<p dir="ltr" style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt; text-align: center;">
+ <span style="font-size: 11pt; font-family: &quot;times new roman&quot;; color: #000000; background-color: transparent; vertical-align: baseline; white-space: pre-wrap;">Начальник отдела</span>
+		</p>
+	</td>
+	<td style="border-width: 0.5pt; border-style: solid; border-color: #000000; vertical-align: middle; padding: 0pt 5.4pt;">
+		<p dir="ltr" style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt; text-align: center;">
+ <span style="font-size: 11pt; font-family: &quot;times new roman&quot;; color: #000000; background-color: transparent; vertical-align: baseline; white-space: pre-wrap;">119501, Российская Федерация, г.Москва. ул. Нежинская, д. 7, каб 214</span>
+		</p>
+	</td>
+	<td style="border-width: 0.5pt; border-style: solid; border-color: #000000; vertical-align: middle; padding: 0pt 5.4pt;">
+		<p dir="ltr" style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt; text-align: center;">
+ <span style="font-size: 11pt; font-family: &quot;times new roman&quot;; color: #000000; background-color: transparent; vertical-align: baseline; white-space: pre-wrap;">mpt.ru</span>
+		</p>
+	</td>
+	<td style="border-width: 0.5pt; border-style: solid; border-color: #000000; vertical-align: middle; padding: 0pt 5.4pt;">
+		<p dir="ltr" style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt; text-align: center;">
+ <span style="font-size: 11pt; font-family: &quot;times new roman&quot;; color: #000000; background-color: transparent; vertical-align: baseline; white-space: pre-wrap;"><a href="mailto:l.yu.popova@mpt.ru">l.yu.popova@mpt.ru</a></span>
+		</p>
+	</td>
+	<td style="border-width: 0.5pt; border-style: solid; border-color: #000000; vertical-align: middle; padding: 0pt 5.4pt;">
+		<p dir="ltr" style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt; text-align: center;">
+ <a href="http://mpt.ru/o-tekhnikume/struktura-i-organy-upravleniya-obrazovatelnoy-organizatsiey/files/polozhenie-mpt.pdf">Положение</a>
+		</p>
+	</td>
+</tr>
+<tr style="height: 0pt;">
+	<td style="border-width: 0.5pt; border-style: solid; border-color: #000000; vertical-align: middle; padding: 0pt 5.4pt;">
+		<p dir="ltr" style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;">
+ <span style="font-size: 11pt; font-family: &quot;times new roman&quot;; color: #000000; background-color: transparent; vertical-align: baseline; white-space: pre-wrap;">Отдел &nbsp;информационных технологий</span>
+		</p>
+	</td>
+	<td style="border-width: 0.5pt; border-style: solid; border-color: #000000; vertical-align: middle; padding: 0pt 5.4pt;">
+		<p dir="ltr" style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;">
+ <span style="font-size: 11pt; font-family: &quot;times new roman&quot;; color: #000000; background-color: transparent; vertical-align: baseline; white-space: pre-wrap;">Лытнев </span>
+		</p>
+		<p dir="ltr" style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;">
+ <span style="font-size: 11pt; font-family: &quot;times new roman&quot;; color: #000000; background-color: transparent; vertical-align: baseline; white-space: pre-wrap;">Егор Павлович</span>
+		</p>
+		<p dir="ltr" style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;">
+ <span style="font-size: 11pt; font-family: &quot;times new roman&quot;; color: #000000; background-color: transparent; vertical-align: baseline; white-space: pre-wrap;">+7 (495) 800-12-00 (доб. 2091)</span>
+		</p>
+	</td>
+	<td style="border-width: 0.5pt; border-style: solid; border-color: #000000; vertical-align: middle; padding: 0pt 5.4pt;">
+		<p dir="ltr" style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt; text-align: center;">
+ <span style="font-size: 11pt; font-family: &quot;times new roman&quot;; color: #000000; background-color: transparent; vertical-align: baseline; white-space: pre-wrap;">Начальник отдела</span>
+		</p>
+	</td>
+	<td style="border-width: 0.5pt; border-style: solid; border-color: #000000; vertical-align: middle; padding: 0pt 5.4pt;">
+		<p dir="ltr" style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt; text-align: center;">
+ <span style="font-size: 11pt; font-family: &quot;times new roman&quot;; color: #000000; background-color: transparent; vertical-align: baseline; white-space: pre-wrap;">119501, Российская Федерация, г.Москва. ул. Нежинская, д. 7, каб. 323</span>
+		</p>
+	</td>
+	<td style="border-width: 0.5pt; border-style: solid; border-color: #000000; vertical-align: middle; padding: 0pt 5.4pt;">
+		<p dir="ltr" style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt; text-align: center;">
+ <span style="font-size: 11pt; font-family: &quot;times new roman&quot;; color: #000000; background-color: transparent; vertical-align: baseline; white-space: pre-wrap;">mpt.ru</span>
+		</p>
+	</td>
+	<td style="border-width: 0.5pt; border-style: solid; border-color: #000000; vertical-align: middle; padding: 0pt 5.4pt;">
+		<p dir="ltr" style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt; text-align: center;">
+ <span style="font-size: 11pt; font-family: &quot;times new roman&quot;; color: #000000; background-color: transparent; vertical-align: baseline; white-space: pre-wrap;"><a href="mailto:help@mpt.ru">help@mpt.ru</a></span>
+		</p>
+	</td>
+	<td style="border-width: 0.5pt; border-style: solid; border-color: #000000; vertical-align: middle; padding: 0pt 5.4pt;">
+ <a href="http://mpt.ru/o-tekhnikume/struktura-i-organy-upravleniya-obrazovatelnoy-organizatsiey/files/polozhenie-mpt.pdf">
+		<p style="text-align: center;">
+			 Положение
+		</p>
+ </a>
+		<p dir="ltr" style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt; text-align: center;">
+		</p>
+	</td>
+</tr>
+<tr style="height: 0pt;">
+	<td style="border-width: 0.5pt; border-style: solid; border-color: #000000; vertical-align: middle; padding: 0pt 5.4pt;">
+		<p dir="ltr" style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;">
+ <span style="font-size: 11pt; font-family: &quot;times new roman&quot;; color: #000000; background-color: transparent; vertical-align: baseline; white-space: pre-wrap;">Учебно-производственный тренинговый центр</span>
+		</p>
+	</td>
+	<td style="border-width: 0.5pt; border-style: solid; border-color: #000000; vertical-align: middle; padding: 0pt 5.4pt;">
+		<p dir="ltr" style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;">
+ <span style="font-size: 11pt; font-family: &quot;times new roman&quot;; color: #000000; background-color: transparent; vertical-align: baseline; white-space: pre-wrap;">Шимбирев </span>
+		</p>
+		<p dir="ltr" style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;">
+ <span style="font-size: 11pt; font-family: &quot;times new roman&quot;; color: #000000; background-color: transparent; vertical-align: baseline; white-space: pre-wrap;">Андрей</span>
+		</p>
+		<p dir="ltr" style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;">
+ <span style="font-size: 11pt; font-family: &quot;times new roman&quot;; color: #000000; background-color: transparent; vertical-align: baseline; white-space: pre-wrap;">Андреевич </span>
+		</p>
+		<p dir="ltr" style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;">
+ <span style="font-size: 11pt; font-family: &quot;times new roman&quot;; color: #000000; background-color: transparent; vertical-align: baseline; white-space: pre-wrap;">+7 (903) 105-90-17</span>
+		</p>
+	</td>
+	<td style="border-width: 0.5pt; border-style: solid; border-color: #000000; vertical-align: middle; padding: 0pt 5.4pt;">
+		<p dir="ltr" style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt; text-align: center;">
+ <span style="font-size: 11pt; font-family: &quot;times new roman&quot;; color: #000000; background-color: transparent; vertical-align: baseline; white-space: pre-wrap;">Начальник центра</span>
+		</p>
+	</td>
+	<td style="border-width: 0.5pt; border-style: solid; border-color: #000000; vertical-align: middle; padding: 0pt 5.4pt;">
+		<p dir="ltr" style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt; text-align: center;">
+ <span style="font-size: 11pt; font-family: &quot;times new roman&quot;; color: #000000; background-color: transparent; vertical-align: baseline; white-space: pre-wrap;">119501, Российская Федерация, г.Москва. ул. Нежинская, д. 7, каб. 340</span>
+		</p>
+	</td>
+	<td style="border-width: 0.5pt; border-style: solid; border-color: #000000; vertical-align: middle; padding: 0pt 5.4pt;">
+		<p dir="ltr" style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt; text-align: center;">
+ <span style="font-size: 11pt; font-family: &quot;times new roman&quot;; color: #000000; background-color: transparent; vertical-align: baseline; white-space: pre-wrap;">mpt.ru</span>
+		</p>
+	</td>
+	<td style="border-width: 0.5pt; border-style: solid; border-color: #000000; vertical-align: middle; padding: 0pt 5.4pt;">
+		<p dir="ltr" style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt; text-align: center;">
+ <span style="font-size: 11pt; font-family: &quot;times new roman&quot;; color: #000000; background-color: transparent; vertical-align: baseline; white-space: pre-wrap;"><a href="mailto:a.a.shimbirev@mpt.ru">a.a.shimbirev@mpt.ru</a></span>
+		</p>
+	</td>
+	<td style="border-width: 0.5pt; border-style: solid; border-color: #000000; vertical-align: middle; padding: 0pt 5.4pt;">
+ <a href="http://mpt.ru/o-tekhnikume/struktura-i-organy-upravleniya-obrazovatelnoy-organizatsiey/files/polozhenie-mpt.pdf">
+		<p style="text-align: center;">
+			 Положение
+		</p>
+ </a>
+		<p dir="ltr" style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt; text-align: center;">
+		</p>
+	</td>
+</tr>
+<tr style="height: 0pt;">
+	<td style="border-width: 0.5pt; border-style: solid; border-color: #000000; vertical-align: middle; padding: 0pt 5.4pt;">
+		<p dir="ltr" style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;">
+ <span style="font-size: 11pt; font-family: &quot;times new roman&quot;; color: #000000; background-color: transparent; vertical-align: baseline; white-space: pre-wrap;">Канцелярия</span>
+		</p>
+	</td>
+	<td style="border-width: 0.5pt; border-style: solid; border-color: #000000; vertical-align: middle; padding: 0pt 5.4pt;">
+		<p dir="ltr" style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;">
+ <span style="font-size: 11pt; font-family: &quot;times new roman&quot;; color: #000000; background-color: transparent; vertical-align: baseline; white-space: pre-wrap;">Воронина</span>
+		</p>
+		<p dir="ltr" style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;">
+ <span style="font-size: 11pt; font-family: &quot;times new roman&quot;; color: #000000; background-color: transparent; vertical-align: baseline; white-space: pre-wrap;"> Ирина Сергеевна</span>
+		</p>
+		<p dir="ltr" style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;">
+ <span style="font-size: 11pt; font-family: &quot;times new roman&quot;; color: #000000; background-color: transparent; vertical-align: baseline; white-space: pre-wrap;">8-(495)-800-12-00 (доб. 2093)</span>
+		</p>
+	</td>
+	<td style="border-width: 0.5pt; border-style: solid; border-color: #000000; vertical-align: middle; padding: 0pt 5.4pt;">
+		<p dir="ltr" style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt; text-align: center;">
+ <span style="font-size: 11pt; font-family: &quot;times new roman&quot;; color: #000000; background-color: transparent; vertical-align: baseline; white-space: pre-wrap;">Заведующая канцелярией</span>
+		</p>
+	</td>
+	<td style="border-width: 0.5pt; border-style: solid; border-color: #000000; vertical-align: middle; padding: 0pt 5.4pt;">
+		<p dir="ltr" style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt; text-align: center;">
+ <span style="font-size: 11pt; font-family: &quot;times new roman&quot;; color: #000000; background-color: transparent; vertical-align: baseline; white-space: pre-wrap;">119501, Российская Федерация, г.Москва, ул. Нежинская, д. 7, каб 215 </span>
+		</p>
+	</td>
+	<td style="border-width: 0.5pt; border-style: solid; border-color: #000000; vertical-align: middle; padding: 0pt 5.4pt;">
+		<p dir="ltr" style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt; text-align: center;">
+ <span style="font-size: 11pt; font-family: &quot;times new roman&quot;; color: #000000; background-color: transparent; vertical-align: baseline; white-space: pre-wrap;">mpt.ru</span>
+		</p>
+	</td>
+	<td style="border-width: 0.5pt; border-style: solid; border-color: #000000; vertical-align: middle; padding: 0pt 5.4pt;">
+		<p dir="ltr" style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt; text-align: center;">
+ <span style="font-size: 11pt; font-family: &quot;times new roman&quot;; color: #000000; background-color: transparent; vertical-align: baseline; white-space: pre-wrap;"><a href="mailto:info@mpt.ru">Voronina.IS@rea.ru</a></span>
+		</p>
+	</td>
+	<td style="border-width: 0.5pt; border-style: solid; border-color: #000000; vertical-align: middle; padding: 0pt 5.4pt;">
+ <a href="http://mpt.ru/o-tekhnikume/struktura-i-organy-upravleniya-obrazovatelnoy-organizatsiey/files/polozhenie-mpt.pdf">
+		<p style="text-align: center;">
+			 Положение
+		</p>
+ </a>
+		<p dir="ltr" style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt; text-align: center;">
+		</p>
+	</td>
+</tr>
+</tbody>
+</table>
+<p>
+</p>
+ <br>
+ </span>
+<p>
+ <br>
+</p>
+<!--
+<p>
+	 Управление техникумом осуществляется в соответствии с федеральными законами, законами и иными нормативными правовыми актами города Москвы и Уставом техникума на принципах единоначалия и самоуправления.
+</p>
+<h4>Структура</h4>
+<p>
+	 Директор
+</p>
+<ul>
+	<li style="background: url(&quot;../images/brick/bodyli.gif&quot;) 0px 5px no-repeat;">
+	<p>
+		 Канцелярия
+	</p>
+ </li>
+	<li style="background: url(&quot;../images/brick/bodyli.gif&quot;) 0px 5px no-repeat;">
+	<p>
+		 Архив
+	</p>
+ </li>
+	<li style="background: url(&quot;../images/brick/bodyli.gif&quot;) 0px 5px no-repeat;">
+	<p>
+		 Отдел информации
+	</p>
+	<ul>
+		<li style="background: url(&quot;../images/brick/bodyli.gif&quot;) 0px 5px no-repeat;">
+		<p>
+			 Начальник отдела информации
+		</p>
+		<ul>
+			<li style="background: url(&quot;../images/brick/bodyli.gif&quot;) 0px 5px no-repeat;">
+			<p>
+				 Заведующие лабораторией
+			</p>
+ </li>
+			<li style="background: url(&quot;../images/brick/bodyli.gif&quot;) 0px 5px no-repeat;">
+			<p>
+				 Инженер-электроник
+			</p>
+ </li>
+			<li style="background: url(&quot;../images/brick/bodyli.gif&quot;) 0px 5px no-repeat;">
+			<p>
+				 Инжереры
+			</p>
+ </li>
+			<li style="background: url(&quot;../images/brick/bodyli.gif&quot;) 0px 5px no-repeat;">
+			<p>
+				 Начальник УВЦ
+			</p>
+			<ul>
+				<li style="background: url(&quot;../images/brick/bodyli.gif&quot;) 0px 5px no-repeat;">
+				<p>
+					 Техники
+				</p>
+ </li>
+				<li style="background: url(&quot;../images/brick/bodyli.gif&quot;) 0px 5px no-repeat;">
+				<p>
+					 Лаборанты
+				</p>
+ </li>
+			</ul>
+ </li>
+		</ul>
+ </li>
+	</ul>
+ </li>
+	<li style="background: url(&quot;../images/brick/bodyli.gif&quot;) 0px 5px no-repeat;">
+	<p>
+		 Приёмная комиссия
+	</p>
+ </li>
+	<li style="background: url(&quot;../images/brick/bodyli.gif&quot;) 0px 5px no-repeat;">
+	<p>
+		 Подготовительное отделение
+	</p>
+ </li>
+	<li style="background: url(&quot;../images/brick/bodyli.gif&quot;) 0px 5px no-repeat;">
+	<p>
+		 Хозяйственный отдел
+	</p>
+ </li>
+	<li style="background: url(&quot;../images/brick/bodyli.gif&quot;) 0px 5px no-repeat;">
+	<p>
+		 Отделение дополнительного образования
+	</p>
+ </li>
+</ul>
+<p>
+	 Заместитель директора по учебной работе
+</p>
+<ul>
+	<li style="background: url(&quot;../images/brick/bodyli.gif&quot;) 0px 5px no-repeat;">
+	<p>
+		 Заведующий отделением 1 и 8
+	</p>
+ </li>
+	<li style="background: url(&quot;../images/brick/bodyli.gif&quot;) 0px 5px no-repeat;">
+	<p>
+		 Заведующий отделением 2 и 4
+	</p>
+ </li>
+	<li style="background: url(&quot;../images/brick/bodyli.gif&quot;) 0px 5px no-repeat;">
+	<p>
+		 Заведующий отделением 3 и 5
+	</p>
+ </li>
+	<li style="background: url(&quot;../images/brick/bodyli.gif&quot;) 0px 5px no-repeat;">
+	<p>
+		 Заведующий заочным отделением
+	</p>
+ </li>
+	<li style="background: url(&quot;../images/brick/bodyli.gif&quot;) 0px 5px no-repeat;">
+	<p>
+		 Заведующий отделением по специальности Юристы
+	</p>
+ </li>
+	<li style="background: url(&quot;../images/brick/bodyli.gif&quot;) 0px 5px no-repeat;">
+	<p>
+		 Учебная часть
+	</p>
+ </li>
+	<li style="background: url(&quot;../images/brick/bodyli.gif&quot;) 0px 5px no-repeat;">
+	<p>
+		 Методисты
+	</p>
+ </li>
+	<li style="background: url(&quot;../images/brick/bodyli.gif&quot;) 0px 5px no-repeat;">
+	<p>
+		 Библиотека
+	</p>
+ </li>
+	<li style="background: url(&quot;../images/brick/bodyli.gif&quot;) 0px 5px no-repeat;">
+	<p>
+		 Председатели цикловых методических комиссий
+	</p>
+ </li>
+</ul>
+<p>
+	 Заместитель директора по учебно-воспитательной работе
+</p>
+<ul>
+	<li style="background: url(&quot;../images/brick/bodyli.gif&quot;) 0px 5px no-repeat;">
+	<p>
+		 Педагоги-организаторы
+	</p>
+ </li>
+	<li style="background: url(&quot;../images/brick/bodyli.gif&quot;) 0px 5px no-repeat;">
+	<p>
+		 Педагог-организатор основ безопасности жизнедеятельности
+	</p>
+ </li>
+	<li style="background: url(&quot;../images/brick/bodyli.gif&quot;) 0px 5px no-repeat;">
+	<p>
+		 Руководитель физического воспитания
+	</p>
+ </li>
+	<li style="background: url(&quot;../images/brick/bodyli.gif&quot;) 0px 5px no-repeat;">
+	<p>
+		 Педагог-психолог
+	</p>
+ </li>
+	<li style="background: url(&quot;../images/brick/bodyli.gif&quot;) 0px 5px no-repeat;">
+	<p>
+		 Инженер по качеству
+	</p>
+ </li>
+</ul>
+<p>
+	 Заместитель директора по производственному обучению
+</p>
+<ul>
+	<li style="background: url(&quot;../images/brick/bodyli.gif&quot;) 0px 5px no-repeat;">
+	<p>
+		 Заведующий производственной практикой
+	</p>
+ </li>
+</ul>
+
+<h4>Контактная информация руководства и администрации</h4>
+ 
+<table class="table table-default table-bordered table-hover table-striped table-no-p-padding">
+<thead>
+<tr>
+	<th>
+		<p>
+			 Должность
+		</p>
+	</th>
+	<th>
+		<p>
+			 ФИО
+		</p>
+	</th>
+	<th>
+		<p>
+			 Телефон
+		</p>
+	</th>
+	<th>
+		<p>
+			 E-Mail
+		</p>
+	</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+	<td>
+		<p>
+			 Директор
+		</p>
+	</td>
+	<td>
+		<p>
+			 Чурилов Андрей Викторович
+		</p>
+	</td>
+	<td>
+		<p>
+			 8-(499)-317-47-89
+		</p>
+	</td>
+	<td>
+		<p>
+ <a href="mailto:a.v.churilov@mpt.ru">a.v.churilov@mpt.ru</a>
+		</p>
+	</td>
+</tr>
+<tr>
+	<td>
+		<p>
+			 Заместитель директора по УР
+		</p>
+	</td>
+	<td>
+		<p>
+			 Клопов Дмитрий Анатольевич
+		</p>
+	</td>
+	<td>
+		<p>
+		</p>
+		<p>
+			8 (495) 800-12-00, доб. 2098
+		</p>
+		<p>
+			8 (495) 411-66-33, доб. 316
+		</p>
+		<p>
+			8 (499) 317-91-94
+		</p>
+		<p>
+		</p>
+	</td>
+	<td>
+		<p>
+ <a href="mailto:d.a.klopov@mpt.ru">d.a.klopov@mpt.ru</a>
+		</p>
+	</td>
+</tr>
+<tr>
+	<td>
+		<p>
+			 Заместитель директора по учебно-воспитательной работе
+		</p>
+	</td>
+	<td>
+		<p>
+			 Бибикова Надежда Владимировна
+		</p>
+	</td>
+	<td>
+		<p>
+			 8-(926)-528-42-02
+		</p>
+	</td>
+	<td>
+		<p>
+ <a href="mailto:n.v.bibikova@mpt.ru">n.v.bibikova@mpt.ru</a>
+		</p>
+	</td>
+</tr>
+<tr>
+	<td>
+		<p>
+			 Начальник отдела информационных технологий
+		</p>
+	</td>
+	<td>
+		<p>
+			 Лытнев Егор Павлович
+		</p>
+	</td>
+	<td>
+		<p>
+			 8 (495) 800-12-00, доб. 2091
+		</p>
+		<p>
+			 8-(499)-317-08-81
+		</p>
+	</td>
+	<td>
+		<p>
+ <a href="mailto:n.o.silaev@mpt.ru">e.p.lytnev@mpt.ru</a>
+		</p>
+	</td>
+</tr>
+<tr>
+	<td>
+		<p>
+			 Заместитель директора по производственному обучению
+		</p>
+	</td>
+	<td>
+		<p>
+			 Ермашенко Екатерина Антоновна
+		</p>
+	</td>
+	<td>
+		<p>
+			 8-(926)-909-63-63
+		</p>
+	</td>
+	<td>
+		<p>
+ <a href="mailto:e.a.ermashenko@mpt.ru">e.a.ermashenko@mpt.ru</a>
+		</p>
+	</td>
+</tr>
+<tr>
+	<td>
+		<p>
+			 Начальник хозяйственного отдела
+		</p>
+	</td>
+	<td>
+		<p>
+			 Трусов Александр Владимирович
+		</p>
+	</td>
+	<td>
+		<p>
+			 8-(499)-317-48-78
+		</p>
+	</td>
+	<td>
+		<p>
+ <a href="mailto:a.v.trusov@mpt.ru">a.v.trusov@mpt.ru</a>
+		</p>
+	</td>
+</tr>
+<tr>
+	<td>
+		<p>
+			 Учебная часть
+		</p>
+	</td>
+	<td>
+		<p>
+			 Попова Любовь Юрьевна
+		</p>
+	</td>
+	<td>
+		<p>
+			 8-(499)-610-37-53;
+		</p>
+		<p>
+			 8-(925)-800-12-26
+		</p>
+	</td>
+	<td>
+		<p>
+ <a href="mailto:l.yu.popova@mpt.ru">l.yu.popova@mpt.ru</a>
+		</p>
+	</td>
+</tr>
+<tr>
+	<td>
+		 Канцелярия
+	</td>
+	<td>
+		<p>
+			 Воронина Ирина Сергеевна
+		</p>
+		<p>
+			 Горлина Анна Вячеславовна
+		</p>
+	</td>
+	<td>
+		<p>
+			 8-(495)-800-12-00 <i>(ДОБАВОЧНЫЙ 2092)</i>
+		</p>
+		<p>
+			 8-(495)-442-65-77
+		</p>
+		<p>
+			 8-(926)-063-44-34
+		</p>
+		<p>
+			 8-(499)-317-47-89
+		</p>
+	</td>
+	<td>
+		<p>
+ <a href="mailto:i.s.voronina@mpt.ru">i.s.voronina@mpt.ru</a>
+		</p>
+		<p>
+ <a href="mailto:a.v.gorlina@mpt.ru">a.v.gorlina@mpt.ru</a>
+		</p>
+	</td>
+</tr>
+<tr>
+	<td>
+		<p>
+			 Отдел дополнительного образования
+		</p>
+	</td>
+	<td>
+		<p>
+			 Шимбирев Андрей Андреевич
+		</p>
+	</td>
+	<td>
+		<p class="aligncenter">
+			 —
+		</p>
+	</td>
+	<td>
+		<p>
+ <a href="mailto:a.a.shimbirev@mpt.ru">a.a.shimbirev@mpt.ru</a>
+		</p>
+	</td>
+</tr>
+<tr>
+	<td>
+		<p>
+			Зав. отделением №1 - спец. 09.02.01
+		</p>
+		<p>
+			Педагог-организатор
+		</p>
+	</td>
+	<td>
+		<p>
+			—
+		</p>
+		<p>
+			Прищеп Мария Сергеевна
+		</p>
+	</td>
+	<td>
+		<p>
+			—
+		</p>
+		<p>
+			8-(967)-117-43-02
+		</p>
+	</td>
+	<td>
+		<p>
+			—
+		</p>
+		<p>
+			<a href="mailto:mar.s.prischep@mpt.ru">mar.s.prischep@mpt.ru</a>
+		</p>
+	</td>
+</tr>
+<tr>
+	<td>
+		<p>
+			 Зав. отделением №2 - спец. 09.02.04
+		</p>
+		<p>
+			 Педагог-организатор
+		</p>
+	</td>
+	<td>
+		<p>
+			 Селиверстова Елена Анатольевна
+		</p>
+		<p>
+			 Калашникова Юлия Андреевна
+		</p>
+	</td>
+	<td>
+		<p>
+			 8-(499)-610-77-41;
+		</p>
+		<p>
+			 8-(903)-780-53-82
+		</p>
+	</td>
+	<td>
+		<p>
+ <a href="mailto:e.a.seliverstova@mpt.ru">e.a.seliverstova@mpt.ru</a>
+		</p>
+		<p>
+ <a href="mailto:yu.a.kalashnikova@mpt.ru">yu.a.kalashnikova@mpt.ru</a>
+		</p>
+	</td>
+</tr>
+<tr>
+	<td>
+		<p>
+			 Зав. отделением №3 - спец. 09.02.03
+		</p>
+		<p>
+			 Педагог-организатор
+		</p>
+	</td>
+	<td>
+		<p>
+			 Андреева Наталья Алексеевна
+		</p>
+		<p>
+			 Гречена Анастасия Витальевна
+		</p>
+	</td>
+	<td>
+		<p>
+			 8-(926)-909-39-30
+		</p>
+	</td>
+	<td>
+		<p>
+ <a href="mailto:o.n.kiruhina@mpt.ru">n.a.andreeva@mpt.ru</a>
+		</p>
+	</td>
+</tr>
+<tr>
+	<td>
+		<p>
+			 Зав. отделением №4 - спец. 09.02.02
+		</p>
+		<p>
+			 Педагог-организатор
+		</p>
+	</td>
+	<td>
+		<p>
+			 Селиверстова Елена Анатольевна
+		</p>
+		<p>
+			 Петкова Надежда Евгеньевна
+		</p>
+	</td>
+	<td>
+		<p>
+			 8-(499)-610-77-41;
+		</p>
+		<p>
+			 8-(964)-510-05-20
+		</p>
+	</td>
+	<td>
+		<p>
+ <a href="mailto:e.a.seliverstova@mpt.ru">e.a.seliverstova@mpt.ru</a>
+		</p>
+		<p>
+ <a href="mailto:n.e.petkova@mpt.ru">n.e.petkova@mpt.ru</a>
+		</p>
+	</td>
+</tr>
+<tr>
+	<td>
+		<p>
+			 Зав. отделением №5 - спец. 09.02.05
+		</p>
+	</td>
+	<td>
+		<p>
+			 Кирюхина Ольга Николаевна
+		</p>
+	</td>
+	<td>
+		<p>
+			 8-(926)-900-76-05
+		</p>
+	</td>
+	<td>
+		<p>
+ <a href="mailto:o.n.kiruhina@mpt.ru">o.n.kiruhina@mpt.ru</a>
+		</p>
+	</td>
+</tr>
+<tr>
+	<td>
+		<p>
+			 Зав. отделением №6 - заочной формы обучения
+		</p>
+	</td>
+	<td>
+		<p>
+			 Трусова Елена Витальевна
+		</p>
+	</td>
+	<td>
+		<p>
+			 8-(499)-317-91-89
+		</p>
+	</td>
+	<td>
+		<p>
+ <a href="mailto:e.v.trusova@mpt.ru">e.v.trusova@mpt.ru</a>
+		</p>
+	</td>
+</tr>
+<tr>
+	<td>
+		<p>
+			Зав.отделением №7 - спец. 40.02.01
+		</p>
+	</td>
+	<td>
+		<p>
+			Руденко Татьяна Владимировна
+		</p>
+	</td>
+	<td>
+		<p>
+			8 (906) 042-36-39 (рабочий)
+		</p>
+		<p>
+			8 (903) 110-57-54 (личный)
+		</p>
+	</td>
+	<td>
+		<p>
+			<a href="mailto:t.v.rudenko@mpt.ru">t.v.rudenko@mpt.ru</a>
+		</p>
+	</td>
+</tr>
+<tr>
+	<td>
+		<p>
+			Зав.отделением № 8 - спец. 10.02.03
+		</p>
+		<p>
+			Педагог-организатор
+		</p>
+	</td>
+	<td>
+		<p>
+			—
+		</p>
+		<p>
+			Прищеп Мария Сергеевна
+		</p>
+	</td>
+	<td>
+		<p>
+			—
+		</p>
+		<p>
+			8-(967)-117-43-02
+		</p>
+	</td>
+	<td>
+		<p>
+			—
+		</p>
+		<p>
+			<a href="mailto:mar.s.prischep@mpt.ru">mar.s.prischep@mpt.ru</a>
+		</p>
+	</td>
+</tr>
+<tr>
+	<td>
+		<p>
+			 Заведующая отделением 1 курса
+		</p>
+		<p>
+			 Педагог-организатор
+		</p>
+	</td>
+	<td>
+		<p>
+			 Ермачкова Ирина Юрьевна
+		</p>
+		<p>
+			 Свобода Надежда Владимировна
+		</p>
+		<p>
+			 Волкова Галина Юрьевна
+		</p>
+		<p>
+			 Ефанкина Галина Олеговна
+		</p>
+	</td>
+	<td>
+		<p>
+			 8-(499)-317-51-00
+		</p>
+	</td>
+	<td>
+		<p>
+ <a href="mailto:i.yu.ermachkova@mpt.ru">i.yu.ermachkova@mpt.ru</a>
+		</p>
+		<p>
+ <a href="mailto:n.v.svoboda@mpt.ru">n.v.svoboda@mpt.ru</a>
+		</p>
+		<p>
+ <a href="mailto:g.yu.volkova@mpt.ru">g.yu.volkova@mpt.ru</a>
+		</p>
+		<p>
+ <a href="mailto:g.o.efankina@mpt.ru">g.o.efankina@mpt.ru</a>
+		</p>
+	</td>
+</tr>
+<tr>
+	<td>
+		<p>
+			 Подготовительное отделение
+		</p>
+	</td>
+	<td>
+		<p>
+			 Аведеено Тамара Ивановна
+		</p>
+		<p>
+			 Бежанова Татьяна Ивановна
+		</p>
+	</td>
+	<td>
+		<p>
+			 8-(499)-317-04-09;
+		</p>
+		<p>
+			 8-(495)-792-83-02
+		</p>
+	</td>
+	<td>
+		<p>
+ <a href="mailto:t.i.bejanova@mpt.ru">t.i.bejanova@mpt.ru</a>
+		</p>
+		<p>
+ <a href="mailto:t.i.avdeenko@mpt.ru">t.i.avdeenko@mpt.ru</a>
+		</p>
+	</td>
+</tr>
+<tr>
+	<td>
+		<p>
+			 Приемная комиссия
+		</p>
+	</td>
+	<td>
+		<p>
+			 Авдеенко Тамара Ивановна
+		</p>
+		<p>
+			 Бежанова Татьяна Ивановна
+		</p>
+	</td>
+	<td>
+		<p>
+			 8-(499) 317-04-09;
+		</p>
+		<p>
+			 8-(495) 792-83-02
+		</p>
+	</td>
+	<td>
+		<p>
+ <a href="mailto:pk@mpt.ru">pk@mpt.ru</a>
+		</p>
+		<p>
+ <a href="mailto:t.i.bejanova@mpt.ru">t.i.bejanova@mpt.ru</a>
+		</p>
+		<p>
+ <a href="mailto:t.i.avdeenko@mpt.ru">t.i.avdeenko@mpt.ru</a>
+		</p>
+	</td>
+</tr>
+</tbody>
+</table>
+-->
+</div>
+</div>
+</div>
+    </main>
+
+    <!--========================================================
+                            FOOTER
+  =========================================================-->
+  <footer>
+    
+    <section>      
+      <div class="container">
+        <div class="row">
+          <div class="col-sm-6">
+            <h1 class="navbar-brand">
+              <a href="../index.html">
+                <div class="footer_name">
+<span class="material-design-bookmark46"> <span style="font-size: 16pt;">Московский приборостроительный техникум </span> </span> <span class="footer-title1"> </span>
+<p style=" font-size:14pt;">
+	 ФГБОУ ВО РЭУ им. Г.В. Плеханова
+</p>
+</div>              </a>
+            </h1>
+            <div class="row flow-offset-3">
+              <div class="col-sm-4 col-xs-4">
+                
+	<ul class="list text-uppercase">
+									<li><a href="../index.html">Главная</a></li>
+						
+									<li><a href="index.html">О техникуме</a></li>
+						
+									<li><a href="../spetsialnosti/obshchie-svedeniya/index.html">Специальности</a></li>
+						
+									<li><a href="../abiturientu/index.html">Абитуриенту</a></li>
+						
+									<li><a href="../studentu/index.html">Студенту</a></li>
+						
+			</ul>
+               </div>
+              <div class="col-sm-4 col-xs-4">
+                
+	<ul class="list text-uppercase">
+									<li><a href="http://www.ucmpt.ru/">Доп. образование</a></li>
+						
+									<li><a href="../kontakty/index.html">Контакты</a></li>
+						
+									<li><a href="../avtoshkola/index.html">Автошкола</a></li>
+						
+			</ul>
+               </div>
+              <div class="col-sm-4 col-xs-4">
+               
+               </div>
+            </div>
+
+              <p class="rights pull-left">
+                &#169; <span id="copyright-year"></span> |
+                <a href="../index.html">Все права защищены &copy;</a>
+              </p>
+              <ul class="list-inline pull-right ">
+				  <li><a style="font-size:1.1em;" class="fa fa-vk fa" href="https://vk.com/mptru" target="_blank" rel="nofollow"></a></li>
+                  <li><a style="font-size:1.1em;" class="fa fa-instagram " href="https://www.instagram.com/mpt.ru/" target="_blank" rel="nofollow"></a></li>
+                  <li><a style="font-size:1.1em;" class="fa fa-facebook " href="https://www.facebook.com/reamptru/" target="_blank" rel="nofollow"></a></li>
+                  <li><a style="font-size:1.1em;" class="fa fa-google " href="https://plus.google.com/u/0/communities/106203543525356216195" target="_blank" rel="nofollow"></a></li>
+
+              </ul>
+
+          </div>
+          <div class="col-sm-6 inset-1">
+            <div class="map">
+              <div id="google-map" class="map_model">
+
+
+<div class="map-responsive">
+ 
+  <iframe src="https://yandex.ru/map-widget/v1/-/CGeIFBk7" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+ 
+</div>
+				</div>
+            </div>
+          </div>
+        </div>
+      <!-- {%FOOTER_LINK} -->
+      </div> 
+    </section>    
+  </footer>
+
+
+<script type="text/html" id="js-hot-line-form-template">
+    <div class="panel">
+        <form class="panel-body" id="js-hot-line-form">
+            <div class="form-group">
+                <label for="hot-line-name">Имя</label>
+                <input type="text" name="name" class="form-control" id="hot-line-name" placeholder="Имя" required>
+            </div>
+
+            <div class="form-group">
+                <label for="hot-line-email">Email адрес</label>
+                <input type="email" name="email" class="form-control" id="hot-line-email" placeholder="Email" required>
+            </div>
+
+            <div class="form-group">
+                <label for="hot-line-phone">Телефон</label>
+                <input type="tel" name="phone" class="form-control" id="hot-line-phone" placeholder="Телефон" required>
+            </div>
+
+            <div class="form-group">
+                <label for="hot-line-message">Сообщение</label>
+                <textarea name="message" class="form-control" id="hot-line-message" placeholder="Сообщение" required></textarea>
+            </div>
+
+            <div class="checkbox">
+                <label>
+                    <input type="checkbox" required> Принимаю условия использования
+                </label>
+            </div>
+
+            <div class="form-group text-center">
+                <button type="submit" class="btn btn-default">Отправить</button>
+            </div>
+        </form>
+    </div>
+</script>
+  </div>
+
+
+  <!-- Include all compiled plugins (below), or include individual files as needed -->         
+  <script src="../local/templates/mpt/js/bootstrap.min.js"></script>
+  <script src="../local/templates/mpt/js/jquery.cookie.js"></script>
+  <script src="../local/templates/mpt/js/jquery.easing.1.3.js"></script>
+  <script src="../local/templates/mpt/js/tmstickup.js"></script>
+  <script src="../local/templates/mpt/js/jquery.ui.totop.js"></script>
+  <script src="https://mpt.ru/local/templates/mpt/js/jquery.equalheights.js"></script>
+  <script src="../local/templates/mpt/js/superfish.js"></script>
+  <script src="https://mpt.ru/local/templates/mpt/js/jquery.responsive.tabs.js"></script>
+  <script src="../local/templates/mpt/js/jquery.rd-navbar.js"></script>
+  <script src="https://mpt.ru/local/templates/mpt/js/jquery.ui.accordion.min.js"></script>
+  <script src="https://mpt.ru/local/templates/mpt/js/owl.carousel.min.js"></script>
+  <script src="../local/templates/mpt/js/wow.js"></script>
+  <script src="https://mpt.ru/local/templates/mpt/js/jquery.mobile.customized.min.js"></script>
+  <script src="https://mpt.ru/local/templates/mpt/js/camera.js"></script>
+  <script src="https://mpt.ru/local/templates/mpt/js/TMSearch.js"></script>
+  <script src="https://mpt.ru/local/templates/mpt/js/jquery.touch-touch.js"></script>
+  <script src="../local/templates/mpt/js/jquery.rd-parallax.js"></script>
+  <script src="../local/templates/mpt/js/jquery.fancybox.min.js"></script>    
+  <script src="../local/templates/mpt/js/tm-scripts.js"></script>    
+  <script src="../local/templates/mpt/js/versionsv.js"></script>    
+  <script src="../local/templates/mpt/js/lazysizes.min.js"></script>
+  <script src="../local/templates/mpt/js/app.js"></script>
+  <!-- </script> -->
+  <script type="text/javascript">
+var source_link = '<p>Источник: <a href="https://mpt.ru/o-tekhnikume/struktura-i-organy-upravleniya-obrazovatelnoy-organizatsiey/'&#32;+&#32;location.href&#32;+&#32;'">' + location.origin + location.pathname + '</a></p>';
+jQuery(
+    function($)
+    {
+        if (window.getSelection) $('body').bind( //тут необходимо выбрать правильный селектор, то есть тот див (к примеру) где у вас контент
+            'copy',
+            function()
+            {
+                var selection = window.getSelection();
+                var range = selection.getRangeAt(0);
+                var magic_div = $('<div>').css({ overflow : 'hidden', width: '1px', height : '1px', position : 'absolute', top: '-10000px', left : '-10000px' });
+                magic_div.append(range.cloneContents(), source_link);
+                $('body').append(magic_div);
+                var cloned_range = range.cloneRange();
+                selection.removeAllRanges();
+                var new_range = document.createRange();
+                new_range.selectNode(magic_div.get(0));
+                selection.addRange(new_range);
+                window.setTimeout(
+                    function()
+                    {
+                        selection.removeAllRanges();
+                        selection.addRange(cloned_range);
+                        magic_div.remove();
+                    }, 0
+                );
+            }
+        );
+    }
+);
+</script>
+
+<!-- Yandex.Metrika counter -->
+ 
+<script type="text/javascript" >
+    (function (d, w, c) {
+        (w[c] = w[c] || []).push(function() {
+            try {
+                w.yaCounter45914937 = new Ya.Metrika({
+                    id:45914937,
+                    clickmap:true,
+                    trackLinks:true,
+                    accurateTrackBounce:true,
+                    webvisor:true
+                });
+            } catch(e) { }
+        });
+
+        var n = d.getElementsByTagName("script")[0],
+            s = d.createElement("script"),
+            f = function () { n.parentNode.insertBefore(s, n); };
+        s.type = "text/javascript";
+        s.async = true;
+        s.src = "https://mc.yandex.ru/metrika/watch.js";
+
+        if (w.opera == "[object Opera]") {
+            d.addEventListener("DOMContentLoaded", f, false);
+        } else { f(); }
+    })(document, window, "yandex_metrika_callbacks");
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/45914937" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+
+  </body>
+</html>

@@ -1,0 +1,1415 @@
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Руководство. Педагогический (научно-педагогический) состав</title>
+    
+    <!-- Bootstrap -->
+    <link href="../local/templates/mpt/css/bootstrap.css" rel="stylesheet">
+
+    <!-- Links -->
+    <link href='https://fonts.googleapis.com/css?family=PT+Sans:400,700' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Lato' rel='stylesheet' type='text/css'>
+    <link href="../local/templates/mpt/css/font-awesome.css" rel="stylesheet">
+    <link href="../local/templates/mpt/css/material-design.css" rel="stylesheet">
+    <link href="../local/templates/mpt/css/rd-mailform.css" rel="stylesheet">
+    <link href="../local/templates/mpt/css/jquery.fancybox.min.css" rel="stylesheet">
+
+    <!--JS-->
+    <script src="../local/templates/mpt/js/jquery.js"></script>
+    <script src="../local/templates/mpt/js/jquery-migrate-1.2.1.min.js"></script>
+
+    <!--[if lt IE 9]>
+    <div style=' clear: both; text-align:center; position: relative;'>
+        <a href="http://windows.microsoft.com/en-US/internet-explorer/..">
+            <img src="images/ie8-panel/warning_bar_0000_us.jpg" border="0" height="42" width="820"
+                 alt="You are using an outdated browser. For a faster, safer browsing experience, upgrade for free today."/>
+        </a>
+    </div>
+    <script src="js/html5shiv.js"></script>
+    <![endif]-->
+    <script src='../local/templates/mpt/js/device.min.js'></script>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<link href="https://mpt.ru/bitrix/js/main/core/css/core.css?15514225323963" type="text/css" rel="stylesheet" />
+
+
+
+<link href="../local/templates/.default/components/bitrix/menu/top_menu/style.css?1551422539878" type="text/css"  data-template-style="true"  rel="stylesheet" />
+<link href="../local/templates/mpt/components/bitrix/breadcrumb/.default/style.css?1558935984585" type="text/css"  data-template-style="true"  rel="stylesheet" />
+<link href="../local/templates/mpt/components/ogecut/empty/hot_line_form/style.css?158444143334" type="text/css"  data-template-style="true"  rel="stylesheet" />
+<link href="../local/templates/mpt/styles.css?15646672401301" type="text/css"  data-template-style="true"  rel="stylesheet" />
+<link href="../local/templates/mpt/template_styles.css?15646672404868" type="text/css"  data-template-style="true"  rel="stylesheet" />
+<script type="text/javascript">if(!window.BX)window.BX={};if(!window.BX.message)window.BX.message=function(mess){if(typeof mess=='object') for(var i in mess) BX.message[i]=mess[i]; return true;};</script>
+<script type="text/javascript">(window.BX||top.BX).message({'JS_CORE_LOADING':'Загрузка...','JS_CORE_NO_DATA':'- Нет данных -','JS_CORE_WINDOW_CLOSE':'Закрыть','JS_CORE_WINDOW_EXPAND':'Развернуть','JS_CORE_WINDOW_NARROW':'Свернуть в окно','JS_CORE_WINDOW_SAVE':'Сохранить','JS_CORE_WINDOW_CANCEL':'Отменить','JS_CORE_WINDOW_CONTINUE':'Продолжить','JS_CORE_H':'ч','JS_CORE_M':'м','JS_CORE_S':'с','JSADM_AI_HIDE_EXTRA':'Скрыть лишние','JSADM_AI_ALL_NOTIF':'Показать все','JSADM_AUTH_REQ':'Требуется авторизация!','JS_CORE_WINDOW_AUTH':'Войти','JS_CORE_IMAGE_FULL':'Полный размер'});</script>
+
+<script type="text/javascript" src="https://mpt.ru/bitrix/js/main/core/core.js?1588581841543330"></script>
+
+<script>BX.setJSList(['/bitrix/js/main/core/core_ajax.js','/bitrix/js/main/core/core_promise.js','/bitrix/js/main/polyfill/promise/js/promise.js','/bitrix/js/main/loadext/loadext.js','/bitrix/js/main/loadext/extension.js','/bitrix/js/main/polyfill/promise/js/promise.js','/bitrix/js/main/polyfill/find/js/find.js','/bitrix/js/main/polyfill/includes/js/includes.js','/bitrix/js/main/polyfill/matches/js/matches.js','/bitrix/js/ui/polyfill/closest/js/closest.js','/bitrix/js/main/polyfill/fill/main.polyfill.fill.js','/bitrix/js/main/polyfill/find/js/find.js','/bitrix/js/main/polyfill/matches/js/matches.js','/bitrix/js/main/polyfill/core/dist/polyfill.bundle.js','/bitrix/js/main/core/core.js','/bitrix/js/main/polyfill/intersectionobserver/js/intersectionobserver.js','/bitrix/js/main/lazyload/dist/lazyload.bundle.js','/bitrix/js/main/polyfill/core/dist/polyfill.bundle.js','/bitrix/js/main/parambag/dist/parambag.bundle.js']);
+BX.setCSSList(['/bitrix/js/main/core/css/core.css','/bitrix/js/main/lazyload/dist/lazyload.bundle.css','/bitrix/js/main/parambag/dist/parambag.bundle.css']);</script>
+<script type="text/javascript">(window.BX||top.BX).message({'LANGUAGE_ID':'ru','FORMAT_DATE':'DD.MM.YYYY','FORMAT_DATETIME':'DD.MM.YYYY HH:MI:SS','COOKIE_PREFIX':'MPT_','SERVER_TZ_OFFSET':'10800','SITE_ID':'s1','SITE_DIR':'/','USER_ID':'','SERVER_TIME':'1592574379','USER_TZ_OFFSET':'0','USER_TZ_AUTO':'Y','bitrix_sessid':'8dd62250495462a45eaeea5bf582bc12'});</script>
+
+
+<script type="text/javascript" src="https://mpt.ru/bitrix/js/main/polyfill/customevent/main.polyfill.customevent.js?1551422533913"></script>
+<script type="text/javascript" src="https://mpt.ru/bitrix/js/ui/dexie/dist/dexie.bitrix.bundle.js?1588584522196209"></script>
+<script type="text/javascript" src="https://mpt.ru/bitrix/js/main/core/core_ls.js?155142253210430"></script>
+<script type="text/javascript" src="https://mpt.ru/bitrix/js/main/core/core_fx.js?155142253216888"></script>
+<script type="text/javascript" src="https://mpt.ru/bitrix/js/main/core/core_frame_cache.js?158858136315905"></script>
+
+
+<script type="text/javascript" src="../local/templates/mpt/components/ogecut/empty/hot_line_form/script.js?15844460961016"></script>
+<script type="text/javascript">var _ba = _ba || []; _ba.push(["aid", "b3fb52729eb9d09eeaa5dcfa8da2e3b2"]); _ba.push(["host", "mpt.ru"]); (function() {var ba = document.createElement("script"); ba.type = "text/javascript"; ba.async = true;ba.src = (document.location.protocol == "https:" ? "https://" : "http://") + "bitrix.info/ba.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ba, s);})();</script>
+
+
+  </head>
+  <body>
+              
+  <div class="page">
+  <!--========================================================
+                            HEADER
+  =========================================================-->
+    <header class="parallax text-center">
+<!--header class="parallax text-center" data-mobile="true" data-color="#dee7eb" data-speed="3"-->
+
+<div class="parallax_cnt">
+      <section>
+
+        <div id="stuck_container" class="stuck_container">
+          <div class="">
+
+            <div class="row">
+				<div class="blue-wrapper">
+          <div class="container">
+            <div class="row">
+				<div class="col-md-6 col-sm-6 col-xs-12 head-row left-sm">
+					<div class="f-left"><a href="../index.html"><img src="../upload/logoq.png" alt="logo"style="height:115px;max-width:164px;" /></a></div>
+				<div class="f-left">
+                  <span class="head-title">Московский <br>приборостроительный <br> техникум					</span>
+<br>
+ФГБОУ ВО РЭУ ИМ. Г.В. ПЛЕХАНОВА					</div>
+              </div>
+              <div class="col-md-6 col-sm-6 col-xs-12 head-row right-sm">
+
+<p class="top-contacts">
+	 г. Москва, Нежинская улица, 7<br>
+ <br>
+	 г. Москва, Нахимовский проспект, 21
+</p>
+<p class="top-contacts">
+<b style="font-size: 16pt; color: red;">Горячая линия приемной комиссии:</b><br>
+ <br>
+	<span style="font-size: 15pt;"><!--8 (903) 792-83-02-->8 (495) 792 83 02</span><br><br>
+ <b style="font-size: 16pt; color: red;">Горячая линия дистанционного обучения:</b><br>
+ <br>
+	<span style="font-size: 15pt;">8 (926) 057-70-95</span><br><br>
+<b style="font-size: 16pt; color: red;">Горячая линия психолога:</b><br>
+ <br>
+	<span style="font-size: 15pt;">8 (903) 502-82-50</span>
+</p>
+
+<!--
+<p style="
+    font-size: 22pt;
+    font-weight: bold;
+    color: #fff700;
+    "><a href="/translations">Трансляция Дня открытых дверей »</a></p>
+-->
+
+<!--
+<p class="top-contacts" style="font-size: 20px">
+<b>
+Приёмная комиссия: <a href="tel:84993170409">8 (499) 317-04-09</a><br><br>
+<a href="tel:84958001200,2094">8 (495) 800-12-00 <small>(доб. 2094)</small></a>
+</b>
+</p>
+-->
+<!--<p class="top-contacts">
+<div style="padding-top: 5px; padding-bottom: 7px;">
+<b>
+КАНЦЕЛЯРИЯ: <a href="tel:84954426577">8 (495) 442-65-77</a>;
+<a href="tel:84958001200,2092">8 (495) 800-12-00 <small>(доб. 2092)</small></a>
+</b>
+<a href="89160634434">8 (916) 063-44-34</b></a>
+</div>
+</p>--><div class="versionsv">
+            <a href="rukovodstvo-pedagogicheskiy-nauchno-pedagogicheskiy-sostav#sv_settings_collapse" id="sv_on" class="btn btn-default" data-toggle="collapse" role="button">
+                <strong>Версия для слабовидящих</strong>
+            </a>
+<a href="rukovodstvo-pedagogicheskiy-nauchno-pedagogicheskiy-sostav" class="hot-line" style="color: #ffffff;background-color: #7c9fb0;border-color: #7c9fb0;display: inline-block;font-weight: 700;cursor: pointer;border: 1px solid transparent;background: transparent;outline: none;text-transform: uppercase;letter-spacing: 0.06em;padding: 15px 26px;font-size: 18px;line-height: 19px;border-radius: 0;-moz-transition: 0.2s all ease;-webkit-transition: 0.2s all ease;-o-transition: 0.2s all ease;transition: 0.2s all ease;color: #ffffff;background-color: #7c9fb0;border-color: #7c9fb0;">
+<strong>Задать вопрос!</strong>
+</a>
+            <div id="sv_settings_collapse" class="collapse">
+              <div id="sv_settings" class="sv_settings text-left" id="">
+                  <div>Размер шрифта
+                      <span class="fs-outer">
+                          <button data-font-size="14px" class="btn btn-default fs-n" id="fs-n" style="font-size: 14px">А</button>
+                          <button data-font-size="18px" style="font-size: 18px" class="btn btn-default fs-m" id="fs-m">А</button>
+                          <button data-font-size="24px" style="font-size: 24px" class="btn btn-default fs-l" id="fs-l">А</button>
+
+                      </span>
+                  </div>
+                  <br>
+                  <div class="mgl20">Цветовая схема
+                      <span class="cs-outer">
+                          <button class="btn btn-default cs-bw" id="cs-bw">А</button>
+                          <button class="btn btn-default cs-wb" id="cs-wb">А</button>
+                          <button class="btn btn-default cs-bb" id="cs-bb">А</button>
+                          <button class="btn btn-default cs-gb" id="cs-gb">А</button>
+                          <button class="btn btn-default cs-yg" id="cs-yg">А</button>
+                      </span>
+                  </div>
+                  <br>
+                  <div class="mgl20">
+                    Изображения
+                      <span class="img-outer">
+                          <button class="btn btn-default btn-xs" id="img-onoff"><span class="glyphicon glyphicon-picture"></span><span id="img-onoff-text"> Отключить</span></button>
+                      </span>
+                  </div>
+              </div>
+            </div>
+        </div>
+</div>
+
+<div class="clearfix"></div>
+</div>
+</div>
+              </div>
+            </div>
+           
+<nav class="navbar navbar-default navbar-static-top ">
+
+  <div class="navbar-header">
+    <h1 class="navbar-brand">
+      <a href="../index.html">
+              </a>
+    </h1>
+  </div>
+  <ul class="navbar-nav sf-menu navbar-right" data-type="navbar">
+
+
+	
+	
+					<li class="dropdown hovered ">
+
+			 	<a href="index.html">Сведения об образовательной организации</a>
+				<ul class="dropdown-menu">
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="osnovnye-svedeniya">Основные сведения</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+					<li class="dropdown  ">
+				<a href="../abiturientu/index.html">Абитуриент</a>
+				<ul class="dropdown-menu">
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="informatsiya-o-tekhnikume/index.html">Информация о техникуме</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="http://priem.mpt.ru/">Приёмная комиссия</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="../spetsialnosti/obshchie-svedeniya/index.html">О специальностях</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="../sayty-otdeleniy">Сайты отделений</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="../abiturientu/dni-otkrytykh-dverey/index.html">Дни открытых дверей</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="https://sites.google.com/a/mpt.ru/pk/">Подготовительные курсы</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="../spetsialnosti/formy-obucheniya/index.html">Формы обучения</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="../translations/index.html">Трансляция Дня открытых дверей</a>
+				</li>
+			
+		
+	
+	
+
+			</ul></li>	
+	
+		
+							<li >
+					<a href="struktura-i-organy-upravleniya-obrazovatelnoy-organizatsiey">Структура и органы управления образовательной организацией</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="dokumenty_new/index.html">Документы</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="obrazovanie">Образование</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="http://zamur.mpt.ru/standards">Образовательные стандарты</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li  class="active">
+					<a href="rukovodstvo-pedagogicheskiy-nauchno-pedagogicheskiy-sostav">Руководство. Педагогический (научно-педагогический) состав</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="materialno-tekhnicheskoe-obespechenie-i-osnashchennost-obrazovatelnogo-protsessa">Материально-техническое обеспечение и оснащенность образовательного процесса</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="stipendii-i-inye-vidy-materialnoy-podderzhki">Стипендии и иные виды материальной поддержки</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="platnye-obrazovatelnye-uslugi">Платные образовательные услуги</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="finansovo-khozyaystvennaya-deyatelnost">Финансово-хозяйственная деятельность</a>
+				</li>
+			
+		
+	
+	
+
+			</ul></li>	
+	
+					<li class="dropdown hovered ">
+
+			 	<a href="../abiturientu/index.html">Абитуриенту</a>
+				<ul class="dropdown-menu">
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="informatsiya-o-tekhnikume/index.html">Информация о техникуме</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="http://priem.mpt.ru/">Приёмная комиссия</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+					<li class="dropdown  ">
+				<a href="../spetsialnosti/obshchie-svedeniya/index.html">О специальностях</a>
+				<ul class="dropdown-menu">
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="https://mpt.ru/sayty-otdeleniy/otdelenie-pervogo-kursa/">Отделение первого курса</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="../spetsialnosti/obshchie-svedeniya/kompyuternye-sistemy-i-kompleksy">09.02.01 «Компьютерные системы и комплексы»</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="../spetsialnosti/obshchie-svedeniya/kompyuternye-seti">09.02.02 «Компьютерные сети»</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="../spetsialnosti/obshchie-svedeniya/programmirovanie-v-kompyuternykh-sistemakh">09.02.03 «Программирование в компьютерных системах»</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="../spetsialnosti/obshchie-svedeniya/informatsionnye-sistemy-po-otraslyam-">09.02.04 «Информационные системы (по отраслям)»</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="../spetsialnosti/obshchie-svedeniya/prikladnaya-informatika-po-otraslyam">09.02.05 «Прикладная информатика (по отраслям)»</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="../spetsialnosti/obshchie-svedeniya/informatsionnaya-bezopasnost-avtomatizirovannykh-sistem">10.02.03 «Информационная безопасность автоматизированных систем»</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="../spetsialnosti/obshchie-svedeniya/pravo-i-organizatsiya-sotsialnogo-obespecheniya">40.02.01 «Право и организация социального обеспечения»</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="../spetsialnosti/obshchie-svedeniya/09-02-06-setevoe-i-sistemnoe-administrirovanie">09.02.06 «Сетевое и системное администрирование»</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="../spetsialnosti/obshchie-svedeniya/09-02-07-informatsionnye-sistemy-i-programmirovanie/index.html">09.02.07 «Информационные системы и программирование»</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="../spetsialnosti/obshchie-svedeniya/10-02-05-obespechenie-informatsionnoy-bezopasnosti-avtomatizirovannykh-sistem">10.02.05 «Обеспечение информационной безопасности автоматизированных систем»</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="rukovodstvo-pedagogicheskiy-nauchno-pedagogicheskiy-sostav"></a>
+				</li>
+			
+		
+	
+	
+
+			</ul></li>	
+	
+		
+							<li >
+					<a href="../sayty-otdeleniy">Сайты отделений</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="../abiturientu/dni-otkrytykh-dverey/index.html">Дни открытых дверей</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="https://sites.google.com/a/mpt.ru/pk/">Подготовительные курсы</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="../spetsialnosti/formy-obucheniya/index.html">Формы обучения</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="../translations/index.html">Трансляция Дня открытых дверей</a>
+				</li>
+			
+		
+	
+	
+
+			</ul></li>	
+	
+					<li class="dropdown hovered ">
+
+			 	<a href="../studentu/index.html">Студенту</a>
+				<ul class="dropdown-menu">
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="../studentu/raspisanie-zanyatiy/index.html">Расписание занятий</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="../studentu/izmeneniya-v-raspisanii/index.html">Изменения в расписании</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="../studentu/raspisanie-ekzamenov/index.html">Расписание экзаменов</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+					<li class="dropdown  ">
+				<a href="../studentu/praktiki/index.html">Практики</a>
+				<ul class="dropdown-menu">
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="../studentu/praktiki/raspisanie/files/raspisanie-praktik.pdf">Расписание</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="../studentu/praktiki/bazy-praktik">Базы практик</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="../studentu/praktiki/tseli-i-zadachi-praktiki">Цели и задачи практики</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="../studentu/praktiki/vidy-deyatelnosti">Виды деятельности</a>
+				</li>
+			
+		
+	
+	
+
+			</ul></li>	
+	
+		
+							<li >
+					<a href="https://sites.google.com/a/mpt.ru/lib_mpt/">Библиотека</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="../studentu/studencheskaya-zhizn/index.html">Студенческая жизнь</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="https://ucmpt.ru/">Дополнительное образование</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+					<li class="dropdown  ">
+				<a href="../studentu/distantsionnoe-obuchenie/index.html">Дистанционное обучение</a>
+				<ul class="dropdown-menu">
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="http://forum.mpt.ru/">Форум</a>
+				</li>
+			
+		
+	
+	
+
+			</ul></li>	
+	
+		
+							<li >
+					<a href="http://psy-mpt.tilda.ws/">Психологическое консультирование</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="../studentu/sportivnaya-zhizn">Спортивная жизнь</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+					<li class="dropdown  ">
+				<a href="../studentu/studencheskiy-portal/index.html">Студенческий портал</a>
+				<ul class="dropdown-menu">
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="http://student.mpt.ru">Заказ справок в канцелярии</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="http://student.mpt.ru">Показ выписанных направлений</a>
+				</li>
+			
+		
+	
+	
+
+			</ul></li>	
+	
+		
+							<li >
+					<a href="fotoarkhiv">Фотоархив</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+					<li class="dropdown  ">
+				<a href="sorevnovaniya-chempionaty/index.html">Соревнования, чемпионаты</a>
+				<ul class="dropdown-menu">
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="sorevnovaniya-chempionaty/otborochnyy-chempionat-reu-plekhanova-vorldskills">Вузовский чемпионат ФГБОУ ВО «РЭУ имени Г.В. Плеханова» по стандартам Ворлдскиллс</a>
+				</li>
+			
+		
+	
+	
+
+			</ul></li>	
+	
+		
+							<li >
+					<a href="../studentu/%25D0%2592%25D0%25BE%25D0%25BF%25D1%2580%25D0%25BE%25D1%2581%25D1%258B-%25D0%25BE%25D1%2582%25D0%25B2%25D0%25B5%25D1%2582%25D1%258B.pdf">Вопросы-ответы</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="../studentu/trudoustroystvo">Трудоустройство</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="../studentu/studsovet/index.html">Студсовет</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="../studentu/opros-o-distantsionnom-obuchenii">Опрос о дистанционном обучении</a>
+				</li>
+			
+		
+	
+	
+
+			</ul></li>	
+	
+		
+							<li class="hovered">
+					<a href="https://ucmpt.ru/" class="">Доп. образование</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+					<li class="dropdown hovered ">
+
+			 	<a href="../avtoshkola/index.html">Автошкола</a>
+				<ul class="dropdown-menu">
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="https://mpt.ru/avtoshkola">Главная</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="../avtoshkola/pravila-priyema">Правила приёма</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="../avtoshkola/obuchenie">Обучение</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="../avtoshkola/foto">Фото</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="../avtoshkola/kontakty">Контакты</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+					<li class="dropdown  ">
+				<a href="index.html">Сведения об образовательной организации</a>
+				<ul class="dropdown-menu">
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="osnovnye-svedeniya">Основные сведения</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="../abiturientu/index.html">Абитуриент</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="struktura-i-organy-upravleniya-obrazovatelnoy-organizatsiey">Структура и органы управления образовательной организацией</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="dokumenty_new/index.html">Документы</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="obrazovanie">Образование</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="http://zamur.mpt.ru/standards">Образовательные стандарты</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li  class="active">
+					<a href="rukovodstvo-pedagogicheskiy-nauchno-pedagogicheskiy-sostav">Руководство. Педагогический (научно-педагогический) состав</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="materialno-tekhnicheskoe-obespechenie-i-osnashchennost-obrazovatelnogo-protsessa">Материально-техническое обеспечение и оснащенность образовательного процесса</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="stipendii-i-inye-vidy-materialnoy-podderzhki">Стипендии и иные виды материальной поддержки</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="platnye-obrazovatelnye-uslugi">Платные образовательные услуги</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="finansovo-khozyaystvennaya-deyatelnost">Финансово-хозяйственная деятельность</a>
+				</li>
+			
+		
+	
+	
+
+			</ul></li></ul></li>	
+	
+		
+							<li class="hovered">
+					<a href="../kontakty/index.html" class="">Контакты</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li class="hovered">
+					<a href="../elektronnaya-informatsionno-obrazovatelnaya-sreda" class="">Электронная информационно-образовательная среда</a>
+				</li>
+			
+		
+	
+	
+
+
+</ul>
+</nav>
+          </div>
+        </div>
+
+		  
+      </section>
+</div>
+    </header>
+
+    <!--========================================================
+                              CONTENT
+    =========================================================-->
+
+	  <main>
+
+				  <div class="container-fluid text-page">
+	<div class="container">
+<link href="https://mpt.ru/bitrix/css/main/font-awesome.css?155142253228777" type="text/css" rel="stylesheet" />
+<div class="bx-breadcrumb" itemprop="http://schema.org/breadcrumb" itemscope itemtype="http://schema.org/BreadcrumbList">
+			<div class="bx-breadcrumb-item" id="bx_breadcrumb_0" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+				
+				<a href="../index.html" title="Главная" itemtype="https://schema.org/Thing" itemprop="item">
+					<span itemprop="name">Главная</span>
+				</a>
+				<meta itemprop="position" content="1" />
+			</div>
+			<div class="bx-breadcrumb-item" id="bx_breadcrumb_1" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+				<i class="fa fa-angle-right"></i>
+				<a href="index.html" title="О техникуме" itemtype="https://schema.org/Thing" itemprop="item">
+					<span itemprop="name">О техникуме</span>
+				</a>
+				<meta itemprop="position" content="2" />
+			</div>
+			<div class="bx-breadcrumb-item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+				<i class="fa fa-angle-right"></i>
+				<a href="rukovodstvo-pedagogicheskiy-nauchno-pedagogicheskiy-sostav" itemtype="https://schema.org/Thing" itemprop="item" class="hidden">
+					<span itemprop="name">Руководство. Педагогический (научно-педагогический) состав</span>
+				</a>
+				<span itemprop="name">Руководство. Педагогический (научно-педагогический) состав</span>
+				<meta itemprop="position" content="3" />
+			</div><div style="clear:both"></div></div><div>
+
+
+
+
+
+<table class="table table-default table-bordered table-hover table-striped table-no-p-padding"><tbody><tr><td><p>№ п/п</p></td><td><p>Ф.И.О.</p></td><td><p>​ Должность</p></td><td><p>Контактный телефон</p></td><td><p>Электронная почта</p></td></tr><tr><td>1<br></td><td><p>Гришин Виктор Иванович&nbsp;</p></td><td><p>Ректор РЭУ им. Г.В. Плеханова</p></td><td><p>​+7 (499) 237-9​​2-47</p></td><td><p>​ ​<a href="mailto:rector@rea.ru">rector@rea.ru</a></p></td></tr><tr><td>2<br></td><td><p>Асалиев Асали Магомедалиевич&nbsp;</p></td><td><p>Проректор по дополнительному образованию и&nbsp;филиалам.&nbsp;</p></td><td><p>+7 (499) 236-​34-09</p></td><td><p><a href="mailto:asaliev.am@rea.ru">asaliev.am@rea.ru</a><br><br></p></td></tr><tr><td>3<br></td><td><p>Воронова Татьяна Андреевна</p></td><td><p>Проректор по учебной работе</p></td><td><p>​+7 (499) ​​237-92-57</p></td><td><p><a href="mailto:voronova.ta@rea.ru">voronova.ta@rea.ru</a></p></td></tr><tr><td>4<br></td><td><p>Карасев Петр Александрович</p></td><td><p>​Первый проректор</p></td><td><p>​+7 (499) 236-72-21​​ ​</p></td><td><p><a href="mailto:karasev.pa@rea.ru">karasev.pa@rea.ru</a></p></td></tr><tr><td>5<br></td><td><p>Косарева Елена Александровна</p></td><td><p>Проректор по организационно-правовой и&nbsp;социально-воспитательной работе​.&nbsp;</p></td><td><p>+7&nbsp;(495) 800-12-00</p><p>доб. 20-01</p></td><td><p>&nbsp;<a href="mailto:kosareva.ea@rea.ru">kosareva.ea@rea.ru</a> &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;</p></td></tr><tr><td>6<br></td><td><p>Минашкин Виталий Григорьевич&nbsp;</p></td><td><p>Проректор по научной деятельности</p></td><td><p>​+7 (499) 236-41-40</p></td><td><p><a href="mailto:minashkin.vg@rea.ru">minashkin.vg@rea.ru</a></p></td></tr><tr><td>7<br></td><td><p>Правкин Илья Михайлович</p></td><td><p>Проректор по развитию инфраструктуры</p></td><td><p>​+7 (495) 958-22-33</p></td><td><p>​ ​<a href="mailto:pravkin.im@rea.ru">pravkin.im@rea.ru</a></p></td></tr><tr><td>8<br></td><td><p>Штыхно Дмитрий Александрович&nbsp;</p></td><td><p>Проректор по стратегическому&nbsp;развитию&nbsp;и международной деятельности.&nbsp;</p></td><td><p>​+7 (499) 237​-83-04</p></td><td><p><a href="mailto:shtykhno.da@rea.ru">shtykhno.da@rea.ru</a></p></td></tr><tr><td>9<br></td><td><p>Гендон Анжелика Леонидовна</p></td><td><p>Проректор по&nbsp;экономике и финансам</p></td><td><p>+7&nbsp;(495) 800​-12-00</p><p>&nbsp;доб. 13-01</p></td><td><p>​ <a href="mailto:gendon.al@rea.ru">gendon.al@rea.ru</a></p></td></tr><tr><td>10<br></td><td><p>Чурилов Андрей Викторович</p></td><td><p>Директор Московского приборостроительного техникума</p></td><td><p>+7 (495) 442-65-77</p></td><td><p><a href="mailto:a.v.churilov@mpt.ru">CHurilov.AV@rea.ru</a></p></td></tr></tbody></table>
+
+<p><strong>Кадровое обеспечение образовательного процесса по программе подготовки специалистов среднего звена</strong></p>
+
+<p><a href="https://mpt.ru/o-tekhnikume/rukovodstvo-pedagogicheskiy-nauchno-pedagogicheskiy-sostav/portfolio/" target="_blank"></a></p><p style="text-align: center;"><a href="https://mpt.ru/o-tekhnikume/prepodavateli/portfolio-prepodavateley/" target="_blank"><b>» Портфолио сотрудников «</b></a></p><p style="text-align: center;"><b><a href="https://mpt.ru/o-tekhnikume/prepodavateli/klassifikatsiya-po-tsmk" target="_blank">» Классификация преподавателей по ЦМК «</a></b></p>
+
+<table cellspacing="0" border="1"><tbody><tr><td rowspan="3"><b>№ п/п&nbsp;​</b><br><b>​</b></td><td rowspan="3"><b>Наименование предмета, дисциплины (модуля) в соответствии с учебным планом&nbsp;​ ​</b></td><td rowspan="3"><b>Фамилия, имя, отчество, должность по штатному расписанию&nbsp;​ ​</b></td><td rowspan="3"><b>Какое образовательное учреждение окончил, специальность (направление подготовки) по документу об образовании&nbsp;​</b><br><b>​</b></td><td rowspan="3"><b>Данные о повышении квалификации и (или) профессиональной переподготовки&nbsp;​ ​</b></td><td rowspan="3"><b>Ученая степень, ученое (почетное) звание, квалификационная категория, награды</b>&nbsp;​<br>​</td><td colspan="3"><b>Стаж педагогической (научно-педагогической) работы&nbsp;​ ​</b></td><td rowspan="3"><b>Основное место работы, должность&nbsp;​ ​</b></td><td rowspan="3"><b>Условия привлечения к педагогической деятельности (штатный работник, внутренний совместитель, внешний совместитель)&nbsp;​ ​</b></td></tr><tr><td rowspan="2"><b>всего&nbsp;​</b></td><td colspan="2"><b>в т.ч. педагогической работы&nbsp;​</b></td></tr><tr><td><b>всего</b></td><td><b>в т.ч. по указанному предмету, дисциплине (модулю)</b></td></tr><tr><td>1</td><td>Обществознание (включая экономику и право), Организационно-правовое обеспечение информационной безопасности</td><td>Абрамов Сергей Антонидович</td><td>Брянский государственный педагогический университет им. Акад. И.Г. Петровского, 1996 г.; специальность: История; квалификация: учитель истории и социально-политических дисциплин. Московский государственный университет им. Ломоносова, 2000г.&nbsp; специальность: Политология; квалификация: Политолог,. Преподаватель политических наук.</td><td>Не проходил</td><td>Не имеет</td><td>с 1988</td><td>с 1993</td><td>с 1993</td><td>ФГБОУ ВО РЭУ им.Г.В.Плеханова Московский приборостроительный техникум, преподаватель</td><td>Штатный работник</td></tr><tr><td>2</td><td>Информатика, Операционные системы и среды,&nbsp; Основы алгоритмизации и программирования, МДК 01.01 Операционные системы, Технические средства&nbsp; информатизации, МДК 02.01 Информационные технологии и платформа разработки ИС, МДК 02.02 Управление проектами</td><td>Агафонов Павел Витальевич</td><td>НОЧУ ВО Московский финансово-промышленный университет «Синергия», 2019г., направление подготовки: Информационные системы и технологии, квалификация: бакалавр, направленность (профиль): информационные системы и технологии. Среднее профессиональное: Московский приборостроительный техникум 2014 г.; специальность: Автоматизированные системы обработки информации и управления (по отраслям), квалификация: техник.</td><td>Переподготовка: ФГБОУ ВО "РЭУ им. Г.В. Плеханова" по программе "Педагог среднего профессионального образования", 2018г. квалификация: Педагог профессионального обучения, профессионального образования и дополнительного образования.</td><td>Не имеет</td><td>с 2014</td><td>с 2014</td><td>с 2014</td><td>ФГБОУ ВО РЭУ им.Г.В.Плеханова Московский приборостроительный техникум, преподаватель</td><td>Штатный работник</td></tr><tr><td>3</td><td>История государства и права зарубежных стран, Право, Римское право, Конституционное право, Административное право, Гражданское право, Уголовное право, МДК 01.05 Практические основы международного (частного) права, Адвокатура</td><td>Азизов Амиль Камиль оглы</td><td>ФГБОУ ВО «Государственный университет по землеустройству», 201 г.; специальность: Юриспруденция; квалификация: юрист</td><td>Переподготовка: ФГБОУ ВО "РЭУ им. Г.В. Плеханова" по программе "Педагог среднего профессионального образования", 2018г. квалификация: Педагог профессионального обучения, профессионального образования и дополнительного образования.</td><td>Первая квалификационная категория</td><td>с 2008</td><td>с 2013</td><td>с 2013</td><td>ФГБОУ ВО РЭУ им.Г.В.Плеханова Московский приборостроительный техникум, преподаватель</td><td>Штатный работник</td></tr><tr><td>4</td><td>Технологическая платформа 1С предприятия</td><td>Андреев Илья Александрович</td><td>Российская таможенная академия, 2002, специальность: Таможенное дело, квалификация: менеджер таможенного дела.</td><td>Повышение квалификации: ФГБОУ ВО "РЭУ им. Г.В. Плеханова", 2019г. по программе - Особенности инклюзивного образования в ВУЗЕ (с применением дистанционных образовательных технологий), объем - 72 часа.;&nbsp; 1С образование, 2018г., по программе "Новые информационные технологии в образоывании"</td><td>Кандидат экономических наук</td><td>с 1999</td><td>с 2012</td><td>с 2012</td><td>ФГБОУ ВО РЭУ им.Г.В.Плеханова Московский приборостроительный техникум, преподаватель</td><td>Внутренний совместитель</td></tr><tr><td>5</td><td>Основы безопасности жизнедеятельности; Компьютерное делопроизводство</td><td>Андреева Наталия Алексеевна</td><td>НОУ Московский институт государственного и корпоративного управления. 2008 г., специальность:&nbsp; Прикладная информатика в экономике, квалификация: информатик-экономист.</td><td>Переподготовка: ЧОУ ДПО «Институт повышения квалификации и профессиональной подготовки», 2019г., по программе профессиональной переподготовки «Безопасность жизнедеятельности в общеобразовательных организациях и организациях профессионального образования», квалификация: учитель, преподаватель основ безопасности жизнедеятельности. ФГБОУ ВО "РЭУ им. Г.В. Плеханова" по программе "Педагог среднего профессионального образования", 2018г. квалификация: Педагог профессионального обучения, профессионального образования и дополнительного образования. Повышение квалификации: ФГБОУ ВО «Российский экономический университет имени Г. В. Плеханова», 2018г. по программе:«Особенности инклюзивного образования в вузе (с применением дистанционных образовательных технологий)», объем - 72 часа. ФГБОУ ВО "РЭУ им. Г.В. Плеханова", 2018г., по программе: "Корпоративная культура и клиентоориентированность (с применением дистанционных образовательных технологий)", объем - 16 часов. ФГБОУ ВО «Российский экономический университет имени Г. В. Плеханова», 2017г. по программе:«Современные научно-педагогические технологии обеспечения образовательной и научной деятельности в университете (с применением дистанционных образовательных технологий)», объем - 36 часов.</td><td>Не имеет</td><td>с 2001</td><td>с 2007</td><td>с 2007</td><td>ФГБОУ ВО РЭУ им.Г.В.Плеханова Московский приборостроительный техникум, заведующий отделением, преподаватель</td><td>Штатный работник</td></tr><tr><td>6</td><td>Экономика, Статистика, Экономика организации; Финансы и кредит, Налоговая система РФ, Экономический анализ деятельности предприятия; Маркетинговые исследования рынка</td><td>Андрианова Светлана Сергеевна</td><td>Московский государственный агроинженерный университет им.В.П.Горячкина, 2002 г. ; специальность: Информационные системы в экономике; квалификация: Экономист. Среднее профессиональное: ЧПОУ Нижегородский Гуманитарно-технический колледж, 2018г., специальность: 40.02.01 Право и организация социального обеспечения; квалификация: Юрист</td><td>Переподготовка: ФГБОУ ВО "РЭУ им. Г.В. Плеханова" по программе "Педагог среднего профессионального образования", 2018г. квалификация: Педагог профессионального обучения, профессионального образования и дополнительного образования. Повышение квалификации: ФГБОУ ВО «Российский экономический университет имени Г. В. Плеханова», 2019г. по программе:«Основы оказания первой помощи», объем - 16 часов.</td><td>Высшая квалификационная категория</td><td>с 1985</td><td>с 1999</td><td>с 1999</td><td>ФГБОУ ВО РЭУ им.Г.В.Плеханова Московский приборостроительный техникум, преподаватель</td><td>Штатный работник</td></tr><tr><td>7</td><td>Физическая культура</td><td>Андрюков Андрей Викторович</td><td>Барнаульский государственный педагогический университет, 1996г., специальность: Физическое воспитание;<br>квалификация: учитель физической культуры средней школы.</td><td>ФГБОУ ДПО "Государственный институт новых форм обучения", 2017г. по программе - Современные научно-педагогические технологии обеспечения образовательной и научной деятельности в университете (с применением дистанционных образовательных технологий). ФГБОУ ВО "РЭУ им. Г.В. Плеханова", 2018г. по программе - Особенности инклюзивного образования в ВУЗЕ (с применением дистанционных образовательных технологий), объем - 72 часа.</td><td>Почетный знак «200 лет МВД России», Медаль «200 лет МВД», Медаль «За отличие в службе», Нагрудный знак «За верность долгу», Нагрудный знак «отличник физической культуры и спорта»</td><td>с 1984</td><td>с 2000</td><td>с 2000</td><td>ФГБОУ ВО РЭУ им.Г.В.Плеханова Московский приборостроительный техникум, преподаватель</td><td>Штатный работник</td></tr><tr><td>8</td><td>История, Обществознание (включая экономику и право)</td><td>Аскольский Андрей Викторович</td><td>Волгоградский государственный университет. 1986., специальность: История, квалификация: Историк. Преподаватель истории и обществознания.</td><td>Повышение квалификации: ФГБОУ ВО «Российский экономический университет имени Г. В. Плеханова», 2019г. по программе: «Основы оказания первой помощи», объем — 16 часов.</td><td>Почетная грамота за творческий вклад в развитие теории и практики управления в области образования, разработку инновационных технологий управления и участие в российском конкурсе «Лидер в образовании 2000»</td><td>с 1986</td><td>с 1990</td><td>с 1990</td><td>ФГБОУ ВО РЭУ им.Г.В.Плеханова Московский приборостроительный техникум, преподаватель</td><td>Штатный работник</td></tr><tr><td>9</td><td>Математика</td><td>Бабичева Алевтина Викторовна</td><td>Волгоградский государственный педагогический университет. 1996., специальность: Математика, квалификация: учитель математики, информатики и вычислительной техники.</td><td>Волгоградская государственная академия последипломного образования по программе «Проведение анализа оценки результативности профессиональной деятельности в рамках процедуры аттестации», 2018г., объем — 36 часов.</td><td>Высшая квалификационная категория, Почетный работник СПО Волгоградской области</td><td>с 1988</td><td>с 1996</td><td>с 1996</td><td>ФГБОУ ВО РЭУ им.Г.В.Плеханова Московский приборостроительный техникум, преподаватель</td><td>Штатный работник</td></tr><tr><td>10</td><td>Организация администрирования компьютерных систем, МДК 01.01 Компьютерные сети,&nbsp; МДК 02.01 Администрирование сетевых ОС, МДК 02.03 Организация администрирования КС; Программно-аппаратные средства обеспечения информационной безопасности, Учебные практики</td><td>Бабошин Андрей Сергеевич</td><td>МПТ РЭУ им. Г.В. Плеханова (2017г.), специальность: Компьютерные сети; квалификация: техник по компьютерным сетям</td><td>Переподготовка: ФГБОУ ВО "РЭУ им. Г.В. Плеханова" по программе "Педагог среднего профессионального образования", 2018г. квалификация: Педагог профессионального обучения, профессионального образования и дополнительного образования.</td><td>Не имеет</td><td>с 2018</td><td>с 2018</td><td>с 2018</td><td>ФГБОУ ВО РЭУ им.Г.В.Плеханова Московский приборостроительный техникум, преподаватель</td><td>Штатный работник</td></tr><tr><td>11</td><td>Организационно-правовое обеспечение информационной безопасности, Электротехнические и физические основы информационной безопасности, МДК 03.01 Применение инженерно - технологических средств, МДК 02.02 Криптографические средства и методы защиты информации; Информационная безопасность; Применение инженерно-технических средств обеспечения информационной безопасности</td><td>Батенко Каролина Евгеньевна</td><td>ФГБОУ ВО «Комсомольский-на-Амуре государственный технический университет,» 2017г.; специальность – Информационная безопасность автоматизированных систем; квалификация – специалист по защите информации (Специалист)</td><td>Переподготовка: ООО «Столичный учебный цент» 2018г. по программе «Преподаватель информационных технологий: Теория и методика преподавания в образовательной организации», объем&nbsp; — 300 часов. Переподготовка: ФГБОУ ВО "РЭУ им. Г.В. Плеханова" по программе "Педагог среднего профессионального образования", 2018г. квалификация: Педагог профессионального обучения, профессионального образования и дополнительного образования.</td><td>Не имеет</td><td>с 2018</td><td>с 2018</td><td>с 2018</td><td>ФГБОУ ВО РЭУ им.Г.В.Плеханова Московский приборостроительный техникум, мастер по производственному обучению, преподаватель</td><td>Штатный работник</td></tr><tr><td>12</td><td>История</td><td>Белоусова Наталья Вячеславовна</td><td>Волгоградский государственный университет, 2002г., специальность: История, квалификация: Историк.; Волгоградский государственный университет, 2002г., специальность: История, дополнительная квалификация: преподаватель истории.; ОУП ВПО Академия труда и социальных отношений, 2013г., специальность: юриспруденция, квалификация: юрист</td><td>Переподготовка:&nbsp; ОУП ВПО Академия труда и социальных отношений, 2015г., квалификация: экономист в сфере финансов и кредита.;&nbsp; ООО "Инфоурок", 2019г.,&nbsp; квалификация: психолог в социальной сфере.</td><td>Первая квалификационная категория</td><td>с 2006</td><td>с 2011</td><td>с 2011</td><td>ФГБОУ ВО РЭУ им.Г.В.Плеханова Московский приборостроительный техникум, преподаватель</td><td>Штатный работник</td></tr><tr><td>13</td><td>Инженерная графика, МДК 02.02 Установка и конфигурирование переферийного оборудования; Инженерная и компьютерная графика;</td><td>Бибикова Надежда Владимировна</td><td>Московский ордена Трудового Красного Знамени горный институт инженерно-физический институт; специальность: Автоматика и телемеханика, квалификация: инженер-электрик</td><td>Переподготовка: ФГБОУ ВО "РЭУ им. Г.В. Плеханова" по программе "Педагог среднего профессионального образования", 2018г. квалификация: Педагог профессионального обучения, профессионального образования и дополнительного образования. Повышение квалификации: ФГБОУ ВО "РЭУ им. Г.В. Плеханова", 2018г. по программе - Особенности инклюзивного образования в ВУЗЕ (с применением дистанционных образовательных технологий), объем - 72 часа. ФГАУ "Федеральный институт развития образования", 2017г., по программе "Управление проектами в сфере образования", объем - 108 часов. Стажировка без отрыва от основной работы на базовом предприятии ООО "БУТ ГРУПП", 2017г., по программе "Повышение уровня профессиональной подготовки в области информационных технологий, применяемых в системах автоматизированного проектирования", объем - 72 часа.</td><td>Высшая квалификационная категория, 1. Почетный работник СПО РФ (Приказ Минобрнауки России от 23 июня 2008г. №1033/к-н); 2. Ветеран труда от 25.11.2008г.; 3. Нагрудный знак (к диплому)</td><td>с 1981</td><td>с 1981</td><td>с 1981</td><td>ФГБОУ ВО РЭУ им.Г.В.Плеханова Московский приборостроительный техникум, заместитель директора по учебно-воспитательной работе, преподаватель</td><td>Штатный работник</td></tr><tr><td>14</td><td>Иностранный язык</td><td>Блинов Игорь Александрович</td><td>Горьковский государственный педагогический институт иностранных языков им. Добролюбова 1989г.,<br>специальность: французский и английский языки; квалификация: переводчик-референт,&nbsp; преподаватель французского и английского языков.</td><td>Повышение квалификации: ФГБОУ ВО «Российский экономический университет имени Г. В. Плеханова», 2019г. по программе:«Основы оказания первой помощи», объем - 16 часов.&nbsp; ФГБОУ ВО "РЭУ им. Г.В. Плеханова", 2018г. по программе - Особенности инклюзивного образования в ВУЗЕ (с применением дистанционных образовательных технологий), объем - 72 часа. НОУ "ИНТУИТ", 2017г., курс "Английский язык для ИТ-специалистов", объем - 72часа.</td><td>Первая квалификационная категория</td><td>с 1980</td><td>с 2010</td><td>с 2010</td><td>ФГБОУ ВО РЭУ им.Г.В.Плеханова Московский приборостроительный техникум, преподаватель</td><td>Штатный работник</td></tr><tr><td>15</td><td>МДК 03.01 Эксплуатация объектов сетевой инфраструктуры, МДК 03.02 Безопасность, функционирование информационных систем, МДК 01.01 Криптографические средства защиты информации; Информационные технологии</td><td>Вилков Андрей Николаевич</td><td>&nbsp;ФГБОУ ВО РЭУ им. Г.В. Плеханова Московский приборостроительный техникум, 2017, специальность: Компьютерные сети, квалификация: техник по компьютерным сетям.</td><td>Переподготовка: ФГБОУ ВО "РЭУ им. Г.В. Плеханова" по программе "Педагог среднего профессионального образования", 2018г. квалификация: Педагог профессионального обучения, профессионального образования и дополнительного образования.</td><td>Не имеет</td><td>с 2017</td><td>с 2017</td><td>с 2017</td><td>ФГБОУ ВО РЭУ им.Г.В.Плеханова Московский приборостроительный техникум, преподаватель</td><td>Штатный работник</td></tr><tr><td>16</td><td>Физическая культура</td><td>Виноградов Сергей Владимирович</td><td>Педагогический институт физической культуры и спорта, 2015г., специальность: Адаптивная физическая культура; квалификация: учитель физической культуры. ГОУ ВПО Московский городской педагогический университет, 2010г., специальность: Сурдопедагогика, квалификация: учитель-сурдопедагог.</td><td>Не проходил</td><td>Не имеет</td><td>с 1986</td><td>с 2008</td><td>с 2008</td><td>ФГБОУ ВО РЭУ им.Г.В.Плеханова Московский приборостроительный техникум, преподаватель</td><td>Штатный работник</td></tr><tr><td>17</td><td>Математика</td><td>Водопьянова Ольга Анатольевна</td><td>Московский государственный университет им. М.В. Ломоносова, 1996 г.; специальность: механика, прикладная математика; квалификация: механик.</td><td>Переподготовка: АНО ДПО Московская академия профессиональных компетенций, 2019г., по программе "Педагогическое образование: Математика в общеобразовательных организациях и организациях профессионального образования", квалификация: учитель, преподаватель математики. Повышение квалификации: ФГБОУ ВО «Российский экономический университет имени Г. В. Плеханова», 2019г. по программе: «Основы оказания первой помощи», объем — 16 часов. АНО ДПО "Московская академия профессиональных компетенций", 2017г., по программе "Методика преподавания математики и инновационные подходы к организации учебного процесса в условиях реализации ФГОС", объем-72 часа.</td><td>Не имеет</td><td>с 1996-2004; с 2007&nbsp;</td><td>с 2000-2004; с 2007</td><td>с 2000-2004; с 2007</td><td>ФГБОУ ВО РЭУ им.Г.В.Плеханова Московский приборостроительный техникум, преподаватель</td><td>Штатный работник</td></tr><tr><td>18</td><td>МДК 04.01 Обеспечение проектной деятельности</td><td>Волков Денис Владимирович</td><td>Московский технический университет связи и информатики, 1977 г., специальность: многоканальные телекоммуникационные системы, квалификация: инженер</td><td>Повышение квалификаци: ФГБОУ ВО "РЭУ им. Г.В. Плеханова", 2017 г., по программе "История и филосфоия науки", объем - 72 часа.</td><td>Не имеет</td><td>с 1990</td><td>с 2010</td><td>с 2010</td><td>ФГБОУ ВО РЭУ им.Г.В.Плеханова Московский приборостроительный техникум, преподаватель</td><td>Внутренний совместитель</td></tr><tr><td>19</td><td>Информатика; Информационные технологии</td><td>Волков Роман Юрьевич</td><td>ФГБОУ ВО РЭУ им. Г.В. Плеханова МПТ,&nbsp; 2016, специальность: Прикладная информатика(по отраслям), квалификация: техник-программист</td><td>Переподготовка: ФГБОУ ВО "РЭУ им. Г.В. Плеханова" по программе "Педагог среднего профессионального образования", 2018г. квалификация: Педагог профессионального обучения, профессионального образования и дополнительного образования. Переподготовка: ФГБОУ ВО "РЭУ им. Г.В. Плеханова", 2018г., по программе "Web-дизайн" с правом ведения профессиональной деятельности в сфере проектирования, разработки и интеграции информационных ресурсов в локальной сети и информационно-телекоммуникационной сети "Интернет". Переподготовка: АНО ВО Московский институт современного академического образования, 2016г., по программе ДПО:&nbsp; Общая педагогика: Теория и методика обучения и воспитания в рамках реализации ФГОС, с правом ведения профессиональной деятельности в сфере общей педагогики образования.</td><td>Не имеет</td><td>с 2014</td><td>с 2016</td><td>с 2016</td><td>ФГБОУ ВО РЭУ им.Г.В.Плеханова Московский приборостроительный техникум, преподаватель</td><td>Штатный работник</td></tr><tr><td>20</td><td>Основы философии; История; Обществознание (включая экономику и право)</td><td>Волкова Вероника Вадимовна</td><td>ФГБОУ ВПО Дальневосточный государственный гуманитарный университет. 2014 г., направление подготовки: Социально-экономическое образование, квалификация: бакалавр социально экономического образования, профиль программы: История.. АНО ВО Московский православный университет им. Иоанна Богослова. 2017 г.;&nbsp; направление подготовки: Религиоведение, квалификация: магистр.</td><td>Переподготовка: КГПУ им. Астафьева, 2014г., по программе «Тифлопедагогика: образование лиц с нарушениями зрения»,&nbsp; с правом ведения профессиональной деятельности в сфере общего и среднего профессионального образования. Повышение квалификации: ФГБОУ ВО «Российский экономический университет имени Г. В. Плеханова», 2018г. по программе:«Особенности инклюзивного образования в вузе (с применением дистанционных образовательных технологий)», объем - 72 часа.</td><td>Не имеет</td><td>с 2014</td><td>с 2014</td><td>с 2014</td><td>ФГБОУ ВО РЭУ им.Г.В.Плеханова Московский приборостроительный техникум, преподаватель</td><td>Штатный работник</td></tr><tr><td>21</td><td>МДК 01.01 Обработка отраслевой информации , УП 01.02; Математическое моделирование; МДК 02.02 Технология и защита БД, МДК 03.01 Технология разработки программного обеспечения; МДК 02.01&nbsp; Технология разработки программного обеспечения; Основы проектной деятельности</td><td>Волкова Галина Юрьевна</td><td>ФГАОУ ВО «Национальный исследовательский университет» «Высшая школа экономики», 2015г.; специальность: Системы автоматизированного проектирования; квалификация: Инженер. ФГАОУ ВО «Национальный исследовательский университет» «Высшая школа экономики», 2017 г., направление подготовки: Информатика и вычислительная техника.&nbsp; квалификация: Магистр.<br>ГОУ ВПО РГТЭУ Московский приборостроительный техникум, 2010г., специальность: Программное обеспечение вычислительной техники и автоматизированных систем; квалификация: техник.</td><td>Переподготовка: ФГБОУ ВО "РЭУ им. Г.В. Плеханова" по программе "Педагог среднего профессионального образования", 2018г. квалификация: Педагог профессионального обучения, профессионального образования и дополнительного образования. Переподготовка: ФГБОУ ВО "РЭУ им. Г.В. Плеханова", 2018г., по программе "Web-дизайн" с правом ведения профессиональной деятельности в сфере проектирования, разработки и интеграции информационных ресурсов в локальной сети и информационно-телекоммуникационной сети "Интернет".&nbsp; Переподготовка: МАЭО, 2016 специализация: Психология, квалификация: Психолог,. Переподготовка АНО ВО МИСАО, 2016, специализация: Общая педагогика: Теория и методика обучения и воспитания в рамках реализации ФГОС. Повышения квалификации: ЧОУ ДПО "1С-Образование", 2020г., по программе "Ведение бухгалтерского учета в программе "1С:Бухгалтерия 8"". ЧОУ ДПО "1С-Образование", 2020г., по программе "Новые информационные технологии в образовании", объем-16 часов. ЧОУ ДПО "1С-Образование", 2019г., по программе "Введение в конфигурирование и администрирование в системе "1С:Предприятие 8.3"". ФГБОУ ВО "РЭУ им. Г.В. Плеханова", 2018г. по программе: Особенности инклюзивного образования в ВУЗЕ (с применением дистанционных образовательных технологий), объем - 72 часа.&nbsp; ФГБОУ ВО "РЭУ им. Г.В. Плеханова", 2018г., по программе: "Корпоративная культура и клиентоориентированность (с применением дистанционных образовательных технологий), объем - 16 часов.&nbsp; ГАП ОУ г.Москвы "Колледж предпринимательства №11", 2017г., по программе: Практика и методика подготовки кадров по профессии "Программист", "Специалист по информационным системам", "Специалист по тестированию в области информационных технологий" с учетом стандарта Ворлдскиллс Россия по компетенции "Программные решения для бизнеса", объем - 92 часа.</td><td>Высшая квалификационная категория</td><td>с 2011</td><td>с 2011</td><td>с 2011</td><td>ФГБОУ ВО РЭУ им.Г.В.Плеханова Московский приборостроительный техникум, преподаватель</td><td>Штатный работник</td></tr><tr><td>22</td><td>Компьютерные сети; МДК 03.04 Техническое обслуживание средств вычислительной техники и КС; МДК 01.01 Организация, принципы построения и функционирования компьютерных сетей, МДК 03.03 Техническое обслуживание средств вычислительной техники и КС;</td><td>Володин Иван Михайлович</td><td>ФГБОУ ВПО Московский государственный агроинженерный университет им В.П.Горячкина, 2012г.,&nbsp; специальность: Прикладная информатика; квалификация: информатик-экономист. Среднее профессиональное: ГОУ ВПО РГТЭУ 2009г., специальность: Техническое обслуживание средств вычислительной техники и компьютерных сетей, квалификация: техник</td><td>Переподготовка: ФГБОУ ВО "РЭУ им. Г.В. Плеханова" по программе "Педагог среднего профессионального образования", 2018г. квалификация: Педагог профессионального обучения, профессионального образования и дополнительного образования.</td><td>Первая квалификационная категория</td><td>с 2009</td><td>с 2009</td><td>с 2009</td><td>ФГБОУ ВО РЭУ им.Г.В.Плеханова Московский приборостроительный техникум, преподаватель</td><td>Штатный работник</td></tr><tr><td>23</td><td>Разработка, внедрение и адаптация программного обеспечения отраслевой направленности, Технология разработки, сопровождение и продвижение программного обеспечения</td><td>Воронина Ирина Сергеевна</td><td>ФГБОУ ВПО&nbsp; «Московский государственный агроинженерный университет имени В.П. Горячкина», 2012г., специальность: «Прикладная информатика (по отраслям)», квалификация: «Информатик-экономист»</td><td>Повышение квалификации: ФГБОУ ВО «Российский экономический университет имени Г. В. Плеханова», 2018г. по программе:«Особенности инклюзивного образования в вузе (с применением дистанционных образовательных технологий)», объем - 72 часа.&nbsp; НОУ «Центральные специализированные курсы по подготовке и повышению квалификации кадров для дипломатических служб и представительств, 2016г., по программе «Классический курс (английский язык)», объем - 372 часа.</td><td>Не имеет</td><td>с 2009</td><td>с 2018</td><td>с 2018</td><td>ФГБОУ ВО РЭУ им.Г.В.Плеханова Московский приборостроительный техникум, заведующий канцелярией, преподаватель</td><td>Штатный работник</td></tr><tr><td>24</td><td>\МДК 05.01 Проектирование и дизайн информационных систем, МДК 08.02 Графический дизайн и мультимедиа, МДК 08.01 Проектирование и разработка интерфейсов пользователя, Учебные практики</td><td>Вредник Полина</td><td>ФГБОУ ВО РЭУ им. Г.В. Плеханова МПТ, 2018, специальность: компьютерные системы и комплексы, квалификация: техник по компьютерным системам.</td><td>Не проходил</td><td>Не имеет</td><td>с 2018</td><td>с 2018</td><td>с 2018</td><td>ФГБОУ ВО РЭУ им.Г.В.Плеханова Московский приборостроительный техникум, преподаватель</td><td>Штатный работник</td></tr><tr><td>25</td><td>Технология разработки и защиты БД</td><td>Гаврилов Александр Викторович</td><td>Московский станкоинструментальный институт, 1992 г.</td><td>ФГБОУ ВО «Российский экономический университет имени Г. В. Плеханова», 2019г. по программе:«Особенности инклюзивного образования в вузе (с применением дистанционных образовательных технологий)», объем - 72 часа.; ФГБОУ ВО «Российский экономический университет имени Г. В. Плеханова», 2019г. по программе:«Работа в электронной образовательной среде», объем - 72 часа.&nbsp;</td><td>Кандидат технических наук</td><td>с 1992</td><td>с 1992</td><td>с 1992</td><td>ФГБОУ ВО РЭУ им.Г.В.Плеханова Московский приборостроительный техникум, преподаватель</td><td>Внутренний совместитель</td></tr><tr><td>26</td><td>Платформы разработки информационных систем</td><td>Гадецкая Евгения Геннадьевна</td><td>ФГОУ СПО "Камышиский технический колледж" Волгоградской области, 2009 г, специальность: Экономика и бухгалтерский учет, квалификация: бухгалтер с углубленной подготовкой. Волгоградский государственный технический университет,&nbsp; 2020г., направление подготовки: Экономика, профиль: Бухгалтерский учет, анализ и аудит, квалификация: бакалавр.</td><td>Переподготовка: АНО ДПО "Московская академия профессиональных компетенций", 2020г., по программе "Профессиональное обучение: Информатика, вычислительная техника&nbsp; и компьютерные технологии", квалификация: преподаватель информатики, вычислительной техники и компьютерных технологий. Доп. Образование: «Камышинский технический колледж»,&nbsp; 2009 год, профессия: оператор ЭВМ, квалификация: оператор ЭВМ со знанием программы: «1С Предприятие. Торговля и склад»</td><td>Не имеет</td><td>с 2019</td><td>с 2020</td><td>с 2020</td><td>ФГБОУ ВО РЭУ им.Г.В.Плеханова Московский приборостроительный техникум, преподаватель</td><td>Штатный работник</td></tr><tr><td>27</td><td>Астрономия</td><td>Галкина Татьяна Михайловна</td><td>Пензенский государственный педагогический институт им. В.Г. Белинского, 1979 г., специальность: Биология с дополнительной специальностью химия; квалификация - учитель биологии и химии.</td><td>Переподготовка: ЧОУ ДПО «Институт повышения квалификации и профессиональной переподготовки, 2019г., по программе профессиональной переподготовки «Педагогика и методика преподавания учебного предмета «Астрономия» в условиях реализации ФГОС ООО и ФГОС СОО», квалификация — учитель, преподаватель астрономии. Повышение квалификации:ФГБОУ ВО "РЭУ им.Г.В. Плеханова", 2017г., по программе "Современные научно-педагогические технологии обеспечения образовательной и научной деятельности в университете".</td><td>Значок «Отличник Народного просвещения», Почетная грамота за личный вклад в подготовку высококвалифицированных специалистов и в связи с 15-летием института. Ветеран труда.</td><td>с 1973</td><td>с 1979</td><td>с 1979</td><td>ФГБОУ ВО РЭУ им.Г.В.Плеханова Московский приборостроительный техникум, преподаватель</td><td>Штатный работник</td></tr><tr><td>28</td><td>Математика, Физика</td><td>Голеусова Эмма Владимировна</td><td>Курский государственный педагогический институт, 1989 г, специальность: математика и физика; квалификация учитель математики и физики средней школы.</td><td>Повышение квалификации: НОУ ДПО "Институт новых технологий", 2017г., по курсу "Методика преподавания астрономии в школе в современных условиях", объем - 36 часов. НОУ ДПО "Институт новых технологий", 2017г., по курсу "Проектирование интерактивных учебных занятий на основе МЭШ", объем - 36 часов.</td><td>Высшая квалификационная категория</td><td>с 1990</td><td>с 1990</td><td>с 1990</td><td>ФГБОУ ВО РЭУ им.Г.В.Плеханова Московский приборостроительный техникум, преподаватель</td><td>Штатный работник</td></tr><tr><td>29</td><td>Операционные системы и среды; Архитектура аппаратных средств, Компьютерные сети,&nbsp; МДК 01.02 Поддержка и тестирование программных модулей;</td><td>Горбунов Антон Дмитриевич</td><td>&nbsp;ФГБОУ ВО&nbsp; РЭУ им. Г.В. Плеханова, МПТ, 2017г.,&nbsp; специальность: Прикладная информатика (по отраслям), квалификация:Техник-программист</td><td>Переподготовка: ФГБОУ ВО "РЭУ им. Г.В. Плеханова" по программе "Педагог среднего профессионального образования", 2018г. квалификация: Педагог профессионального обучения, профессионального образования и дополнительного образования. Повышение квалификации: ГАПОУ г. Москвы «Колледж предпринимательства №11» , 2017г., по программе «Практика и методика подготовки кадров по профессии (специальности) «Сетевой и системный администратор» с учетом стандарта Ворлдскиллс Россия по компетенции «Сетевое и системное администрирование», объем — 92часа.</td><td>Не имеет</td><td>с 2015</td><td>с 2017</td><td>с 2017</td><td>ФГБОУ ВО РЭУ им.Г.В.Плеханова Московский приборостроительный техникум, преподаватель</td><td>Штатный работник</td></tr><tr><td>30</td><td>Разработка программных модулей, МДК 01.04 Системное программирование,&nbsp; Основы алгоритмизации и программирования, МДК 05.01 Проектирование и дизайн ИС, МДК 05.02 Разработка кода ИС, МДК</td><td>Горшков Михаил Николаевич</td><td>&nbsp;ФГБОУ ВО&nbsp; РЭУ им. Г.В. Плеханова, МПТ, 2019г.,&nbsp; специальность: Информационные системы (по отраслям), квалификация:Техник по информационным системам</td><td>Переподготовка: ЧОУ ДПО "Институт повышения квалификации и профессиональной переподготовки", 2020г., по программе "Педагогичка профессионального образования", квалификация: Преподаватель среднего профессионального образования".</td><td>Не имеет</td><td>с 2019</td><td>с 2019</td><td>с 2019</td><td>ФГБОУ ВО РЭУ им.Г.В.Плеханова Московский приборостроительный техникум, преподаватель</td><td>Штатный работник</td></tr><tr><td>31</td><td>Правовое обеспечение в профессиональной деятельности, История</td><td>Господариков Алексей Александрович</td><td>ФГБОУ ВПО&nbsp; Липецкий государственный педагогический университет, 2015г., специальность: Юриспруденция и история,&nbsp; квалификация: учитель права и истории.</td><td>Повышение квалификации: МИОО Кафедра коррекционной педагогики, 2017г., по программе профессиональный стандарт "Педагог". Создание психологически комфортной образовательной среды образовательной организации для детей с ограниченными возможностями здоровья, объем - 36 часов.</td><td>Не имеет</td><td>с 2015</td><td>с 2015</td><td>с 2015</td><td>ФГБОУ ВО РЭУ им.Г.В.Плеханова Московский приборостроительный техникум, преподаватель</td><td>Штатный работник</td></tr><tr><td>32</td><td>Иностранный язык</td><td>Господарикова Юлия Игоревна</td><td>ГАОУ ВО Московский городской педагогический университет,&nbsp; 2017г.;&nbsp; направление подготовки: Педагогическое образование; квалификация: бакалавр, профиль программы: Начальное образование. ГБОУ СПО г. Москвы Педагогический колледж №15,&nbsp; 2014 г.; специальность «Преподавание в начальных классах», квалификация: Учитель начальных классов с дополнительной подготовкой в области иностранного языка.<br><br><br>&nbsp;</td><td>Переподготовка: ГАОУ ВО МГПУ (Институт иностранных языков) – дополнительная профессиональная программа «Учитель иностранного (английского) языка», квалификация: Учитель иностранного (английского) языка. Переподготовка: ЧОУ ДПО "Институт повышения квалификации и профессиональной переподготовки", 2018г., курс профессиональной переподготовки по программе «Менеджмент в образовании в условиях реализации ФГОС», квалификация: Менеджер в образовании. Повышение квалификации: НОУ "ИНТУИТ", 2018г., курс "Английский язык", объем - 72часа. НОУ "ИНТУИТ", 2018г., курс "Английский язык-3", объем - 72часа. НОУ "ИНТУИТ", 2017г., курс "Английский язык для ИТ-специалистов", объем - 72часа. НОУ "ИНТУИТ", 2017г., курс "Психология и педагогика", объем - 72часа.</td><td>Первая квалификационная категория</td><td>с 2013</td><td>с 2015</td><td>с 2015</td><td>ФГБОУ ВО РЭУ им.Г.В.Плеханова Московский приборостроительный техникум, преподаватель</td><td>Штатный работник</td></tr><tr><td>33</td><td>Операционные системы и среды, Компьютерные и телекомуникационные сети, МДК 03.01 Техничское обслуживание и ремонт КС и комплексов, МДК 02.02 Установка и конфигурирование переферийного оборудования, МДК 03.02 Электрорадиоизмерения и источники питания</td><td>Готовец Дмитрий Михайлович</td><td>НОУ ВПО "Университет российской академии образования"2015г., направление подготовки - Бизнес-информатика,&nbsp; квалификация: бакалавр; специализация:компьютерные системы и комплексы. Среднее профессиональное: ФГБОУ ВПО «РЭУ им. Г.В. Плеханова» 2014 г., специальность:&nbsp; Вычислительные машины, комплексы, системы и сети, квалификация: техник;</td><td>Переподготовка: ФГБОУ ВО "РЭУ им. Г.В. Плеханова" по программе "Педагог среднего профессионального образования", 2018г. квалификация: Педагог профессионального обучения, профессионального образования и дополнительного образования. Повышение квалификации: ФГБОУ ВО «Российский экономический университет имени Г. В. Плеханова», 2018г. по программе:«Особенности инклюзивного образования в вузе (с применением дистанционных образовательных технологий)», объем - 72 часа.&nbsp; ФГАУ ВО "Национальный исследовательский ядерный университет "МИФИ", 2018г., по программе "Сетевые технологии" обучение по модулю "Основы сетевых технологий", объем - 48 часов. ГАП ОУ "Межрегиональный центр компетенций - Казанский техникум информационных технологий и связи", 2017г., по программе "Практика и методика подготовки кадров по профессии (специальности) "Мобильный робототехник" с применением стандарта Ворлдскиллс России по компетенции "Мобильная робототехника"", объем - 72 часа.</td><td>Первая квалификационная категория</td><td>с 2012</td><td>с 2014</td><td>с 2014</td><td>ФГБОУ ВО РЭУ им.Г.В.Плеханова Московский приборостроительный техникум, преподаватель</td><td>Штатный работник</td></tr><tr><td>34</td><td>Операционные системы и среды, Основы алгоритмизации и программирования, Основы проектирования БД, МДК 02.04 Сетевые языки, МДК 02.04 Сетевые языки</td><td>Губарьков Георгий Владимирович</td><td>ФГБОУ ВО «Российский экономический университет им. Г.В. Плеханова» Московский приборостроительный техникум, 2017,&nbsp; специальность: Компьютерные сети, квалификация:техник по компьютерным сетям</td><td>Повышение квалификации: ФГБОУ ВО «Российский экономический университет имени Г. В. Плеханова», 2019г. по программе: «Основы оказания первой помощи», объем — 16 часов.</td><td>Не имеет</td><td>с 2017</td><td>с 2017</td><td>с 2017</td><td>ФГБОУ ВО РЭУ им.Г.В.Плеханова Московский приборостроительный техникум, преподаватель</td><td>Штатный работник</td></tr><tr><td>35</td><td>Уголовный процесс, МДК 02.03 Документирование нотариуса</td><td>Гуленков Михаил Сергеевич</td><td>НОУ ВПО Московская академия экономики и права&nbsp; 2010 г.&nbsp; по направлению: Юриспруденция; степень: бакалавр юриспруденции. НОУ ВПО Московская академия экономики и права&nbsp; 2011 г.&nbsp; специальность: Юриспруденция, квалификация: юрист.&nbsp; НОУ ВПО Московская академия экономики и права&nbsp; 2012 г.&nbsp; по направлению: Юриспруденция, степень: магистр юриспруденции</td><td>Не проходил</td><td>Кандидат юридических наук</td><td>с 2010</td><td>с 2015</td><td>с 2015</td><td>ФГБОУ ВО РЭУ им.Г.В.Плеханова Московский приборостроительный техникум, преподаватель</td><td>Внешний совместитель</td></tr><tr><td>36</td><td>МДК 01.02 Методы и средства, проектирования ИС, МДК 02.01 Информационные технологии и платформа разработки ИС, МДК 02.02 Управление проектами</td><td>Джебилов Александр Валерьевич</td><td>МФПУ «Синергия",&nbsp; 2017 г.,&nbsp; специальность:«Прикладная информатика», квалификация:бакалавр.<br>ФГБОУ ВО «РЭУ им. Г.В. Плеханова», 2016 г. специальность: Информационные системы (по отраслям), квалификация: Техник по информационным системам,&nbsp;&nbsp;&nbsp;</td><td>Переподготовка: ФГБОУ ВО "РЭУ им. Г.В. Плеханова" по программе "Педагог среднего профессионального образования", 2018г. квалификация: Педагог профессионального обучения, профессионального образования и дополнительного образования.</td><td>Не имеет</td><td>с 2016</td><td>с 2016</td><td>с 2016</td><td>ФГБОУ ВО РЭУ им.Г.В.Плеханова Московский приборостроительный техникум, преподаватель</td><td>Внутренний совместитель</td></tr><tr><td>37</td><td>Электроматериалы и компоненты микроэлектроники, Источники питания вычислительной техники, МДК 01.02 Проектирование цифровых устройств</td><td>Добрынина Елена Вахтанговна</td><td>Ставропольский Государственный педагогический университет,&nbsp; 1995 г., специальность: Физика, квалификация: учитель физики, математики.</td><td>Не проходил</td><td>Не имеет</td><td>с 1983</td><td>с 1995</td><td>с 1995</td><td>ФГБОУ ВО РЭУ им.Г.В.Плеханова Московский приборостроительный техникум, преподаватель</td><td>Штатный работник</td></tr><tr><td>38</td><td>МДК 01.01 Цифровая схемотехника; Основы алгоритмизации и программирования; Электроника и схемотехника, МДК 03.02 Электрорадиоизмерения и источник питания; Электрорадиоматериалы</td><td>Дробышева Любовь Викторовна</td><td>Московский ордена Трудового Красного Знамени горный институт, 1989г., специальность: Автоматика и телемеханика, квалификация: инженер-электрик&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Среднее профессиональное: Московский приборостроительный техникум, 1983г.., специальность-Электронно-вычислительные машины, приборы и устройства, квалификация:техник-электрик.</td><td>Переподготовка: ФГБОУ ВО "РЭУ им. Г.В. Плеханова" по программе "Педагог среднего профессионального образования", 2018г. квалификация: Педагог профессионального обучения, профессионального образования и дополнительного образования. Повышение квалификации: ФГБОУ ВО «Российский экономический университет имени Г. В. Плеханова», 2018г. по программе:«Особенности инклюзивного образования в вузе (с применением дистанционных образовательных технологий)», объем - 72 часа.</td><td>Высшая квалификационная категория, 1. Нагрудный знак (к диплому) 2. Почетный работник СПО РФ за заслуги в области образования (Приказ Минобрнауки России от 29.12.2010г.)</td><td>с 1982</td><td>с 1990</td><td>с 1990</td><td>ФГБОУ ВО РЭУ им.Г.В.Плеханова Московский приборостроительный техникум, преподаватель</td><td>Штатный работник</td></tr><tr><td>39</td><td>МДК 01.01 Системное программирование, Информационная безопасность, МДК 02.02 Технология разработки и защиты БД, МДК 01.04 Системное программирование</td><td>Дубовик Алексей Сергеевич</td><td>МФПУ "СИНЕРГИЯ", 2018 г.; специализация:Информационные системы и технологии,квалификация: Бакалавр. МПТ РЭУ им. Г.В. Плеханова, 2017г.; специальность: Прикладная информатика (по отраслям), квалификация: техник-программист;<br>&nbsp;</td><td>Переподготовка: ФГБОУ ВО "РЭУ им. Г.В. Плеханова" по программе "Педагог среднего профессионального образования", 2018г. квалификация: Педагог профессионального обучения, профессионального образования и дополнительного образования. Повышение квалификации: ГАПОУ г. Москвы «Колледж предпринимательства №11» , 2017г., по программе «Практика и методика подготовки кадров по профессии (специальности) «Сетевой и системный администратор» с учетом стандарта Ворлдскиллс Россия по компетенции «Сетевое и системное администрирование», объем — 92часа.</td><td>Не имеет</td><td>с 2015</td><td>с 2017</td><td>с 2017</td><td>ФГБОУ ВО РЭУ им.Г.В.Плеханова Московский приборостроительный техникум, мастер по производственному обучению, преподаватель</td><td>Штатный работник</td></tr><tr><td>40</td><td>Иностранный язык</td><td>Дымская Анна Юрьевна</td><td>ГБОУ ВПО Московский городской педагогический университет, 2013 г.., специальность: История; квалификация: учитель истории, специализация: общественно-политические объединения и молодежное движение.<br><br></td><td>Переподготовка: ООО "Центр повышения квалификации и переподготовки "Луч знаний"", 2020г., с присвоением квалификации: Преподаватель информационных технологий, объем - 300 часов.&nbsp; АОУ ВПО Московский институт открытого образования, 2015г., по программе «Лингвистика и межкультурные коммуникации», квалификация: учитель английского языка. ФГБОУ ВО Государственный институт русского языка им. Пушкина, 2017г., с предоставлением права на ведение профессиональной деятельности в сфере «Русский язык как иностранный и методика его преподавания», объем — 300 часов.</td><td>Не имеет</td><td>с 2011</td><td>с 2012</td><td>с 2012</td><td>ФГБОУ ВО РЭУ им.Г.В.Плеханова Московский приборостроительный техникум, преподаватель</td><td>Штатный работник</td></tr><tr><td>41</td><td>Физическая культура</td><td>Евдокименко Олег Архипович</td><td>Брянский государственный педагогический университет, 1999г., специальность: Физическая культура и спорт, квалификация: учитель физической культуры.</td><td>Повышение квалификации: ФГБОУ ВО «Российский экономический университет имени Г. В. Плеханова», 2019г. по программе: «Основы оказания первой помощи», объем — 16 часов.</td><td>Не имеет</td><td>с 1993</td><td>с 1993</td><td>с 1993</td><td>ФГБОУ ВО РЭУ им.Г.В.Плеханова Московский приборостроительный техникум, преподаватель</td><td>Штатный работник</td></tr><tr><td>42</td><td>Основы проектирования баз данных;&nbsp; Базы данных, Сопровождение и разработка БД; МДК 05.01 Проектирование и дизайн ИС, МДК 05.03 Тестирование ИС</td><td>Елистратова Полина Алексеевна</td><td>ФГБОУ ВО «РЭУ им. Г.В. Плеханова» МПТ 2017г., специальность: Информационные системы (по отраслям), квалификация: техник по информационным системам</td><td>Переподготовка: ФГБОУ ВО "РЭУ им. Г.В. Плеханова" по программе "Педагог среднего профессионального образования", 2018г. квалификация: Педагог профессионального обучения, профессионального образования и дополнительного образования.</td><td>Не имеет</td><td>с 2016</td><td>с 2017</td><td>с 2017</td><td>ФГБОУ ВО РЭУ им.Г.В.Плеханова Московский приборостроительный техникум, преподаватель</td><td>Штатный работник</td></tr><tr><td>43</td><td>История</td><td>Ермаков Александр Вадимович</td><td>ФГБОУ ВПО Московский государственный гуманитарный университет им. М.А.Шолохова, 2012г., специальность: История, .квалификация: учитель истории.</td><td>Повышение квалификации: ФГБОУ ВО «Российский экономический университет имени Г. В. Плеханова», 2019г. по программе: «Основы оказания первой помощи», объем — 16 часов.</td><td>Не имеет</td><td>с 2004</td><td>с 2013</td><td>с 2013</td><td>ФГБОУ ВО РЭУ им.Г.В.Плеханова Московский приборостроительный техникум, преподаватель</td><td>Штатный работник</td></tr><tr><td>44</td><td>МДК 03.03 Метрология, стандартизация и сертификация;&nbsp; Стандартизация, сертификация и техническое документоведение;&nbsp; МДК 03.03 Документирование и сертификация;&nbsp; Метрология, стандартизация и сертификация</td><td>Ермачкова Ирина Юрьевна</td><td>Российский химико-технологический университет им. Д.И. Менделеева, 2002 г.; специальность: Химическая технология тугоплавких неметаллических и сильных материалов;квалификация:инженер. Среднее профессиональное: ФГБОУ ВПО «Российский государственный торгово-экономический университет», 2013г.,&nbsp; специальность: Программное обеспечение вычислительной техники и автоматизированных систем;&nbsp; квалификация — техник.</td><td>Переподготовка: ООО «Инфоурок», 2019г. по программе «Метрология, стандартизация и сертификация: теория и методика преподавания в образовательной организации»; ФГБОУ ВО "РЭУ им. Г.В. Плеханова" по программе "Педагог среднего профессионального образования", 2018г. квалификация: Педагог профессионального обучения, профессионального образования и дополнительного образования. Повышение квалификации: ФГБОУ ВО «Российский экономический университет имени Г. В. Плеханова», 2019г. по программе: «Основы оказания первой помощи», объем — 16 часов. ФГБОУ ВО «Российский экономический университет имени Г. В. Плеханова», 2018г. по программе:«Особенности инклюзивного образования в вузе (с применением дистанционных образовательных технологий)», объем - 72 часа. ФГБОУ ВО "РЭУ им. Г.В. Плеханова", 2018г., по программе: "Корпоративная культура и клиентоориентированность (с применением дистанционных образовательных технологий), объем - 16 часов.</td><td>Первая квалификационная категория</td><td>с 1996</td><td>с 2009</td><td>с 2009</td><td>ФГБОУ ВО РЭУ им.Г.В.Плеханова Московский приборостроительный техникум, преподаватель</td><td>Штатный работник</td></tr><tr><td>45</td><td>Информационные технологии</td><td>Ермашенко Екатерина Антоновна</td><td>Московский государственный институт радиотехники, электроники и автоматики, 1997г.; специальность: Вычислительные машины, комплексы, системы и сети; квалификация: Инженер-системотехник.</td><td>Переподготовка: ФГБОУ ВО "РЭУ им. Г.В. Плеханова" по программе "Педагог среднего профессионального образования", 2018г. квалификация: Педагог профессионального обучения, профессионального образования и дополнительного образования. Повышение квалификации: ФГБОУ ВО «РЭУ им. Г.В. Плеханова» 2018г.&nbsp; по дополнительной образовательной программе «Современные психологические технологии в образовании», в объёме 72 часов.&nbsp; ФГБОУ ВО «РЭУ им. Г.В. Плеханова», 2018г. по дополнительной образовательной программе «Особенности инклюзивного образования в ВУЗЕ&nbsp; (с применениями дистанционных образовательных технологий)», в объёме 72 часов.&nbsp;&nbsp;&nbsp; Центр экспертизы и внедрения образовательных программ ФГАУ «ФИРО», 2017 г.&nbsp; по программе «Управление проектами в сфере образования», в объёме 108 часов.&nbsp; ФГБОУ ВО «РЭУ им. Г.В. Плеханова» 2017г. по программе «Современные научно-педагогические технологии обеспечения образовательной и научной деятельности в университете (с применениями дистанционных образовательных технологий)», в объёме 36 часов.</td><td>Высшая квалификационная категория,&nbsp; 1. Нагрудный знак «Почетный работник СПО РФ» 2008г.&nbsp; 2. Серебрянный Почетный знак им. Николая Румянцева «За благородные труды»</td><td>с 1987</td><td>с 1987</td><td>с 1987</td><td>ФГБОУ ВО РЭУ им.Г.В.Плеханова Московский приборостроительный техникум, заместитель директора по производственному обучению, преподаватель</td><td>Штатный работник</td></tr><tr><td>46</td><td>МДК 05.03 Тестирование ИС; МДК 01.02 Поддержка и тестирование программных модулей</td><td>Жданцев Кирилл Николаевич</td><td>&nbsp;ФГБОУ ВО РЭУ им. Г.В. Плеханова Московский приборостроительный техникум, 2017г., специальность: Информационные системы (по отраслям), квалификация: Техник по информационным системам</td><td>Переподготовка: ООО "Инфоурок" по программе "Педагог среднего-профессионального образования. Теория и практика реализации ФГОС нового поколения", 2019г., квалификация: преподаватель, объем - 300 часо.</td><td>Не имеет</td><td>с 2016</td><td>с 2019</td><td>с 2019</td><td>ФГБОУ ВО РЭУ им.Г.В.Плеханова Московский приборостроительный техникум, техник, преподаватель</td><td>Штатный работник</td></tr><tr><td>47</td><td>Основы теории информации, МДК 01.05 Организация администрирования ОС Linux; МДК 02.01 Программное обеспечение компьютерных систем</td><td>Жуков Александр&nbsp; Андреевич</td><td>&nbsp;ФГБОУ ВО РЭУ им. Г.В. Плеханова Московский приборостроительный техникум, 2017г., специальность: Компьютерные сети, квалификация: Техник по компьютерным сетям.&nbsp;</td><td>Не проходил</td><td>Не имеет</td><td>с 2014</td><td>с 2017</td><td>с 2017</td><td>ФГБОУ ВО РЭУ им.Г.В.Плеханова Московский приборостроительный техникум, преподаватель</td><td>Штатный работник</td></tr><tr><td>48</td><td>Архитектура аппаратных средств, Технологии физического уровня передачи данных, МДК 01.02 Организация, принципы построения и функционирования компьютерных сетей,&nbsp; МДК 02.02 Программное обеспечение КС, МДК 03.03 Технические средства информатизации, Сетевые языки,&nbsp; МДК 01.02 Организация, принципы построения и функционирования компьютерных сетей,</td><td>Журкин Сергей Александрович</td><td>&nbsp;ФГБОУ ВО РЭУ им. Г.В. Плеханова Московский приборостроительный техникум, 2017г., специальность: Компьютерные сети, квалификация: Техник по компьютерным сетям</td><td>Переподготовка: ФГБОУ ВО "РЭУ им. Г.В. Плеханова" по программе "Педагог среднего профессионального образования", 2018г. квалификация: Педагог профессионального обучения, профессионального образования и дополнительного образования.</td><td>Не имеет</td><td>с 2018</td><td>с 2018</td><td>с 2018</td><td>ФГБОУ ВО РЭУ им.Г.В.Плеханова Московский приборостроительный техникум, преподаватель</td><td>Штатный работник</td></tr><tr><td>49</td><td>Иностранный язык</td><td>Завьялова Анастасия Дмитриевна</td><td>Южно-Уральский государственный гуманитарно-педагогический университет г. Челябинск, 2019г.,&nbsp; направление подготовки: Педагогическое образование, квалификация: бакалавр, профиль: начальное образование.</td><td>Переподготовка: Уральский институт повышения квалификации и переподготовки, 2019г., по программе: Педагогическая деятельность по проектированию и реализации образовательного процесса в соответствии с ФГОС, квалификация: учитель иностранного языка (английского), объем — 620 часов.</td><td>Не имеет</td><td>с 2014</td><td>с 2015</td><td>с 2015</td><td>ФГБОУ ВО РЭУ им.Г.В.Плеханова Московский приборостроительный техникум, преподаватель</td><td>Штатный работник</td></tr><tr><td>50</td><td>Архитектура аппаратных средств; Основы алгоритмизации и программирования, Технические средства информатизации; Техническая защита информации; МДК 04.01 Внедрение и поддержка компьютерных систем, МДК 03.01 Техническая защита информации, МДК 05.03 Тестирование информационных систем</td><td>Захаренков Игорь Олегович</td><td>ФГБОУ ВПО Донской государственный технологический университет, 2015г., специальность – Экономика&nbsp; и управление на предприятии (в сфере быта и услуг);<br>квалификация — экономист-менеджер.&nbsp; ГОУ СПО Майкопский государственный гуманитарно-технический колледж Адыгейского государственного университета 2007 г.; специальность: Программное обеспечение вычислительной техники и автоматизированных систем, квалификация: техник</td><td>Переподготовка: ФГБОУ ВО "РЭУ им. Г.В. Плеханова" по программе "Педагог среднего профессионального образования", 2018г. квалификация: Педагог профессионального обучения, профессионального образования и дополнительного образования.&nbsp;&nbsp;</td><td>Не имеет</td><td>с 2007</td><td>с 2018</td><td>с 2018</td><td>ФГБОУ ВО РЭУ им.Г.В.Плеханова Московский приборостроительный техникум, преподаватель</td><td>Штатный работник</td></tr><tr><td>51</td><td>&nbsp;Элементы высшей математики;</td><td>Зимогорова Марина Владимировна</td><td>Костромской государственный университет им. Н.А. Некрасова, 2003 г, по специальности «Математика» с дополнительной специальностью «Информатика»; квалификация: учитель математики и информатики.</td><td>Повышение квалификации:ФГБОУ ВО Костромской государственный университет, иснтитут профессионального разваития, 2019г., по программе "Информационно-коммуникационные (цифровые) технологии в профессиональной деятельности", объем - 72 часа.ФГБОУ ВО «РЭУ им. Г.В. Плеханова», 2018г. по дополнительной образовательной программе «Особенности инклюзивного образования в ВУЗЕ (с применениями дистанционных образовательных технологий)», в объёме 72 часов. ООО Учеьный центр "Профессионал", 2017г., по программе "Скрайбинг и веб-квест как инновационные образовательные технологии в условиях реализации ФГОС СПО", объем - 72 часа.</td><td>Высшая квалификационная категория</td><td>с 2003</td><td>с 2003</td><td>с 2003</td><td>ФГБОУ ВО РЭУ им.Г.В.Плеханова Московский приборостроительный техникум, преподаватель</td><td>Штатный работник</td></tr><tr><td>52</td><td>Элементы высшей математики; Математика</td><td>Зиновьева Галина Михайловна</td><td>Московский государственный педагогический институт им. В.И.Ленина, 1960г; специальность: математика и черчение. квалификация: учитель математики и черчения средней школы и звание учителя средней школы.</td><td>Повышение квалификации: ЧУ ДПО "Международная академия бизнеса", 2020г.,&nbsp; по программе "Методика преподавания математики в условиях реализации ФГОС СПО", объем-72 часа. НОУ "Междунарожная академия бизнеса", 2017г., по программе "Актуальные проблемы преподавания математики, в учебных заведениях СПО в условиях реализации ФГОС СПО нового поколения".</td><td>Почетная грамота за многолетнюю, плодотворную работу по подготовке и воспитанию квалифицированных специалистов для предприятий и организаций г.Москвы и в связи с 75-летием со дня основания колледжа (Московский политехнический колледж).&nbsp; Медаль «В память 850-летия Москвы» за многолетний и плодотворный труд — по Указу Президента.</td><td>с 1959</td><td>с 1959</td><td>с 1959</td><td>ФГБОУ ВО РЭУ им.Г.В.Плеханова Московский приборостроительный техникум, преподаватель</td><td>Штатный работник</td></tr><tr><td>53</td><td>Теория вероятностей и математическая статистика, Дискретная математика с элементами математической логики; Теория вероятностей и математическая статистика</td><td>Калашникова Юлия Андреевна</td><td>ГОУ ВО&nbsp; МО Московский государственный областной университет., 2016г., направление подготовки: Педагогическое образование, квалификация: бакалавр,&nbsp;&nbsp; профиль: Математика,&nbsp; ГОУ ВПО Московский государственный областной университет,&nbsp; 2011г., специальность: География, квалификация: учитель географии.</td><td>Повышение квалификации:ФГБОУ ВО «Российский экономический университет имени Г. В. Плеханова», 2018г. по программе:«Особенности инклюзивного образования в вузе (с применением дистанционных образовательных технологий)», объем - 72 часа.</td><td>Не имеет</td><td>с 1993</td><td>с 2012</td><td>с 2012</td><td>ФГБОУ ВО РЭУ им.Г.В.Плеханова Московский приборостроительный техникум, преподаватель</td><td>Штатный работник</td></tr><tr><td>54</td><td>Информатика.</td><td>Каминьски Алина Романовна</td><td>ФГБОУ ВО РЭУ им. Г.В. Плеханова, 2018г., специальность: Прикладная информатика (по отраслям), квалификация: Техник-программист</td><td>Переподготовка: ФГБОУ ВО "РЭУ им. Г.В. Плеханова" по программе "Педагог среднего профессионального образования", 2018г. квалификация: Педагог профессионального обучения, профессионального образования и дополнительного образования. Повышение квалификации: ФГБОУ ВО «Российский экономический университет имени Г. В. Плеханова», 2019г. по программе:«Основы оказания первой помощи», объем - 16 часов.</td><td>Не имеет</td><td>с 2018</td><td>с 2018</td><td>с 2018</td><td>ФГБОУ ВО РЭУ им.Г.В.Плеханова Московский приборостроительный техникум, преподаватель</td><td>Штатный работник</td></tr><tr><td>55</td><td>Основы информационной безопасности,&nbsp; МДК 01.01 Разработка программных модулей, МДК 03.03 Разработка мобильных приложений;&nbsp; МДК 02.03. Организация компьютерных систем Linux; МДК 01.01 Обработка отраслевой информации; МДК 01.01 Эксплуатация ИС; Информационная безопасность</td><td>Канакин Александр Викторович</td><td>НОЧУ ВО Московский финансово-промышленный университет "Синергия", 2016; направление подготовки: Прикладная информатика; квалификация:бакалавр.&nbsp; Московский приборостроительный техникум РЭУ им. Г.В. Плеханова, 2015г., специальность: Информационные системы (по отраслям); квалификация - техник по информационным системам.</td><td>Переподготовка: ФГБОУ ВО "РЭУ им. Г.В. Плеханова" по программе "Педагог среднего профессионального образования", 2018г. квалификация: Педагог профессионального обучения, профессионального образования и дополнительного образования.</td><td>Не имеет</td><td>с 2015</td><td>с 2015</td><td>с 2015</td><td>ФГБОУ ВО РЭУ им.Г.В.Плеханова Московский приборостроительный техникум, преподаватель</td><td>Штатный работник</td></tr><tr><td>56</td><td>МДК 01.01 Эксплуатация подсистем безопасности автоматизированных систем; МДК 02.01. Технология разработки&nbsp; программного обеспечения, МДК 03.04 Эксплуатация автоматизированных ИС в защищенном исполнении; МДК 03.01 Сопровождение и продвижение программного обеспечения отраслевой направленности;&nbsp; МДК 09.03 Обеспечение&nbsp; безопасности веб-приложений</td><td>Караваев Сергей Владимирович</td><td>ФГБОУ ВО «Московский технологический университет» , 2016 г., направление подготовки: Информационные системы и технологии; квалификация: бакалавр. ГОУ СПО «Московский приборостроительный техникум», 2008 г., специальность: Программное обеспечение вычислительной техники и автоматизированных систем; квалификация: техник.</td><td>Переподготовка: ФГБОУ ВО "РЭУ им. Г.В. Плеханова" по программе "Педагог среднего профессионального образования", 2018г. квалификация: Педагог профессионального обучения, профессионального образования и дополнительного образования.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td><td>Не имеет</td><td>с 2008</td><td>с 2008</td><td>с 2008</td><td>ФГБОУ ВО РЭУ им.Г.В.Плеханова Московский приборостроительный техникум, преподаватель</td><td>Штатный работник</td></tr><tr><td>57</td><td>МДК 02.03 Математическое моделирование, МДК 01.02 Поддержка и тестирование программных модулей; МДК 06.01 Внедрение ИС, МДК 06.03&nbsp; Устройство и функционирование ИС, МДК 03.01 Моделирование и анализ ПО</td><td>Карасева Светлана Андреевна</td><td>ФГБОУ ВО РЭУ им .Г.В. Плеханова Московский приборостроительный техникум, 2018 г.; специальность: Прикладная информатика (по отраслям); квалификация: техник-программист</td><td>Переподготовка: ФГБОУ ВО "РЭУ им. Г.В. Плеханова" по программе "Педагог среднего профессионального образования", 2018г. квалификация: Педагог профессионального обучения, профессионального образования и дополнительного образования.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Переподготовка: АНО ДПО Межрегиональная Академия строительного и промышленного комплекса, 2019г.&nbsp; по программе «Преподаватель информатики» с правом ведения профессиональной деятельности в сфере преподавательской деятельности, объем — 252 часа.</td><td>Не имеет</td><td>с 2018</td><td>с 2018</td><td>с 2018</td><td>ФГБОУ ВО РЭУ им.Г.В.Плеханова Московский приборостроительный техникум, преподаватель</td><td>Штатный работник</td></tr><tr><td>58</td><td>Иностранный язык</td><td>Карцева Алина Викторовна</td><td>ННОУ ВО "Институт Социальных Наук", 2015г., направление подготовки: Международные отношения,&nbsp; квалификация: бакалавр международных отношений.</td><td>Переподготовка: ГАОУ ВО Московский городсткой педагогический университет, 2017г., по программе: Учитель иностранного (английского) языка, с правом ведения профессиональной деятельности в сфере общего образования,&nbsp; квалификация: Учитель иностранного (английского) языка.<br>Повышение квалификации: НОУ "Интуит", 2017г., по курсу "Английский язык для ИТ-специалистов", объем - 2 часа.</td><td>Не имеет</td><td>с 2014</td><td>с 2017</td><td>с 2017</td><td>ФГБОУ ВО РЭУ им.Г.В.Плеханова Московский приборостроительный техникум, преподаватель</td><td>Штатный работник</td></tr><tr><td>59</td><td>Основы проектной деятельности</td><td>Кирюхина Мария Николаевна</td><td>Московский государственный университет пищевых производств, 2003г., направление: Технология продуктов питания, степень:&nbsp; магистр техники и технологии&nbsp; .</td><td>Переподготовка: ООО "Национальная академия современных технологий", 2019г., по программе "Педагогическое образование: преподаватель направления "Основы проектной деятельности"", с правом ведения профессиональной деятельности в сфере педагогического образования. Повышение квалификации:ФГБОУ ВО «Российский экономический университет имени Г. В. Плеханова», 2019г. по программе: "Основы оказания первой помощи", объем - 16 часов. ФГБОУ ВО «Российский экономический университет имени Г. В. Плеханова», 2018г. по программе:«Особенности инклюзивного образования в вузе (с применением дистанционных образовательных технологий)», объем - 72 часа.</td><td>Не имеет</td><td>с 2003</td><td>с 2017</td><td>с 2017</td><td>ФГБОУ ВО РЭУ им.Г.В.Плеханова Московский приборостроительный техникум, педагог-организатор, преподаватель</td><td>Штатный работник</td></tr><tr><td>60</td><td>Русский язык и литература</td><td>Кирюхина Ольга Николаевна</td><td>Московский ордена Ленина и ордена Трудового Красного Знамени государственный педагогический институт им.В.И.Ленина. 1982., специальности: Русский язык и литература; квалификация: учитель русского языка и литературы и звание учителя средней школы.</td><td>ФГБОУ ВО "РЭУ им. Г.В. Плеханова", 2017г., по программе "Современные научно-педагогические технологии обеспечения образовательной и научной деятельности в университете (с применением дистанционных образовательных технологий)".</td><td>Высшая квалификационная категория, Значок «Народного просвещения». Медаль «В память 850-летия Москвы» Указ 1997г.</td><td>с 1976</td><td>с 1976</td><td>с 1976</td><td>ФГБОУ ВО РЭУ им.Г.В.Плеханова Московский приборостроительный техникум, преподаватель</td><td>Штатный работник</td></tr><tr><td>61</td><td>Экономика отрасли; Экономика организации; Менеджмент; Менеджмент в профессиональной деятельности</td><td>Кицына Светлана Павловна</td><td>Кишиневский государственный университет им.В.И. Ленина 1989г., специальность: Финансы и кредит, квалификация: экономист</td><td>Переподготовка: ФГБОУ ВО "РЭУ им. Г.В. Плеханова" по программе "Педагог среднего профессионального образования", 2018г. квалификация: Педагог профессионального обучения, профессионального образования и дополнительного образования.</td><td>Медаль им.Г.И. Челпанова (2 степени) «За вклад в развитие психологической науки» Удостоверение №152 от 04.08.2016 — Федерация психологов образования России Москвский городской психолого-педагогический университет Психологический институт Российской академии образования</td><td>с 1993</td><td>с 2009</td><td>с 2009</td><td>ФГБОУ ВО РЭУ им.Г.В.Плеханова Московский приборостроительный техникум, преподаватель</td><td>Штатный работник</td></tr><tr><td>62</td><td>Элементы высшей математики; Естествознание, Логика, Основы экологического права</td><td>Клейман Римма Яковлевна</td><td>Московский орденов Ленина и Трудового Красного Знамени химико-технологический институт им. Д.И.Менделеева, 1976. специальность: Химическая технология керамики и огнеупоров, квалификация: инженер-технолог</td><td>Переподготовка: ФГБОУ ВО "РЭУ им. Г.В. Плеханова" по программе "Педагог среднего профессионального образования", 2018г. квалификация: Педагог профессионального обучения, профессионального образования и дополнительного образования. Повышение квалификации: ФГБОУ ВО «Российский экономический университет имени Г. В. Плеханова», 2019г. по программе: «Основы оказания первой помощи», объем — 16 часов.</td><td>Кандидат химических наук, Первая квалификационная категория, Медаль «В память 850-летия Москвы», Звание «Ударник Коммунистического труда», Знак «Шахтерская слава», Знак «50 лет Дню Шахтера»</td><td>с 1976</td><td>с 1994</td><td>с 1994</td><td>ФГБОУ ВО РЭУ им.Г.В.Плеханова Московский приборостроительный техникум, преподаватель</td><td>Штатный работник</td></tr><tr><td>63</td><td>Основы алгоритмизации и программирования, МДК 06.04 Интеллектуальные системы и технологии, МДК 03.02 Управление проектами</td><td>Клопов Дмитрий Анатольевич</td><td>Государственный университет управления, 2001 г.; специальность: Математические методы и исследование операций в экономике; квалификация: экономист-математик. Московский приборостроительный техникум, 1990 г.; специальность: Программирование для быстродействующих математических машин, квалификация: техник-математик-программист</td><td>Переподготовка: ООО Учебный центр "Профессионал", 2019г., по программе: "Педагог среднего профессионального образования. Теория и практика реализации ФГОС нового поколения", квалификация: Преподаватель. Повышение квалификации: ФГБУ Национальное аккредитационное агентство в сфере образования, 2019г., по программе: "Разработка и реализация основной образовательной программы в соответствии с требованиями ФГОС", объем-24 часа. ФГБОУ ВО «Российский экономический университет имени Г. В. Плеханова», 2018г. по программе:«Особенности инклюзивного образования в вузе (с применением дистанционных образовательных технологий)», объем - 72 часа.&nbsp; ФГАУ "Федеральный институт развития образования", 2017г., по программе "Управление проектами в сфере образования", объем 108 часов. ФГБОУ ВО "РЭУ им. Г.В. Плеханова", 2017г., по программе "Современные научно-педагогические технологии обеспечения образовательной и научной деятельности в университете (с применением дистанционных образовательных технологий)", объем - 36 часов. ГАП ОУ г.Москвы "Колледж предпринимательства №11", 2017г., по программе: Практика и методика подготовки кадров по профессии "Программист", "Специалист по информационным системам", "Специалист по тестированию в области информационных технологий" с учетом стандарта Ворлдскиллс Россия по компетенции "Программные решения для бизнеса", объем - 92 часа.</td><td>Кандидат экономических наук, Высшая квалификационная категория</td><td>с 1988</td><td>с 1995</td><td>с 1995</td><td>ФГБОУ ВО РЭУ им.Г.В.Плеханова Московский приборостроительный техникум, заместитель директора по учебной работе, преподаватель</td><td>Штатный работник</td></tr><tr><td>64</td><td>Безопасность жизнедеятельности; МДК 02.01 Организация работы органов и учреждений СЗН и органов ПФ РФ</td><td>Ключник Владлен Иванович</td><td>Московское высшее пограничное командное ордена Октябрьской революции Краснознаменное училище КГБ СССР им.Моссовета, 1988, специальность: командная тактическая мотострелковых войск; квалификация: офицер с высшим военно-специальным образованием, преподаватель начального военного обучения.&nbsp;&nbsp;&nbsp; Академия пограничных войск РФ, 1996, специальность: командно-штабная оперативно-тактическая пограничных войск; квалификация: офицер оперативно-тактического уровня. Институт переподготовки военнослужащих РФ, 1995, специальность: юриспруденция, квалификация: юрист, специализация: гражданское и маркетинговое право.</td><td>Повышение квалификации: ФГБОУ ВО «Российский экономический университет имени Г. В. Плеханова», 2019г. по программе: «Основы оказания первой помощи», объем — 16 часов.</td><td>Медаль «За отличие в охране государственной границы» 2000г.&nbsp; Ветеран военной службы, 2010г.</td><td>с 1984</td><td>с 2002-2010; с 2019</td><td>с 2002-2010; с 2019</td><td>ФГБОУ ВО РЭУ им.Г.В.Плеханова Московский приборостроительный техникум, преподаватель</td><td>Штатный работник</td></tr><tr><td>65</td><td>Основы безопасности жизнедеятельности, Основы проектной деятельности</td><td>Ключник Наталья Евгеньевна</td><td>Московский государственный открытый педагогический университет, 2000г., специальность: Биология, квалификация: учитель биологии и экологии. Российский государственный гуманитарный университет, 2012., специальность: Юриспруденция, квалификация: юрист.&nbsp;</td><td>Переподготовка: АНО ВО "Московский институт современного академического образования", 2016г., преподаватель-организатор основ БЖ. Повышение квалификации: Повышение квалификации: ФГБОУ ВО «Российский экономический университет имени Г. В. Плеханова», 2019г. по программе: «Охрана труда работников организаций», объем — 40 часов. ФГБОУ ВО «Российский экономический университет имени Г. В. Плеханова», 2019г. по программе: «Основы оказания первой помощи», объем — 16 часов. ФГБОУ ВО "РЭУ им. Г.В. Плеханова", 2018г. по программе - Особенности инклюзивного образования в ВУЗЕ (с применением дистанционных образовательных технологий), объем - 72 часа.</td><td>Первая квалификационная категория</td><td>с 1995</td><td>с 2001</td><td>с 2001</td><td>ФГБОУ ВО РЭУ им.Г.В.Плеханова Московский приборостроительный техникум, преподаватель</td><td>Штатный работник</td></tr><tr><td>66</td><td>Операционные системы и среды, МДК 09.01 Проектирование и разработка веб - приложений,</td><td>Козик Илья Дмитриевич</td><td>МПТ РЭУ им. Г.В. Плеханова, 2018 г., специальность: Программирование в компьютерных системах; квалификация:Техник-программист</td><td>Не проходил</td><td>Не имеет</td><td>с 2014</td><td>с 2018</td><td>с 2018</td><td>ФГБОУ ВО РЭУ им.Г.В.Плеханова Московский приборостроительный техникум, документовед, преподаватель</td><td>Штатный работник</td></tr><tr><td>67</td><td>МДК 01.02 Прикладное программирование, МДК 02.02 Технология и защита БД,</td><td>Комаров Андрей Алексеевич</td><td>НОЧУ ВО МФПУ "СИНЕРГИЯ", 2018 направление подготовки: Информационные системы и технологии; квалификация:бакалавр.<br>МПТ РЭУ им. Г.В. Плеханова, 2017 г.; специальность: Прикладная информатика (по отраслям); квалификация: Техник-программист.&nbsp;</td><td>Переподготовка: ФГБОУ ВО "РЭУ им. Г.В. Плеханова" 2018г. по программе "Педагог среднего профессионального образования",&nbsp; квалификация: Педагог профессионального обучения, профессионального образования и дополнительного образования. Переподготовка: МАЭО, 2017г.; по программе: Психология; квалификация: Психолог. Переподготовка:МИСАО, 2017г.; специализация: Общая педагогика: Теория и методика обучения и воспитания в рамках реализации ФГОС.&nbsp; Повышение квалификации: ГАП ОУ г. Москвы «Колледж предпринимательства№11» 2017г. По программе «Практика и методика подготовки кадров по профессии «Программист», «Специалист по информационным системам», Специалист по тестированию в области информационных технологий с учетом стандарта Ворлдскиллс Россия по компетенции «Программные решения для бизнеса»», объем -72часа.&nbsp;</td><td>Не имеет</td><td>с 2015</td><td>с 2017</td><td>с 2017</td><td>ФГБОУ ВО РЭУ им.Г.В.Плеханова Московский приборостроительный техникум, преподаватель</td><td>Штатный работник</td></tr><tr><td>68</td><td>Компьютерные сети; МДК 01.02 Эксплуатация КС; МДК 01.03 Сети и системы передачи информации , МДК 01.05 Эксплуатация КС</td><td>Кузнецов Павел Олегович</td><td>НОУ ВО Московский финансово-промышленный университет&nbsp; «Синергия» 2016 г.; направление подготовки: Прикладная информатика; квалификация: бакалавр. НОЧУ ВО Московский финансово-промышленный университет «Синергия»,&nbsp; 2018 г.;&nbsp; Направление подготовки: Прикладная информатика, квалификация: Магистр.&nbsp; ФГБОУ ВО "РЭУ им. Г.В. Плеханова", 2015г,&nbsp; специальность: Информационные системы (по отраслям); квалификация: техник по информационным системам.</td><td>Переподготовка: ФГБОУ ВО "РЭУ им. Г.В. Плеханова" по программе "Педагог среднего профессионального образования", 2018г. квалификация: Педагог профессионального обучения, профессионального образования и дополнительного образования.</td><td>Первая квалификационная категория</td><td>с 2015</td><td>с 2015</td><td>с 2015</td><td>ФГБОУ ВО РЭУ им.Г.В.Плеханова Московский приборостроительный техникум, преподаватель</td><td>Штатный работник</td></tr><tr><td>69</td><td>Психология общения</td><td>Кузнецова Наталья Сергеевна</td><td>Благовещенский государственный педагогический университет, 2000г. , специальность: Филология,&nbsp; квалификация: учитель русского языка и литературы.</td><td>Повышение квалификации: ФГБОУ ВО «Российский экономический университет имени Г. В. Плеханова», 2019г. по программе: «Основы оказания первой помощи», объем — 16 часов.</td><td>Кандидат педагогических наук, Почетная грамота университета за многолетний добросовестный труд в деле подготовки квалифицированных специалистов для сельского хозяйства области</td><td>с 2000</td><td>с 2000</td><td>с 2000</td><td>ФГБОУ ВО РЭУ им.Г.В.Плеханова Московский приборостроительный техникум, преподаватель</td><td>Штатный работник</td></tr><tr><td>70</td><td>Информатика</td><td>Курносова Варвара Андреевна</td><td>ФГБОУ ВО "РЭУ им .Г.В. Плеханова" Московский приборостроительный техникум, 2019г., специальность: Информационные системы (по отраслям); квалификация: техник по информационным системам</td><td>Переподготовка: ЧОУ ДПО «Институт повышения квалификации и профессиональной переподготовки, 2019г.,&nbsp; по программе: Информатика в общеобразовательных организациях и организациях профессионального образования, квалификация: учитель, преподаватель информатики.</td><td>Не имеет</td><td>с 2017</td><td>с 2019</td><td>с 2019</td><td>ФГБОУ ВО РЭУ им.Г.В.Плеханова Московский приборостроительный техникум, преподаватель</td><td>Штатный работник</td></tr><tr><td>71</td><td>Математические методы и исследование операций, Теория вероятностей с элементами математической логики;&nbsp; Физика; Астрономия</td><td>Леденчук Нонна Станиславовона</td><td>Государственный университет Каракалпакии им.Бердак, 2000г., направление подготовки: Математика, квалификация: бакалавр.</td><td>Переподготовка: АНО ДПО Федеральный институт повышения квалификации и переподготовки, по программе: Педагогическое образование: учитель физики, квалификация: учитель физики, 2019г., объем-280часов.</td><td>Первая квалификационная категория</td><td>с 2004</td><td>с 2001</td><td>с 2001</td><td>ФГБОУ ВО РЭУ им.Г.В.Плеханова Московский приборостроительный техникум, преподаватель</td><td>Штатный работник</td></tr><tr><td>72</td><td>Иностранный язык, Иностранный язык в профессиональной деятельности</td><td>Лосикова Анна Львовна</td><td>&nbsp;ФГБОУ Московский педагогический государственный университет,&nbsp; 2012г.,&nbsp; специальность: Педагогика и методика начального образования с дополнительной специальностью иностранный язык (английский), квалификация: учитель начальных классов и учитель иностранного языка (английского).&nbsp; Среднее профессиональное, Московский педагогический колледж № 8, 2009г., специальность: Преподавание в начальных классах,&nbsp; квалификация: учитель начальных классов с дополнительной подготовкой в области иностранного языка.</td><td>Повышение квалификации: ФГБОУ ВО «Российский экономический университет имени Г. В. Плеханова», 2019г. по программе: «Основы оказания первой помощи», объем — 16 часов.&nbsp; НОУ "ИНТУИТ", 2018г., курс "Английский язык для ИТ-специалистов", объем - 72часа. НОУ "ИНТУИТ", 2018г., курс "Деловая переписка на английском языке", объем - 72часа.</td><td>Первая квалификационная категория</td><td>с 2012</td><td>с 2012</td><td>с 2012</td><td>ФГБОУ ВО РЭУ им.Г.В.Плеханова Московский приборостроительный техникум, преподаватель</td><td>Штатный работник</td></tr><tr><td>73</td><td>МДК 09.01 Проектирование и разработка веб-приложений, МДК 02.01 Программные аппаратные средства обеспечения; МДК 01.01 Эксплуатация ИС, МДК 02.01 Информационные технологии и платформа разработки ИС</td><td>Лытнев Егор Павлович</td><td>ОАНО ВПО&nbsp; Открытый технологический институт 2012г.; специальность: Прикладная информатика (в экономике), квалификация: информатик-экономист.</td><td>Переподготовка: ФГБОУ ВО "РЭУ им. Г.В. Плеханова" по программе "Педагог среднего профессионального образования", 2018г. квалификация: Педагог профессионального обучения, профессионального образования и дополнительного образования.</td><td>Не имеет</td><td>с 2007</td><td>с 2015</td><td>с 2015</td><td>ФГБОУ ВО РЭУ им.Г.В.Плеханова Московский приборостроительный техникум, преподаватель</td><td>Штатный работник</td></tr><tr><td>74</td><td>МДК 05.02 Разработка кода ИС, Основы алгоритмизации и программирования, МДК 01.03 Разработка мобильных приложений,&nbsp; МДК 01.01 Разработка программных модулей, технология и защита БД</td><td>Лясников Антон Олегович</td><td>ФГБОУ ВО "РЭУ им .Г.В. Плеханова" Московский приборостроительный техникум, 2019г., специальность: Программирование в компьютерных системах; квалификация: техник-программист</td><td>Переподготовка: Всерегиональный научно-образовательный центр "Современные образовательные технологии", 2020г., по программе "Профессиональная деятельность в сфере среднего профессионального образования: преподаватель электротехники в соответствии с ФГОС", квалификация: Преподаватель электротехнических дисциплин.</td><td>Не имеет</td><td>с 2019</td><td>с 2019</td><td>с 2019</td><td>ФГБОУ ВО РЭУ им.Г.В.Плеханова Московский приборостроительный техникум, преподаватель</td><td>Штатный работник</td></tr><tr><td>75</td><td>МДК 01.01 Право социального обеспечения, Семейное право</td><td>Маковская Татьяна Сергеевна</td><td>Институт экономики и права 1999г. , специальность: юриспруденция; квалификация:юрист</td><td>Переподготовка: ФГБОУ ВО "РЭУ им. Г.В. Плеханова" по программе "Педагог среднего профессионального образования", 2018г. квалификация: Педагог профессионального обучения, профессионального образования и дополнительного образования.</td><td>Не имеет</td><td>с 1979</td><td>с 2001</td><td>с 2001</td><td>ФГБОУ ВО РЭУ им.Г.В.Плеханова Московский приборостроительный техникум, преподаватель</td><td>Штатный работник</td></tr><tr><td>76</td><td>&nbsp;Элементы высшей математики; Математика</td><td>Мамошкина Юлия Владиславовна</td><td>Московский государственный технический университет им. Н.Э. Баумана, 1998г. специальность: математика, квалификация: учитель по специальности «Математика». Московский ордена Ленина институт инженеров геодезии , аэрофотосъемки и картографии, 1988г.,&nbsp; специальность: Прикладная геодезия, квалификация: инженер-геодезист.</td><td>Повышение квалификации:ГАОУ ДПО "Московский центр качества образования", 2018г., по программе "Подготовка организаторов в аудитории пункта проведения экзамена государственной итоговой аттестации по образовательным программам среднего общего образования в 2018 году", объем - 8 часов. ГАОУ ВО "Московский институт открытого образования", 2017г., по программе "Повышение квалификации работников образовательных организаций Москвы в процессе коммуникаций с бенефициарами образовательной системы для решения педагогических задач, популяризации услуг образовательных организаций на основе современной единой информационно-образовательной среды", объем - 36 часов. ГБОУ г.Москвы ДПО специалистов Городской методический центр Департамента образования г. Москвы, 2017г., по программе "Формирование информационно-образовательной организации с использованием общегородской платформы электронных образовательных материалов", объем - 16 часов.</td><td>Высшая квалификационная категория</td><td>с 1988</td><td>с 1999</td><td>с 1999</td><td>ФГБОУ ВО РЭУ им.Г.В.Плеханова Московский приборостроительный техникум, преподаватель</td><td>Штатный работник</td></tr><tr><td>77</td><td>Основы алгоритмизации и программирования, МДК 01.01 Разработка программных модулей, МДК 01.02 Поддержка и тестирование программных модулей, Инструментальные средства разработки программного обеспечения, технология и защита БД</td><td>Маркин Павел Александрович</td><td>ФГБОУ ВО "РЭУ им .Г.В. Плеханова" Московский приборостроительный техникум, 2019г., специальность: Программирование в компьютерных системах; квалификация: техник-программист</td><td>Переподготовка: Всерегиональный научно-образовательный центр "Современные образовательные технологии", 2020г., по программе "Профессиональная деятельность в сфере среднего профессионального образования: преподаватель электротехники в соответствии с ФГОС", квалификация: Преподаватель электротехнических дисциплин.</td><td>Не имеет</td><td>с 2019</td><td>с 2019</td><td>с 2019</td><td>ФГБОУ ВО РЭУ им.Г.В.Плеханова Московский приборостроительный техникум, преподаватель</td><td>Штатный работник</td></tr><tr><td>78</td><td>Иностранный язык</td><td>Марченко Елена Юрьевна</td><td>ГОУ ВПО Калужский государственный университет им. К.Э.Циолковского, 2013г, специальность: Иностранный язык, квалификация: учитель иностранного языка (английского). ГОУ ВПО Калужский государственный университет им. К.Э.Циолковского, 2018г, специальность: Образование и педагогические науки, квалификация:: Исследователь. Преподаватель-исследователь, направленность: теория и методика профессионального образования.</td><td>Не проходил</td><td>Высшая квалификационная категория</td><td>с 2009</td><td>с 2011</td><td>с 2011</td><td>ФГБОУ ВО РЭУ им.Г.В.Плеханова Московский приборостроительный техникум, преподаватель</td><td>Штатный работник</td></tr><tr><td>79</td><td>Информатика, Введение в специальность</td><td>Мещеринова Оксана Леонтьевна</td><td>1-ый Московский медицинский институт им. М.А.Сеченова 1999 г. специальность: фармация; квалификация: провизор. ГБПОУ города Москвы «Западный комплекс непрерывного образования», 2016г., специальность: Компьютерные системы и комплексы; квалификация: техник по компьютерным системам.</td><td>&nbsp;Институт ДО "ИНТУИТ" Диплом о профессиональной переподготовке 2011г. По программе «Программирование»&nbsp; с правом&nbsp; ведения профессиональной деятельности в области программирования. Переподготовка: ФГБОУ ВО "РЭУ им. Г.В. Плеханова" по программе "Педагог среднего профессионального образования", 2018г. квалификация: Педагог профессионального обучения, профессионального образования и дополнительного образования. Повышение квалификации: ФГАУ "Федеральный институт развития образования", 2017г., по программе "Управление проектами в сфере образования", объем - 108 часов.</td><td>Первая квалификационная категория</td><td>с 1989</td><td>с 2004</td><td>с 2004</td><td>ФГБОУ ВО РЭУ им.Г.В.Плеханова Московский приборостроительный техникум, преподаватель</td><td>Штатный работник</td></tr><tr><td>80</td><td>Иностранный язык</td><td>Милющенко Юлия Александровна</td><td>Витебский государственный университет им. П.М.Машерова, 2009 г., специальность «Русский язык и литература. Иностранный язык (английский), квалификация: преподаватель.&nbsp; Витебский государственный технологический университет, 2015г., специальность: Маркетинг; квалификация: маркетолог.</td><td>Повышение квалификации: НОУ "Интуит", 2018г., по курсу "Английский язык для ИТ-специалистов", объем - 2 часа.</td><td>Не имеет</td><td>с 2008</td><td>с 2008</td><td>с 2008</td><td>ФГБОУ ВО РЭУ им.Г.В.Плеханова Московский приборостроительный техникум, преподаватель</td><td>Штатный работник</td></tr><tr><td>81</td><td>МДК 03.02 Инструментальные средства разработки программного обеспечения,&nbsp; Технология мультимедиа, Информационная безопасность, МДК 02.02 Технология разработки и защиты БД;&nbsp; Операционные системы и среды</td><td>Минаев Константин Алексеевич</td><td>МФПУ "СИНЕРГИЯ", 2018 г.; квалификация: бакалавр; специализация: Информационные системы и технологии. ФГБОУ ВО РЭУ им. Г.В.Плеханова, МПТ 2017г., специальность: прикладная информатика(по отраслям); квалификация:техник-программист;</td><td>Переподготовка: ФГБОУ ВО "РЭУ им. Г.В. Плеханова" по программе "Педагог среднего профессионального образования", 2018г. квалификация: Педагог профессионального обучения, профессионального образования и дополнительного образования.</td><td>Не имеет</td><td>с 2015</td><td>с 2017</td><td>с 2017</td><td>ФГБОУ ВО РЭУ им.Г.В.Плеханова Московский приборостроительный техникум, мастер по производственному обучению, преподаватель</td><td>Штатный работник</td></tr><tr><td>82</td><td>Основы алгоритмизации и программирования</td><td>Митасов Никита Сергеевич</td><td>ФГБОУ ВО "РЭУ им .Г.В. Плеханова" Московский приборостроительный техникум, 2018г., специальность: Программирование в компьютерных системах; квалификация: техник-программист.</td><td>Повышение квалификации: ФГБОУ ВО «Российский экономический университет имени Г. В. Плеханова», 2019г. по программе: «Основы оказания первой помощи», объем — 16 часов.</td><td>Не имеет</td><td>с 2017</td><td>с 2018</td><td>с 2018</td><td>ФГБОУ ВО РЭУ им.Г.В.Плеханова Московский приборостроительный техникум, преподаватель</td><td>Штатный работник</td></tr><tr><td>83</td><td>Иностранный язык</td><td>Михайлова Яна Витальевна</td><td>Горловский государственный педагогический институт иностранных языков им. Н.К.Крупской, 1999г., специальность: Английский и французский языки, квалификация: учитель английского и французского языков.</td><td>Не проходил</td><td>Не имеет</td><td>с 2006</td><td>с 2014</td><td>с 2014</td><td>ФГБОУ ВО РЭУ им.Г.В.Плеханова Московский приборостроительный техникум, преподаватель</td><td>Штатный работник</td></tr><tr><td>84</td><td>Основы алгоритмизации и программирования, МДК 02.01 Информационные технологии и платформа разработки ИС, Информационные технологии, МДК 02.03 Машинно-ориентированное программирование Основы алгоритмизации и программирования</td><td>Молотков Максим Алексеевич</td><td>НОЧУ&nbsp; ВО Московский финансово-промышленный университет "Синергия", 2016г., направление подготовки: Прикладная информатика; квалификация: бакалавр. &nbsp;Московский приборостроительный техникум ФГБОУ ВПО РЭУ им. Г.В. Плеханова,&nbsp; 2015г., специальность: Информационные системы (по отраслям); квалификация - техник по информационным системам.</td><td>Переподготовка: ФГБОУ ВО "РЭУ им. Г.В. Плеханова" по программе "Педагог среднего профессионального образования", 2018г. квалификация: Педагог профессионального обучения, профессионального образования и дополнительного образования.</td><td>Первая квалификационная категория</td><td>с 2015</td><td>с 2015</td><td>с 2015</td><td>ФГБОУ ВО РЭУ им.Г.В.Плеханова Московский приборостроительный техникум, преподаватель</td><td>Штатный работник</td></tr><tr><td>85</td><td>МДК 02.01 Разработка, внедрение и адаптация программного обеспечения отраслевой направленности, МДК 03.01 Сопровождение и продвижение программного обеспечения отраслевой направленности</td><td>Морозов Иван Андреевич</td><td>&nbsp;ОЧУ ВО Московская международная академия, 2019г., направление подготовки: Экономика, квалификация: бакалавр, направленность (профиль): прикладная информатика в экономике.&nbsp; ФГБОУ ВО РЭУ им. Г.В. Плеханова МПТ, 2018 г.; специальность: Прикладная информатика (по отраслям), квалификация: Техник-программист.</td><td>Не проходил</td><td>Не имеет</td><td>с 2018</td><td>с 2018</td><td>с 2018</td><td>ФГБОУ ВО РЭУ им.Г.В.Плеханова Московский приборостроительный техникум, преподаватель</td><td>Штатный работник</td></tr><tr><td>86</td><td>Численные методы,&nbsp; Дискретная математика с элементами математической логики;&nbsp; Основы алгоритмизации и программирования, Введение в низкоуровневое программирование, Информационные технологии в профессиональной деятельности</td><td>Мотыльков Константин Владимирович</td><td>&nbsp;МГУ им. М,В. Ломоносова, 1982 г.; специальность: Математика; квалификация: Математик.</td><td>Переподготовка: АНО ДПО «Межрегиональный институт развития образования», 2019г., по программе «Информатика, информационно-коммуникационные технологии (ИКТ) и педагогика», квалификация — Преподаватель информатики и ИКТ. ФГБОУ ВО "РЭУ им. Г.В. Плеханова" по программе "Педагог среднего профессионального образования", 2018г. квалификация: Педагог профессионального обучения, профессионального образования и дополнительного образования.</td><td>Присвоено звание «Лучший молодой программист предприятия» с вручением свидетельства 1987г.</td><td>с 1982</td><td>с 2010</td><td>с 2010</td><td>ФГБОУ ВО РЭУ им.Г.В.Плеханова Московский приборостроительный техникум, преподаватель</td><td>Штатный работник</td></tr><tr><td>87</td><td>МДК 09.02 Оптимизация веб-приложений</td><td>Неделькин Алескей Александрович</td><td>НЧОУ ВПО Московская академия образования Натальи Нестеровой, 2008 г., специальность: Маркетинг, квалификация: Маркетолог.</td><td>Не проходил</td><td>Не имеет</td><td>с 2004</td><td>с 2008</td><td>с 2008</td><td>ФГБОУ ВО РЭУ им.Г.В.Плеханова Московский приборостроительный техникум, преподаватель</td><td>Внутренний совместитель</td></tr><tr><td>88</td><td>История, Основы проектной деятельности, Обществознание (включая экономику и право)</td><td>Нечаева Надежда Ильинична</td><td>ФГБОУ ВПО Тамбовский государственный университет им. Г.Р. Державина, 2012г., специальность: История, квалификация: Историк, преподаватель истории, специализация: Новая и новейшая история.</td><td>Не проходил</td><td>Не имеет</td><td>с 2014</td><td>с 2014</td><td>с 2014</td><td>ФГБОУ ВО РЭУ им.Г.В.Плеханова Московский приборостроительный техникум, преподаватель</td><td>Штатный работник</td></tr><tr><td>89</td><td>&nbsp;История, Искусство (МХК) (включая индивидуальный проект), Латинские основы юридической терминологии, ИОГИП</td><td>Никишин Владимир Олегович</td><td>МГУ им. М.В.Ломоносова, 1996 г. , специальность: История, квалификация: Историк. Преподаватель со знанием иностранного языка.</td><td>Повышение квалификации: ФГБОУ ВО «Российский экономический университет имени Г. В. Плеханова», 2019г. по программе: «Основы оказания первой помощи», объем — 16 часов.</td><td>Кандидат исторических наук</td><td>с 1997</td><td>с 1997</td><td>с 1997</td><td>ФГБОУ ВО РЭУ им.Г.В.Плеханова Московский приборостроительный техникум, преподаватель</td><td>Внешний совместитель</td></tr><tr><td>90</td><td>Иностранный язык; Иностранный язык в профессиональной деятельности</td><td>Николаева Наталья Гаррьевна</td><td>Горьковский государственный педагогический институт иностранных языков им. Н.А.Добролюбова, 1992г., специальность: английский и немецкий языки; квалификация: Преподаватель английского и немецкого языков, звание учителя средней школы.</td><td>Повышение квалификации: ФГБОУ ВО «Российский экономический университет имени Г. В. Плеханова», 2019г. по программе:«Основы оказания первой помощи», объем - 16 часов, АНО ДПО "Московская академия профессиональных компетенций", 2018г., по программе "Методика преподавания английского языка и инновационные подходы к организации учебного процесса в условиях реализации ФГОС", объем - 72 часа.</td><td>Не имеет</td><td>с 1984</td><td>с 1987</td><td>с 1987</td><td>ФГБОУ ВО РЭУ им.Г.В.Плеханова Московский приборостроительный техникум, преподаватель</td><td>Штатный работник</td></tr><tr><td>91</td><td>Иностранный язык</td><td>Николаева Раиса Александровна</td><td>ГОУ ВПО Московский государственный гуманитарный университет имени М.А.Шолохова, 2011г.,&nbsp; специальность: Иностранный язык, квалификация: учитель немецкого и английского языков.</td><td>Повышение квалификации: ФГБОУ ВО «Российский экономический университет имени Г. В. Плеханова», 2019г. по программе: «Основы оказания первой помощи», объем — 16 часов. АНО ДПО МИЦ, 2017г., по программе "Особенности внедрения ФГОС СПО по ТОП-50", объем - 36 часов.</td><td>Первая квалификационная категория</td><td>с 2011</td><td>с 2011</td><td>с 2011</td><td>ФГБОУ ВО РЭУ им.Г.В.Плеханова Московский приборостроительный техникум, преподаватель</td><td>Штатный работник</td></tr><tr><td>92</td><td>Этика и психология профессиональной деятельности; Психология делового общения; МДК 01.02 Психология социально-правовой деятельности</td><td>Николаенко Михаил Сергеевич</td><td>ГОУ ВПО Российский государственный социальный университет,&nbsp; 2011г,., специальность: Теология, квалификация: Теолог, преподаватель. Аспирантура автономной некоммерческой организации высшего образования "Институт мировых цивилизаций". Психология труда. Инженерная психология</td><td>Не проходил</td><td>Не имеет</td><td>с 2013</td><td>с 2013</td><td>с 2013</td><td>ФГБОУ ВО РЭУ им.Г.В.Плеханова Московский приборостроительный техникум, преподаватель</td><td>Штатный работник</td></tr><tr><td>93</td><td>Информационные технологии , МДК 07.02 Сертификация ИС</td><td>Павлова Анастасия Витальевна</td><td>ФГБОУ ВО РЭУ им .Г.В. Плеханова Московский приборостроительный техникум, 2018г.; специальность: Прикладная информатика (по отраслям); квалификация: техник-программист.</td><td>Переподготовка: ФГБОУ ВО "РЭУ им. Г.В. Плеханова" по программе "Педагог среднего профессионального образования", 2018г. квалификация: Педагог профессионального обучения, профессионального образования и дополнительного образования.</td><td>Не имеет</td><td>с 2018</td><td>с 2018</td><td>с 2018</td><td>ФГБОУ ВО РЭУ им.Г.В.Плеханова Московский приборостроительный техникум, преподаватель</td><td>Штатный работник</td></tr><tr><td>94</td><td>Русский язык, Литература</td><td>Петкова Надежда Евгеньевна</td><td>Калининский государственный университет. 1981г., специальность: Русский язык и литература, квалификация: Филолог. Преподаватель.</td><td>Повышение квалификации:ФГБОУ ВО "РЭУ им. Г.В.Плеханова", 2017г., по программе "Современные научно-педагогические технологии обеспечения образовательной и научной деятельности в университете (с применением дистанционных образовательных технологий)", объем - 36 часов.</td><td>Не имеет</td><td>с 2003</td><td>с 1982-1984; с 2003</td><td>с 1982-1984; с 2003</td><td>ФГБОУ ВО РЭУ им.Г.В.Плеханова Московский приборостроительный техникум, преподаватель</td><td>Штатный работник</td></tr><tr><td>95</td><td>Основы философии; Литература, Основы проектной деятельности</td><td>Петрова Анна Владимировна</td><td>ГОУ ВПО Московский государственный&nbsp; областной университет,&nbsp; 2013г., специальность: Русский язык и литература, квалификация: учитель русского языка и литературы. Финансовая академия при Правительстве РФ, 1996г., специальность: Финансы и кредит; квалификация: экономист.</td><td>Повышение квалификации: ФГБОУ ВО «Российский экономический университет имени Г. В. Плеханова», 2019г. по программе: «Основы оказания первой помощи», объем — 16 часов. ООО "Столичный учебный центр", 2019г., по программе: "Проектная и исследовательская деятельность: Педагогические основы применения в условиях реализации ФГОС", объем-72 часа.</td><td>Кандидат педагогических наук</td><td>с 1991</td><td>с 2013</td><td>с 2013</td><td>ФГБОУ ВО РЭУ им.Г.В.Плеханова Московский приборостроительный техникум, преподаватель</td><td>Штатный работник</td></tr><tr><td>96</td><td>Правовое обеспечение профессиональной деятельности; Менеджмент в профессиональной деятельности</td><td>Позднякова Татьяна Игоревна</td><td>ГОУ ВПО Московский государственный социальный университет,&nbsp; 2005., специальность: Социальная работа, квалификация:специалист по социальной работе, специализация: Управление и администрирование в социальной сфере. ФГБОУ ВО Российский государственный социальный университет. 2016г,, направление подготовки: Юриспруденция, квалификация: бакалавр, профиль: гражданско-правовой.</td><td>Переподготовка: ФГБОУ ВО "РЭУ им. Г.В. Плеханова" по программе "Педагог среднего профессионального образования", 2018г. квалификация: Педагог профессионального обучения, профессионального образования и дополнительного образования. Переподготовка: Российский государственный социальный университет,&nbsp; 2013г., по программе «Менеджер социальной сферы» с правом ведения профессиональной деятельности в сфере менеджмента социальной сферы. Повышение квалификации: ФГБОУ ВО «Российский экономический университет имени Г. В. Плеханова», 2019г. по программе: «Основы оказания первой помощи», объем — 16 часов. ФГБОУ ВО «Российский экономический университет имени Г. В. Плеханова», 2018г. по программе:«Особенности инклюзивного образования в вузе (с применением дистанционных образовательных технологий)», объем - 72 часа.&nbsp;</td><td>Не имеет</td><td>с 2005</td><td>с 2005</td><td>с 2005</td><td>ФГБОУ ВО РЭУ им.Г.В.Плеханова Московский приборостроительный техникум, преподаватель</td><td>Штатный работник</td></tr><tr><td>97</td><td>&nbsp;МДК 02.01 Микропроцессорные системы, Современные средства автоматизации проектно-конструкторских работ; МДК 03.02 Электрорадиоизмерения и источники питания</td><td>Познахирко Виктор Викторович</td><td>НОУ ВПО Университет Российской Академии образования, 2015г.,&nbsp; направление подготовки:&nbsp; Бизнес информатика; квалификация: бакалавр. ФГБОУ ВПО&nbsp; РЭУ им. Г.В. Плеханова МПТ,&nbsp; 2014г., специальность: Вычислительные машины, комплексы, системы и сети; квалификация: техник.</td><td>Переподготовка: ФГБОУ ВО "РЭУ им. Г.В. Плеханова" по программе "Педагог среднего профессионального образования", 2018г. квалификация: Педагог профессионального обучения, профессионального образования и дополнительного образования.</td><td>Первая квалификационная категория</td><td>с 2014</td><td>с 2014</td><td>с 2014</td><td>ФГБОУ ВО РЭУ им.Г.В.Плеханова Московский приборостроительный техникум, преподаватель</td><td>Штатный работник</td></tr><tr><td>98</td><td>Иностранный язык</td><td>Полосина Анастасия Михайловна</td><td>ФГБОУ ВО Тульский государственный педагогический университет им. Л.Н. Толстого, 2016г., направление подготовки: Лингвистика,&nbsp; квалификация: бакалавр, профиль: перевод и переводоведение (английский и немецкий языки).&nbsp; ФГБОУ ВО Тульский государственный педагогический университет им. Л.Н. Толстого,&nbsp; 2018г., направление подготовки: Лингвистика, квалификация: магистр. Специальность: Лингвист-переводчик, преподаватель, профиль:&nbsp; Инновационные технологии перевода в сфере профессиональной коммуникации.</td><td>Повышение квалификации: ФГБОУ ВО «Российский экономический университет имени Г. В. Плеханова», 2019г. по программе: «Основы оказания первой помощи», объем — 16 часов.</td><td>Не имеет</td><td>с 2016</td><td>с 2016</td><td>с 2016</td><td>ФГБОУ ВО РЭУ им.Г.В.Плеханова Московский приборостроительный техникум, преподаватель</td><td>Штатный работник</td></tr><tr><td>99</td><td>Основы экономики; Экономика организации, ОБЖ</td><td>Попова Любовь Юрьевна</td><td>Государственная академия управления им. Серго Орджоникидзе&nbsp; 1999г., специальность: Экономика и управление в отраслях топливно-энергетического комплекса, квалификация: инженер-экономист по организации управления производством.</td><td>Переподготовка: ЧОУ ДПО Институт повышения квалификации и профессиональной переподготовки по программе "Безопасность жизнедеятельности в общеобразовательных организациях и организациях профессионального образования, 2019г., квалификация: учитель, преподаватель основ безопасности жизнедеятельности. ФГБОУ ВО "РЭУ им. Г.В. Плеханова" по программе "Педагог среднего профессионального образования", 2018г. квалификация: Педагог профессионального обучения, профессионального образования и дополнительного образования.</td><td>Первая квалификационная категория, Почетная грамота за достигнутые успехи в деле подготовки и воспитания высококвалифицированных специалистов СПО и Золотой памятный значок «Честь и слава», Нагрудный академический знак.</td><td>с 1994</td><td>с 2002</td><td>с 2002</td><td>ФГБОУ ВО РЭУ им.Г.В.Плеханова Московский приборостроительный техникум, преподаватель</td><td>Штатный работник</td></tr><tr><td>100</td><td>Иностранный язык</td><td>Попова Татьяна Алексеевна</td><td>ФГБОУ ВО Московский государственный университет технологий и управления имени К.Г. Разумовского, 2017г., направление подготовки:&nbsp; Педагогическое образование,&nbsp; квалификация: бакалавр, профиль: Иностранный язык</td><td>Переподготовка: ФГБОУ ВО "РЭУ им. Г.В. Плеханова" по программе "Педагог среднего профессионального образования", 2018г. квалификация: Педагог профессионального обучения, профессионального образования и дополнительного образования.</td><td>Не имеет</td><td>с 2015</td><td>с 2017</td><td>с 2017</td><td>ФГБОУ ВО РЭУ им.Г.В.Плеханова Московский приборостроительный техникум, преподаватель</td><td>Штатный работник</td></tr><tr><td>101</td><td>Основы проектирования и баз данных, МДК 02.01 Информационные технологии и платформа разработки ИС, МДК 02.02 Управление проектами,&nbsp; МДК 07.01 Управление автоматизации БД,&nbsp; База данных</td><td>Прищеп Михаил Сергеевич</td><td>НОУ ВПО Московская финансово-промышленная академия, 2010г.; специальность: Информационные системы и технологии, квалификация: инженер. Среднее профессиональное: ГОУ СПО&nbsp; Московский приборостроительный техникум, 2004г.; специальность: Автоматизированные системы обработки информации и управления, квалификация: техник</td><td>Переподготовка: ФГБОУ ВО "РЭУ им. Г.В. Плеханова" по программе "Педагог среднего профессионального образования", 2018г. квалификация: Педагог профессионального обучения, профессионального образования и дополнительного образования.&nbsp;&nbsp;&nbsp;&nbsp; Курсы повышения квалификации:&nbsp;&nbsp; ЧОУ ДПО "1С-Образование", 2019г.,&nbsp; по программе "Новые информационные технологии в образовании", объем-16 часов. ГБПОУ Уфимский колледж радиоэлектроники, телекоммуникации и безопасности, 2018г., по программе "Технологии проведения демонстрационного экзамена и разработки контрольно-измерительных материалов для государственной итоговой аттестации по специальностям в области информационной безопасности", объем - 24 часа. ФГАУ "Федеральный институт развития образования", 2017г., по программе "Управление проектами в сфере образования", объем - 108 часов.&nbsp; ФГАОУ ВО "Северный (Арктический) федеральный университет имени М.В. Ломоносова" , 2017г., по программе&nbsp;&nbsp; "Система непрерывного ИТ-образования как условие развития ИКТ-компетентности личности в соответствии с требованиями современного общества", объем - 16 часов.&nbsp; ФГБОУ ВО "РЭУ имени Г.В. Плеханова", 2017г., по программе "Подготовка кадрового резерва на замещение руководящих должностей", объем - 36 часов. ГАП ОУ "Межрегиональный центр компетенций - Казанский техникум информационных технологий и связи", 2017г., по программе "Проектирование и апробация образовательных программ по новым, наиболее востребованным и перспективным профессиям и специальностям ТОП-50 в области информационных и коммуникационных технологий", объем -72 часа.</td><td>Высшая квалификационная категория</td><td>с 2004</td><td>с 2004</td><td>с 2004</td><td>ФГБОУ ВО РЭУ им.Г.В.Плеханова Московский приборостроительный техникум, преподаватель</td><td>Штатный работник</td></tr><tr><td>102</td><td>Физическая культура</td><td>Пучков Андрей Анатольевич</td><td>Московский педагогический государственный университет, 2000г., специальность: Физическая культура, квалификация: педагог по физической культуре и спорту.</td><td>Повышение квалификации: ГАОУ ВО Московский институт открытого образования, 2017г., по теме "Организация и методика учебно-тренировочного процесса в баскетбольных секциях образовательной организации", объем - 72 часа.</td><td>Не имеет</td><td>с 2001</td><td>с 2015</td><td>с 2015</td><td>ФГБОУ ВО РЭУ им.Г.В.Плеханова Московский приборостроительный техникум, преподаватель</td><td>Штатный работник</td></tr><tr><td>103</td><td>Компьютерные сети, МДК 01.04 Системное программирование, Основы проектирования БД</td><td>Пятчиц Сергей Сергеевич</td><td>ФГБОУ ВО РЭУ им .Г.В. Плеханова Московский приборостроительный техникум, 2018 г.; специальность: Программирование в компьютерных системах; квалификация: техник-программист.&nbsp;&nbsp;</td><td>Не проходил</td><td>Не имеет</td><td>с 2019</td><td>с 2019</td><td>с 2019</td><td>ФГБОУ ВО РЭУ им.Г.В.Плеханова Московский приборостроительный техникум, преподаватель</td><td>Штатный работник</td></tr><tr><td>104</td><td>Экономика организации, Менеджмент, МДК 03.04 Экономические аспекты проектирования компьютерных систем и защита информации; Менеджмент в профессиональной деятельности, Документационное обеспечение управления, Менеджмент</td><td>Руденко Татьяна Владимировна</td><td>ФГОУ ВПО Московский государственный агроинженерный университет им.Г.В.Горячкина 2006г., специальность: Прикладная информатика (в экономике), квалификация: информатик-экономист. Московский приборостроительный техникум, 1983г., специальность: Программирование для быстродействующих математических машин, квалификация: техник-математик-программист.</td><td>Переподготовка: ФГБОУ ВО "РЭУ им. Г.В. Плеханова" по программе "Педагог среднего профессионального образования", 2018г. квалификация: Педагог профессионального обучения, профессионального образования и дополнительного образования. Повышение квалификации: ФГБОУ ВО «Российский экономический университет имени Г. В. Плеханова», 2018г. по программе:«Особенности инклюзивного образования в вузе (с применением дистанционных образовательных технологий)», объем - 72 часа.&nbsp; ФГБОУ ВО «Российский экономический университет имени Г. В. Плеханова», 2018г. по программе: "Корпоративная культура и клиентоориентированность (с применением дистанционных образовательных технологий)", объем - 16 часов.</td><td>Первая квалификационная категория</td><td>с 1983</td><td>с 2007</td><td>с 2007</td><td>ФГБОУ ВО РЭУ им.Г.В.Плеханова Московский приборостроительный техникум, преподаватель</td><td>Штатный работник</td></tr><tr><td>105</td><td>МДК 01.03 Практические основы медико-социальной экспертизы, Гражданский процесс, Страховое дело, МДК 01.04 Практические основы права социального обеспечения в зарубежных странах</td><td>Рябов Евгений Алексеевич</td><td>Ленинградское&nbsp; высшее&nbsp; общевойсковое&nbsp; училище, 1960 г., спецфакультет: общевойсковой&nbsp; офицер; квалификация: офицер. Красноярский&nbsp; государственный&nbsp;&nbsp; педагогический&nbsp; университет,&nbsp; 1966 г.&nbsp; специальность: история,&nbsp; квалификация и звание: учитель средней школы. Томский&nbsp;&nbsp;&nbsp; государственный&nbsp;&nbsp;&nbsp; университет, 1969г.; специальность: правоведение, квалификация: юрист.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; преподаватель юридических дисциплин,правоведение; юридический&nbsp;&nbsp; факультет; квалификация: рист, преподаватель юридических дисциплин. Международная&nbsp; &nbsp;академия&nbsp; строительного&nbsp; и&nbsp; промышленного&nbsp;&nbsp; комплекса 2017 г.&nbsp;&nbsp;</td><td>Повышение квалификации:НОУ "Международная академия бизнеса", 2017г., по программе "Актуальные проблемы преподавания правовых дисциплин, в учебных заведениях СПО в условиях реализации ФГОС СПО нового поколения", объем -72 часа.</td><td>Кандидат философских наук, Нагрудный знак выдан МГУ</td><td>с 1961</td><td>с 1987</td><td>с 1987</td><td>ФГБОУ ВО РЭУ им.Г.В.Плеханова Московский приборостроительный техникум, преподаватель</td><td>Срочный договор</td></tr><tr><td>106</td><td>Физическая культура</td><td>Салоникес Димитриос Михалис</td><td>ФГБОУ ВО Московский педагогический государственный университет, 2018г. Направление подготовки: Педагогическое образование, квалификация — бакалавр., профиль: Физическая культура.</td><td>Не имеет</td><td>Не имеет</td><td>с 2019</td><td>с 2019</td><td>с 2019</td><td>ФГБОУ ВО РЭУ им.Г.В.Плеханова Московский приборостроительный техникум, преподаватель</td><td>Штатный работник</td></tr><tr><td>107</td><td>&nbsp;МДК 07.01 Управление автоматизации БД; Основы алгоритмизации и программирования,&nbsp; МДК 06.02 Инженерно-техническая поддержка, сопровождение ИС; МДК 07.01 Управление и автоматизация БД, МДК 07.02 Сертификация ИС</td><td>Сачков Александр Николаевич</td><td>ФГБОУ ВО "РЭУ им .Г.В. Плеханова" Московский приборостроительный техникум, 2019г., специальность:Информационная безопасность автоматизированных систем ; квалификация: техник по защите информации</td><td>В процессе прохождения ЧОУ ДПО «ИПК-ИПП» по программе: «Педагогика профессионального образования» с 08.07 по 13.10.2019г.</td><td>Не имеет</td><td>с 2019</td><td>с 2019</td><td>с 2019</td><td>ФГБОУ ВО РЭУ им.Г.В.Плеханова Московский приборостроительный техникум, преподаватель</td><td>Штатный работник</td></tr><tr><td>108</td><td>Учебная практика</td><td>Свобода Надежда Владимировна</td><td>ФГБОУ ВПО «Российский государственный торгово-экономический университет», 2013г., специальность: Вычислительные машины, комплексы, системы и сети; квалификация – техник.</td><td>Переподготовка:&nbsp; ФГБОУ ВО "РЭУ им. Г.В. Плеханова" по программе "Педагог среднего профессионального образования", 2018г. квалификация: Педагог профессионального обучения, профессионального образования и дополнительного образования. Повышение квалификации: ФГБОУ ВО «Российский экономический университет имени Г. В. Плеханова», 2019г. по программе: «Основы оказания первой помощи», объем — 16 часов.</td><td>Не имеет</td><td>с 1993</td><td>с 2013</td><td>с 2018</td><td>ФГБОУ ВО РЭУ им.Г.В.Плеханова Московский приборостроительный техникум, педагог-организатор, преподаватель</td><td>Штатный работник</td></tr><tr><td>109</td><td>Физика, Астрономия</td><td>Селиверстова Елена Анатольевна</td><td>Коломенский педагогический институт, 1991г., специальность: Физика и математика, квалификация: учитель физики и математики.</td><td>Повышение квалификации:ФГБОУ ВО «Российский экономический университет имени Г. В. Плеханова», 2018г. по программе:«Особенности инклюзивного образования в вузе (с применением дистанционных образовательных технологий)», объем - 72 часа. ФГБОУ ВО "РЭУ им. Г.В. Плеханова", 2018г., по программе: "Корпоративная культура и клиентоориентированность (с применением дистанционных образовательных технологий), объем - 16 часов.</td><td>Высшая квалификационная категория, Нагрудный академический знак</td><td>с 1991</td><td>с 1991</td><td>с 1991</td><td>ФГБОУ ВО РЭУ им.Г.В.Плеханова Московский приборостроительный техникум, заместитель-директора по учебно-методической работе, преподаватель</td><td>Штатный работник</td></tr><tr><td>110</td><td>Технические средства информатизации, Архитектура аппаратных средств, МДК 03.03 Техническое обслуживание средств вычислительной техники и КС</td><td>Синдикаев Максим Витальевич</td><td>Российский новый университет, 2016г., специальность: Бизнес-информатика; квалификация: бакалавр; Московский приборостроительный техникум ФГБОУ ВПО РЭУ им. Г.В. Плеханова, 2015г., специальность: Компьютерные сети; квалификация: техник по компьютерным сетям.</td><td>Переподготовка: АНО ВО "Московский гуманитарный институт", 2017г., по программе профессиональной переподготовки "Преподаватель высшей школы", квалификация: преподаватель. Повышение квалификации: ГАП ОУ г. Москвы "Колледж предпринимательства №11", 2017г., по программе "Практика и методика подготовки кадров по профессии (специальности) "Сетевой и системный администратор" с учетом стандарта Ворлдскиллс Россия&nbsp; по компетенции "Сетевое и системное администрирование"", объем - 92 часа.</td><td>Не имеет</td><td>с 2011</td><td>с 2015</td><td>с 2015</td><td>ФГБОУ ВО РЭУ им.Г.В.Плеханова Московский приборостроительный техникум, преподаватель</td><td>Штатный работник</td></tr><tr><td>111</td><td>Русский язык, литература</td><td>Ситникова Алена Алексеевна</td><td>Владимирский государственный университет им. Александра Григорьевича и Николая Григорьевича Столетовых (ВлГУ), 2019г.,&nbsp; направление подготовки: Педагогическое образование, квалификация: бакалавр, профиль: Русский язык, литература.</td><td>Не проходил</td><td>Не имеет</td><td>с 2019</td><td>с 2019</td><td>с 2019</td><td>ФГБОУ ВО РЭУ им.Г.В.Плеханова Московский приборостроительный техникум, преподаватель</td><td>Штатный работник</td></tr><tr><td>112</td><td>Компьютерные сети</td><td>Соколов Александр Леонидович</td><td>Серпуховское Высшее Военно-командное училище ракетных войск им.Ленинского комсомола, 1992 г., специальность: Автоматизированные системы управления; квалификация: инженер-кибернетик.</td><td>Переподготовка: ФГБОУ ВО "РЭУ им. Г.В. Плеханова" по программе "Педагог среднего профессионального образования", 2018г. квалификация: Педагог профессионального обучения, профессионального образования и дополнительного образования.</td><td>Не имеет</td><td>с 1987</td><td>с 2014</td><td>с 2014</td><td>ФГБОУ ВО РЭУ им.Г.В.Плеханова Московский приборостроительный техникум, преподаватель</td><td>Внешний совместитель</td></tr><tr><td>113</td><td>МДК 04.01 Обеспечение проектной деятельности</td><td>Соколова Лариса Алексеевна</td><td>Московский государственный агроинженерный университет имени В.П. Горячкина, 2002г.; специальность: Информационные технологии в экономике; квалификация: экономист. Московский приборостроительный техникум, 1990г., специальность: Программирование для быстродействующих математических машин; квалификация: техник-математик-программист.</td><td>Переподготовка: ФГБОУ ВО "РЭУ им. Г.В. Плеханова" по программе "Педагог среднего профессионального образования", 2018г. квалификация: Педагог профессионального обучения, профессионального образования и дополнительного образования. Повышение квалификации: ФГБОУ ВО «Российский экономический университет имени Г. В. Плеханова», 2018г. по программе:«Особенности инклюзивного образования в вузе (с применением дистанционных образовательных технологий)», объем - 72 часа.</td><td>Высшая квалификационная категория, Почетная грамота Минобразования России «За многолетнюю плодотворную работу, большой вклад в дело подготовки квалифицированных специалистов со СПО». Нагрудный знак «Почетный работник СПО РФ». Серебрянный Почетный знак им. Николая Румянцева «За благородные труды», 2010г.</td><td>с 1988</td><td>с 1990</td><td>с 1990</td><td>ФГБОУ ВО РЭУ им.Г.В.Плеханова Московский приборостроительный техникум, преподаватель</td><td>Штатный работник</td></tr><tr><td>114</td><td>Русский язык, Литература,&nbsp; Речь и культура делового общения; Русский язык и культура речи</td><td>Соловьева Наталия Юрьевна</td><td>Московский государственный педагогический институт им. В.И.Ленина, 1973г.,.специальность: Русский язык и литература, квалификация: учитель русского языка и литературы и звание учителя средней школы.</td><td>Повышение квалификации: ООО "Столичный учебный центр", 2019г., по программе "Проектная и исследовательская деятельность: Педагогические основы применения в условиях реализации ФГОС", объем-72 часа. ФГБОУ ВО «Российский экономический университет имени Г. В. Плеханова», 2019г. по программе: «Основы оказания первой помощи», объем — 16 часов.&nbsp;&nbsp; Московская академия экономики и права, 2016г., по программе "Актуальные вопросы методики преподавания дисциплин иностранного языка в условиях реализации ФГОС ВО" -72ч.&nbsp; МАЭП, 2016г., по программе "Реализация&nbsp; образовательной программы среднего общего образования в пределах освоения образовательной программы СПО на базе общего образования с учетом требований ФГОС СПО"-72ч.&nbsp;&nbsp; Автономная некоммерческая организация дополнительного профессионального образования, 2017г. , по программе "Педагогическое образование: учитель русского языка и литературы" - 140ч.</td><td>Орден в сявзи с празднование Дня учителя за достигнутые успехи у учебно-воспитательном процессе за многолетний и творческий труд.</td><td>с 1978</td><td>с 1984</td><td>с 1984</td><td>ФГБОУ ВО РЭУ им.Г.В.Плеханова Московский приборостроительный техникум, преподаватель</td><td>Срочный договор</td></tr><tr><td>115</td><td>&nbsp;Основы проектирования баз данных</td><td>Солдатова Ольга Борисовна</td><td>ФГБОУ ВПО РЭУ им. Г.В. Плеханова. МПТ, 2015г., специальность: Информационные системы (по отраслям), квалификация: техник по&nbsp; информационным системам</td><td>Повышение квалификации: НИУ "Высшая школа экономики", 2019г., по программе "Полигональное трехмерное моделирование для визуализации и 3D-печати в 3Ds Max", объем-38 часов. НИУ "Высшая школа экономики", 2019г., по программе "Твердотельное 3D-моделирование для 3D-печати в Autodesk AunjCad", объем-38 часов.</td><td>Не имеет</td><td>с 2013</td><td>с 2015</td><td>с 2015</td><td>ФГБОУ ВО РЭУ им.Г.В.Плеханова Московский приборостроительный техникум, преподаватель</td><td>Штатный работник</td></tr><tr><td>116</td><td>&nbsp;Физическая культура;</td><td>Стасевич Константин Владимирович</td><td>НОУ ВПО Московский институт физической культуры и спорта, 2012г., специальность: Физическая культура, квалификация: педагог по физической культуре, специализация: менеджмент в физической культуре и спорте.<br>.</td><td>Повышение квалификации:ФГБОУ ВО «Российский экономический университет имени Г. В. Плеханова», 2018г. по программе:«Особенности инклюзивного образования в вузе (с применением дистанционных образовательных технологий)», объем - 72 часа.</td><td>Не имеет</td><td>с 2003</td><td>с 2012</td><td>с 2012</td><td>ФГБОУ ВО РЭУ им.Г.В.Плеханова Московский приборостроительный техникум, преподаватель</td><td>Штатный работник</td></tr><tr><td>117</td><td>Астрономия ,Физика</td><td>Судоплатов Анатолий Родионович</td><td>ФГАОУ ВПО Казанский федеральный университет, 1984г., специальность: Физика, квалификация: физик.&nbsp; ГОБУ ВПО Государственный университет — Высшая школа экономики, 1995г.,&nbsp; по направлению: Экономика, степень: магистр.</td><td>Переподготовка: ФГБОУ ВО "РЭУ им. Г.В. Плеханова" по программе "Педагог среднего профессионального образования", 2018г. квалификация: Педагог профессионального обучения, профессионального образования и дополнительного образования.</td><td>Кандидат физико-математических наук</td><td>с 1984</td><td>с 2002</td><td>с 2002</td><td>ФГБОУ ВО РЭУ им.Г.В.Плеханова Московский приборостроительный техникум, преподаватель</td><td>Штатный работник</td></tr><tr><td>118</td><td>Иностранный язык</td><td>Супрунова Нонна Александровна</td><td>Таганрогский государственный университет, 1983г., специальность: английский и испанский языки,&nbsp; квалификация: учитель&nbsp; английского и испанского языков.</td><td>Повышение квалификации:ФГБОУ ВО "РЭУ им. Г.В. Плеханова", 2018г. по программе: Особенности инклюзивного образования в ВУЗЕ (с применением дистанционных образовательных технологий), объем - 72 часа.</td><td>Высшая квалификационная категория, Почетная грамота Минобра и науки РФ за многолетнюю плодотворную работу по развитию и совершенствованию учебного процесса, значительный вклад в дело подготовки высококвалифицированных специалистов.</td><td>с 1974</td><td>с 1995</td><td>с 1995</td><td>ФГБОУ ВО РЭУ им.Г.В.Плеханова Московский приборостроительный техникум, преподаватель</td><td>Штатный работник</td></tr><tr><td>119</td><td>МДК 02.01 Инфокоммуникационные системы и сети</td><td>Токарчук Александр Сергеевич</td><td>МИГКУ, 2012г., квалификация: Информатик-экономист. Московский приборостроительный техникум, 2008г., специальность: Программное обеспечение вычислительной техники и автоматизированных систем; квалификация: техник.</td><td>Переподготовка: ФГБОУ ВО "РЭУ им. Г.В. Плеханова" по программе "Педагог среднего профессионального образования", 2018г. квалификация: Педагог профессионального обучения, профессионального образования и дополнительного образования.</td><td>Не имеет</td><td>с 2005</td><td>с 2015</td><td>с 2015</td><td>ФГБОУ ВО РЭУ им.Г.В.Плеханова Московский приборостроительный техникум, преподаватель</td><td>Штатный работник</td></tr><tr><td>120</td><td>МДК 01.02 Организация, принципы построения КС, МДК 01.02 Организация, принципы построения и функционирования компьютерных сетей</td><td>Федотов Андрей Геннадьевич</td><td>ФГБОУ ВПО РЭУ им. Г.В. Плеханова. МПТ, 2015г., специальность: Компьютерные сети, квалификация: техник по&nbsp; по компьютерным сетям.</td><td>Повышение квалификации: Государственное автономное профессиональное учреждение «Межрегиональный центр компетенции-Казанский техникум информационных технологий и связи»,&nbsp; по программе «Практика и методика подготовки кадров по профессии (специальности) «Информационные кабельные сети» с учётом стандарта Ворлдскиллс Россия по компетенции «Информационные кабельные сети», 2017 г., объем - 92 часа; Государственное автономное профессиональное учреждение города Москвы «Колледж предпринимательства № 11»,&nbsp; по программе «Практика и методика подготовки кадров по профессии (специальности) «Сетевой и системный администратор» с учётом стандарта Ворлдскиллс Россия по компетенции «Сетевое и системное администрирование», 2017 г.,объем - 92 часа;</td><td>Не имеет</td><td>с 2013</td><td>с 2015</td><td>с 2015</td><td>ФГБОУ ВО РЭУ им.Г.В.Плеханова Московский приборостроительный техникум, преподаватель</td><td>Штатный работник</td></tr><tr><td>121</td><td>Трудовое право, Правоохранительные органы</td><td>Филина Юлия Игоревна</td><td>НОУ ВПО Московская академия экономики и права, 2009г., направление: юриспруденция, степень: бакалавр. НОУ ВПО Московская академия экономики и права, 2010г., специальность: юриспруденция, квалификация: юрист.</td><td>Переподготовка: АНО ДПО Межрегиональная академия строительного и промышленного комплекса, 2019г.&nbsp; По программе «Педагогическое образование преподаватель специальных дисциплин», объем-512 часов.&nbsp; Повышение квалификации: АНО ДО Учебно-консультационный центр «Развитие», 2017г., проверка знаний требования охраны труда по программе «Правила оказания первой доврачебной помощи пострадавшим», объем — 6 часов.</td><td>Не имеет</td><td>с 2010</td><td>с 2010</td><td>с 2010</td><td>ФГБОУ ВО РЭУ им.Г.В.Плеханова Московский приборостроительный техникум, преподаватель</td><td>Внешний совместитель</td></tr><tr><td>122</td><td>Математика, Технологии мультимедиа</td><td>Хисяметдинова Эльмира Шамильевна</td><td>ГОУ ВПО Московский государственный гуманитарный университет им.М.А.Шолохова, специальность: Прикладная информатика в экономике, квалификация: информатик-экономист,&nbsp; специализация: Информационные системы в налогооблажении. ФГАОУ ВО&nbsp; Российский университет дружбы народов, 2016г., направление подготовки: Математика,&nbsp; квалификация: магистр, специализация: Функциональные методы в дифференциальных уравнениях и междисциплинарных исследованиях.</td><td>Переподготовка: ООО "Инфоурок", 2019г., по программе "Теория и методика преподавания иностранных языков в профессиональном образовании: английский, немецкий, французский", объем - 500 часов. Переподготовка: ФГБОУ ВПО Московский государственный гуманитарный университет им. М.А.Шолохова, 2013г., по программе «Преподавание информатики и математики в общеобразовательных учреждениях, с правом ведения профессиональной деятельности в сфере преподавания информатики и математики в общеобразовательных учреждениях. Курсы повышения квалификации: ООО "Инфоурок", 2019г., по программе "Применение интерактивных образовательных платформ на примере платформы Moodle", объем - 36 часов.&nbsp; ООО "Инфоурок", 2017г., по программе "Методы и инструменты современного моделирования", объем - 108 часов. ООО "Инфоурок", 2017г., по программе "Облачные технологии в образовании", объем - 108 часов.</td><td>Не имеет</td><td>с 2001</td><td>с 2012</td><td>с 2012</td><td>ФГБОУ ВО РЭУ им.Г.В.Плеханова Московский приборостроительный техникум, преподаватель</td><td>Штатный работник</td></tr><tr><td>123</td><td>Основы безопасности жизнедеятельности</td><td>Хруленко Борис Григорьевич</td><td>Казанское высшее танковое командное Краснознаменное училище им. Президиума Верховного Совета ТАССР,&nbsp; 1970г., специальность командная танковая эксплуатация танков, автомобилей и тракторов,&nbsp;&nbsp; квалификация: офицер со средним военным образованием, инженер по эксплуатации танков, автомобилей и тракторов.&nbsp; Военная орденов Ленина и Октябрьской революции Краснознаменная ордена Суворова академия им.М.В. Фрунзе, 1982г., специальность: Командно-штабная оперативно-тактическая, квалификация: офицер с высшим военным образованием.</td><td>Переподготовка: ФГБОУ ВО "РЭУ им. Г.В. Плеханова" по программе "Педагог среднего профессионального образования", 2018г. квалификация: Педагог профессионального обучения, профессионального образования и дополнительного образования. Повышение квалификации: ФГБОУ ВО «Российский экономический университет имени Г. В. Плеханова», 2019г. по программе:«Основы оказания первой помощи», объем - 16 часов.&nbsp; ФГБОУ ВО «Российский экономический университет имени Г. В. Плеханова», 2018г. по программе:«Особенности инклюзивного образования в вузе (с применением дистанционных образовательных технологий)», объем - 72 часа.</td><td>Не имеет</td><td>с 1966</td><td>с 1988-1992;с 2016</td><td>с 1988-1992;с 2016</td><td>ФГБОУ ВО РЭУ им.Г.В.Плеханова Московский приборостроительный техникум, преподаватель-организатор ОБЖ</td><td>Штатный работник</td></tr><tr><td>124</td><td>История, Основы философии</td><td>Чернышова Лариса Анатольевна</td><td>Московский ордена Трудового Красного Знамени областной педагогический институт&nbsp; им. Н.К.Крупской. 1990г. , специальность, История и обществоведение, квалификация: учитель истории и обществоведения.</td><td>Повышение квалификации: ФГБОУ ВО «Российский экономический университет имени Г. В. Плеханова», 2019г. по программе: «Основы оказания первой помощи», объем — 16 часов. ФГБОУ ВО «Российский экономический университет имени Г. В. Плеханова», 2018г. по программе:«Особенности инклюзивного образования в вузе (с применением дистанционных образовательных технологий)», объем - 72 часа. ФГБОУ ВО "РЭУ им. Г.В.Плеханова", 2017г., по программе "Современные научно-педагогические технологии обеспечения образовательной и научной деятельности в университете (с применением дистанционных образовательных технологий)", объем - 36 часов.</td><td>Высшая квалификационная категория</td><td>с 1982</td><td>с 1988</td><td>с 1988</td><td>ФГБОУ ВО РЭУ им.Г.В.Плеханова Московский приборостроительный техникум, преподаватель</td><td>Штатный работник</td></tr><tr><td>125</td><td>Разработка и администрирование базы данных, Технология разработки программного обеспечения, Наладчик технического оборудования</td><td>Чурилов Андрей Викторович</td><td>Московский государственный агроинженерный университет им.Г.В.Горячкина 2002г. , специальность: Информационные системы в экономике, квалификация: экономист.<br>ГОУ ВПО "Российская правовая академия Министерства Юстиции РФ" 2008г.; специальность: Юриспруденция, квалификация: юрист.<br>НОУ ВПО "Финансово-промышленная академия" 2012г.&nbsp; ;&nbsp; квалификация: специалист по управлению персоналом.</td><td>Переподготовка: ФГБОУ ВО "РЭУ им. Г.В. Плеханова" по программе "Педагог среднего профессионального образования", 2018г. квалификация: Педагог профессионального обучения, профессионального образования и дополнительного образования. Переподготовка: НОУ ВПО Институт экономики и финансов, 2013г.,&nbsp; по программе «Менеджмент в образовании».&nbsp;&nbsp; Повышение квалификации: ФГБОУ ВО «Российский экономический университет имени Г.В.Плеханова», 2017г., по программе "Формирование единого образовательного пространства университета", объем - 72 часа. ФГАУ «Федеральный институт развития образования», 2017г., по программе "Управление проектами в сфере образования", объем - 208 часов.</td><td>Высшая квалификационная категория, Серебрянный&nbsp; Почетный знак им. Николая Румянцева «За благородные труды», Медаль Афанасия Никита «За бузупречную работу в РГТЭУ и напряженный труд и заслуги в развитии Московского приборостроительного техникума»</td><td>с 1989</td><td>с 2004</td><td>с 2004</td><td>ФГБОУ ВО РЭУ им.Г.В.Плеханова Московский приборостроительный техникум, директор техникума, преподаватель</td><td>Штатный работник</td></tr><tr><td>126</td><td>Эксплуатация прикладных информационных систем</td><td>Чурилова Татьяна Юрьевна</td><td>ФГОУ ВПО «Московский государственный агроинженерный университет имени В. П. Горячкина», 2008г., специальность: Прикладная информатика (в экономике); квалификация: информатик-экономист. Московский приборостроительный техникум, 1989 г.; специальность: Программирование для быстродействующих математических машин; квалификация:техник-математик-программист.&nbsp;</td><td>Переподготовка: ФГБОУ ВО "РЭУ им. Г.В. Плеханова" по программе "Педагог среднего профессионального образования", 2018г. квалификация: Педагог профессионального обучения, профессионального образования и дополнительного образования.</td><td>Почетная грамота за достигнутые успехи в деле подготовки и воспитания высококвалифицированных специалистов СПО и в связи с 70-летием Московского приборостроительного техникума&nbsp; (РГТЭУ)</td><td>с 1995</td><td>с 2017</td><td>с 2017</td><td>ФГБОУ ВО РЭУ им.Г.В.Плеханова Московский приборостроительный техникум, заведующий отделением, преподаватель</td><td>Штатный работник</td></tr><tr><td>127</td><td>&nbsp;Теория вероятностей и математическая статистика, Дискретная математика с элементами математической логики</td><td>Шестакова Ольга Николаевна</td><td>Липецкий государственный педагогический университет, 2001г.,&nbsp; специальность: Математика, физика, квалификация: учитель математики и физики. Всероссийский заочный финансово-экономический институт, 2004 г.,, специальность: Финансы и кредит; квалификация: экономист.</td><td>Не проходил</td><td>Не имеет</td><td>с 2001</td><td>с 2001</td><td>с 2001</td><td>ФГБОУ ВО РЭУ им.Г.В.Плеханова Московский приборостроительный техникум, преподаватель</td><td>Штатный работник</td></tr><tr><td>128</td><td>Информационная безопасность, МДК 01.02 Прикладное программирование, МДК 02.02 Технология и защита БД, МДК 03.01 Технология разработки программного обеспечения</td><td>Шимбирев Андрей Андреевич</td><td>МТИ, 2018г., специальность: Программное обеспечение средств вычислительной техники и автоматизированных систем; квалификация: Бакалавр, ФГБОУ ВПО РЭУ им. Г.В. Плеханова, 2014г., специальность: Информационные системы и технологии; квалификация: Инженер.&nbsp; Среднее профессиональное: НОУ ВО МТИ, 2016г., специальность: Право и организация социального обеспечения; квалификация: Юрист. ГОУ ВПО РГТЭУ Московский приборостроительный техникум, 2010г., специальность: Программное обеспечение вычислительной техники и автоматизированных систем; квалификация: техник.&nbsp;&nbsp;&nbsp;</td><td>Переподготовка: ФГБОУ ВО "РЭУ им. Г.В. Плеханова" по программе "Педагог среднего профессионального образования", 2018г. квалификация: Педагог профессионального обучения, профессионального образования и дополнительного образования. Переподготовка: ЧУ ОО ДПО МАЭО, 2016г., по программе «Психология»,&nbsp; квалификация: психолог с правом на ведение профессиональной деятельности в сфере психологии.<br>Переподготовка: АНО ВО МИСАО, 2016г., по программе "Общая педагогика: Теория и методика обучения и воспитания в рамках реализации ФГОС" с правом ведения профессиональной деятельности в сфере общей педагогики образования, Переподготовка: НОУ ВПО ГИТР им. М.А. Литовчина, 2015г., наименование программы отсутствует,&nbsp; квалификация: Звукорежиссер с правом на ведение профессиональной деятельности в сфере кино и телевидения.&nbsp;&nbsp; Переподготовка: НОУ «Интуит», 2014г. По программе «Информационная безопасность» с правом на ведение профессиональной деятельности в сфере информационной безопасности.</td><td>Первая квалификационная категория</td><td>с 2008</td><td>с 2010</td><td>с 2010</td><td>ФГБОУ ВО РЭУ им.Г.В.Плеханова Московский приборостроительный техникум, преподаватель</td><td>Штатный работник</td></tr><tr><td>129</td><td>МДК 02.01Разработка, внедрение и адаптация программного обеспечения отраслевой направленности,&nbsp; Основы алгоритмизации и программирования</td><td>Щаников Иван Максимович</td><td>ФГБОУ ВО Национальный исследовательский институт (МЭИ), 2017г., направление подготовки «Прикладная информатика», квалификация:&nbsp; бакалавр. ФГБОУ ВПО РГЭТУ Московский приборостроительный техникум, специальность: Прикладная информатика (по отраслям); квалификация: техник.</td><td>Переподготовка: ФГБОУ ВО "РЭУ им. Г.В. Плеханова" по программе "Педагог среднего профессионального образования", 2018г. квалификация: Педагог профессионального обучения, профессионального образования и дополнительного образования.</td><td>Не имеет</td><td>с 2013</td><td>с 2013</td><td>с 2013</td><td>ФГБОУ ВО РЭУ им.Г.В.Плеханова Московский приборостроительный техникум, преподаватель</td><td>Штатный работник</td></tr><tr><td>130</td><td>Правовое обеспечение профессиональной деятельности, Обществознание (включая экономику и право); История,&nbsp; Обществознание, Основы социологии и политологии</td><td>Ющенко Татьяна Николаевна</td><td>Читинский государственный педагогический институт&nbsp; им. Н.Г.Чернышевского, 1986г., специальность история и обществоведение, квалификация: учитель истории и обществоведения.</td><td>Повышение квалификации: ФГБОУ ВО «Российский экономический университет имени Г. В. Плеханова», 2019г. по программе: «Основы оказания первой помощи», объем — 16 часов.</td><td>Высшая квалификационная категория</td><td>с 1979</td><td>с 1979</td><td>с 1979</td><td>ФГБОУ ВО РЭУ им.Г.В.Плеханова Московский приборостроительный техникум, преподаватель</td><td>Штатный работник</td></tr></tbody></table><p><a href="https://mpt.ru/o-tekhnikume/prepodavateli/klassifikatsiya-po-tsmk" target="_blank"></a></p>
+</div>
+</div>
+</div>
+    </main>
+
+    <!--========================================================
+                            FOOTER
+  =========================================================-->
+  <footer>
+    
+    <section>      
+      <div class="container">
+        <div class="row">
+          <div class="col-sm-6">
+            <h1 class="navbar-brand">
+              <a href="../index.html">
+                <div class="footer_name">
+<span class="material-design-bookmark46"> <span style="font-size: 16pt;">Московский приборостроительный техникум </span> </span> <span class="footer-title1"> </span>
+<p style=" font-size:14pt;">
+	 ФГБОУ ВО РЭУ им. Г.В. Плеханова
+</p>
+</div>              </a>
+            </h1>
+            <div class="row flow-offset-3">
+              <div class="col-sm-4 col-xs-4">
+                
+	<ul class="list text-uppercase">
+									<li><a href="../index.html">Главная</a></li>
+						
+									<li><a href="index.html">О техникуме</a></li>
+						
+									<li><a href="../spetsialnosti/obshchie-svedeniya/index.html">Специальности</a></li>
+						
+									<li><a href="../abiturientu/index.html">Абитуриенту</a></li>
+						
+									<li><a href="../studentu/index.html">Студенту</a></li>
+						
+			</ul>
+               </div>
+              <div class="col-sm-4 col-xs-4">
+                
+	<ul class="list text-uppercase">
+									<li><a href="http://www.ucmpt.ru/">Доп. образование</a></li>
+						
+									<li><a href="../kontakty/index.html">Контакты</a></li>
+						
+									<li><a href="../avtoshkola/index.html">Автошкола</a></li>
+						
+			</ul>
+               </div>
+              <div class="col-sm-4 col-xs-4">
+               
+               </div>
+            </div>
+
+              <p class="rights pull-left">
+                &#169; <span id="copyright-year"></span> |
+                <a href="../index.html">Все права защищены &copy;</a>
+              </p>
+              <ul class="list-inline pull-right ">
+				  <li><a style="font-size:1.1em;" class="fa fa-vk fa" href="https://vk.com/mptru" target="_blank" rel="nofollow"></a></li>
+                  <li><a style="font-size:1.1em;" class="fa fa-instagram " href="https://www.instagram.com/mpt.ru/" target="_blank" rel="nofollow"></a></li>
+                  <li><a style="font-size:1.1em;" class="fa fa-facebook " href="https://www.facebook.com/reamptru/" target="_blank" rel="nofollow"></a></li>
+                  <li><a style="font-size:1.1em;" class="fa fa-google " href="https://plus.google.com/u/0/communities/106203543525356216195" target="_blank" rel="nofollow"></a></li>
+
+              </ul>
+
+          </div>
+          <div class="col-sm-6 inset-1">
+            <div class="map">
+              <div id="google-map" class="map_model">
+
+
+<div class="map-responsive">
+ 
+  <iframe src="https://yandex.ru/map-widget/v1/-/CGeIFBk7" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+ 
+</div>
+				</div>
+            </div>
+          </div>
+        </div>
+      <!-- {%FOOTER_LINK} -->
+      </div> 
+    </section>    
+  </footer>
+
+
+<script type="text/html" id="js-hot-line-form-template">
+    <div class="panel">
+        <form class="panel-body" id="js-hot-line-form">
+            <div class="form-group">
+                <label for="hot-line-name">Имя</label>
+                <input type="text" name="name" class="form-control" id="hot-line-name" placeholder="Имя" required>
+            </div>
+
+            <div class="form-group">
+                <label for="hot-line-email">Email адрес</label>
+                <input type="email" name="email" class="form-control" id="hot-line-email" placeholder="Email" required>
+            </div>
+
+            <div class="form-group">
+                <label for="hot-line-phone">Телефон</label>
+                <input type="tel" name="phone" class="form-control" id="hot-line-phone" placeholder="Телефон" required>
+            </div>
+
+            <div class="form-group">
+                <label for="hot-line-message">Сообщение</label>
+                <textarea name="message" class="form-control" id="hot-line-message" placeholder="Сообщение" required></textarea>
+            </div>
+
+            <div class="checkbox">
+                <label>
+                    <input type="checkbox" required> Принимаю условия использования
+                </label>
+            </div>
+
+            <div class="form-group text-center">
+                <button type="submit" class="btn btn-default">Отправить</button>
+            </div>
+        </form>
+    </div>
+</script>
+  </div>
+
+
+  <!-- Include all compiled plugins (below), or include individual files as needed -->         
+  <script src="../local/templates/mpt/js/bootstrap.min.js"></script>
+  <script src="../local/templates/mpt/js/jquery.cookie.js"></script>
+  <script src="../local/templates/mpt/js/jquery.easing.1.3.js"></script>
+  <script src="../local/templates/mpt/js/tmstickup.js"></script>
+  <script src="../local/templates/mpt/js/jquery.ui.totop.js"></script>
+  <script src="https://mpt.ru/local/templates/mpt/js/jquery.equalheights.js"></script>
+  <script src="../local/templates/mpt/js/superfish.js"></script>
+  <script src="https://mpt.ru/local/templates/mpt/js/jquery.responsive.tabs.js"></script>
+  <script src="../local/templates/mpt/js/jquery.rd-navbar.js"></script>
+  <script src="https://mpt.ru/local/templates/mpt/js/jquery.ui.accordion.min.js"></script>
+  <script src="https://mpt.ru/local/templates/mpt/js/owl.carousel.min.js"></script>
+  <script src="../local/templates/mpt/js/wow.js"></script>
+  <script src="https://mpt.ru/local/templates/mpt/js/jquery.mobile.customized.min.js"></script>
+  <script src="https://mpt.ru/local/templates/mpt/js/camera.js"></script>
+  <script src="https://mpt.ru/local/templates/mpt/js/TMSearch.js"></script>
+  <script src="https://mpt.ru/local/templates/mpt/js/jquery.touch-touch.js"></script>
+  <script src="../local/templates/mpt/js/jquery.rd-parallax.js"></script>
+  <script src="../local/templates/mpt/js/jquery.fancybox.min.js"></script>    
+  <script src="../local/templates/mpt/js/tm-scripts.js"></script>    
+  <script src="../local/templates/mpt/js/versionsv.js"></script>    
+  <script src="../local/templates/mpt/js/lazysizes.min.js"></script>
+  <script src="../local/templates/mpt/js/app.js"></script>
+  <!-- </script> -->
+  <script type="text/javascript">
+var source_link = '<p>Источник: <a href="https://mpt.ru/o-tekhnikume/rukovodstvo-pedagogicheskiy-nauchno-pedagogicheskiy-sostav/'&#32;+&#32;location.href&#32;+&#32;'">' + location.origin + location.pathname + '</a></p>';
+jQuery(
+    function($)
+    {
+        if (window.getSelection) $('body').bind( //тут необходимо выбрать правильный селектор, то есть тот див (к примеру) где у вас контент
+            'copy',
+            function()
+            {
+                var selection = window.getSelection();
+                var range = selection.getRangeAt(0);
+                var magic_div = $('<div>').css({ overflow : 'hidden', width: '1px', height : '1px', position : 'absolute', top: '-10000px', left : '-10000px' });
+                magic_div.append(range.cloneContents(), source_link);
+                $('body').append(magic_div);
+                var cloned_range = range.cloneRange();
+                selection.removeAllRanges();
+                var new_range = document.createRange();
+                new_range.selectNode(magic_div.get(0));
+                selection.addRange(new_range);
+                window.setTimeout(
+                    function()
+                    {
+                        selection.removeAllRanges();
+                        selection.addRange(cloned_range);
+                        magic_div.remove();
+                    }, 0
+                );
+            }
+        );
+    }
+);
+</script>
+
+<!-- Yandex.Metrika counter -->
+ 
+<script type="text/javascript" >
+    (function (d, w, c) {
+        (w[c] = w[c] || []).push(function() {
+            try {
+                w.yaCounter45914937 = new Ya.Metrika({
+                    id:45914937,
+                    clickmap:true,
+                    trackLinks:true,
+                    accurateTrackBounce:true,
+                    webvisor:true
+                });
+            } catch(e) { }
+        });
+
+        var n = d.getElementsByTagName("script")[0],
+            s = d.createElement("script"),
+            f = function () { n.parentNode.insertBefore(s, n); };
+        s.type = "text/javascript";
+        s.async = true;
+        s.src = "https://mc.yandex.ru/metrika/watch.js";
+
+        if (w.opera == "[object Opera]") {
+            d.addEventListener("DOMContentLoaded", f, false);
+        } else { f(); }
+    })(document, window, "yandex_metrika_callbacks");
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/45914937" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+
+  </body>
+</html>

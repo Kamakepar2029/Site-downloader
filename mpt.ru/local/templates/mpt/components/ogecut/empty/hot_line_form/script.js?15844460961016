@@ -1,0 +1,27 @@
+$(function () {
+    $(document).on('click', '.hot-line', function (e) {
+        e.preventDefault();
+        $.fancybox.open($('#js-hot-line-form-template').html());
+    })
+
+    $(document).on('submit', '#js-hot-line-form', function(e) {
+        e.preventDefault();
+        var form = $(this);
+        var formData = form.serialize();
+
+        $.ajax({
+            url: window.location.origin + window.location.pathname + '?route=send-hot-email',
+            type: 'POST',
+            dataType: 'json',
+            data: formData,
+            success: function (resposne) {
+                $.fancybox.close();
+                $.fancybox.open('<div class="panel"><div class="panel-body">'+ resposne.message +'</div></div>');
+            },
+            error: function(err) {
+                $.fancybox.close();
+                $.fancybox.open('<div class="panel"><div class="panel-body">Ошибка отправки формы, попробуйте еще раз</div></div>');
+            },
+        });
+    });
+});

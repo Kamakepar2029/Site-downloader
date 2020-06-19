@@ -1,0 +1,11 @@
+.owl-carousel .owl-item .item__img {
+    height: auto;
+}
+
+.owl-default_apple .owl-nav {
+    display: none;
+}
+
+.owl-carousel.owl-loaded {
+    margin: auto;
+}

@@ -1,0 +1,2343 @@
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Базы практик</title>
+    
+    <!-- Bootstrap -->
+    <link href="../../local/templates/mpt/css/bootstrap.css" rel="stylesheet">
+
+    <!-- Links -->
+    <link href='https://fonts.googleapis.com/css?family=PT+Sans:400,700' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Lato' rel='stylesheet' type='text/css'>
+    <link href="../../local/templates/mpt/css/font-awesome.css" rel="stylesheet">
+    <link href="../../local/templates/mpt/css/material-design.css" rel="stylesheet">
+    <link href="../../local/templates/mpt/css/rd-mailform.css" rel="stylesheet">
+    <link href="../../local/templates/mpt/css/jquery.fancybox.min.css" rel="stylesheet">
+
+    <!--JS-->
+    <script src="../../local/templates/mpt/js/jquery.js"></script>
+    <script src="../../local/templates/mpt/js/jquery-migrate-1.2.1.min.js"></script>
+
+    <!--[if lt IE 9]>
+    <div style=' clear: both; text-align:center; position: relative;'>
+        <a href="http://windows.microsoft.com/en-US/internet-explorer/..">
+            <img src="images/ie8-panel/warning_bar_0000_us.jpg" border="0" height="42" width="820"
+                 alt="You are using an outdated browser. For a faster, safer browsing experience, upgrade for free today."/>
+        </a>
+    </div>
+    <script src="js/html5shiv.js"></script>
+    <![endif]-->
+    <script src='../../local/templates/mpt/js/device.min.js'></script>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<link href="https://mpt.ru/bitrix/js/main/core/css/core.css?15514225323963" type="text/css" rel="stylesheet" />
+
+
+
+<link href="../../local/templates/.default/components/bitrix/menu/top_menu/style.css?1551422539878" type="text/css"  data-template-style="true"  rel="stylesheet" />
+<link href="../../local/templates/mpt/components/bitrix/breadcrumb/.default/style.css?1558935984585" type="text/css"  data-template-style="true"  rel="stylesheet" />
+<link href="../../local/templates/mpt/components/ogecut/empty/hot_line_form/style.css?158444143334" type="text/css"  data-template-style="true"  rel="stylesheet" />
+<link href="../../local/templates/mpt/styles.css?15646672401301" type="text/css"  data-template-style="true"  rel="stylesheet" />
+<link href="../../local/templates/mpt/template_styles.css?15646672404868" type="text/css"  data-template-style="true"  rel="stylesheet" />
+<script type="text/javascript">if(!window.BX)window.BX={};if(!window.BX.message)window.BX.message=function(mess){if(typeof mess=='object') for(var i in mess) BX.message[i]=mess[i]; return true;};</script>
+<script type="text/javascript">(window.BX||top.BX).message({'JS_CORE_LOADING':'Загрузка...','JS_CORE_NO_DATA':'- Нет данных -','JS_CORE_WINDOW_CLOSE':'Закрыть','JS_CORE_WINDOW_EXPAND':'Развернуть','JS_CORE_WINDOW_NARROW':'Свернуть в окно','JS_CORE_WINDOW_SAVE':'Сохранить','JS_CORE_WINDOW_CANCEL':'Отменить','JS_CORE_WINDOW_CONTINUE':'Продолжить','JS_CORE_H':'ч','JS_CORE_M':'м','JS_CORE_S':'с','JSADM_AI_HIDE_EXTRA':'Скрыть лишние','JSADM_AI_ALL_NOTIF':'Показать все','JSADM_AUTH_REQ':'Требуется авторизация!','JS_CORE_WINDOW_AUTH':'Войти','JS_CORE_IMAGE_FULL':'Полный размер'});</script>
+
+<script type="text/javascript" src="https://mpt.ru/bitrix/js/main/core/core.js?1588581841543330"></script>
+
+<script>BX.setJSList(['/bitrix/js/main/core/core_ajax.js','/bitrix/js/main/core/core_promise.js','/bitrix/js/main/polyfill/promise/js/promise.js','/bitrix/js/main/loadext/loadext.js','/bitrix/js/main/loadext/extension.js','/bitrix/js/main/polyfill/promise/js/promise.js','/bitrix/js/main/polyfill/find/js/find.js','/bitrix/js/main/polyfill/includes/js/includes.js','/bitrix/js/main/polyfill/matches/js/matches.js','/bitrix/js/ui/polyfill/closest/js/closest.js','/bitrix/js/main/polyfill/fill/main.polyfill.fill.js','/bitrix/js/main/polyfill/find/js/find.js','/bitrix/js/main/polyfill/matches/js/matches.js','/bitrix/js/main/polyfill/core/dist/polyfill.bundle.js','/bitrix/js/main/core/core.js','/bitrix/js/main/polyfill/intersectionobserver/js/intersectionobserver.js','/bitrix/js/main/lazyload/dist/lazyload.bundle.js','/bitrix/js/main/polyfill/core/dist/polyfill.bundle.js','/bitrix/js/main/parambag/dist/parambag.bundle.js']);
+BX.setCSSList(['/bitrix/js/main/core/css/core.css','/bitrix/js/main/lazyload/dist/lazyload.bundle.css','/bitrix/js/main/parambag/dist/parambag.bundle.css']);</script>
+<script type="text/javascript">(window.BX||top.BX).message({'LANGUAGE_ID':'ru','FORMAT_DATE':'DD.MM.YYYY','FORMAT_DATETIME':'DD.MM.YYYY HH:MI:SS','COOKIE_PREFIX':'MPT_','SERVER_TZ_OFFSET':'10800','SITE_ID':'s1','SITE_DIR':'/','USER_ID':'','SERVER_TIME':'1592574387','USER_TZ_OFFSET':'0','USER_TZ_AUTO':'Y','bitrix_sessid':'8dd62250495462a45eaeea5bf582bc12'});</script>
+
+
+<script type="text/javascript" src="https://mpt.ru/bitrix/js/main/polyfill/customevent/main.polyfill.customevent.js?1551422533913"></script>
+<script type="text/javascript" src="https://mpt.ru/bitrix/js/ui/dexie/dist/dexie.bitrix.bundle.js?1588584522196209"></script>
+<script type="text/javascript" src="https://mpt.ru/bitrix/js/main/core/core_ls.js?155142253210430"></script>
+<script type="text/javascript" src="https://mpt.ru/bitrix/js/main/core/core_fx.js?155142253216888"></script>
+<script type="text/javascript" src="https://mpt.ru/bitrix/js/main/core/core_frame_cache.js?158858136315905"></script>
+
+
+<script type="text/javascript" src="../../local/templates/mpt/components/ogecut/empty/hot_line_form/script.js?15844460961016"></script>
+<script type="text/javascript">var _ba = _ba || []; _ba.push(["aid", "b3fb52729eb9d09eeaa5dcfa8da2e3b2"]); _ba.push(["host", "mpt.ru"]); (function() {var ba = document.createElement("script"); ba.type = "text/javascript"; ba.async = true;ba.src = (document.location.protocol == "https:" ? "https://" : "http://") + "bitrix.info/ba.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ba, s);})();</script>
+
+
+  </head>
+  <body>
+              
+  <div class="page">
+  <!--========================================================
+                            HEADER
+  =========================================================-->
+    <header class="parallax text-center">
+<!--header class="parallax text-center" data-mobile="true" data-color="#dee7eb" data-speed="3"-->
+
+<div class="parallax_cnt">
+      <section>
+
+        <div id="stuck_container" class="stuck_container">
+          <div class="">
+
+            <div class="row">
+				<div class="blue-wrapper">
+          <div class="container">
+            <div class="row">
+				<div class="col-md-6 col-sm-6 col-xs-12 head-row left-sm">
+					<div class="f-left"><a href="../../index.html"><img src="../../upload/logoq.png" alt="logo"style="height:115px;max-width:164px;" /></a></div>
+				<div class="f-left">
+                  <span class="head-title">Московский <br>приборостроительный <br> техникум					</span>
+<br>
+ФГБОУ ВО РЭУ ИМ. Г.В. ПЛЕХАНОВА					</div>
+              </div>
+              <div class="col-md-6 col-sm-6 col-xs-12 head-row right-sm">
+
+<p class="top-contacts">
+	 г. Москва, Нежинская улица, 7<br>
+ <br>
+	 г. Москва, Нахимовский проспект, 21
+</p>
+<p class="top-contacts">
+<b style="font-size: 16pt; color: red;">Горячая линия приемной комиссии:</b><br>
+ <br>
+	<span style="font-size: 15pt;"><!--8 (903) 792-83-02-->8 (495) 792 83 02</span><br><br>
+ <b style="font-size: 16pt; color: red;">Горячая линия дистанционного обучения:</b><br>
+ <br>
+	<span style="font-size: 15pt;">8 (926) 057-70-95</span><br><br>
+<b style="font-size: 16pt; color: red;">Горячая линия психолога:</b><br>
+ <br>
+	<span style="font-size: 15pt;">8 (903) 502-82-50</span>
+</p>
+
+<!--
+<p style="
+    font-size: 22pt;
+    font-weight: bold;
+    color: #fff700;
+    "><a href="/translations">Трансляция Дня открытых дверей »</a></p>
+-->
+
+<!--
+<p class="top-contacts" style="font-size: 20px">
+<b>
+Приёмная комиссия: <a href="tel:84993170409">8 (499) 317-04-09</a><br><br>
+<a href="tel:84958001200,2094">8 (495) 800-12-00 <small>(доб. 2094)</small></a>
+</b>
+</p>
+-->
+<!--<p class="top-contacts">
+<div style="padding-top: 5px; padding-bottom: 7px;">
+<b>
+КАНЦЕЛЯРИЯ: <a href="tel:84954426577">8 (495) 442-65-77</a>;
+<a href="tel:84958001200,2092">8 (495) 800-12-00 <small>(доб. 2092)</small></a>
+</b>
+<a href="89160634434">8 (916) 063-44-34</b></a>
+</div>
+</p>--><div class="versionsv">
+            <a href="bazy-praktik#sv_settings_collapse" id="sv_on" class="btn btn-default" data-toggle="collapse" role="button">
+                <strong>Версия для слабовидящих</strong>
+            </a>
+<a href="bazy-praktik" class="hot-line" style="color: #ffffff;background-color: #7c9fb0;border-color: #7c9fb0;display: inline-block;font-weight: 700;cursor: pointer;border: 1px solid transparent;background: transparent;outline: none;text-transform: uppercase;letter-spacing: 0.06em;padding: 15px 26px;font-size: 18px;line-height: 19px;border-radius: 0;-moz-transition: 0.2s all ease;-webkit-transition: 0.2s all ease;-o-transition: 0.2s all ease;transition: 0.2s all ease;color: #ffffff;background-color: #7c9fb0;border-color: #7c9fb0;">
+<strong>Задать вопрос!</strong>
+</a>
+            <div id="sv_settings_collapse" class="collapse">
+              <div id="sv_settings" class="sv_settings text-left" id="">
+                  <div>Размер шрифта
+                      <span class="fs-outer">
+                          <button data-font-size="14px" class="btn btn-default fs-n" id="fs-n" style="font-size: 14px">А</button>
+                          <button data-font-size="18px" style="font-size: 18px" class="btn btn-default fs-m" id="fs-m">А</button>
+                          <button data-font-size="24px" style="font-size: 24px" class="btn btn-default fs-l" id="fs-l">А</button>
+
+                      </span>
+                  </div>
+                  <br>
+                  <div class="mgl20">Цветовая схема
+                      <span class="cs-outer">
+                          <button class="btn btn-default cs-bw" id="cs-bw">А</button>
+                          <button class="btn btn-default cs-wb" id="cs-wb">А</button>
+                          <button class="btn btn-default cs-bb" id="cs-bb">А</button>
+                          <button class="btn btn-default cs-gb" id="cs-gb">А</button>
+                          <button class="btn btn-default cs-yg" id="cs-yg">А</button>
+                      </span>
+                  </div>
+                  <br>
+                  <div class="mgl20">
+                    Изображения
+                      <span class="img-outer">
+                          <button class="btn btn-default btn-xs" id="img-onoff"><span class="glyphicon glyphicon-picture"></span><span id="img-onoff-text"> Отключить</span></button>
+                      </span>
+                  </div>
+              </div>
+            </div>
+        </div>
+</div>
+
+<div class="clearfix"></div>
+</div>
+</div>
+              </div>
+            </div>
+           
+<nav class="navbar navbar-default navbar-static-top ">
+
+  <div class="navbar-header">
+    <h1 class="navbar-brand">
+      <a href="../../index.html">
+              </a>
+    </h1>
+  </div>
+  <ul class="navbar-nav sf-menu navbar-right" data-type="navbar">
+
+
+	
+	
+					<li class="dropdown hovered ">
+
+			 	<a href="../../o-tekhnikume/index.html">Сведения об образовательной организации</a>
+				<ul class="dropdown-menu">
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="../../o-tekhnikume/osnovnye-svedeniya">Основные сведения</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+					<li class="dropdown  ">
+				<a href="../../abiturientu/index.html">Абитуриент</a>
+				<ul class="dropdown-menu">
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="../../o-tekhnikume/informatsiya-o-tekhnikume/index.html">Информация о техникуме</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="http://priem.mpt.ru/">Приёмная комиссия</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="../../spetsialnosti/obshchie-svedeniya/index.html">О специальностях</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="../../sayty-otdeleniy">Сайты отделений</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="../../abiturientu/dni-otkrytykh-dverey/index.html">Дни открытых дверей</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="https://sites.google.com/a/mpt.ru/pk/">Подготовительные курсы</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="../../spetsialnosti/formy-obucheniya/index.html">Формы обучения</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="../../translations/index.html">Трансляция Дня открытых дверей</a>
+				</li>
+			
+		
+	
+	
+
+			</ul></li>	
+	
+		
+							<li >
+					<a href="../../o-tekhnikume/struktura-i-organy-upravleniya-obrazovatelnoy-organizatsiey">Структура и органы управления образовательной организацией</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="../../o-tekhnikume/dokumenty_new/index.html">Документы</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="../../o-tekhnikume/obrazovanie">Образование</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="http://zamur.mpt.ru/standards">Образовательные стандарты</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="../../o-tekhnikume/rukovodstvo-pedagogicheskiy-nauchno-pedagogicheskiy-sostav">Руководство. Педагогический (научно-педагогический) состав</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="../../o-tekhnikume/materialno-tekhnicheskoe-obespechenie-i-osnashchennost-obrazovatelnogo-protsessa">Материально-техническое обеспечение и оснащенность образовательного процесса</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="../../o-tekhnikume/stipendii-i-inye-vidy-materialnoy-podderzhki">Стипендии и иные виды материальной поддержки</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="../../o-tekhnikume/platnye-obrazovatelnye-uslugi">Платные образовательные услуги</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="../../o-tekhnikume/finansovo-khozyaystvennaya-deyatelnost">Финансово-хозяйственная деятельность</a>
+				</li>
+			
+		
+	
+	
+
+			</ul></li>	
+	
+					<li class="dropdown hovered ">
+
+			 	<a href="../../abiturientu/index.html">Абитуриенту</a>
+				<ul class="dropdown-menu">
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="../../o-tekhnikume/informatsiya-o-tekhnikume/index.html">Информация о техникуме</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="http://priem.mpt.ru/">Приёмная комиссия</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+					<li class="dropdown  ">
+				<a href="../../spetsialnosti/obshchie-svedeniya/index.html">О специальностях</a>
+				<ul class="dropdown-menu">
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="https://mpt.ru/sayty-otdeleniy/otdelenie-pervogo-kursa/">Отделение первого курса</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="../../spetsialnosti/obshchie-svedeniya/kompyuternye-sistemy-i-kompleksy">09.02.01 «Компьютерные системы и комплексы»</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="../../spetsialnosti/obshchie-svedeniya/kompyuternye-seti">09.02.02 «Компьютерные сети»</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="../../spetsialnosti/obshchie-svedeniya/programmirovanie-v-kompyuternykh-sistemakh">09.02.03 «Программирование в компьютерных системах»</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="../../spetsialnosti/obshchie-svedeniya/informatsionnye-sistemy-po-otraslyam-">09.02.04 «Информационные системы (по отраслям)»</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="../../spetsialnosti/obshchie-svedeniya/prikladnaya-informatika-po-otraslyam">09.02.05 «Прикладная информатика (по отраслям)»</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="../../spetsialnosti/obshchie-svedeniya/informatsionnaya-bezopasnost-avtomatizirovannykh-sistem">10.02.03 «Информационная безопасность автоматизированных систем»</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="../../spetsialnosti/obshchie-svedeniya/pravo-i-organizatsiya-sotsialnogo-obespecheniya">40.02.01 «Право и организация социального обеспечения»</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="../../spetsialnosti/obshchie-svedeniya/09-02-06-setevoe-i-sistemnoe-administrirovanie">09.02.06 «Сетевое и системное администрирование»</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="../../spetsialnosti/obshchie-svedeniya/09-02-07-informatsionnye-sistemy-i-programmirovanie/index.html">09.02.07 «Информационные системы и программирование»</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="../../spetsialnosti/obshchie-svedeniya/10-02-05-obespechenie-informatsionnoy-bezopasnosti-avtomatizirovannykh-sistem">10.02.05 «Обеспечение информационной безопасности автоматизированных систем»</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="bazy-praktik"></a>
+				</li>
+			
+		
+	
+	
+
+			</ul></li>	
+	
+		
+							<li >
+					<a href="../../sayty-otdeleniy">Сайты отделений</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="../../abiturientu/dni-otkrytykh-dverey/index.html">Дни открытых дверей</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="https://sites.google.com/a/mpt.ru/pk/">Подготовительные курсы</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="../../spetsialnosti/formy-obucheniya/index.html">Формы обучения</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="../../translations/index.html">Трансляция Дня открытых дверей</a>
+				</li>
+			
+		
+	
+	
+
+			</ul></li>	
+	
+					<li class="dropdown hovered ">
+
+			 	<a href="../index.html">Студенту</a>
+				<ul class="dropdown-menu">
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="../raspisanie-zanyatiy/index.html">Расписание занятий</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="../izmeneniya-v-raspisanii/index.html">Изменения в расписании</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="../raspisanie-ekzamenov/index.html">Расписание экзаменов</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+					<li class="dropdown  ">
+				<a href="index.html">Практики</a>
+				<ul class="dropdown-menu">
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="raspisanie/files/raspisanie-praktik.pdf">Расписание</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li  class="active">
+					<a href="bazy-praktik">Базы практик</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="tseli-i-zadachi-praktiki">Цели и задачи практики</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="vidy-deyatelnosti">Виды деятельности</a>
+				</li>
+			
+		
+	
+	
+
+			</ul></li>	
+	
+		
+							<li >
+					<a href="https://sites.google.com/a/mpt.ru/lib_mpt/">Библиотека</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="../studencheskaya-zhizn/index.html">Студенческая жизнь</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="https://ucmpt.ru/">Дополнительное образование</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+					<li class="dropdown  ">
+				<a href="../distantsionnoe-obuchenie/index.html">Дистанционное обучение</a>
+				<ul class="dropdown-menu">
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="http://forum.mpt.ru/">Форум</a>
+				</li>
+			
+		
+	
+	
+
+			</ul></li>	
+	
+		
+							<li >
+					<a href="http://psy-mpt.tilda.ws/">Психологическое консультирование</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="../sportivnaya-zhizn">Спортивная жизнь</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+					<li class="dropdown  ">
+				<a href="../studencheskiy-portal/index.html">Студенческий портал</a>
+				<ul class="dropdown-menu">
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="http://student.mpt.ru">Заказ справок в канцелярии</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="http://student.mpt.ru">Показ выписанных направлений</a>
+				</li>
+			
+		
+	
+	
+
+			</ul></li>	
+	
+		
+							<li >
+					<a href="../../o-tekhnikume/fotoarkhiv">Фотоархив</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+					<li class="dropdown  ">
+				<a href="../../o-tekhnikume/sorevnovaniya-chempionaty/index.html">Соревнования, чемпионаты</a>
+				<ul class="dropdown-menu">
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="../../o-tekhnikume/sorevnovaniya-chempionaty/otborochnyy-chempionat-reu-plekhanova-vorldskills">Вузовский чемпионат ФГБОУ ВО «РЭУ имени Г.В. Плеханова» по стандартам Ворлдскиллс</a>
+				</li>
+			
+		
+	
+	
+
+			</ul></li>	
+	
+		
+							<li >
+					<a href="../%25D0%2592%25D0%25BE%25D0%25BF%25D1%2580%25D0%25BE%25D1%2581%25D1%258B-%25D0%25BE%25D1%2582%25D0%25B2%25D0%25B5%25D1%2582%25D1%258B.pdf">Вопросы-ответы</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="../trudoustroystvo">Трудоустройство</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="../studsovet/index.html">Студсовет</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="../opros-o-distantsionnom-obuchenii">Опрос о дистанционном обучении</a>
+				</li>
+			
+		
+	
+	
+
+			</ul></li>	
+	
+		
+							<li class="hovered">
+					<a href="https://ucmpt.ru/" class="">Доп. образование</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+					<li class="dropdown hovered ">
+
+			 	<a href="../../avtoshkola/index.html">Автошкола</a>
+				<ul class="dropdown-menu">
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="https://mpt.ru/avtoshkola">Главная</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="../../avtoshkola/pravila-priyema">Правила приёма</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="../../avtoshkola/obuchenie">Обучение</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="../../avtoshkola/foto">Фото</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="../../avtoshkola/kontakty">Контакты</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+					<li class="dropdown  ">
+				<a href="../../o-tekhnikume/index.html">Сведения об образовательной организации</a>
+				<ul class="dropdown-menu">
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="../../o-tekhnikume/osnovnye-svedeniya">Основные сведения</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="../../abiturientu/index.html">Абитуриент</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="../../o-tekhnikume/struktura-i-organy-upravleniya-obrazovatelnoy-organizatsiey">Структура и органы управления образовательной организацией</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="../../o-tekhnikume/dokumenty_new/index.html">Документы</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="../../o-tekhnikume/obrazovanie">Образование</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="http://zamur.mpt.ru/standards">Образовательные стандарты</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="../../o-tekhnikume/rukovodstvo-pedagogicheskiy-nauchno-pedagogicheskiy-sostav">Руководство. Педагогический (научно-педагогический) состав</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="../../o-tekhnikume/materialno-tekhnicheskoe-obespechenie-i-osnashchennost-obrazovatelnogo-protsessa">Материально-техническое обеспечение и оснащенность образовательного процесса</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="../../o-tekhnikume/stipendii-i-inye-vidy-materialnoy-podderzhki">Стипендии и иные виды материальной поддержки</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="../../o-tekhnikume/platnye-obrazovatelnye-uslugi">Платные образовательные услуги</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="../../o-tekhnikume/finansovo-khozyaystvennaya-deyatelnost">Финансово-хозяйственная деятельность</a>
+				</li>
+			
+		
+	
+	
+
+			</ul></li></ul></li>	
+	
+		
+							<li class="hovered">
+					<a href="../../kontakty/index.html" class="">Контакты</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li class="hovered">
+					<a href="../../elektronnaya-informatsionno-obrazovatelnaya-sreda" class="">Электронная информационно-образовательная среда</a>
+				</li>
+			
+		
+	
+	
+
+
+</ul>
+</nav>
+          </div>
+        </div>
+
+		  
+      </section>
+</div>
+    </header>
+
+    <!--========================================================
+                              CONTENT
+    =========================================================-->
+
+	  <main>
+
+				  <div class="container-fluid text-page">
+	<div class="container">
+<link href="https://mpt.ru/bitrix/css/main/font-awesome.css?155142253228777" type="text/css" rel="stylesheet" />
+<div class="bx-breadcrumb" itemprop="http://schema.org/breadcrumb" itemscope itemtype="http://schema.org/BreadcrumbList">
+			<div class="bx-breadcrumb-item" id="bx_breadcrumb_0" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+				
+				<a href="../../index.html" title="Главная" itemtype="https://schema.org/Thing" itemprop="item">
+					<span itemprop="name">Главная</span>
+				</a>
+				<meta itemprop="position" content="1" />
+			</div>
+			<div class="bx-breadcrumb-item" id="bx_breadcrumb_1" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+				<i class="fa fa-angle-right"></i>
+				<a href="../index.html" title="Студенту" itemtype="https://schema.org/Thing" itemprop="item">
+					<span itemprop="name">Студенту</span>
+				</a>
+				<meta itemprop="position" content="2" />
+			</div>
+			<div class="bx-breadcrumb-item" id="bx_breadcrumb_2" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+				<i class="fa fa-angle-right"></i>
+				<a href="index.html" title="Практики" itemtype="https://schema.org/Thing" itemprop="item">
+					<span itemprop="name">Практики</span>
+				</a>
+				<meta itemprop="position" content="3" />
+			</div>
+			<div class="bx-breadcrumb-item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+				<i class="fa fa-angle-right"></i>
+				<a href="bazy-praktik" itemtype="https://schema.org/Thing" itemprop="item" class="hidden">
+					<span itemprop="name">Базы практик</span>
+				</a>
+				<span itemprop="name">Базы практик</span>
+				<meta itemprop="position" content="4" />
+			</div><div style="clear:both"></div></div><div>
+
+
+
+
+
+<p>
+ <br>
+</p>
+<table class="table table-default table-bordered table-hover table-striped table-no-p-padding">
+ <colgroup><col> <col> <col> <col> <col> <col> </colgroup>
+<tbody>
+<tr>
+	<td>
+		 &nbsp;
+	</td>
+	<td>
+		 Наименование
+	</td>
+	<td>
+		 Метро
+	</td>
+	<td>
+		 Электронный адрес
+	</td>
+	<td>
+		 Адрес
+	</td>
+	<td>
+		 Телефон
+	</td>
+	<td>
+		 Сайт
+	</td>
+</tr>
+<tr>
+	<td>
+ <img width="200" src="../../files/studentu/bazi-praktik/%25D0%2593%25D0%2591%25D0%259E%25D0%25A3&#32;%25D1%2588%25D0%25BA%25D0%25BE%25D0%25BB%25D0%25B0&#32;654.jpg" height="144"><br>
+	</td>
+	<td>
+		 ГБОУ школа №654
+	</td>
+	<td>
+		 Текстильщики
+	</td>
+	<td>
+ <a href="mailto:654@edu.mos.ru">654@edu.mos.ru</a>
+	</td>
+	<td>
+		 улица Юных Ленинцев, дом 35, корпус 2
+	</td>
+	<td>
+		 8 (499) 179-73-04
+	</td>
+	<td>
+ <a href="https://sch654.mskobr.ru/#/">https://sch654.mskobr.ru/#/</a>
+	</td>
+</tr>
+<tr>
+	<td>
+		 &nbsp;<img width="200" src="../../files/studentu/bazi-praktik/%25D0%259C%25D0%2593%25D0%2598%25D0%259C%25D0%259E&#32;%25D0%259C%25D0%2598%25D0%2594&#32;%25D0%25A0%25D0%25BE%25D1%2581%25D1%2581%25D0%25B8%25D0%25B8.jpg" height="133">
+	</td>
+	<td>
+		 МГИМО МИД России
+	</td>
+	<td>
+		 Юго-западная
+	</td>
+	<td>
+ <a href="https://mailnew.mgimo.ru/owa">ПОЧТА@MGIMO.RU</a>
+	</td>
+	<td>
+		 проспект Вернадского, 76
+	</td>
+	<td>
+ <a href="tel:+7(495)229-40-49">+7 495 229-40-49</a>
+	</td>
+	<td>
+ <a href="https://mgimo.ru/">https://mgimo.ru/</a>
+	</td>
+</tr>
+<tr>
+	<td>
+		 &nbsp;<img width="200" src="../../files/studentu/bazi-praktik/%25D0%259F%25D0%25B8%25D1%2580%25D0%25BE%25D0%25B3%25D0%25BE%25D0%25B2%25D0%25B0.jpg" height="108">
+	</td>
+	<td>
+		 Федеральный центр цереброваскулярной патологии и инсульта ГБОУ ВПО «РНИМУ им. Н.И. Пирогова» Минздрава РФ
+	</td>
+	<td>
+		 Тропарево
+	</td>
+	<td>
+ <a href="mailto:rsmu@rsmu.ru">rsmu@rsmu.ru</a>
+	</td>
+	<td>
+		 ул. Островитянова, д. 1
+	</td>
+	<td>
+		 +7 (499) 742-81-22
+	</td>
+	<td>
+ <a href="http://www.rsmu.ru/265.html">http://www.rsmu.ru/265.html</a>
+	</td>
+</tr>
+<tr>
+	<td>
+		<img width="200" src="../../files/studentu/bazi-praktik/%25D0%25A1%25D0%25BB%25D1%2583%25D0%25B6%25D0%25B1%25D0%25B0&#32;%25D1%2582%25D0%25B5%25D1%2585%25D0%25BD%25D0%25B8%25D1%2587%25D0%25B5%25D1%2581%25D0%25BA%25D0%25BE%25D0%25B9&#32;%25D0%25BF%25D0%25BE%25D0%25B4%25D0%25B4%25D0%25B5%25D1%2580%25D0%25B6%25D0%25BA%25D0%25B8&#32;(%25D0%25B2%25D0%25B0%25D0%25B2%25D0%25B8%25D0%25BB%25D0%25BE%25D0%25B" height="106"><br>
+	</td>
+	<td>
+		 &nbsp;ООО «Служба технической поддержки»
+	</td>
+	<td>
+		 Академическая
+	</td>
+	<td>
+		 не указан
+	</td>
+	<td>
+		 ул. ВАВИЛОВА, д. 23, стр. 10
+	</td>
+	<td>
+		 719-06-60
+	</td>
+	<td>
+ <a href="http://neotorg.com/">http://neotorg.com/</a>
+	</td>
+</tr>
+<tr>
+	<td>
+ <img width="199" src="../../files/studentu/bazi-praktik/%25D0%2598%25D0%25BC%25D0%25BF%25D0%25B5%25D1%2580%25D0%25B8%25D1%258F&#32;%25D1%2582%25D1%2583%25D1%2580%25D0%25B8%25D0%25B7%25D0%25BC%25D0%25B0.png" height="95"><br>
+	</td>
+	<td>
+		 ООО «Империя туризма»
+	</td>
+	<td>
+		 Китай город
+	</td>
+	<td>
+		 не указан
+	</td>
+	<td>
+		 &nbsp;Армянский переулок, дом 9/1/1 строение 1, этаж 1 помещение 111/16
+	</td>
+	<td>
+		 не указан
+	</td>
+	<td>
+ <a href="https://www.rusprofile.ru/">https://www.rusprofile.ru/</a>
+	</td>
+</tr>
+<tr>
+	<td>
+ <img width="200" src="../../files/studentu/bazi-praktik/%25D0%25A0-%25D0%259B%25D0%25BE%25D0%25B4%25D0%25B6%25D0%25B8%25D0%25BA%25D1%2581.png" height="124"><br>
+	</td>
+	<td>
+		 ООО «Р-Лоджикс»
+	</td>
+	<td>
+		 Калужская
+	</td>
+	<td>
+		 не указан
+	</td>
+	<td>
+		 проезд.Научный, д.20, стр.2, оф.146
+	</td>
+	<td>
+		 не указан
+	</td>
+	<td>
+ <a href="https://www.list-org.com/company/7067887">https://www.list-org.com/company/7067887</a>
+	</td>
+</tr>
+<tr>
+	<td>
+ <img width="200" src="../../files/studentu/bazi-praktik/%25D0%25A1%25D1%2582%25D1%2580%25D0%25BE%25D0%25B9&#32;%25D0%25AD%25D0%25BB%25D0%25B5%25D0%25BA%25D1%2582%25D1%2580%25D0%25BE&#32;%25D0%259C%25D0%259F.png" height="160"><br>
+	</td>
+	<td>
+		 ООО «Строй Электро МП»
+	</td>
+	<td>
+		 Первомайская
+	</td>
+	<td>
+ <a href="mailto:aviasnabkomplekt@gmail.com">aviasnabkomplekt@gmail.com</a>
+	</td>
+	<td>
+		 ул. Верхняя Первомайская, 43
+	</td>
+	<td>
+		 +7&nbsp;(977) 863-13-04
+	</td>
+	<td>
+ <a href="https://www.strojelectro.ru/">https://www.strojelectro.ru/</a>
+	</td>
+</tr>
+<tr>
+	<td>
+ <img width="200" src="../../files/studentu/bazi-praktik/%25D0%2590%25D1%2580%25D1%2582%25D1%2581%25D0%25B5%25D0%25BA.png" height="112"><br>
+	</td>
+	<td>
+		 ООО «Артсек»
+	</td>
+	<td>
+		 Орехово,&nbsp;Домодедовская,&nbsp;Царицыно
+	</td>
+	<td>
+ <a href="mailto:sale@artsec.ru">sale@artsec.ru</a>
+	</td>
+	<td>
+		 ул. Загорьевская, д. 10, корп. 4
+	</td>
+	<td>
+		 (495) 970-4686
+	</td>
+	<td>
+ <a href="http://www.artsec.ru/oc/index.php">http://www.artsec.ru/oc/index.php</a>
+	</td>
+</tr>
+<tr>
+	<td>
+ <img width="200" src="../../files/studentu/bazi-praktik/%25D0%2593%25D0%2591%25D0%25A3&#32;%25D0%25A4%25D0%25A5%25D0%25A3&#32;%25D0%259C%25D1%258D%25D1%2580%25D0%25B8%25D0%25B8&#32;%25D0%259C%25D0%25BE%25D1%2581%25D0%25BA%25D0%25B2%25D1%258B.png" height="132"><br>
+	</td>
+	<td>
+		 ГБУ «ФХУ Мэрии Москвы»
+	</td>
+	<td>
+		 Тверская
+	</td>
+	<td>
+ <a href="mailto:fhu@mos.ru">fhu@mos.ru</a>
+	</td>
+	<td>
+ <a href="https://yandex.ru/maps/?text=%D0%93%D0%91%D0%A3%20%C2%AB%D0%A4%D0%A5%D0%A3%20%D0%9C%D1%8D%D1%80%D0%B8%D0%B8%20%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D1%8B%C2%BB&source=wizbiz_new_map_single&z=14&ll=37.607889%2C55.761487&sctx=ZAAAAAgBEAAaKAoSCYnQCDauz0JAEabtX1lp4EtAEhIJA137Anqh8j8RmPxP%2Fu4d7D8iBQABAgQFKAAwATj8uZyLwuTZ2N8BQNUBSAFVzczMPlgAYh1yZWxldl9maWx0ZXJfZ3draW5kcz0wLjMsMC40NWIobWlkZGxlX2luZmxhdGVfZGlyZWN0X2ZpbHRlcl93aW5kb3c9NTAwMGIScmVsZXZfZHJ1Z19ib29zdD0xYkRtaWRkbGVfZGlyZWN0X3NuaXBwZXRzPXBob3Rvcy8yLngsYnVzaW5lc3NyYXRpbmcvMi54LG1hc3N0cmFuc2l0LzEueGIqbWlkZGxlX2luZmxhdGVfZGlyZWN0X3JlcXVlc3Rfd2luZG93PTEwMDAwYiRtaWRkbGVfYXNrX2RpcmVjdF9xdWVyeV90eXBlcz1ydWJyaWNiHm1pZGRsZV9hc2tfZGlyZWN0X3Blcm1hbGlua3M9MWIpcmVhcnI9c2NoZW1lX0xvY2FsL0dlby9BbGxvd1RyYXZlbEJvb3N0PTFiMXJlYXJyPXNjaGVtZV9Mb2NhbC9HZW91cHBlci9mZWF0dXJlc0Zyb21PYmplY3RzPTFiL3JlYXJyPXNjaGVtZV9Mb2NhbC9HZW8vUG9zdGZpbHRlci9BYnNUaHJlc2g9MC4yYilyZWFycj1zY2hlbWVfTG9jYWwvR2VvL0N1dEFmaXNoYVNuaXBwZXQ9MWI1cmVhcnI9c2NoZW1lX0xvY2FsL0dlby9Ib3RlbEJvb3N0PW1lYW5fY29udmVyc2lvbl8xMndiKXJlYXJyPXNjaGVtZV9Mb2NhbC9HZW8vVXNlR2VvVHJhdmVsUnVsZT0xagJydXABlQEAAAAAnQHNzEw%2BoAEBqAEAvQGn721NwgEQ0Ie%2B57MF%2Bcfq9AO38Pn9BA%3D%3D&ol=biz&oid=185705923536">ТВЕРСКАЯ УЛ, 13</a>
+	</td>
+	<td>
+ <a href="https://www.list-org.com/search?type=phone&val=495-6336565">8 (495) 633-65-65</a>
+	</td>
+	<td>
+ <a href="https://www.list-org.com/company/2050442">https://www.list-org.com/company/2050442</a>
+	</td>
+</tr>
+<tr>
+	<td>
+ <img width="200" src="../../files/studentu/bazi-praktik/%25D0%2591%25D0%25A3%25D0%25A2&#32;%25D0%2593%25D0%25A0%25D0%25A3%25D0%259F%25D0%259F.png" height="110"><br>
+	</td>
+	<td>
+		 ООО «БУТ ГРУПП»
+	</td>
+	<td>
+		 Щелковская
+	</td>
+	<td>
+ <a href="mailto:info@boot-group.ru">info@boot-group.ru</a>
+	</td>
+	<td>
+		 Амурская улица, 19
+	</td>
+	<td>
+		 8 (495) 363-13-15
+	</td>
+	<td>
+ <a href="https://boot-group.ru/">https://boot-group.ru/</a>
+	</td>
+</tr>
+<tr>
+	<td>
+ <img width="200" src="../../files/studentu/bazi-praktik/%25D0%2590%25D0%25B2%25D0%25B0%25D0%25BD%25D0%25B3%25D0%25B0%25D1%2580%25D0%25B4.png" height="133"><br>
+	</td>
+	<td>
+		 "Авангард"
+	</td>
+	<td>
+		 Новокузнецкая
+	</td>
+	<td>
+ <a href="mailto:info@avangard.ru">info@avangard.ru</a>
+	</td>
+	<td>
+		 ул. Садовническая, д. 12, стр. 1
+	</td>
+	<td>
+		 8 (495) 234-98-98
+	</td>
+	<td>
+ <a href="https://www.avangard.ru/rus/">https://www.avangard.ru/rus/</a>
+	</td>
+</tr>
+<tr>
+	<td>
+ <img width="200" src="../../files/studentu/bazi-praktik/%25D0%2593%25D0%25B0%25D0%25B7%25D0%25BF%25D1%2580%25D0%25BE%25D0%25BC&#32;%25D0%25B8%25D0%25BD%25D1%2584%25D0%25BE%25D1%2580%25D0%25BC.png" height="113"><br>
+	</td>
+	<td>
+		 ООО "Газпром информ"
+	</td>
+	<td>
+		 Крымская
+	</td>
+	<td>
+ <a href="mailto:gazprominform@inform.gazprom.ru">gazprominform@inform.gazprom.ru</a>
+	</td>
+	<td>
+		 ул. Большая Черёмушкинская, д.&nbsp;13, стр. 3&nbsp;
+	</td>
+	<td>
+		 &nbsp;+7 499 580-10-00 (22)
+	</td>
+	<td>
+ <a href="https://inform.gazprom.ru/">https://inform.gazprom.ru/</a>
+	</td>
+</tr>
+<tr>
+	<td>
+ <img width="200" src="../../files/studentu/bazi-praktik/%25D0%259F%25D0%25B0%25D0%25BB%25D0%25B5%25D0%25BE%25D0%25BD%25D1%2582%25D0%25BE%25D0%25BB%25D0%25BE%25D0%25B3%25D0%25B8%25D1%2587%25D0%25B5%25D1%2581%25D0%25BA%25D0%25B8%25D0%25B9&#32;%25D0%25B8%25D0%25BD%25D1%2581%25D1%2582%25D0%25B8%25D1%2582%25D1%2583%25D1%2582.png" height="132"><br>
+	</td>
+	<td>
+		 ФГБУН Палеонтологический институт им. А.А. Борисяка РАН
+	</td>
+	<td>
+		 Теплый Стан
+	</td>
+	<td>
+		 не указан
+	</td>
+	<td>
+		 ул. Профсоюзная, д. 123
+	</td>
+	<td>
+		 +7 495 339-66-00
+	</td>
+	<td>
+ <a href="http://paleo.ru/">http://paleo.ru</a>
+	</td>
+</tr>
+<tr>
+	<td>
+ <img width="200" src="../../files/studentu/bazi-praktik/%25D0%259F%25D0%25A0%25D0%2590%25D0%2599%25D0%259C%25D0%25A2%25D0%2595%25D0%259A.jpg" height="150"><br>
+	</td>
+	<td>
+		 ООО "ПРАЙМТЕК"
+	</td>
+	<td>
+		 Верхние Котлы,&nbsp;Нагатинская,&nbsp;Крымская
+	</td>
+	<td>
+ <a href="mailto:info@primetech.ru">&nbsp;info@primetech.ru</a>
+	</td>
+	<td>
+ <a href="https://yandex.ru/maps/?text=%D0%9E%D0%9E%D0%9E%20%22%D0%9F%D0%A0%D0%90%D0%99%D0%9C%D0%A2%D0%95%D0%9A%22&source=wizbiz_new_map_single&z=14&ll=37.626187%2C55.690709&sctx=ZAAAAAgBEAAaKAoSCYnQCDauz0JAEabtX1lp4EtAEhIJA137Anqh8j8RmPxP%2Fu4d7D8iBQABAgQFKAAwATjJ88fQocb%2FvHdA1QFIAVXNzMw%2BWABiHXJlbGV2X2ZpbHRlcl9nd2tpbmRzPTAuMywwLjQ1YihtaWRkbGVfaW5mbGF0ZV9kaXJlY3RfZmlsdGVyX3dpbmRvdz01MDAwYhJyZWxldl9kcnVnX2Jvb3N0PTFiRG1pZGRsZV9kaXJlY3Rfc25pcHBldHM9cGhvdG9zLzIueCxidXNpbmVzc3JhdGluZy8yLngsbWFzc3RyYW5zaXQvMS54YiptaWRkbGVfaW5mbGF0ZV9kaXJlY3RfcmVxdWVzdF93aW5kb3c9MTAwMDBiJG1pZGRsZV9hc2tfZGlyZWN0X3F1ZXJ5X3R5cGVzPXJ1YnJpY2IebWlkZGxlX2Fza19kaXJlY3RfcGVybWFsaW5rcz0xYilyZWFycj1zY2hlbWVfTG9jYWwvR2VvL0FsbG93VHJhdmVsQm9vc3Q9MWIxcmVhcnI9c2NoZW1lX0xvY2FsL0dlb3VwcGVyL2ZlYXR1cmVzRnJvbU9iamVjdHM9MWIvcmVhcnI9c2NoZW1lX0xvY2FsL0dlby9Qb3N0ZmlsdGVyL0Fic1RocmVzaD0wLjJiKXJlYXJyPXNjaGVtZV9Mb2NhbC9HZW8vQ3V0QWZpc2hhU25pcHBldD0xYjVyZWFycj1zY2hlbWVfTG9jYWwvR2VvL0hvdGVsQm9vc3Q9bWVhbl9jb252ZXJzaW9uXzEyd2IpcmVhcnI9c2NoZW1lX0xvY2FsL0dlby9Vc2VHZW9UcmF2ZWxSdWxlPTFqAnJ1cAGVAQAAAACdAc3MTD6gAQGoAQC9AbQ0rhzCAQXnutuOBA%3D%3D&ol=biz&oid=1104600423">Варшавское ш., 35, стр. 1,</a>
+	</td>
+	<td>
+		 +7 495 775-46-42
+	</td>
+	<td>
+ <a href="http://www.primetech.ru/">http://www.primetech.ru/</a>
+	</td>
+</tr>
+<tr>
+	<td>
+		 &nbsp;<img width="199" src="../../files/studentu/bazi-praktik/%25D0%2592%25D0%25BE%25D0%25BB%25D1%258C%25D0%25BD%25D0%25BE%25D0%25B5&#32;%25D0%25B4%25D0%25B5%25D0%25BB%25D0%25BE.png" height="125">
+	</td>
+	<td>
+		 АО "Вольное дело"
+	</td>
+	<td>
+		 Кутузовская
+	</td>
+	<td>
+ <a href="mailto:info@volnoe-delo.ru">info@volnoe-delo.ru</a>
+	</td>
+	<td>
+		 Кутузовский пр-т, д.36, стр.23
+	</td>
+	<td>
+		 +7 (495) 653-81-43
+	</td>
+	<td>
+ <a href="http://volnoe-delo.ru/">http://volnoe-delo.ru/</a>
+	</td>
+</tr>
+<tr>
+	<td>
+		 &nbsp;<img width="200" src="../../files/studentu/bazi-praktik/%25D0%2591%25D0%2593&#32;%25D0%259C%25D0%25B0%25D1%2580%25D0%25BA%25D0%25B5%25D1%2582.png" height="122">
+	</td>
+	<td>
+		 ООО «БГ Маркет»
+	</td>
+	<td>
+		 Петровский парк
+	</td>
+	<td>
+ <a href="mailto:info@bg.market">info@bg.market</a>
+	</td>
+	<td>
+		 &nbsp;ул. 8 марта, д. 1 стр.12
+	</td>
+	<td>
+		 +7 (495) 204-15-71
+	</td>
+	<td>
+ <a href="https://www.bg.market/main.html">https://www.bg.market/main.html</a>
+	</td>
+</tr>
+<tr>
+	<td>
+		 &nbsp;<img width="200" src="../../files/studentu/bazi-praktik/%25D0%25AD%25D1%2584%25D1%2584%25D0%25B5%25D0%25BA%25D1%2582.png" height="140">
+	</td>
+	<td>
+		 ООО «Эффект»
+	</td>
+	<td>
+		 Павелецкая
+	</td>
+	<td>
+		 не указан
+	</td>
+	<td>
+ <a href="https://www.list-org.com/company/5828475/map" title="Расположение на карте организации ООО ЭФФЕКТ">НОВОКУЗНЕЦКАЯ УЛ, ДОМ 23, СТРОЕНИЕ 4&nbsp;</a>
+	</td>
+	<td>
+ <a href="https://www.list-org.com/search?type=phone&val=918-3533765">8 (918) 353-37-65</a>
+	</td>
+	<td>
+ <a href="https://www.list-org.com/company/5828475">https://www.list-org.com/company/5828475</a>
+	</td>
+</tr>
+<tr>
+	<td>
+		 &nbsp;<img width="200" src="../../files/studentu/bazi-praktik/%25D0%259A%25D0%25BE%25D0%25BC%25D0%25BF%25D0%25BE.jpg" height="200">
+	</td>
+	<td>
+		 ООО «КОМПО»
+	</td>
+	<td>
+		 г.Люберцы
+	</td>
+	<td>
+ <a href="mailto:info@kompo-sp.ru" title="info@kompo-sp.ru">info@kompo-sp.ru</a>
+	</td>
+	<td>
+		 г.Люберцы, ул.Красная, д.1
+	</td>
+	<td>
+		 8 (495) 565-46-15&nbsp;
+	</td>
+	<td>
+ <a href="https://sbis.ru/contragents/5027077850/502701001">https://sbis.ru/contragents/5027077850/502701001</a>
+	</td>
+</tr>
+<tr>
+	<td>
+		 &nbsp;<img width="200" src="../../files/studentu/bazi-praktik/%25D0%2594%25D0%25BE%25D0%25BB%25D1%2584%25D0%25B8%25D0%25BD%25D1%2581%25D0%2590%25D0%25B9%25D1%2582%25D0%25B8.png" height="112">
+	</td>
+	<td>
+		 ООО «ДолфинсАйти»
+	</td>
+	<td>
+		 Павелецкая
+	</td>
+	<td>
+ <a href="mailto:office@dolphins.ru.com">office@dolphins.ru.com</a>
+	</td>
+	<td>
+ <a href="https://yandex.ru/maps/?text=%D0%9E%D0%9E%D0%9E%20%22%D0%94%D0%BE%D0%BB%D1%84%D0%B8%D0%BD%D1%81%20%D0%90%D0%B9%D1%82%D0%B8%22&source=wizbiz_new_map_single&z=14&ll=37.652182%2C55.721184&sctx=ZAAAAAgBEAAaKAoSCYnQCDauz0JAEabtX1lp4EtAEhIJA137Anqh8j8RmPxP%2Fu4d7D8iBQABAgQFKAAwATil9ZCdkpLOsekBQNUBSAFVzczMPlgAYh1yZWxldl9maWx0ZXJfZ3draW5kcz0wLjMsMC40NWIobWlkZGxlX2luZmxhdGVfZGlyZWN0X2ZpbHRlcl93aW5kb3c9NTAwMGIScmVsZXZfZHJ1Z19ib29zdD0xYkRtaWRkbGVfZGlyZWN0X3NuaXBwZXRzPXBob3Rvcy8yLngsYnVzaW5lc3NyYXRpbmcvMi54LG1hc3N0cmFuc2l0LzEueGIqbWlkZGxlX2luZmxhdGVfZGlyZWN0X3JlcXVlc3Rfd2luZG93PTEwMDAwYiRtaWRkbGVfYXNrX2RpcmVjdF9xdWVyeV90eXBlcz1ydWJyaWNiHm1pZGRsZV9hc2tfZGlyZWN0X3Blcm1hbGlua3M9MWIpcmVhcnI9c2NoZW1lX0xvY2FsL0dlby9BbGxvd1RyYXZlbEJvb3N0PTFiMXJlYXJyPXNjaGVtZV9Mb2NhbC9HZW91cHBlci9mZWF0dXJlc0Zyb21PYmplY3RzPTFiL3JlYXJyPXNjaGVtZV9Mb2NhbC9HZW8vUG9zdGZpbHRlci9BYnNUaHJlc2g9MC4yYilyZWFycj1zY2hlbWVfTG9jYWwvR2VvL0N1dEFmaXNoYVNuaXBwZXQ9MWI1cmVhcnI9c2NoZW1lX0xvY2FsL0dlby9Ib3RlbEJvb3N0PW1lYW5fY29udmVyc2lvbl8xMndiKXJlYXJyPXNjaGVtZV9Mb2NhbC9HZW8vVXNlR2VvVHJhdmVsUnVsZT0xagJydXABlQEAAAAAnQHNzEw%2BoAEBqAEAvQEKqnApwgEF3vXE1QQ%3D&ol=biz&oid=1253128926">Дербеневская наб., 11</a>
+	</td>
+	<td>
+ <a href="tel:8%20(800)%20555-05-14">8 (800) 555-05-14</a>
+	</td>
+	<td>
+ <a href="https://dolphins.ru.com/">https://dolphins.ru.com/</a>
+	</td>
+</tr>
+<tr>
+	<td>
+		 &nbsp;<img width="200" src="../../files/studentu/bazi-praktik/%25D0%25A6%25D0%25B5%25D0%25BD%25D1%2582%25D1%2580&#32;%25D0%2594%25D0%25B5%25D0%25B2%25D0%25B5%25D0%25BB%25D0%25BE%25D0%25BC%25D0%25BF%25D0%25B5%25D0%25BD%25D1%2582.png" height="103">
+	</td>
+	<td>
+		 ООО «Центр Девеломпент»
+	</td>
+	<td>
+		 Арбатская,&nbsp;Смоленская
+	</td>
+	<td>
+ <a href="mailto:info@centeragency.org">info@centeragency.org</a>
+	</td>
+	<td>
+ <a href="https://yandex.ru/maps/?text=%D0%9E%D0%9E%D0%9E%20%22%D0%A6%D0%B5%D0%BD%D1%82%D1%80%20%D0%94%D0%B5%D0%B2%D0%B5%D0%BB%D0%BE%D0%BF%D0%BC%D0%B5%D0%BD%D1%82%22&source=wizbiz_new_map_single&z=14&ll=37.591099%2C55.753043&sctx=ZAAAAAgBEAAaKAoSCYnQCDauz0JAEabtX1lp4EtAEhIJA137Anqh8j8RmPxP%2Fu4d7D8iBQABAgQFKAAwATjO3Y2Ah9zZtBVA1QFIAVXNzMw%2BWABiHXJlbGV2X2ZpbHRlcl9nd2tpbmRzPTAuMywwLjQ1YihtaWRkbGVfaW5mbGF0ZV9kaXJlY3RfZmlsdGVyX3dpbmRvdz01MDAwYhJyZWxldl9kcnVnX2Jvb3N0PTFiRG1pZGRsZV9kaXJlY3Rfc25pcHBldHM9cGhvdG9zLzIueCxidXNpbmVzc3JhdGluZy8yLngsbWFzc3RyYW5zaXQvMS54YiptaWRkbGVfaW5mbGF0ZV9kaXJlY3RfcmVxdWVzdF93aW5kb3c9MTAwMDBiJG1pZGRsZV9hc2tfZGlyZWN0X3F1ZXJ5X3R5cGVzPXJ1YnJpY2IebWlkZGxlX2Fza19kaXJlY3RfcGVybWFsaW5rcz0xYilyZWFycj1zY2hlbWVfTG9jYWwvR2VvL0FsbG93VHJhdmVsQm9vc3Q9MWIxcmVhcnI9c2NoZW1lX0xvY2FsL0dlb3VwcGVyL2ZlYXR1cmVzRnJvbU9iamVjdHM9MWIvcmVhcnI9c2NoZW1lX0xvY2FsL0dlby9Qb3N0ZmlsdGVyL0Fic1RocmVzaD0wLjJiKXJlYXJyPXNjaGVtZV9Mb2NhbC9HZW8vQ3V0QWZpc2hhU25pcHBldD0xYjVyZWFycj1zY2hlbWVfTG9jYWwvR2VvL0hvdGVsQm9vc3Q9bWVhbl9jb252ZXJzaW9uXzEyd2IpcmVhcnI9c2NoZW1lX0xvY2FsL0dlby9Vc2VHZW9UcmF2ZWxSdWxlPTFqAnJ1cAGVAQAAAACdAc3MTD6gAQGoAQC9AfFE5Z7CAQ%2B7xOfuBOGVt50E3ZiDvxA%3D&ol=biz&oid=1306124859">ул. Большая Молчановка, 21, Москва (Оф. 13)</a>
+	</td>
+	<td>
+		 +7 495 123-45-53
+	</td>
+	<td>
+ <a href="https://www.centeragency.org/">https://www.centeragency.org/</a>
+	</td>
+</tr>
+<tr>
+	<td>
+		 &nbsp;<img width="200" src="../../files/studentu/bazi-praktik/%25D0%2593%25D0%25B0%25D0%25B7%25D0%25BF%25D1%2580%25D0%25BE%25D0%25BC&#32;%25D1%258D%25D0%25BD%25D0%25B5%25D1%2580%25D0%25B3%25D0%25BE%25D0%25B3%25D0%25B0%25D0%25B7.png" height="146">
+	</td>
+	<td>
+		 АО «Газпром энергогаз»
+	</td>
+	<td>
+		 Калужская, Новые Черёмушки, Беляево
+	</td>
+	<td>
+		 не указан
+	</td>
+	<td>
+ <a href="https://yandex.ru/maps/?text=%D0%90%D0%9E%20%C2%AB%D0%93%D0%B0%D0%B7%D0%BF%D1%80%D0%BE%D0%BC%20%D1%8D%D0%BD%D0%B5%D1%80%D0%B3%D0%BE%D0%B3%D0%B0%D0%B7%C2%BB&source=wizbiz_new_map_single&z=14&ll=37.550926%2C55.657229&sctx=ZAAAAAgBEAAaKAoSCYnQCDauz0JAEabtX1lp4EtAEhIJA137Anqh8j8RmPxP%2Fu4d7D8iBQABAgQFKAAwATifyuXJ%2FrLOup0BQNUBSAFVzczMPlgAYh1yZWxldl9maWx0ZXJfZ3draW5kcz0wLjMsMC40NWIobWlkZGxlX2luZmxhdGVfZGlyZWN0X2ZpbHRlcl93aW5kb3c9NTAwMGIScmVsZXZfZHJ1Z19ib29zdD0xYkRtaWRkbGVfZGlyZWN0X3NuaXBwZXRzPXBob3Rvcy8yLngsYnVzaW5lc3NyYXRpbmcvMi54LG1hc3N0cmFuc2l0LzEueGIqbWlkZGxlX2luZmxhdGVfZGlyZWN0X3JlcXVlc3Rfd2luZG93PTEwMDAwYiRtaWRkbGVfYXNrX2RpcmVjdF9xdWVyeV90eXBlcz1ydWJyaWNiHm1pZGRsZV9hc2tfZGlyZWN0X3Blcm1hbGlua3M9MWIpcmVhcnI9c2NoZW1lX0xvY2FsL0dlby9BbGxvd1RyYXZlbEJvb3N0PTFiMXJlYXJyPXNjaGVtZV9Mb2NhbC9HZW91cHBlci9mZWF0dXJlc0Zyb21PYmplY3RzPTFiL3JlYXJyPXNjaGVtZV9Mb2NhbC9HZW8vUG9zdGZpbHRlci9BYnNUaHJlc2g9MC4yYilyZWFycj1zY2hlbWVfTG9jYWwvR2VvL0N1dEFmaXNoYVNuaXBwZXQ9MWI1cmVhcnI9c2NoZW1lX0xvY2FsL0dlby9Ib3RlbEJvb3N0PW1lYW5fY29udmVyc2lvbl8xMndiKXJlYXJyPXNjaGVtZV9Mb2NhbC9HZW8vVXNlR2VvVHJhdmVsUnVsZT0xagJydXABlQEAAAAAnQHNzEw%2BoAEBqAEAvQG%2Bm%2FBuwgEGlqvXpMoB&ol=biz&oid=54300890518">Научный пр., 6</a>
+	</td>
+	<td>
+		 +7 495 428-48-00,&nbsp;+7 495 428-48-01
+	</td>
+	<td>
+ <a href="http://www.ceg.gazprom.ru/">http://www.ceg.gazprom.ru/</a>
+	</td>
+</tr>
+<tr>
+	<td>
+		 &nbsp;<img width="200" src="../../files/studentu/bazi-praktik/%25D0%259D%25D0%2590%25D0%25A2%25D0%25A3%25D0%25A0%25D0%259E%25D0%259D%25D0%2598%25D0%259A.png" height="123">
+	</td>
+	<td>
+		 ООО «НАТУРОНИК»
+	</td>
+	<td>
+		 Красносельская
+	</td>
+	<td>
+		 не указан
+	</td>
+	<td>
+		 КРАСНОПРУДНАЯ УЛ, ДОМ 12/1, СТРОЕНИЕ 1, Э 6 ПОМ 38 К 5А ОФ 15
+	</td>
+	<td>
+ <a href="https://www.list-org.com/search?type=phone&val=966-3000072">&nbsp;8 (966) 300-00-72</a>
+	</td>
+	<td>
+		 list-org.com/company/9883625
+	</td>
+</tr>
+<tr>
+	<td>
+		 &nbsp;<img width="200" src="../../files/studentu/bazi-praktik/%25D0%259F%25D1%2580%25D0%25BE%25D1%2584%25D0%2598%25D0%25BD%25D1%2582%25D0%25B5%25D1%2580%25D0%25B5%25D1%2581.png" height="111">
+	</td>
+	<td>
+		 ООО «ПрофИнтерес»
+	</td>
+	<td>
+		 Павелецкая
+	</td>
+	<td>
+		 не указан
+	</td>
+	<td>
+		 ДЕРБЕНЕВСКАЯ НАБ, ДОМ 11, ОФИС 509Б
+	</td>
+	<td>
+		 не указан
+	</td>
+	<td>
+ <a href="https://www.list-org.com/company/7505362">https://www.list-org.com/company/7505362</a>
+	</td>
+</tr>
+<tr>
+	<td>
+ <img width="200" src="../../files/studentu/bazi-praktik/%25D0%2590%25D0%25B9%25D1%2582%25D0%25B8&#32;%25D0%259B%25D0%25B8%25D0%25B3%25D0%25B0.png" height="118"><br>
+	</td>
+	<td>
+		 ООО «Айти Лига»
+	</td>
+	<td>
+		 Автозаводская
+	</td>
+	<td>
+ <a href="mailto:info@itoil.ru">info@itoil.ru&nbsp;&nbsp;</a>
+	</td>
+	<td>
+		 ул. Ленинская слобода, д. 19,
+	</td>
+	<td>
+ <a href="tel:+74951396550">+7 (495)&nbsp;139-65-50</a>
+	</td>
+	<td>
+ <a href="https://www.itoil.ru/">https://www.itoil.ru/</a>
+	</td>
+</tr>
+<tr>
+	<td>
+ <img width="200" src="../../files/studentu/bazi-praktik/%25D0%25A0%25D0%259F%25D0%259A&#32;%25D0%25AD%25D1%2584%25D1%2584%25D0%25B5%25D0%25BA%25D1%2582.png" height="140"><br>
+	</td>
+	<td>
+		 ООО «РПК Эффект»
+	</td>
+	<td>
+		 Комсомольская
+	</td>
+	<td>
+		 не указан
+	</td>
+	<td>
+		 ул.Краснопрудная, д.12/1, кв.17
+	</td>
+	<td>
+		 8 (495) 724-95-65
+	</td>
+	<td>
+ <a href="https://sbis.ru/contragents/7716729245/770801001">https://sbis.ru/contragents/7716729245/770801001</a>
+	</td>
+</tr>
+<tr>
+	<td>
+ <img width="200" src="../../files/studentu/bazi-praktik/%25D0%2593%25D0%25B0%25D0%25BB%25D0%25B0%25D0%25BA%25D1%2582%25D0%25B8%25D0%25BA%25D0%25B0&#32;%25D0%25A6%25D0%25B5%25D0%25BD%25D1%2582%25D1%2580.png" height="112"><br>
+	</td>
+	<td>
+		 АО «Галактика Центр»
+	</td>
+	<td>
+		 Петровский парк,&nbsp;Динамо
+	</td>
+	<td>
+ <a href="mailto:market@galaktika.ru">market@galaktika.ru</a>
+	</td>
+	<td>
+ <a href="https://yandex.ru/maps/?text=%D0%90%D0%9E%20%C2%AB%D0%93%D0%B0%D0%BB%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D0%B0%20%D0%A6%D0%B5%D0%BD%D1%82%D1%80%C2%BB&source=wizbiz_new_map_single&z=14&ll=37.559883%2C55.793227&sctx=ZAAAAAgBEAAaKAoSCYnQCDauz0JAEabtX1lp4EtAEhIJA137Anqh8j8RmPxP%2Fu4d7D8iBQABAgQFKAAwATjNpvmcrbzyof0BQNUBSAFVzczMPlgAYh1yZWxldl9maWx0ZXJfZ3draW5kcz0wLjMsMC40NWIobWlkZGxlX2luZmxhdGVfZGlyZWN0X2ZpbHRlcl93aW5kb3c9NTAwMGIScmVsZXZfZHJ1Z19ib29zdD0xYkRtaWRkbGVfZGlyZWN0X3NuaXBwZXRzPXBob3Rvcy8yLngsYnVzaW5lc3NyYXRpbmcvMi54LG1hc3N0cmFuc2l0LzEueGIqbWlkZGxlX2luZmxhdGVfZGlyZWN0X3JlcXVlc3Rfd2luZG93PTEwMDAwYiRtaWRkbGVfYXNrX2RpcmVjdF9xdWVyeV90eXBlcz1ydWJyaWNiHm1pZGRsZV9hc2tfZGlyZWN0X3Blcm1hbGlua3M9MWIpcmVhcnI9c2NoZW1lX0xvY2FsL0dlby9BbGxvd1RyYXZlbEJvb3N0PTFiMXJlYXJyPXNjaGVtZV9Mb2NhbC9HZW91cHBlci9mZWF0dXJlc0Zyb21PYmplY3RzPTFiL3JlYXJyPXNjaGVtZV9Mb2NhbC9HZW8vUG9zdGZpbHRlci9BYnNUaHJlc2g9MC4yYilyZWFycj1zY2hlbWVfTG9jYWwvR2VvL0N1dEFmaXNoYVNuaXBwZXQ9MWI1cmVhcnI9c2NoZW1lX0xvY2FsL0dlby9Ib3RlbEJvb3N0PW1lYW5fY29udmVyc2lvbl8xMndiKXJlYXJyPXNjaGVtZV9Mb2NhbC9HZW8vVXNlR2VvVHJhdmVsUnVsZT0xagJydXABlQEAAAAAnQHNzEw%2BoAEBqAEAvQEQtVVAwgELoq6G7QOUpazm2AQ%3D&ol=biz&oid=1034000162">Театральная аллея, 3, стр. 1, Москва (2 этаж, 6 этаж)</a>
+	</td>
+	<td>
+		 +7 495 252-02-55
+	</td>
+	<td>
+ <a href="https://galaktika.ru/">https://galaktika.ru/</a>
+	</td>
+</tr>
+<tr>
+	<td>
+ <img width="200" src="../../files/studentu/bazi-praktik/%25D0%259D%25D0%259F%25D0%259E&#32;%25D0%25A0%25D1%2583%25D1%2581%25D0%2591%25D0%2598%25D0%25A2%25D0%25B5%25D1%2585.png" height="122"><br>
+	</td>
+	<td>
+		 АО «НПО РусБИТех»
+	</td>
+	<td>
+		 Нагатинская,&nbsp;Верхние Котлы,&nbsp;Крымская
+	</td>
+	<td>
+ <a href="mailto:mail@rusbitech.ru">mail@rusbitech.ru</a>
+	</td>
+	<td>
+ <a href="https://yandex.ru/maps/?text=%D0%90%D0%9E%20%C2%AB%D0%9D%D0%9F%D0%9E%20%D0%A0%D1%83%D1%81%D0%91%D0%98%D0%A2%D0%B5%D1%85%C2%BB&source=wizbiz_new_map_single&z=14&ll=37.621502%2C55.686605&sctx=ZAAAAAgBEAAaKAoSCYnQCDauz0JAEabtX1lp4EtAEhIJA137Anqh8j8RmPxP%2Fu4d7D8iBQABAgQFKAAwATiIgumd%2FoODuW5A1QFIAVXNzMw%2BWABiHXJlbGV2X2ZpbHRlcl9nd2tpbmRzPTAuMywwLjQ1YihtaWRkbGVfaW5mbGF0ZV9kaXJlY3RfZmlsdGVyX3dpbmRvdz01MDAwYhJyZWxldl9kcnVnX2Jvb3N0PTFiRG1pZGRsZV9kaXJlY3Rfc25pcHBldHM9cGhvdG9zLzIueCxidXNpbmVzc3JhdGluZy8yLngsbWFzc3RyYW5zaXQvMS54YiptaWRkbGVfaW5mbGF0ZV9kaXJlY3RfcmVxdWVzdF93aW5kb3c9MTAwMDBiJG1pZGRsZV9hc2tfZGlyZWN0X3F1ZXJ5X3R5cGVzPXJ1YnJpY2IebWlkZGxlX2Fza19kaXJlY3RfcGVybWFsaW5rcz0xYilyZWFycj1zY2hlbWVfTG9jYWwvR2VvL0FsbG93VHJhdmVsQm9vc3Q9MWIxcmVhcnI9c2NoZW1lX0xvY2FsL0dlb3VwcGVyL2ZlYXR1cmVzRnJvbU9iamVjdHM9MWIvcmVhcnI9c2NoZW1lX0xvY2FsL0dlby9Qb3N0ZmlsdGVyL0Fic1RocmVzaD0wLjJiKXJlYXJyPXNjaGVtZV9Mb2NhbC9HZW8vQ3V0QWZpc2hhU25pcHBldD0xYjVyZWFycj1zY2hlbWVfTG9jYWwvR2VvL0hvdGVsQm9vc3Q9bWVhbl9jb252ZXJzaW9uXzEyd2IpcmVhcnI9c2NoZW1lX0xvY2FsL0dlby9Vc2VHZW9UcmF2ZWxSdWxlPTFqAnJ1cAGVAQAAAACdAc3MTD6gAQGoAQC9Ae9CNEnCAQXOjNOEBQ%3D%3D&ol=biz&oid=1351927374">Варшавское ш., 26, стр. 11</a>
+	</td>
+	<td>
+		 7 495 648-06-40
+	</td>
+	<td>
+ <a href="http://rusbitech.ru/">http://rusbitech.ru</a>
+	</td>
+</tr>
+<tr>
+	<td>
+ <img width="200" src="../../files/studentu/bazi-praktik/%25D0%259F%25D0%25A0%25D0%259E%25D0%259C%25D0%2598%25D0%259D%25D0%2596%25D0%2598%25D0%259D%25D0%2598%25D0%25A0%25D0%2598%25D0%259D%25D0%2593.png" height="121"><br>
+	</td>
+	<td>
+		 ООО «ПРОМИНЖИНИРИНГ»
+	</td>
+	<td>
+		 Тушинская
+	</td>
+	<td>
+ <a href="mailto:promstrop@yandex.ru">promstrop@yandex.ru</a>
+	</td>
+	<td>
+		 Волоколамское шоссе, дом 112, корпус 1, строение 3, офис 504
+	</td>
+	<td>
+		 7 901 343-09-29, 8 495 542-26-25
+	</td>
+	<td>
+ <a href="http://www.promstrop.ru/">http://www.promstrop.ru/</a>
+	</td>
+</tr>
+<tr>
+	<td>
+ <img width="200" src="../../files/studentu/bazi-praktik/%25D0%25A3%25D0%25BF%25D1%2580%25D0%25B0%25D0%25B2%25D0%25BB%25D0%25B5%25D0%25BD%25D0%25B8%25D0%25B5&#32;%25D1%2584%25D0%25B5%25D0%25B4%25D0%25B5%25D1%2580%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25BE%25D0%25B9&#32;%25D1%2581%25D0%25BB%25D1%2583%25D0%25B6%25D0%25B1%25D1%258B&#32;%25D0%25B3%25D0%25BE%25D1%2581.&#32;%25D1%2580%25D0%25B5%25D0%25" height="131"><br>
+	</td>
+	<td>
+		 Управление федеральной службы гос. регистрации
+	</td>
+	<td>
+		 Маяковская
+	</td>
+	<td>
+ <a href="mailto:rosreestr@rosreestr.ru">rosreestr@rosreestr.ru</a>
+	</td>
+	<td>
+		 Москва, А-47, 1-я Тверская-Ямская, д. 1, 3
+	</td>
+	<td>
+ <a href="skype:88001003434?call">8 (800) 100-34-34</a>
+	</td>
+	<td>
+ <a href="https://rosreestr.ru/site/">https://rosreestr.ru/site/</a>
+	</td>
+</tr>
+<tr>
+	<td>
+ <img width="200" src="../../files/studentu/bazi-praktik/%25D0%25AD%25D0%25BA%25D0%25BE%25D0%25BC%25D0%25B0%25D1%2588&#32;%25D0%2598%25D0%25BD%25D1%2584%25D0%25BE.png" height="108"><br>
+	</td>
+	<td>
+		 ООО «Экомаш Инфо»
+	</td>
+	<td>
+		 Электрозаводская,&nbsp;Преображенская площадь,&nbsp;Семёновская
+	</td>
+	<td>
+ <a href="mailto:kodeks@ecomash.info" title="Отправить email на адрес kodeks@ecomash.info">kodeks@ecomash.info</a>
+	</td>
+	<td>
+		 ул. Электрозаводская, д. 24, офис А-304
+	</td>
+	<td>
+ <a href="tel:+7%20(495)%20481-2220" title="Позвонить +7 (495) 481-2220">7 (495) 481-2220&nbsp;</a>
+	</td>
+	<td>
+ <a href="https://ecomash.info/">https://ecomash.info/</a>
+	</td>
+</tr>
+<tr>
+	<td>
+ <img width="200" src="../../files/studentu/bazi-praktik/%25D0%2598%25D0%259F&#32;%25D0%2593%25D0%25BE%25D0%25BB%25D1%258C%25D1%2586%25D0%25B1%25D0%25BB%25D0%25B0%25D1%2582&#32;%25D0%2590.%25D0%2598..png" height="112"><br>
+	</td>
+	<td>
+		 ИП Гольцблат А.И.
+	</td>
+	<td>
+		 Деловой центр,&nbsp;Международная,&nbsp;Выставочная
+	</td>
+	<td>
+ <a href="mailto:moscow@bclplaw.com">moscow@bclplaw.com</a>
+	</td>
+	<td>
+ <a href="https://yandex.ru/maps/?text=%D0%98%D0%9F%20%D0%93%D0%BE%D0%BB%D1%8C%D1%86%D0%B1%D0%BB%D0%B0%D1%82%20%D0%90.%D0%98.&source=wizbiz_new_map_single&z=14&ll=37.539078%2C55.747115&sctx=ZAAAAAgBEAAaKAoSCYnQCDauz0JAEabtX1lp4EtAEhIJA137Anqh8j8RmPxP%2Fu4d7D8iBQABAgQFKAAwATjKsZPExuL2mK4BQNUBSAFVzczMPlgAYh1yZWxldl9maWx0ZXJfZ3draW5kcz0wLjMsMC40NWIobWlkZGxlX2luZmxhdGVfZGlyZWN0X2ZpbHRlcl93aW5kb3c9NTAwMGIScmVsZXZfZHJ1Z19ib29zdD0xYkRtaWRkbGVfZGlyZWN0X3NuaXBwZXRzPXBob3Rvcy8yLngsYnVzaW5lc3NyYXRpbmcvMi54LG1hc3N0cmFuc2l0LzEueGIqbWlkZGxlX2luZmxhdGVfZGlyZWN0X3JlcXVlc3Rfd2luZG93PTEwMDAwYiRtaWRkbGVfYXNrX2RpcmVjdF9xdWVyeV90eXBlcz1ydWJyaWNiHm1pZGRsZV9hc2tfZGlyZWN0X3Blcm1hbGlua3M9MWIpcmVhcnI9c2NoZW1lX0xvY2FsL0dlby9BbGxvd1RyYXZlbEJvb3N0PTFiMXJlYXJyPXNjaGVtZV9Mb2NhbC9HZW91cHBlci9mZWF0dXJlc0Zyb21PYmplY3RzPTFiL3JlYXJyPXNjaGVtZV9Mb2NhbC9HZW8vUG9zdGZpbHRlci9BYnNUaHJlc2g9MC4yYilyZWFycj1zY2hlbWVfTG9jYWwvR2VvL0N1dEFmaXNoYVNuaXBwZXQ9MWI1cmVhcnI9c2NoZW1lX0xvY2FsL0dlby9Ib3RlbEJvb3N0PW1lYW5fY29udmVyc2lvbl8xMndiKXJlYXJyPXNjaGVtZV9Mb2NhbC9HZW8vVXNlR2VvVHJhdmVsUnVsZT0xagJydXABlQEAAAAAnQHNzEw%2BoAEBqAEAvQEwJ21ywgEFr6aa7gM%3D&ol=biz&oid=1036423983">Пресненская наб., 8, стр. 1</a>
+	</td>
+	<td>
+ <a href="tel:+74952874444">7 495 287 4444&nbsp;</a>
+	</td>
+	<td>
+ <a href="https://www.bclplaw.ru/">https://www.bclplaw.ru/</a>
+	</td>
+</tr>
+<tr>
+	<td>
+ <img width="200" src="../../files/studentu/bazi-praktik/%25D0%25A1%25D0%25BA%25D0%25BE%25D0%25BB%25D0%25BA%25D0%25BE%25D0%25B2%25D0%25BE.png" height="128"><br>
+	</td>
+	<td>
+		 Сколково
+	</td>
+	<td>
+		 Славянский бульвар
+	</td>
+	<td>
+ <a href="mailto:technopark@sk.ru">technopark@sk.ru</a>
+	</td>
+	<td>
+		 Большой бульвар, 42, корп. 1
+	</td>
+	<td>
+		 7 (495) 956 00 33
+	</td>
+	<td>
+ <a href="http://sk.ru/news/">http://sk.ru/news/</a>
+	</td>
+</tr>
+<tr>
+	<td>
+ <img width="200" src="../../files/studentu/bazi-praktik/%25D0%259D%25D0%2598%25D0%2598%25D0%25A1.png" height="141"><br>
+	</td>
+	<td>
+		 АО «НИИС»
+	</td>
+	<td>
+		 Пролетарская,&nbsp;Крестьянская Застава,&nbsp;Волгоградский проспект
+	</td>
+	<td>
+		 не указан
+	</td>
+	<td>
+		 Волгоградский пр., 2
+	</td>
+	<td>
+		 &nbsp;8 (495) 730-34-31
+	</td>
+	<td>
+ <a href="http://www.niisa.ru/">http://www.niisa.ru/</a>
+	</td>
+</tr>
+<tr>
+	<td>
+ <img width="200" src="../../upload/medialibrary/d43/GazpromInform.jpg" height="267" style="max-width:none;"><br>
+	</td>
+	<td colspan="1">
+		 АО "Газпром информ"
+	</td>
+	<td colspan="1">
+		 Калужская
+	</td>
+	<td colspan="1">
+ <a href="mailto:snv@ipu.ru">snv@ipu.ru</a>
+	</td>
+	<td colspan="1">
+		 ул. Профсоюзная, д. 65
+	</td>
+	<td colspan="1">
+		 +7 495 334-89-10<br>
+	</td>
+	<td colspan="1">
+ <a href="http://ipu.ru/">http://ipu.ru/</a>
+	</td>
+</tr>
+<tr>
+	<td>
+ <img width="200" src="../../upload/medialibrary/e8f/MGIMO.JPG" height="125" style="max-width:none;"><br>
+	</td>
+	<td colspan="1">
+		 МГИМО МИД Росси
+	</td>
+	<td colspan="1">
+		 Проспект Вернадского, Юго-Западная
+	</td>
+	<td colspan="1">
+		 не указан<br>
+	</td>
+	<td colspan="1">
+		 проспект Вернадского, д. 76
+	</td>
+	<td colspan="1">
+		 8(495) 434-00-89<br>
+	</td>
+	<td colspan="1">
+ <a href="https://mgimo.ru">https://mgimo.ru</a><br>
+	</td>
+</tr>
+<tr>
+	<td>
+ <img width="200" src="../../upload/medialibrary/496/NIIZ_Varhavskoi.JPG" height="124"><br>
+	</td>
+	<td colspan="1">
+		 AO "НИЦЭВТ"<br>
+	</td>
+	<td colspan="1">
+		 Южная
+	</td>
+	<td colspan="1">
+ <a href="mailto:info@nicevt.ru">info@nicevt.ru</a><br>
+	</td>
+	<td colspan="1">
+		 Варшавское ш., 125<br>
+	</td>
+	<td colspan="1">
+		 +7 (495) 312-85-47, +7 (495) 319-06-27, +7 (495) 312-02-15<br>
+	</td>
+	<td colspan="1">
+ <a href="http://nicevt.ru/">http://nicevt.ru/</a><br>
+	</td>
+</tr>
+<tr>
+	<td>
+ <img width="200" src="../../upload/medialibrary/651/TER.JPG" height="112" style="max-width:none;"><br>
+	</td>
+	<td colspan="1">
+		 Территориальное управление&nbsp; федерального агентства&nbsp;по управлению государственным имуществом по г. Москве
+	</td>
+	<td colspan="1">
+		 Красные ворота, Комсомольская
+	</td>
+	<td colspan="1">
+ <a href="mailto:info@msk.rosim.ru">info@msk.rosim.ru</a><br>
+	</td>
+	<td colspan="1">
+		 Орликов переулок, дом 3б<br>
+	</td>
+	<td colspan="1">
+		 8 (495) 777-29-05<br>
+	</td>
+	<td colspan="1">
+ <a href="http://rosim.ru/">http://rosim.ru/</a>
+	</td>
+</tr>
+<tr>
+	<td>
+ <img width="199" src="../../upload/medialibrary/c23/SimSud.JPG" height="112"><br>
+	</td>
+	<td colspan="1">
+		 Симоновский районный суд г. Москвы<br>
+	</td>
+	<td colspan="1">
+		 Автозаводская<br>
+	</td>
+	<td colspan="1">
+ <a href="mailto:Simonovsky.msk@sudrf.ru">Simonovsky.msk@sudrf.ru</a><br>
+	</td>
+	<td colspan="1">
+		 Восточная ул, д.2, стр.6.<br>
+	</td>
+	<td colspan="1">
+		 8 (495)-675-71-99<br>
+	</td>
+	<td colspan="1">
+ <a href="http://simonovsky.msk.sudrf.ru/">http://simonovsky.msk.sudrf.ru/</a><br>
+	</td>
+</tr>
+<tr>
+	<td>
+ <img width="200" src="../../upload/medialibrary/6ea/Sud.jpg" height="112" style="max-width:none;"><br>
+	</td>
+	<td colspan="1">
+		 Арбитражный суд Московской области<br>
+	</td>
+	<td colspan="1">
+		 Комсомольская
+	</td>
+	<td colspan="1">
+ <a href="mailto:info@asmo.arbitr.ru">info@asmo.arbitr.ru</a><br>
+	</td>
+	<td colspan="1">
+		 пр. Академика Сахарова, 18<br>
+	</td>
+	<td colspan="1">
+		 (499) 975-29-46<br>
+	</td>
+	<td colspan="1">
+ <a href="http://asmo.arbitr.ru/">http://asmo.arbitr.ru/</a><br>
+	</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+    </main>
+
+    <!--========================================================
+                            FOOTER
+  =========================================================-->
+  <footer>
+    
+    <section>      
+      <div class="container">
+        <div class="row">
+          <div class="col-sm-6">
+            <h1 class="navbar-brand">
+              <a href="../../index.html">
+                <div class="footer_name">
+<span class="material-design-bookmark46"> <span style="font-size: 16pt;">Московский приборостроительный техникум </span> </span> <span class="footer-title1"> </span>
+<p style=" font-size:14pt;">
+	 ФГБОУ ВО РЭУ им. Г.В. Плеханова
+</p>
+</div>              </a>
+            </h1>
+            <div class="row flow-offset-3">
+              <div class="col-sm-4 col-xs-4">
+                
+	<ul class="list text-uppercase">
+									<li><a href="../../index.html">Главная</a></li>
+						
+									<li><a href="../../o-tekhnikume/index.html">О техникуме</a></li>
+						
+									<li><a href="../../spetsialnosti/obshchie-svedeniya/index.html">Специальности</a></li>
+						
+									<li><a href="../../abiturientu/index.html">Абитуриенту</a></li>
+						
+									<li><a href="../index.html">Студенту</a></li>
+						
+			</ul>
+               </div>
+              <div class="col-sm-4 col-xs-4">
+                
+	<ul class="list text-uppercase">
+									<li><a href="http://www.ucmpt.ru/">Доп. образование</a></li>
+						
+									<li><a href="../../kontakty/index.html">Контакты</a></li>
+						
+									<li><a href="../../avtoshkola/index.html">Автошкола</a></li>
+						
+			</ul>
+               </div>
+              <div class="col-sm-4 col-xs-4">
+               
+               </div>
+            </div>
+
+              <p class="rights pull-left">
+                &#169; <span id="copyright-year"></span> |
+                <a href="../../index.html">Все права защищены &copy;</a>
+              </p>
+              <ul class="list-inline pull-right ">
+				  <li><a style="font-size:1.1em;" class="fa fa-vk fa" href="https://vk.com/mptru" target="_blank" rel="nofollow"></a></li>
+                  <li><a style="font-size:1.1em;" class="fa fa-instagram " href="https://www.instagram.com/mpt.ru/" target="_blank" rel="nofollow"></a></li>
+                  <li><a style="font-size:1.1em;" class="fa fa-facebook " href="https://www.facebook.com/reamptru/" target="_blank" rel="nofollow"></a></li>
+                  <li><a style="font-size:1.1em;" class="fa fa-google " href="https://plus.google.com/u/0/communities/106203543525356216195" target="_blank" rel="nofollow"></a></li>
+
+              </ul>
+
+          </div>
+          <div class="col-sm-6 inset-1">
+            <div class="map">
+              <div id="google-map" class="map_model">
+
+
+<div class="map-responsive">
+ 
+  <iframe src="https://yandex.ru/map-widget/v1/-/CGeIFBk7" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+ 
+</div>
+				</div>
+            </div>
+          </div>
+        </div>
+      <!-- {%FOOTER_LINK} -->
+      </div> 
+    </section>    
+  </footer>
+
+
+<script type="text/html" id="js-hot-line-form-template">
+    <div class="panel">
+        <form class="panel-body" id="js-hot-line-form">
+            <div class="form-group">
+                <label for="hot-line-name">Имя</label>
+                <input type="text" name="name" class="form-control" id="hot-line-name" placeholder="Имя" required>
+            </div>
+
+            <div class="form-group">
+                <label for="hot-line-email">Email адрес</label>
+                <input type="email" name="email" class="form-control" id="hot-line-email" placeholder="Email" required>
+            </div>
+
+            <div class="form-group">
+                <label for="hot-line-phone">Телефон</label>
+                <input type="tel" name="phone" class="form-control" id="hot-line-phone" placeholder="Телефон" required>
+            </div>
+
+            <div class="form-group">
+                <label for="hot-line-message">Сообщение</label>
+                <textarea name="message" class="form-control" id="hot-line-message" placeholder="Сообщение" required></textarea>
+            </div>
+
+            <div class="checkbox">
+                <label>
+                    <input type="checkbox" required> Принимаю условия использования
+                </label>
+            </div>
+
+            <div class="form-group text-center">
+                <button type="submit" class="btn btn-default">Отправить</button>
+            </div>
+        </form>
+    </div>
+</script>
+  </div>
+
+
+  <!-- Include all compiled plugins (below), or include individual files as needed -->         
+  <script src="../../local/templates/mpt/js/bootstrap.min.js"></script>
+  <script src="../../local/templates/mpt/js/jquery.cookie.js"></script>
+  <script src="../../local/templates/mpt/js/jquery.easing.1.3.js"></script>
+  <script src="../../local/templates/mpt/js/tmstickup.js"></script>
+  <script src="../../local/templates/mpt/js/jquery.ui.totop.js"></script>
+  <script src="https://mpt.ru/local/templates/mpt/js/jquery.equalheights.js"></script>
+  <script src="../../local/templates/mpt/js/superfish.js"></script>
+  <script src="https://mpt.ru/local/templates/mpt/js/jquery.responsive.tabs.js"></script>
+  <script src="../../local/templates/mpt/js/jquery.rd-navbar.js"></script>
+  <script src="https://mpt.ru/local/templates/mpt/js/jquery.ui.accordion.min.js"></script>
+  <script src="https://mpt.ru/local/templates/mpt/js/owl.carousel.min.js"></script>
+  <script src="../../local/templates/mpt/js/wow.js"></script>
+  <script src="https://mpt.ru/local/templates/mpt/js/jquery.mobile.customized.min.js"></script>
+  <script src="https://mpt.ru/local/templates/mpt/js/camera.js"></script>
+  <script src="https://mpt.ru/local/templates/mpt/js/TMSearch.js"></script>
+  <script src="https://mpt.ru/local/templates/mpt/js/jquery.touch-touch.js"></script>
+  <script src="../../local/templates/mpt/js/jquery.rd-parallax.js"></script>
+  <script src="../../local/templates/mpt/js/jquery.fancybox.min.js"></script>    
+  <script src="../../local/templates/mpt/js/tm-scripts.js"></script>    
+  <script src="../../local/templates/mpt/js/versionsv.js"></script>    
+  <script src="../../local/templates/mpt/js/lazysizes.min.js"></script>
+  <script src="../../local/templates/mpt/js/app.js"></script>
+  <!-- </script> -->
+  <script type="text/javascript">
+var source_link = '<p>Источник: <a href="https://mpt.ru/studentu/praktiki/bazy-praktik/'&#32;+&#32;location.href&#32;+&#32;'">' + location.origin + location.pathname + '</a></p>';
+jQuery(
+    function($)
+    {
+        if (window.getSelection) $('body').bind( //тут необходимо выбрать правильный селектор, то есть тот див (к примеру) где у вас контент
+            'copy',
+            function()
+            {
+                var selection = window.getSelection();
+                var range = selection.getRangeAt(0);
+                var magic_div = $('<div>').css({ overflow : 'hidden', width: '1px', height : '1px', position : 'absolute', top: '-10000px', left : '-10000px' });
+                magic_div.append(range.cloneContents(), source_link);
+                $('body').append(magic_div);
+                var cloned_range = range.cloneRange();
+                selection.removeAllRanges();
+                var new_range = document.createRange();
+                new_range.selectNode(magic_div.get(0));
+                selection.addRange(new_range);
+                window.setTimeout(
+                    function()
+                    {
+                        selection.removeAllRanges();
+                        selection.addRange(cloned_range);
+                        magic_div.remove();
+                    }, 0
+                );
+            }
+        );
+    }
+);
+</script>
+
+<!-- Yandex.Metrika counter -->
+ 
+<script type="text/javascript" >
+    (function (d, w, c) {
+        (w[c] = w[c] || []).push(function() {
+            try {
+                w.yaCounter45914937 = new Ya.Metrika({
+                    id:45914937,
+                    clickmap:true,
+                    trackLinks:true,
+                    accurateTrackBounce:true,
+                    webvisor:true
+                });
+            } catch(e) { }
+        });
+
+        var n = d.getElementsByTagName("script")[0],
+            s = d.createElement("script"),
+            f = function () { n.parentNode.insertBefore(s, n); };
+        s.type = "text/javascript";
+        s.async = true;
+        s.src = "https://mc.yandex.ru/metrika/watch.js";
+
+        if (w.opera == "[object Opera]") {
+            d.addEventListener("DOMContentLoaded", f, false);
+        } else { f(); }
+    })(document, window, "yandex_metrika_callbacks");
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/45914937" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+
+  </body>
+</html>

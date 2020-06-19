@@ -1,0 +1,2836 @@
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Виды деятельности</title>
+    
+    <!-- Bootstrap -->
+    <link href="../../local/templates/mpt/css/bootstrap.css" rel="stylesheet">
+
+    <!-- Links -->
+    <link href='https://fonts.googleapis.com/css?family=PT+Sans:400,700' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Lato' rel='stylesheet' type='text/css'>
+    <link href="../../local/templates/mpt/css/font-awesome.css" rel="stylesheet">
+    <link href="../../local/templates/mpt/css/material-design.css" rel="stylesheet">
+    <link href="../../local/templates/mpt/css/rd-mailform.css" rel="stylesheet">
+    <link href="../../local/templates/mpt/css/jquery.fancybox.min.css" rel="stylesheet">
+
+    <!--JS-->
+    <script src="../../local/templates/mpt/js/jquery.js"></script>
+    <script src="../../local/templates/mpt/js/jquery-migrate-1.2.1.min.js"></script>
+
+    <!--[if lt IE 9]>
+    <div style=' clear: both; text-align:center; position: relative;'>
+        <a href="http://windows.microsoft.com/en-US/internet-explorer/..">
+            <img src="images/ie8-panel/warning_bar_0000_us.jpg" border="0" height="42" width="820"
+                 alt="You are using an outdated browser. For a faster, safer browsing experience, upgrade for free today."/>
+        </a>
+    </div>
+    <script src="js/html5shiv.js"></script>
+    <![endif]-->
+    <script src='../../local/templates/mpt/js/device.min.js'></script>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<link href="https://mpt.ru/bitrix/js/main/core/css/core.css?15514225323963" type="text/css" rel="stylesheet" />
+
+
+
+<link href="../../local/templates/.default/components/bitrix/menu/top_menu/style.css?1551422539878" type="text/css"  data-template-style="true"  rel="stylesheet" />
+<link href="../../local/templates/mpt/components/bitrix/breadcrumb/.default/style.css?1558935984585" type="text/css"  data-template-style="true"  rel="stylesheet" />
+<link href="../../local/templates/mpt/components/ogecut/empty/hot_line_form/style.css?158444143334" type="text/css"  data-template-style="true"  rel="stylesheet" />
+<link href="../../local/templates/mpt/styles.css?15646672401301" type="text/css"  data-template-style="true"  rel="stylesheet" />
+<link href="../../local/templates/mpt/template_styles.css?15646672404868" type="text/css"  data-template-style="true"  rel="stylesheet" />
+<script type="text/javascript">if(!window.BX)window.BX={};if(!window.BX.message)window.BX.message=function(mess){if(typeof mess=='object') for(var i in mess) BX.message[i]=mess[i]; return true;};</script>
+<script type="text/javascript">(window.BX||top.BX).message({'JS_CORE_LOADING':'Загрузка...','JS_CORE_NO_DATA':'- Нет данных -','JS_CORE_WINDOW_CLOSE':'Закрыть','JS_CORE_WINDOW_EXPAND':'Развернуть','JS_CORE_WINDOW_NARROW':'Свернуть в окно','JS_CORE_WINDOW_SAVE':'Сохранить','JS_CORE_WINDOW_CANCEL':'Отменить','JS_CORE_WINDOW_CONTINUE':'Продолжить','JS_CORE_H':'ч','JS_CORE_M':'м','JS_CORE_S':'с','JSADM_AI_HIDE_EXTRA':'Скрыть лишние','JSADM_AI_ALL_NOTIF':'Показать все','JSADM_AUTH_REQ':'Требуется авторизация!','JS_CORE_WINDOW_AUTH':'Войти','JS_CORE_IMAGE_FULL':'Полный размер'});</script>
+
+<script type="text/javascript" src="https://mpt.ru/bitrix/js/main/core/core.js?1588581841543330"></script>
+
+<script>BX.setJSList(['/bitrix/js/main/core/core_ajax.js','/bitrix/js/main/core/core_promise.js','/bitrix/js/main/polyfill/promise/js/promise.js','/bitrix/js/main/loadext/loadext.js','/bitrix/js/main/loadext/extension.js','/bitrix/js/main/polyfill/promise/js/promise.js','/bitrix/js/main/polyfill/find/js/find.js','/bitrix/js/main/polyfill/includes/js/includes.js','/bitrix/js/main/polyfill/matches/js/matches.js','/bitrix/js/ui/polyfill/closest/js/closest.js','/bitrix/js/main/polyfill/fill/main.polyfill.fill.js','/bitrix/js/main/polyfill/find/js/find.js','/bitrix/js/main/polyfill/matches/js/matches.js','/bitrix/js/main/polyfill/core/dist/polyfill.bundle.js','/bitrix/js/main/core/core.js','/bitrix/js/main/polyfill/intersectionobserver/js/intersectionobserver.js','/bitrix/js/main/lazyload/dist/lazyload.bundle.js','/bitrix/js/main/polyfill/core/dist/polyfill.bundle.js','/bitrix/js/main/parambag/dist/parambag.bundle.js']);
+BX.setCSSList(['/bitrix/js/main/core/css/core.css','/bitrix/js/main/lazyload/dist/lazyload.bundle.css','/bitrix/js/main/parambag/dist/parambag.bundle.css']);</script>
+<script type="text/javascript">(window.BX||top.BX).message({'LANGUAGE_ID':'ru','FORMAT_DATE':'DD.MM.YYYY','FORMAT_DATETIME':'DD.MM.YYYY HH:MI:SS','COOKIE_PREFIX':'MPT_','SERVER_TZ_OFFSET':'10800','SITE_ID':'s1','SITE_DIR':'/','USER_ID':'','SERVER_TIME':'1592574387','USER_TZ_OFFSET':'0','USER_TZ_AUTO':'Y','bitrix_sessid':'8dd62250495462a45eaeea5bf582bc12'});</script>
+
+
+<script type="text/javascript" src="https://mpt.ru/bitrix/js/main/polyfill/customevent/main.polyfill.customevent.js?1551422533913"></script>
+<script type="text/javascript" src="https://mpt.ru/bitrix/js/ui/dexie/dist/dexie.bitrix.bundle.js?1588584522196209"></script>
+<script type="text/javascript" src="https://mpt.ru/bitrix/js/main/core/core_ls.js?155142253210430"></script>
+<script type="text/javascript" src="https://mpt.ru/bitrix/js/main/core/core_fx.js?155142253216888"></script>
+<script type="text/javascript" src="https://mpt.ru/bitrix/js/main/core/core_frame_cache.js?158858136315905"></script>
+
+
+<script type="text/javascript" src="../../local/templates/mpt/components/ogecut/empty/hot_line_form/script.js?15844460961016"></script>
+<script type="text/javascript">var _ba = _ba || []; _ba.push(["aid", "b3fb52729eb9d09eeaa5dcfa8da2e3b2"]); _ba.push(["host", "mpt.ru"]); (function() {var ba = document.createElement("script"); ba.type = "text/javascript"; ba.async = true;ba.src = (document.location.protocol == "https:" ? "https://" : "http://") + "bitrix.info/ba.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ba, s);})();</script>
+
+
+  </head>
+  <body>
+              
+  <div class="page">
+  <!--========================================================
+                            HEADER
+  =========================================================-->
+    <header class="parallax text-center">
+<!--header class="parallax text-center" data-mobile="true" data-color="#dee7eb" data-speed="3"-->
+
+<div class="parallax_cnt">
+      <section>
+
+        <div id="stuck_container" class="stuck_container">
+          <div class="">
+
+            <div class="row">
+				<div class="blue-wrapper">
+          <div class="container">
+            <div class="row">
+				<div class="col-md-6 col-sm-6 col-xs-12 head-row left-sm">
+					<div class="f-left"><a href="../../index.html"><img src="../../upload/logoq.png" alt="logo"style="height:115px;max-width:164px;" /></a></div>
+				<div class="f-left">
+                  <span class="head-title">Московский <br>приборостроительный <br> техникум					</span>
+<br>
+ФГБОУ ВО РЭУ ИМ. Г.В. ПЛЕХАНОВА					</div>
+              </div>
+              <div class="col-md-6 col-sm-6 col-xs-12 head-row right-sm">
+
+<p class="top-contacts">
+	 г. Москва, Нежинская улица, 7<br>
+ <br>
+	 г. Москва, Нахимовский проспект, 21
+</p>
+<p class="top-contacts">
+<b style="font-size: 16pt; color: red;">Горячая линия приемной комиссии:</b><br>
+ <br>
+	<span style="font-size: 15pt;"><!--8 (903) 792-83-02-->8 (495) 792 83 02</span><br><br>
+ <b style="font-size: 16pt; color: red;">Горячая линия дистанционного обучения:</b><br>
+ <br>
+	<span style="font-size: 15pt;">8 (926) 057-70-95</span><br><br>
+<b style="font-size: 16pt; color: red;">Горячая линия психолога:</b><br>
+ <br>
+	<span style="font-size: 15pt;">8 (903) 502-82-50</span>
+</p>
+
+<!--
+<p style="
+    font-size: 22pt;
+    font-weight: bold;
+    color: #fff700;
+    "><a href="/translations">Трансляция Дня открытых дверей »</a></p>
+-->
+
+<!--
+<p class="top-contacts" style="font-size: 20px">
+<b>
+Приёмная комиссия: <a href="tel:84993170409">8 (499) 317-04-09</a><br><br>
+<a href="tel:84958001200,2094">8 (495) 800-12-00 <small>(доб. 2094)</small></a>
+</b>
+</p>
+-->
+<!--<p class="top-contacts">
+<div style="padding-top: 5px; padding-bottom: 7px;">
+<b>
+КАНЦЕЛЯРИЯ: <a href="tel:84954426577">8 (495) 442-65-77</a>;
+<a href="tel:84958001200,2092">8 (495) 800-12-00 <small>(доб. 2092)</small></a>
+</b>
+<a href="89160634434">8 (916) 063-44-34</b></a>
+</div>
+</p>--><div class="versionsv">
+            <a href="vidy-deyatelnosti#sv_settings_collapse" id="sv_on" class="btn btn-default" data-toggle="collapse" role="button">
+                <strong>Версия для слабовидящих</strong>
+            </a>
+<a href="vidy-deyatelnosti" class="hot-line" style="color: #ffffff;background-color: #7c9fb0;border-color: #7c9fb0;display: inline-block;font-weight: 700;cursor: pointer;border: 1px solid transparent;background: transparent;outline: none;text-transform: uppercase;letter-spacing: 0.06em;padding: 15px 26px;font-size: 18px;line-height: 19px;border-radius: 0;-moz-transition: 0.2s all ease;-webkit-transition: 0.2s all ease;-o-transition: 0.2s all ease;transition: 0.2s all ease;color: #ffffff;background-color: #7c9fb0;border-color: #7c9fb0;">
+<strong>Задать вопрос!</strong>
+</a>
+            <div id="sv_settings_collapse" class="collapse">
+              <div id="sv_settings" class="sv_settings text-left" id="">
+                  <div>Размер шрифта
+                      <span class="fs-outer">
+                          <button data-font-size="14px" class="btn btn-default fs-n" id="fs-n" style="font-size: 14px">А</button>
+                          <button data-font-size="18px" style="font-size: 18px" class="btn btn-default fs-m" id="fs-m">А</button>
+                          <button data-font-size="24px" style="font-size: 24px" class="btn btn-default fs-l" id="fs-l">А</button>
+
+                      </span>
+                  </div>
+                  <br>
+                  <div class="mgl20">Цветовая схема
+                      <span class="cs-outer">
+                          <button class="btn btn-default cs-bw" id="cs-bw">А</button>
+                          <button class="btn btn-default cs-wb" id="cs-wb">А</button>
+                          <button class="btn btn-default cs-bb" id="cs-bb">А</button>
+                          <button class="btn btn-default cs-gb" id="cs-gb">А</button>
+                          <button class="btn btn-default cs-yg" id="cs-yg">А</button>
+                      </span>
+                  </div>
+                  <br>
+                  <div class="mgl20">
+                    Изображения
+                      <span class="img-outer">
+                          <button class="btn btn-default btn-xs" id="img-onoff"><span class="glyphicon glyphicon-picture"></span><span id="img-onoff-text"> Отключить</span></button>
+                      </span>
+                  </div>
+              </div>
+            </div>
+        </div>
+</div>
+
+<div class="clearfix"></div>
+</div>
+</div>
+              </div>
+            </div>
+           
+<nav class="navbar navbar-default navbar-static-top ">
+
+  <div class="navbar-header">
+    <h1 class="navbar-brand">
+      <a href="../../index.html">
+              </a>
+    </h1>
+  </div>
+  <ul class="navbar-nav sf-menu navbar-right" data-type="navbar">
+
+
+	
+	
+					<li class="dropdown hovered ">
+
+			 	<a href="../../o-tekhnikume/index.html">Сведения об образовательной организации</a>
+				<ul class="dropdown-menu">
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="../../o-tekhnikume/osnovnye-svedeniya">Основные сведения</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+					<li class="dropdown  ">
+				<a href="../../abiturientu/index.html">Абитуриент</a>
+				<ul class="dropdown-menu">
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="../../o-tekhnikume/informatsiya-o-tekhnikume/index.html">Информация о техникуме</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="http://priem.mpt.ru/">Приёмная комиссия</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="../../spetsialnosti/obshchie-svedeniya/index.html">О специальностях</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="../../sayty-otdeleniy">Сайты отделений</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="../../abiturientu/dni-otkrytykh-dverey/index.html">Дни открытых дверей</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="https://sites.google.com/a/mpt.ru/pk/">Подготовительные курсы</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="../../spetsialnosti/formy-obucheniya/index.html">Формы обучения</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="../../translations/index.html">Трансляция Дня открытых дверей</a>
+				</li>
+			
+		
+	
+	
+
+			</ul></li>	
+	
+		
+							<li >
+					<a href="../../o-tekhnikume/struktura-i-organy-upravleniya-obrazovatelnoy-organizatsiey">Структура и органы управления образовательной организацией</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="../../o-tekhnikume/dokumenty_new/index.html">Документы</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="../../o-tekhnikume/obrazovanie">Образование</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="http://zamur.mpt.ru/standards">Образовательные стандарты</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="../../o-tekhnikume/rukovodstvo-pedagogicheskiy-nauchno-pedagogicheskiy-sostav">Руководство. Педагогический (научно-педагогический) состав</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="../../o-tekhnikume/materialno-tekhnicheskoe-obespechenie-i-osnashchennost-obrazovatelnogo-protsessa">Материально-техническое обеспечение и оснащенность образовательного процесса</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="../../o-tekhnikume/stipendii-i-inye-vidy-materialnoy-podderzhki">Стипендии и иные виды материальной поддержки</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="../../o-tekhnikume/platnye-obrazovatelnye-uslugi">Платные образовательные услуги</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="../../o-tekhnikume/finansovo-khozyaystvennaya-deyatelnost">Финансово-хозяйственная деятельность</a>
+				</li>
+			
+		
+	
+	
+
+			</ul></li>	
+	
+					<li class="dropdown hovered ">
+
+			 	<a href="../../abiturientu/index.html">Абитуриенту</a>
+				<ul class="dropdown-menu">
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="../../o-tekhnikume/informatsiya-o-tekhnikume/index.html">Информация о техникуме</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="http://priem.mpt.ru/">Приёмная комиссия</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+					<li class="dropdown  ">
+				<a href="../../spetsialnosti/obshchie-svedeniya/index.html">О специальностях</a>
+				<ul class="dropdown-menu">
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="https://mpt.ru/sayty-otdeleniy/otdelenie-pervogo-kursa/">Отделение первого курса</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="../../spetsialnosti/obshchie-svedeniya/kompyuternye-sistemy-i-kompleksy">09.02.01 «Компьютерные системы и комплексы»</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="../../spetsialnosti/obshchie-svedeniya/kompyuternye-seti">09.02.02 «Компьютерные сети»</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="../../spetsialnosti/obshchie-svedeniya/programmirovanie-v-kompyuternykh-sistemakh">09.02.03 «Программирование в компьютерных системах»</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="../../spetsialnosti/obshchie-svedeniya/informatsionnye-sistemy-po-otraslyam-">09.02.04 «Информационные системы (по отраслям)»</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="../../spetsialnosti/obshchie-svedeniya/prikladnaya-informatika-po-otraslyam">09.02.05 «Прикладная информатика (по отраслям)»</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="../../spetsialnosti/obshchie-svedeniya/informatsionnaya-bezopasnost-avtomatizirovannykh-sistem">10.02.03 «Информационная безопасность автоматизированных систем»</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="../../spetsialnosti/obshchie-svedeniya/pravo-i-organizatsiya-sotsialnogo-obespecheniya">40.02.01 «Право и организация социального обеспечения»</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="../../spetsialnosti/obshchie-svedeniya/09-02-06-setevoe-i-sistemnoe-administrirovanie">09.02.06 «Сетевое и системное администрирование»</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="../../spetsialnosti/obshchie-svedeniya/09-02-07-informatsionnye-sistemy-i-programmirovanie/index.html">09.02.07 «Информационные системы и программирование»</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="../../spetsialnosti/obshchie-svedeniya/10-02-05-obespechenie-informatsionnoy-bezopasnosti-avtomatizirovannykh-sistem">10.02.05 «Обеспечение информационной безопасности автоматизированных систем»</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="vidy-deyatelnosti"></a>
+				</li>
+			
+		
+	
+	
+
+			</ul></li>	
+	
+		
+							<li >
+					<a href="../../sayty-otdeleniy">Сайты отделений</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="../../abiturientu/dni-otkrytykh-dverey/index.html">Дни открытых дверей</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="https://sites.google.com/a/mpt.ru/pk/">Подготовительные курсы</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="../../spetsialnosti/formy-obucheniya/index.html">Формы обучения</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="../../translations/index.html">Трансляция Дня открытых дверей</a>
+				</li>
+			
+		
+	
+	
+
+			</ul></li>	
+	
+					<li class="dropdown hovered ">
+
+			 	<a href="../index.html">Студенту</a>
+				<ul class="dropdown-menu">
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="../raspisanie-zanyatiy/index.html">Расписание занятий</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="../izmeneniya-v-raspisanii/index.html">Изменения в расписании</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="../raspisanie-ekzamenov/index.html">Расписание экзаменов</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+					<li class="dropdown  ">
+				<a href="index.html">Практики</a>
+				<ul class="dropdown-menu">
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="raspisanie/files/raspisanie-praktik.pdf">Расписание</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="bazy-praktik">Базы практик</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="tseli-i-zadachi-praktiki">Цели и задачи практики</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li  class="active">
+					<a href="vidy-deyatelnosti">Виды деятельности</a>
+				</li>
+			
+		
+	
+	
+
+			</ul></li>	
+	
+		
+							<li >
+					<a href="https://sites.google.com/a/mpt.ru/lib_mpt/">Библиотека</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="../studencheskaya-zhizn/index.html">Студенческая жизнь</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="https://ucmpt.ru/">Дополнительное образование</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+					<li class="dropdown  ">
+				<a href="../distantsionnoe-obuchenie/index.html">Дистанционное обучение</a>
+				<ul class="dropdown-menu">
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="http://forum.mpt.ru/">Форум</a>
+				</li>
+			
+		
+	
+	
+
+			</ul></li>	
+	
+		
+							<li >
+					<a href="http://psy-mpt.tilda.ws/">Психологическое консультирование</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="../sportivnaya-zhizn">Спортивная жизнь</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+					<li class="dropdown  ">
+				<a href="../studencheskiy-portal/index.html">Студенческий портал</a>
+				<ul class="dropdown-menu">
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="http://student.mpt.ru">Заказ справок в канцелярии</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="http://student.mpt.ru">Показ выписанных направлений</a>
+				</li>
+			
+		
+	
+	
+
+			</ul></li>	
+	
+		
+							<li >
+					<a href="../../o-tekhnikume/fotoarkhiv">Фотоархив</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+					<li class="dropdown  ">
+				<a href="../../o-tekhnikume/sorevnovaniya-chempionaty/index.html">Соревнования, чемпионаты</a>
+				<ul class="dropdown-menu">
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="../../o-tekhnikume/sorevnovaniya-chempionaty/otborochnyy-chempionat-reu-plekhanova-vorldskills">Вузовский чемпионат ФГБОУ ВО «РЭУ имени Г.В. Плеханова» по стандартам Ворлдскиллс</a>
+				</li>
+			
+		
+	
+	
+
+			</ul></li>	
+	
+		
+							<li >
+					<a href="../%25D0%2592%25D0%25BE%25D0%25BF%25D1%2580%25D0%25BE%25D1%2581%25D1%258B-%25D0%25BE%25D1%2582%25D0%25B2%25D0%25B5%25D1%2582%25D1%258B.pdf">Вопросы-ответы</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="../trudoustroystvo">Трудоустройство</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="../studsovet/index.html">Студсовет</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="../opros-o-distantsionnom-obuchenii">Опрос о дистанционном обучении</a>
+				</li>
+			
+		
+	
+	
+
+			</ul></li>	
+	
+		
+							<li class="hovered">
+					<a href="https://ucmpt.ru/" class="">Доп. образование</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+					<li class="dropdown hovered ">
+
+			 	<a href="../../avtoshkola/index.html">Автошкола</a>
+				<ul class="dropdown-menu">
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="https://mpt.ru/avtoshkola">Главная</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="../../avtoshkola/pravila-priyema">Правила приёма</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="../../avtoshkola/obuchenie">Обучение</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="../../avtoshkola/foto">Фото</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="../../avtoshkola/kontakty">Контакты</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+					<li class="dropdown  ">
+				<a href="../../o-tekhnikume/index.html">Сведения об образовательной организации</a>
+				<ul class="dropdown-menu">
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="../../o-tekhnikume/osnovnye-svedeniya">Основные сведения</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="../../abiturientu/index.html">Абитуриент</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="../../o-tekhnikume/struktura-i-organy-upravleniya-obrazovatelnoy-organizatsiey">Структура и органы управления образовательной организацией</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="../../o-tekhnikume/dokumenty_new/index.html">Документы</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="../../o-tekhnikume/obrazovanie">Образование</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="http://zamur.mpt.ru/standards">Образовательные стандарты</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="../../o-tekhnikume/rukovodstvo-pedagogicheskiy-nauchno-pedagogicheskiy-sostav">Руководство. Педагогический (научно-педагогический) состав</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="../../o-tekhnikume/materialno-tekhnicheskoe-obespechenie-i-osnashchennost-obrazovatelnogo-protsessa">Материально-техническое обеспечение и оснащенность образовательного процесса</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="../../o-tekhnikume/stipendii-i-inye-vidy-materialnoy-podderzhki">Стипендии и иные виды материальной поддержки</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="../../o-tekhnikume/platnye-obrazovatelnye-uslugi">Платные образовательные услуги</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li >
+					<a href="../../o-tekhnikume/finansovo-khozyaystvennaya-deyatelnost">Финансово-хозяйственная деятельность</a>
+				</li>
+			
+		
+	
+	
+
+			</ul></li></ul></li>	
+	
+		
+							<li class="hovered">
+					<a href="../../kontakty/index.html" class="">Контакты</a>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li class="hovered">
+					<a href="../../elektronnaya-informatsionno-obrazovatelnaya-sreda" class="">Электронная информационно-образовательная среда</a>
+				</li>
+			
+		
+	
+	
+
+
+</ul>
+</nav>
+          </div>
+        </div>
+
+		  
+      </section>
+</div>
+    </header>
+
+    <!--========================================================
+                              CONTENT
+    =========================================================-->
+
+	  <main>
+
+				  <div class="container-fluid text-page">
+	<div class="container">
+<link href="https://mpt.ru/bitrix/css/main/font-awesome.css?155142253228777" type="text/css" rel="stylesheet" />
+<div class="bx-breadcrumb" itemprop="http://schema.org/breadcrumb" itemscope itemtype="http://schema.org/BreadcrumbList">
+			<div class="bx-breadcrumb-item" id="bx_breadcrumb_0" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+				
+				<a href="../../index.html" title="Главная" itemtype="https://schema.org/Thing" itemprop="item">
+					<span itemprop="name">Главная</span>
+				</a>
+				<meta itemprop="position" content="1" />
+			</div>
+			<div class="bx-breadcrumb-item" id="bx_breadcrumb_1" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+				<i class="fa fa-angle-right"></i>
+				<a href="../index.html" title="Студенту" itemtype="https://schema.org/Thing" itemprop="item">
+					<span itemprop="name">Студенту</span>
+				</a>
+				<meta itemprop="position" content="2" />
+			</div>
+			<div class="bx-breadcrumb-item" id="bx_breadcrumb_2" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+				<i class="fa fa-angle-right"></i>
+				<a href="index.html" title="Практики" itemtype="https://schema.org/Thing" itemprop="item">
+					<span itemprop="name">Практики</span>
+				</a>
+				<meta itemprop="position" content="3" />
+			</div>
+			<div class="bx-breadcrumb-item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+				<i class="fa fa-angle-right"></i>
+				<a href="vidy-deyatelnosti" itemtype="https://schema.org/Thing" itemprop="item" class="hidden">
+					<span itemprop="name">Виды деятельности</span>
+				</a>
+				<span itemprop="name">Виды деятельности</span>
+				<meta itemprop="position" content="4" />
+			</div><div style="clear:both"></div></div><div>
+
+
+
+
+
+<p>
+     Задание в зависимости от профиля организации, на базе которого студент проходит данную практику, определяется руководителем практики от организации и согласовывается с руководителем практики от техникума. Для организации практики определена следующая тематика заданий...
+</p>
+<div class="col-md-12 spoiler-main">
+ <a href="vidy-deyatelnosti#spoiler1" data-toggle="collapse" class="btn btn-primary btn-block spoiler collapsed">09.02.01 "Компьютерные системы и комплексы"</a>
+    <div class="collapse" id="spoiler1">
+        <div class="inspoiler">
+            <p>
+                 Виды деятельности:
+            </p>
+            <ul>
+                <li>Оформление проектно-конструкторской, технологической и другой технической документации в соответствии с действующими нормативными документами;</li>
+                <li>Разработка компьютерных систем и комплексов;</li>
+                <li>Сборка, наладка, комплектование, конфигурирование, настройка аппаратноПрограммных систем;</li>
+                <li>Техническое обслуживание и ремонт компьютерных систем и настройка периферийного оборудования;</li>
+                <li>Обслуживание локальных сетей;</li>
+                <li>Работа с базами данных;</li>
+                <li>Другие работы в области информационных технологий и автоматизированных систем.</li>
+            </ul>
+            <p>
+                 Техник по компьютерным системам должен обладатьпрофессиональными компетенциями, соответствующими основным видам профессиональной деятельности:
+            </p>
+            <ul>
+                <li>ПМ.01 Проектирование цифровых устройств.
+                <ul>
+                    <li>ПК1.1.Разрабатывать схемы цифровых устройств на основе интегральных схем разной степени интеграции.</li>
+                    <li>ПК1.2.Выполнять требования технического задания напроектирование цифровых устройств.</li>
+                    <li>ПК1.3.Использовать средства и методы автоматизированного проектирования при разработке цифровых устройств.</li>
+                    <li>ПК1.4.Определять показатели надежности и качества проектируемых цифровых устройств.</li>
+                    <li>ПК1.5.Выполнять требования нормативно-технической документации.</li>
+                </ul>
+ </li>
+                <li>ПМ.02 Применение микропроцессорных систем, установка и настройка периферийного оборудования.
+                <ul>
+                    <li>ПК2.1.Создавать программы на языке ассемблера длямикропроцессорных систем.</li>
+                    <li>ПК2.2.Производить тестирование и отладку микропроцессорных систем.</li>
+                    <li>ПК2.3.Осуществлять установку и конфигурирование персональных компьютеров и подключение периферийных устройств.</li>
+                    <li>ПК2.4.Выявлять причины неисправности периферийного оборудования.</li>
+                </ul>
+ </li>
+                <li>ПМ.03 Техническое обслуживание и ремонт компьютерных систем и комплексов.
+                <ul>
+                    <li>ПК3.1.Проводить контроль, диагностику и восстановление работоспособности компьютерных систем и комплексов.</li>
+                    <li>ПК3.2.Проводить системотехническое обслуживание компьютерных систем и комплексов.</li>
+                    <li>ПК3.3.Принимать участие в отладке и технических испытаниях компьютерных систем и комплексов; инсталляции, конфигурировании программного обеспечения.</li>
+                </ul>
+ </li>
+            </ul>
+        </div>
+    </div>
+</div>
+<div class="col-md-12 spoiler-main">
+ <a href="vidy-deyatelnosti#spoiler2" data-toggle="collapse" class="btn btn-primary btn-block spoiler collapsed">09.02.02 "Компьютерные сети"</a>
+    <div class="collapse" id="spoiler2">
+        <div class="inspoiler">
+            <p>
+                 Виды деятельности:
+            </p>
+            <ul>
+                <li>Разработка и настройка средств вычислительной техники;</li>
+                <li>Сетевое и системное администрирование вычислительных комплексов;</li>
+                <li>Техническое обслуживание компьютерной и оргтехники;</li>
+                <li>Обслуживание локальных сетей;</li>
+                <li>Установка сетевого оборудования;</li>
+                <li>Разработка, внедрение и сопровождение баз данных;</li>
+                <li>Работа с офисным программным обеспечением;</li>
+                <li>Создание интернет-сайтов и порталов;</li>
+                <li>Другие работы в области информационных технологий и автоматизированных систем.</li>
+            </ul>
+            <p>
+                 Техник по компьютерным сетям должен обладатьпрофессиональными компетенциями, соответствующими основным видам профессиональной деятельности:
+            </p>
+            <ul>
+                <li>ПМ.01 Участие в проектировании сетевой инфраструктуры:
+                <ul>
+                    <li>ПК1.1.Выполнять проектирование кабельной структуры компьютерной сети.</li>
+                    <li>ПК1.2.Осуществлять выбор технологии, инструментальных средств и средств вычислительной техники при организации процесса разработки и исследования объектов профессиональной деятельности.</li>
+                    <li>ПК1.3.Обеспечивать защиту информации в сети с использованием программно-аппаратных средств.</li>
+                    <li>ПК1.4.Принимать участие в приёмо-сдаточных испытаниях компьютерных сетей и сетевого оборудования различного уровня и воценке качества и экономической эффективности сетевой топологии.</li>
+                    <li>ПК1.5.Выполнять требования нормативно–технической документации, иметь опыт оформления проектной документации.</li>
+                </ul>
+ </li>
+                <li>ПМ.02 Организация сетевого администрирования:
+                <ul>
+                    <li>ПК2.1.Администрировать локальные вычислительные сети и принимать меры по устранению возможных сбоев.</li>
+                    <li>ПК2.2.Администрировать сетевые ресурсы в информационных системах.</li>
+                    <li>ПК2.3.Обеспечивать сбор данных для анализа использования и функционирования программно-технических средств компьютерных сетей.</li>
+                    <li>ПК2.4.Взаимодействовать со специалистами смежного профиля при разработке методов, средств и технологий применения объектов профессиональной деятельности.</li>
+                </ul>
+ </li>
+                <li>ПМ.03 Эксплуатация объектов сетевой инфраструктуры:
+                <ul>
+                    <li>ПК3.1.Устанавливать, настраивать, эксплуатировать и обслуживать технические и программно-аппаратные средства компьютерных сетей.</li>
+                    <li>ПК3.2.Проводить профилактические работы на объектах сетевой инфраструктуры и рабочих станциях.</li>
+                    <li>ПК3.3.Эксплуатации сетевых конфигураций.</li>
+                    <li>ПК3.4.Участвовать в разработке схемы послеаварийного восстановления работоспособности компьютерной сети, выполнять восстановление и резервное копирование информации.</li>
+                    <li>ПК3.5.Организовывать инвентаризацию технических средств сетевой инфраструктуры, осуществлять контроль поступившего изремонта оборудования.</li>
+                    <li>ПК3.6.Выполнять замену расходных материалов и мелкий ремонт периферийного оборудования, определять устаревшее оборудование и программные средства сетевой инфраструктуры.</li>
+                </ul>
+ </li>
+            </ul>
+        </div>
+    </div>
+</div>
+<div class="col-md-12 spoiler-main">
+ <a href="vidy-deyatelnosti#spoiler3" data-toggle="collapse" class="btn btn-primary btn-block spoiler collapsed">09.02.03 "Программирование в компьютерных системах"</a>
+    <div class="collapse" id="spoiler3">
+        <div class="inspoiler">
+            <p>
+                 Виды деятельности:
+            </p>
+            <ul>
+                <li>Разработка программных модулей программного обеспечения компьютерных систем;</li>
+                <li>Участие в интеграции программных модулей;</li>
+                <li>Разработка, внедрение и сопровождение баз данных;</li>
+                <li>Работа с офисным программным обеспечением;</li>
+                <li>Создание интернет-сайтов и порталов;</li>
+                <li>Сетевое и системное администрирование вычислительных комплексов;</li>
+                <li>Техническое обслуживание компьютерной и оргтехники;</li>
+                <li>Обслуживание локальных сетей;</li>
+                <li>Другие работы в области информационных технологий и автоматизированных систем.</li>
+            </ul>
+            <p>
+                 Техник-программист по компьютерным сетям должен обладатьпрофессиональными компетенциями, соответствующими основным видам профессиональной деятельности:
+            </p>
+            <ul>
+                <li>ПМ 01 Разработка программных модулей программного обеспечения для компьютерных систем.
+                <ul>
+                    <li>ПК 1.1. Выполнять разработку спецификаций отдельных компонент.</li>
+                    <li>ПК 1.2. Осуществлять разработку кода программного продукта на основе готовых спецификаций на уровне модуля.</li>
+                    <li>ПК 1.3. Выполнять отладку программных модулей с использованием специализированных программных средств.</li>
+                    <li>ПК 1.4. Выполнять тестирование программных модулей.</li>
+                    <li>ПК 1.5. Осуществлять оптимизацию программного кода модуля.</li>
+                    <li>ПК 1.6. Разрабатывать компоненты проектной и технической документации с использованием графических языков спецификаций.</li>
+                </ul>
+ </li>
+                <li>ПМ 02 Разработка и администрирование баз данных.
+                <ul>
+                    <li>ПК 2.1. Разрабатывать объекты базы данных.</li>
+                    <li>ПК 2.2. Реализовывать базу данных в конкретной системе управления базами данных (СУБД).</li>
+                    <li>ПК 2.3. Решать вопросы администрирования базы данных.</li>
+                    <li>ПК 2.4. Реализовывать методы и технологии защиты информации в базах данных.</li>
+                </ul>
+ </li>
+                <li>ПМ.03 Участие в интеграции программных модулей.
+                <ul>
+                    <li>ПК 3.1. Анализировать проектную и техническую документацию на уровне взаимодействия компонент программного обеспечения.</li>
+                    <li>ПК 3.2. Выполнять интеграцию модулей в программную систему.</li>
+                    <li>ПК 3.3. Выполнять отладку программного продукта с использованием специализированных программных средств.</li>
+                    <li>ПК 3.4. Осуществлять разработку тестовых наборов и тестовых сценариев.</li>
+                    <li>ПК 3.5. Производить инспектирование компонент программного продукта на предмет соответствия стандартам кодирования.</li>
+                    <li>ПК 3.6. Разрабатывать технологическую документацию.</li>
+                </ul>
+ </li>
+            </ul>
+        </div>
+    </div>
+</div>
+<div class="col-md-12 spoiler-main">
+ <a href="vidy-deyatelnosti#spoiler4" data-toggle="collapse" class="btn btn-primary btn-block spoiler collapsed">09.02.04 "Информационные системы (по отраслям)</a>
+    <div class="collapse" id="spoiler4">
+        <div class="inspoiler">
+            <p>
+                 Виды деятельности:
+            </p>
+            <ul>
+                <li>Сетевое и системное администрирование вычислительных комплексов;</li>
+                <li>Техническое обслуживание компьютерной и оргтехники;</li>
+                <li>Обслуживание локальных сетей;</li>
+                <li>Разработка, внедрение и сопровождение баз данных;</li>
+                <li>Работа с офисным, прикладным, инструментальным и системным программным обеспечением;</li>
+                <li>Создание интернет-сайтов и порталов;</li>
+                <li>Математическое, функциональное и имитационное моделирование систем;</li>
+                <li>Автоматизация и управление бизнес-Процессами;</li>
+                <li>Дизайн и программирование в Internet;</li>
+                <li>Другие работы в области информационных технологий и автоматизированных систем</li>
+            </ul>
+            <p>
+                 Техник по информационным системам должен обладать профессиональными компетенциями, соответствующими основным видам профессиональной деятельности (по базовой подготовке):
+            </p>
+            <ul>
+                <li>ПМ.01 Эксплуатация и модификация информационных систем.
+                <ul>
+                    <li>ПК 1.1. Собирать данные для анализа использования и функционирования информационной системы, участвовать в составлении отчетной документации, принимать участие в разработке проектной документации на модификацию информационной системы.</li>
+                    <li>ПК 1.2. Взаимодействовать со специалистами смежного профиля при разработке методов, средств и технологий применения объектов профессиональной деятельности.</li>
+                    <li>ПК 1.3. Производить модификацию отдельных модулей информационной системы в соответствии с рабочим заданием, документировать произведенные изменения.</li>
+                    <li>ПК 1.4. Участвовать в экспериментальном тестировании информационной системы на этапе опытной эксплуатации, фиксировать выявленные ошибки кодирования в разрабатываемых модулях информационной системы.</li>
+                    <li>ПК 1.5. Разрабатывать фрагменты документации по эксплуатации информационной системы.</li>
+                    <li>ПК 1.6. Участвовать в оценке качества и экономической эффективности информационной системы.</li>
+                    <li>ПК 1.7. Производить инсталляцию и настройку информационной системы в рамках своей компетенции, документировать результаты работ.</li>
+                    <li>ПК 1.8. Консультировать пользователей информационной системы и разрабатывать фрагменты методики обучения пользователей информационной системы.</li>
+                    <li>ПК 1.9. Выполнять регламенты по обновлению, техническому сопровождению и восстановлению данных информационной системы, работать с технической документацией.</li>
+                    <li>ПК 1.10. Обеспечивать организацию доступа пользователей информационной системы в рамках своей компетенции.</li>
+                </ul>
+ </li>
+                <li>ПМ.02 Участие в разработке информационных систем.
+                <ul>
+                    <li>ПК 2.1. Участвовать в разработке технического задания.</li>
+                    <li>ПК 2.2. Программировать в соответствии с требованиями технического задания.</li>
+                    <li>ПК 2.3. Применять методики тестирования разрабатываемых приложений.</li>
+                    <li>ПК 2.4. Формировать отчетную документацию по результатам работ.</li>
+                    <li>ПК 2.5. Оформлять программную документацию в соответствии с принятыми стандартами.</li>
+                    <li>ПК 2.6. Использовать критерии оценки качества и надежности функционирования информационной системы.</li>
+                </ul>
+ </li>
+            </ul>
+        </div>
+    </div>
+</div>
+<div class="col-md-12 spoiler-main">
+ <a href="vidy-deyatelnosti#spoiler5" data-toggle="collapse" class="btn btn-primary btn-block spoiler collapsed">09.02.05 "Прикладная информатика (по отраслям)"</a>
+    <div class="collapse" id="spoiler5">
+        <div class="inspoiler">
+            <p>
+                 Виды деятельности:
+            </p>
+            <ul>
+                <li>Проектирование, разработка и сопровождение профессионально-ориентированных информационных систем;</li>
+                <li>Разработка, внедрение и сопровождение баз данных;</li>
+                <li>Работа с офисным программным обеспечением;</li>
+                <li>Поддержка интернет-сайтов и порталов;</li>
+                <li>Защита экономической информации организации;</li>
+                <li>Другие работы в области информационных технологий и автоматизированных систем.</li>
+            </ul>
+            <p>
+                 Дополнительные задания:
+            </p>
+            <ul>
+                <li>Сетевое и системное администрирование вычислительных комплексов;</li>
+                <li>Техническое обслуживание компьютерной и оргтехники.</li>
+            </ul>
+            <p>
+                 Техник-программист по компьютерным сетям должен обладатьпрофессиональными компетенциями, соответствующими основным видам профессиональной деятельности:
+            </p>
+            <ul>
+                <li>ПК 1.1. Обрабатывать статический информационный контент.</li>
+                <li>ПК 1.2. Обрабатывать динамический информационный контент.</li>
+                <li>ПК 1.3. Осуществлять подготовку оборудования к работе.</li>
+                <li>ПК 1.4. Настраивать и работать с отраслевым оборудованием обработки информационного контента.</li>
+                <li>ПК 1.5. Контролировать работу компьютерных, периферийных устройств и телекоммуникационных систем, обеспечивать их правильную эксплуатацию.</li>
+                <li>ПМ.02 Разработка, внедрение и адаптация программного обеспечения отраслевой направленности.
+                <ul>
+                    <li>ПК 2.1. Осуществлять сбор и анализ информации для определения потребностей клиента.</li>
+                    <li>ПК 2.2. Разрабатывать и публиковать программное обеспечение и информационные ресурсы отраслевой направленности со статическим и динамическим контентом па основе готовых спецификаций и стандартов.</li>
+                    <li>ПК 2.3. Проводить отладку и тестирование программного обеспечения отраслевой направленности.</li>
+                    <li>ПК 2.4. Проводить адаптацию отраслевого программного обеспечения.</li>
+                    <li>ПК 2.5. Разрабатывать и вести проектную и техническую документацию.</li>
+                    <li>ПК 2.6. Участвовать в измерении и контроле качества продуктов.</li>
+                </ul>
+ </li>
+                <li>ПМ.03 Сопровождение и продвижение программного обеспечения отраслевой направленности.
+                <ul>
+                    <li>ПК 3.1. Разрешать проблемы совместимости программного обеспечения отраслевой направленности.</li>
+                    <li>ПК 3.2. Осуществлять продвижение и презентацию программного обеспечения отраслевой направленности.</li>
+                    <li>ПК 3.3. Проводить обслуживание, тестовые проверки, настройку программного обеспечения отраслевой направленности.</li>
+                    <li>ПК 3.4. Работать с системами управления взаимоотношениями с клиентами.</li>
+                </ul>
+ </li>
+                <li>ПМ.04 Обеспечение проектной деятельности.
+                <ul>
+                    <li>ПК 4.1. Обеспечивать содержание проектных операций</li>
+                    <li>ПК 4.2. Определять сроки и стоимость проектных операций</li>
+                    <li>ПК 4.3. Определять качество проектных операций</li>
+                    <li>ПК 4.4. Определять ресурсы проектных операций</li>
+                    <li>ПК 4.5. Определять риски проектных операций</li>
+                </ul>
+ </li>
+            </ul>
+        </div>
+    </div>
+</div>
+<div class="col-md-12 spoiler-main">
+ <a href="vidy-deyatelnosti#spoiler6" data-toggle="collapse" class="btn btn-primary btn-block spoiler collapsed">10.02.03 "Информационная безопасность автоматизированных систем"</a>
+    <div class="collapse" id="spoiler6">
+        <div class="inspoiler">
+            <p>
+                 Виды деятельности:
+            </p>
+            <ul>
+                <li>Эксплуатация подсистем безопасности автоматизированных систем.</li>
+                <li>Применение программно-аппаратных средств обеспечения информационной безопасности в автоматизированных системах.</li>
+                <li>Применение инженерно-технических средств обеспечения информационной безопасности.</li>
+            </ul>
+            <p>
+                 Техник по защите информации должен обладать профессиональными компетенциями, соответствующими видам деятельности:
+            </p>
+            <ul>
+                <li>ПМ.01 Эксплуатация подсистем безопасности автоматизированных систем.
+                <ul>
+                    <li>ПК 1.1. Участвовать в эксплуатации компонентов подсистем безопасности автоматизированных систем, в проверке их технического состояния, в проведении технического обслуживания и текущего ремонта, устранении отказов и восстановлении работоспособности.</li>
+                    <li>ПК 1.2. Выполнять работы по администрированию подсистем безопасности автоматизированных систем.</li>
+                    <li>ПК 1.3. Производить установку и адаптацию компонентов подсистем безопасности автоматизированных систем.</li>
+                    <li>ПК 1.4. Организовывать мероприятия по охране труда и технике безопасности в процессе эксплуатации автоматизированных систем и средств защиты информации в них.</li>
+                    <li>ПК 1.5. Вести техническую документацию, связанную с эксплуатацией средств технической защиты и контроля информации в автоматизированных системах.</li>
+                </ul>
+ </li>
+                <li>ПМ.02 Применение программно-аппаратных средств обеспечения информационной безопасности в автоматизированных системах.
+                <ul>
+                    <li>ПК 2.1. Применять программно-аппаратные средства обеспечения информационной безопасности в автоматизированных системах.</li>
+                    <li>ПК 2.2. Участвовать в эксплуатации программно-аппаратных средств обеспечения информационной безопасности, в проверке их технического состояния, в проведении технического обслуживания и текущего ремонта, устранении отказов и восстановлении работоспособности.</li>
+                    <li>ПК 2.3. Участвовать в мониторинге эффективности применяемых программно-аппаратных средств обеспечения информационной безопасности в автоматизированных системах.</li>
+                    <li>ПК 2.4. Участвовать в обеспечении учета, обработки, хранения и передачи конфиденциальной информации.</li>
+                    <li>ПК 2.5. Решать частные технические задачи, возникающие при проведении всех видов плановых и внеплановых контрольных проверок, при аттестации объектов, помещений, программ, алгоритмов.</li>
+                    <li>ПК 2.6. Применять нормативные правовые акты, нормативно-методические документы по обеспечению информационной безопасности программно-аппаратными средствами.</li>
+                </ul>
+ </li>
+                <li>ПМ.03 Применение инженерно-технических средств обеспечения информационной безопасности.
+                <ul>
+                    <li>ПК 3.1. Применять инженерно-технические средства обеспечения информационной безопасности.</li>
+                    <li>ПК 3.2. Участвовать в эксплуатации инженерно-технических средств обеспечения информационной безопасности, в проверке их технического состояния, в проведении технического обслуживания и текущего ремонта, устранении отказов и восстановлении работоспособности.</li>
+                    <li>ПК 3.3. Участвовать в мониторинге эффективности применяемых инженерно-технических средств обеспечения информационной безопасности.</li>
+                    <li>ПК 3.4. Решать частные технические задачи, возникающие при проведении всех видов плановых и внеплановых контрольных проверок, при аттестации объектов, помещений, технических средств.</li>
+                    <li>ПК 3.5. Применять нормативные правовые акты, нормативно-методические документы по обеспечению информационной безопасности инженерно-техническими средствами.</li>
+                </ul>
+ </li>
+            </ul>
+        </div>
+    </div>
+</div>
+<div class="col-md-12 spoiler-main">
+ <a href="vidy-deyatelnosti#spoiler7" data-toggle="collapse" class="btn btn-primary btn-block spoiler collapsed">40.02.01 "Право и организация социального обеспечения"</a>
+    <div class="collapse" id="spoiler7">
+        <div class="inspoiler">
+            <p>
+                 Виды деятельности:
+            </p>
+            <ul>
+                <li>Обеспечение реализации прав граждан в сфере пенсионного обеспечения и социальной защиты.</li>
+                <li>Организационное обеспечение деятельности учреждений социальной защиты населения и органов Пенсионного фонда Российской Федерации.</li>
+            </ul>
+            <p>
+                 Юрист (базовой подготовки) должен обладать профессиональными компетенциями, соответствующими видам деятельности:
+            </p>
+            <ul>
+                <li>ПМ.01 Обеспечение реализации прав граждан в сфере пенсионного обеспечения и социальной защиты.
+                <ul>
+                    <li>ПК 1.1. Осуществлять профессиональное толкование нормативных правовых актов для реализации прав граждан в сфере пенсионного обеспечения и социальной защиты.</li>
+                    <li>ПК 1.2. Осуществлять прием граждан по вопросам пенсионного обеспечения и социальной защиты.</li>
+                    <li>ПК 1.3. Рассматривать пакет документов для назначения пенсий, пособий, компенсаций, других выплат, а также мер социальной поддержки отдельным категориям граждан, нуждающимся в социальной защите.</li>
+                    <li>ПК 1.4. Осуществлять установление (назначение, перерасчет, перевод), индексацию и корректировку пенсий, назначение пособий, компенсаций и других социальных выплат, используя информационно-компьютерные технологии.</li>
+                    <li>ПК 1.5. Осуществлять формирование и хранение дел получателей пенсий, пособий и других социальных выплат.</li>
+                    <li>ПК 1.6. Консультировать граждан и представителей юридических лиц по вопросам пенсионного обеспечения и социальной защиты.</li>
+                </ul>
+ </li>
+                <li>ПМ.02 Организационное обеспечение деятельности учреждений социальной защиты населения и органов Пенсионного фонда Российской Федерации.
+                <ul>
+                    <li>ПК 2.1. Поддерживать базы данных получателей пенсий, пособий, компенсаций и других социальных выплат, а также услуг и льгот в актуальном состоянии.</li>
+                    <li>ПК 2.2. Выявлять лиц, нуждающихся в социальной защите и осуществлять их учет, используя информационно-компьютерные технологии.</li>
+                    <li>ПК 2.3. Организовывать и координировать социальную работу с отдельными лицами, категориями граждан и семьями, нуждающимися в социальной поддержке и защите.</li>
+                </ul>
+ </li>
+            </ul>
+        </div>
+    </div>
+</div>
+<p>
+ <b>ТОП 50</b>
+</p>
+<div class="col-md-12 spoiler-main">
+ <a href="vidy-deyatelnosti#spoiler8" data-toggle="collapse" class="btn btn-primary btn-block spoiler collapsed"> 09.02.07 «Информационные системы и программирование» (квалификация – администратор баз данных)</a>
+    <div class="collapse" id="spoiler8">
+        <div class="inspoiler">
+            <table cellspacing="0" cellpadding="0">
+            <tbody>
+            <tr>
+                <td>
+                    <p>
+                         &nbsp;<b><i>Основные виды деятельности</i></b><b><i>:</i></b>
+                    </p>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <p>
+                         -&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Разработка модулей программного обеспечения для компьютерных систем;
+                    </p>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <p>
+                         -&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Осуществление интеграции программных модулей;
+                    </p>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <p>
+                         -&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Сопровождение и обслуживание программного обеспечения компьютерных систем;
+                    </p>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <p>
+                         -&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Соадминистрирование баз данных и серверов;
+                    </p>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <p>
+                         -&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Разработка, администрирование и защита баз данных.
+                    </p>
+                </td>
+            </tr>
+            </tbody>
+            </table>
+            <p>
+                 &nbsp;<i>Выпускник, освоивший образовательную программу, должен обладать профессиональными компетенциями (далее - ПК), соответствующими основным видам деятельности настоящего ФГОС СПО:</i>
+            </p>
+            <p>
+ <i>&nbsp;</i><b><i>Профессиональный модуль ПМ.01 Разработка модулей программного обеспечения для компьютерных систем:</i></b>
+            </p>
+            <p>
+                 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - ПК 1.1 – Формировать алгоритмы разработки программных модулей в &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;соответствии с техническим заданием.
+            </p>
+            <p>
+                 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - ПК 1.2 – Разрабатывать программные модули в соответствии с техническим заданием.
+            </p>
+            <p>
+                 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - ПК 1.3 -&nbsp; Выполнять отладку программных модулей с использованием специализированных программных средств.
+            </p>
+            <p>
+                 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - ПК 1.4 - &nbsp;Выполнять тестирование программных модулей.
+            </p>
+            <p>
+                 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - ПК 1.5 - &nbsp;Осуществлять рефакторинг и оптимизацию программного кода.
+            </p>
+            <p>
+                 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - ПК 1.6 - &nbsp;Разрабатывать модули программного обеспечения для мобильных платформ.
+            </p>
+            <p>
+ <b><i>Профессиональный модуль ПМ.02 Осуществление интеграции программных модулей:</i></b>
+            </p>
+            <p>
+                 &nbsp;- ПК 2.1 - <span style="background: white;">Разрабатывать требования к программным модулям на основе анализа проектной и технической документации на предмет взаимодействия компонент.</span>
+            </p>
+            <p>
+                 &nbsp;- ПК 2.2 – <span style="background: white;">Выполнять интеграцию модулей в программное обеспечение.</span>
+            </p>
+            <p>
+                 &nbsp;- ПК 2.3 – <span style="background: white;">Выполнять отладку программного модуля с использованием специализированных программных средств.</span>
+            </p>
+            <p>
+                 &nbsp;- ПК 2.4 – <span style="background: white;">Осуществлять разработку тестовых наборов и тестовых сценариев для программного обеспечения.</span>
+            </p>
+            <p>
+                 - ПК 2.5 – Производить инспектирование компонент программного обеспечения на предмет соответствия стандартам кодирования.
+            </p>
+            <p>
+ <b><i>Профессиональный модуль ПМ.04 <span style="background: white;">&nbsp;Сопровождение и обслуживание программного обеспечения компьютерных систем:</span></i></b>
+            </p>
+            <p>
+                 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - ПК 4.1. Осуществлять инсталляцию, настройку и обслуживание программного обеспечения компьютерных систем.
+            </p>
+            <p>
+                 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - ПК 4.2. Осуществлять измерения эксплуатационных характеристик программного обеспечения компьютерных систем.
+            </p>
+            <p>
+                 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - ПК 4.3. Выполнять работы по модификации отдельных компонент программного обеспечения в соответствии с потребностями заказчика.
+            </p>
+            <p>
+                 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - ПК 4.4. Обеспечивать защиту программного обеспечения компьютерных систем программными средствами.
+            </p>
+            <p>
+                 &nbsp;
+            </p>
+            <p>
+ <b><i>Профессиональный &nbsp;модуль ПМ.07 </i></b><b><i><span style="background: white;">Соадминистрирование баз данных и серверов:</span></i></b>
+            </p>
+            <p>
+                 -&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ПК 7.1. Выявлять технические проблемы, возникающие в процессе эксплуатации баз данных и серверов.
+            </p>
+            <p>
+                 -&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ПК 7.2. Осуществлять администрирование отдельных компонент серверов.
+            </p>
+            <p>
+                 -&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ПК 7.3. Формировать требования к конфигурации локальных компьютерных сетей и серверного оборудования, необходимые для работы баз данных и серверов.
+            </p>
+            <p>
+                 -&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ПК 7.4. Осуществлять администрирование баз данных в рамках своей компетенции.
+            </p>
+            <p>
+                 -&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ПК 7.5. Проводить аудит систем безопасности баз данных и серверов с использованием регламентов по защите информации.
+            </p>
+            <p>
+ <b><i>Профессиональный модуль ПМ.11 </i></b><b><i><span style="background: white;">Разработка, администрирование и защита баз данных:</span></i></b>
+            </p>
+            <p>
+                 - ПК 11.1. Осуществлять сбор, обработку и анализ информации для проектирования баз данных.
+            </p>
+            <p>
+                 - ПК 11.2. Проектировать базу данных на основе анализа предметной области.
+            </p>
+            <p>
+                 - ПК 11.3. Разрабатывать объекты базы данных в соответствии с результатами анализа предметной области.
+            </p>
+            <p>
+                 - ПК 11.4. Реализовывать базу данных в конкретной системе управления базами данных.
+            </p>
+            <p>
+                 - ПК 11.5. Администрировать базы данных.
+            </p>
+             - ПК 11.6. Защищать информацию в базе данных с использованием технологии защиты информации<br>
+        </div>
+    </div>
+</div>
+
+<div class="col-md-12 spoiler-main">
+ <a href="vidy-deyatelnosti#spoiler9" data-toggle="collapse" class="btn btn-primary btn-block spoiler collapsed"> 09.02.07 «Информационные системы и программирование» (квалификация – Разработчик ВЕБ и мультимедийных устройств)</a>
+    <div class="collapse" id="spoiler9">
+        <div class="inspoiler">
+<p>
+ <b><i>Основные виды деятельности:</i></b>
+</p>
+<table cellspacing="0" cellpadding="0" style="border-collapse: collapse; background: white;">
+<tbody>
+<tr>
+    <td>
+        <p>
+ <span style="color: #333333;">-&nbsp; Проектирование и разработка информационных систем;</span>
+        </p>
+    </td>
+    <td>
+        <p>
+ <span style="color: #333333;">&nbsp;</span>
+        </p>
+    </td>
+</tr>
+<tr>
+    <td>
+        <p>
+ <span style="color: #333333;">-&nbsp; Разработка дизайна веб-приложений</span><span style="color: #333333;">;</span>
+        </p>
+    </td>
+    <td>
+        <p>
+ <span style="color: #333333;">&nbsp;</span>
+        </p>
+    </td>
+</tr>
+<tr>
+    <td>
+        <p>
+ <span style="color: #333333;">-&nbsp; Проектирование, разработка и оптимизация веб-приложений.</span>
+        </p>
+    </td>
+    <td>
+        <p>
+ <span style="color: #333333;">&nbsp;</span>
+        </p>
+    </td>
+</tr>
+</tbody>
+</table>
+ <span style="color: #333333;"><br>
+ </span>
+<table cellspacing="0" cellpadding="0" style="border-collapse: collapse; background: white;">
+<tbody>
+<tr>
+    <td>
+        <p>
+ <i>Выпускник, освоивший образовательную программу, должен обладать профессиональными компетенциями (далее - ПК), соответствующими основным видам деятельности настоящего ФГОС СПО:</i>
+        </p>
+    </td>
+    <td>
+        <p>
+ <span style="color: #333333;">&nbsp;</span>
+        </p>
+    </td>
+</tr>
+</tbody>
+</table>
+<p>
+ <b><i>Профессиональный модуль ПМ.05 </i></b><b><i><span style="background: white;">Проектирование и разработка&nbsp;информационных систем:</span></i></b>
+</p>
+<p>
+     - ПК 5.1. Собирать исходные данные для разработки проектной документации на информационную систему.
+</p>
+<p>
+     - ПК 5.2. Разрабатывать проектную документацию на разработку информационной системы в соответствии с требованиями заказчика.
+</p>
+<p>
+     - ПК 5.3. Разрабатывать подсистемы безопасности информационной системы в соответствии с техническим заданием.
+</p>
+<p>
+     - ПК 5.6. Разрабатывать техническую документацию на эксплуатацию информационной системы.
+</p>
+<p>
+     - ПК 5.7. Производить оценку информационной системы для выявления возможности ее модернизации.
+</p>
+<p>
+ <b><i>Профессиональный модуль ПМ.06 </i></b><b><i><span style="background: white;">Сопровождение информационных систем:</span></i></b>
+</p>
+<p>
+     - ПК 6.1. Разрабатывать техническое задание на сопровождение информационной системы.
+</p>
+<p>
+     - ПК 6.3. Разрабатывать обучающую документацию для пользователей информационной системы.
+</p>
+<p>
+     - ПК 6.4. Оценивать качество и надежность функционирования информационной системы в соответствии с критериями технического задания.
+</p>
+<p>
+     - ПК 6.5. Осуществлять техническое сопровождение, обновление и восстановление данных информационной системы в соответствии с техническим заданием
+</p>
+<p>
+ <b><i>Профессиональный модуль ПМ.08 </i></b><b><i><span style="background: white;">Разработка дизайна веб-приложений:</span></i></b>
+</p>
+<p>
+     ПК 8.1. Разрабатывать дизайн-концепции веб-приложений в соответствии с корпоративным стилем заказчика.
+</p>
+<p>
+     ПК 8.2. Формировать требования к дизайну веб-приложений на основе анализа предметной области и целевой аудитории.
+</p>
+<p>
+     ПК 8.3. Осуществлять разработку дизайна веб-приложения с учетом современных тенденций в области веб-разработки.
+</p>
+<p>
+ <b><i>Профессиональный </i></b><b>модуль ПМ.09 </b><b><span style="background: white;">Проектирование, разработка и оптимизация веб-приложений:</span></b>
+</p>
+<p>
+     ПК 9.1. Разрабатывать техническое задание на веб-приложение в соответствии с требованиями заказчика.
+</p>
+<p>
+     ПК 9.2. Разрабатывать веб-приложение в соответствии с техническим заданием.
+</p>
+<p>
+     ПК 9.3. Разрабатывать интерфейс пользователя веб-приложений в соответствии с техническим заданием.
+</p>
+<p>
+     ПК 9.4. Осуществлять техническое сопровождение и восстановление веб-приложений в соответствии с техническим заданием.
+</p>
+<p>
+     ПК 9.6. Размещать веб приложения в сети в соответствии с техническим заданием.
+</p>
+<p>
+     ПК 9.7. Осуществлять сбор статистической информации о работе веб-приложений для анализа эффективности его работы.
+</p>
+<p>
+     ПК 9.9. Модернизировать веб-приложение с учетом правил и норм подготовки информации для поисковых систем.
+</p>
+ ПК 9.10. Реализовывать мероприятия по продвижению веб-приложений в информационно-телекоммуникационной сети "Интернет".
+ </div>
+ </div>
+ </div>
+
+<div class="col-md-12 spoiler-main">
+ <a href="vidy-deyatelnosti#spoiler10" data-toggle="collapse" class="btn btn-primary btn-block spoiler collapsed">09.02.07 «Информационные системы и программирование» (квалификация – специалист по информационным системам)</a>
+    <div class="collapse" id="spoiler10">
+        <div class="inspoiler">
+
+<table cellspacing="0" cellpadding="0" style="border-collapse: collapse; background: white;">
+<tbody>
+<tr>
+    <td>
+        <p>
+ <b><i>Основные виды деятельности</i></b><b><i>:</i></b>
+        </p>
+    </td>
+    <td>
+    </td>
+</tr>
+<tr>
+    <td>
+        <p>
+ <span style="color: #333333;">- </span>&nbsp;&nbsp;<span style="color: #333333;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="color: #333333;"> </span><span style="color: #333333;">Осуществление интеграции программных модулей</span><span style="color: #333333;">;</span>
+        </p>
+    </td>
+    <td>
+    </td>
+</tr>
+<tr>
+    <td>
+        <p>
+ <span style="color: #333333;">-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span style="color: #333333;">Ревьюирование программных продуктов</span><span style="color: #333333;">;</span>
+        </p>
+    </td>
+    <td>
+        <p>
+ <span style="color: #333333;">&nbsp;</span>
+        </p>
+    </td>
+</tr>
+<tr>
+    <td>
+        <p>
+ <span style="color: #333333;">-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span style="color: #333333;">Проектирование и разработка информационных систем;</span>
+        </p>
+    </td>
+    <td>
+    </td>
+</tr>
+<tr>
+    <td>
+        <p>
+ <span style="color: #333333;">-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span style="color: #333333;">Сопровождение информационных систем</span><span style="color: #333333;">;</span>
+        </p>
+    </td>
+    <td>
+    </td>
+</tr>
+<tr>
+    <td>
+        <p>
+ <span style="color: #333333;">-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span style="color: #333333;">Соадминистрирование баз данных и серверов.</span>
+        </p>
+    </td>
+    <td>
+    </td>
+</tr>
+<tr>
+    <td>
+        <p>
+ <i>Выпускник, освоивший образовательную программу, должен обладать профессиональными компетенциями (далее - ПК), соответствующими основным видам деятельности настоящего ФГОС СПО:</i>
+        </p>
+    </td>
+    <td>
+        <p>
+ <span style="color: #333333;">&nbsp;</span>
+        </p>
+    </td>
+</tr>
+</tbody>
+</table>
+<p>
+ <b><i>Профессиональный модуль ПМ.02 Осуществление интеграции программных модулей:</i></b>
+</p>
+<p>
+     - ПК 2.1 - <span style="background: white;">Разрабатывать требования к программным модулям на основе анализа &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;проектной и технической документации на предмет взаимодействия компонент.</span>
+</p>
+<p>
+     - ПК 2.2 – <span style="background: white;">Выполнять интеграцию модулей в программное обеспечение.</span>
+</p>
+<p>
+     - ПК 2.3 – <span style="background: white;">Выполнять отладку программного модуля с использованием специализированных программных средств.</span>
+</p>
+<p>
+     - ПК 2.4 – <span style="background: white;">Осуществлять разработку тестовых наборов и тестовых сценариев для программного обеспечения.</span>
+</p>
+<p>
+     - ПК 2.5 – Производить инспектирование компонент программного обеспечения на предмет соответствия стандартам кодирования.
+</p>
+<p>
+ <b><i>Профессиональный модуль ПМ.03 <span style="background: white;">Ревьюирование программных&nbsp;продуктов:</span></i></b>
+</p>
+<p>
+ <span style="background: white;">- ПК 3.1 - Осуществлять ревьюирование программного кода в соответствии с технической документацией</span>
+</p>
+<p>
+     - ПК 3.2. Выполнять процесс измерения характеристик компонент программного продукта для определения соответствия заданным критериям.
+</p>
+<p>
+     - ПК 3.3. Производить исследование созданного программного кода с использованием специализированных программных средств с целью выявления ошибок и отклонения от алгоритма.
+</p>
+<p>
+     - ПК 3.4 - <span style="background: white;">Проводить сравнительный анализ программных продуктов и средств разработки, с целью выявления наилучшего решения согласно критериям, определенным техническим заданием.</span>
+</p>
+<p>
+ <b><i>Профессиональный модуль </i></b><b><i>ПМ.05 </i></b><b><i><span style="background: white;">Проектирование и разработка&nbsp;информационных систем:</span></i></b>
+</p>
+<p>
+     - ПК 5.1. Собирать исходные данные для разработки проектной документации на информационную систему.
+</p>
+<p>
+     - ПК 5.2. Разрабатывать проектную документацию на разработку информационной системы в соответствии с требованиями заказчика.
+</p>
+<p>
+     - ПК 5.3. Разрабатывать подсистемы безопасности информационной системы в соответствии с техническим заданием.
+</p>
+<p>
+     - ПК 5.6. Разрабатывать техническую документацию на эксплуатацию информационной системы.
+</p>
+<p>
+     - ПК 5.7. Производить оценку информационной системы для выявления возможности ее модернизации.
+</p>
+<p>
+ <b><i>Профессиональный модуль ПМ.06 </i></b><b><i><span style="background: white;">Сопровождение информационных систем:</span></i></b>
+</p>
+<p>
+     - ПК 6.1. Разрабатывать техническое задание на сопровождение информационной системы.
+</p>
+<p>
+     - ПК 6.3. Разрабатывать обучающую документацию для пользователей информационной системы.
+</p>
+<p>
+     - ПК 6.4. Оценивать качество и надежность функционирования информационной системы в соответствии с критериями технического задания.
+</p>
+<p>
+     - ПК 6.5. Осуществлять техническое сопровождение, обновление и восстановление данных информационной системы в соответствии с техническим заданием.
+</p>
+<p>
+ <b><i>Профессиональный модуль ПМ.07 </i></b><b><i><span style="background: white;">Соадминистрирование баз данных и серверов.</span></i></b>
+</p>
+<p>
+     - ПК 7.1. Выявлять технические проблемы, возникающие в процессе эксплуатации баз данных и серверов.
+</p>
+<p>
+     - ПК 7.2. Осуществлять администрирование отдельных компонент серверов.
+</p>
+<p>
+     - ПК 7.3. Формировать требования к конфигурации локальных компьютерных сетей и серверного оборудования, необходимые для работы баз данных и серверов.
+</p>
+<p>
+     - ПК 7.4. Осуществлять администрирование баз данных в рамках своей компетенции.
+</p>
+ - ПК 7.5. Проводить аудит систем безопасности баз данных и серверов с использованием регламентов по защите информации.
+
+</div>
+</div>
+</div>
+
+<div class="col-md-12 spoiler-main">
+ <a href="vidy-deyatelnosti#spoiler11" data-toggle="collapse" class="btn btn-primary btn-block spoiler collapsed">09.02.07 «Информационные системы и программирование» (квалификация – программист)</a>
+    <div class="collapse" id="spoiler11">
+        <div class="inspoiler">
+
+<table cellspacing="0" cellpadding="0" style="border-collapse: collapse; background: white;">
+<tbody>
+<tr>
+    <td>
+        <p>
+ <b><i>Основные виды деятельности</i></b><b><i>:</i></b>
+        </p>
+    </td>
+    <td>
+        <p>
+ <b><span style="color: #333333;">&nbsp;</span></b>
+        </p>
+    </td>
+</tr>
+<tr>
+    <td>
+        <p>
+ <span style="color: #333333;">- Разработка модулей программного обеспечения для компьютерных систем;</span>
+        </p>
+    </td>
+    <td>
+    </td>
+</tr>
+<tr>
+    <td>
+        <p>
+ <span style="color: #333333;">- Сопровождение и обслуживание программного обеспечения &nbsp;&nbsp;</span>
+        </p>
+        <p>
+ <span style="color: #333333;">&nbsp;&nbsp; компьютерных систем</span><span style="color: #333333;">;</span>
+        </p>
+    </td>
+    <td>
+    </td>
+</tr>
+<tr>
+    <td>
+        <p>
+ <span style="color: #333333;">- Разработка, администрирование и защита баз данных;</span>
+        </p>
+    </td>
+    <td>
+    </td>
+</tr>
+</tbody>
+</table>
+<p>
+ <i>Выпускник, освоивший образовательную программу, должен обладать профессиональными компетенциями (далее - ПК), соответствующими основным видам деятельности настоящего ФГОС СПО:</i>
+</p>
+<p>
+ <b><i>Профессиональный модуль ПМ.01 Разработка модулей программного обеспечения для компьютерных систем:</i></b>
+</p>
+<p>
+     -&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ПК 1.1 – Формировать алгоритмы разработки программных модулей в соответствии с техническим заданием.
+</p>
+<p>
+     -&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ПК 1.2 – Разрабатывать программные модули в соответствии с техническим заданием.
+</p>
+<p>
+     -&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ПК 1.3 -&nbsp; Выполнять отладку программных модулей с использованием специализированных программных средств.
+</p>
+<p>
+     -&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ПК 1.4 - &nbsp;Выполнять тестирование программных модулей.
+</p>
+<p>
+     -&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ПК 1.5 - &nbsp;Осуществлять рефакторинг и оптимизацию программного кода.
+</p>
+<p>
+     -&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ПК 1.6 - &nbsp;Разрабатывать модули программного обеспечения для мобильных платформ.
+</p>
+<p>
+ <b><i>Профессиональный модуль ПМ 02 Осуществление интеграции программных модулей:</i></b>
+</p>
+<p>
+     - ПК 2.1 - <span style="background: white;">Разрабатывать требования к программным модулям на основе анализа проектной и технической документации на предмет взаимодействия компонент.</span>
+</p>
+<p>
+     - ПК 2.2 – <span style="background: white;">Выполнять интеграцию модулей в программное обеспечение.</span>
+</p>
+<p>
+     - ПК 2.3 – <span style="background: white;">Выполнять отладку программного модуля с использованием специализированных программных средств.</span>
+</p>
+<p>
+     - ПК 2.4 – <span style="background: white;">Осуществлять разработку тестовых наборов и тестовых сценариев для программного обеспечения.</span>
+</p>
+<p>
+     ПК 2.5 – Производить инспектирование компонент программного обеспечения на предмет соответствия стандартам кодирования.
+</p>
+<p>
+ <b><i>Профессиональный модуль ПМ.04 <span style="background: white;">&nbsp;Сопровождение и обслуживание программного обеспечения компьютерных систем:</span></i></b>
+</p>
+<p>
+     - ПК 4.1. Осуществлять инсталляцию, настройку и обслуживание программного обеспечения компьютерных систем.
+</p>
+<p>
+     - ПК 4.2. Осуществлять измерения эксплуатационных характеристик программного обеспечения компьютерных систем.
+</p>
+<p>
+     - ПК 4.3. Выполнять работы по модификации отдельных компонент программного обеспечения в соответствии с потребностями заказчика.
+</p>
+<p>
+     - ПК 4.4. Обеспечивать защиту программного обеспечения компьютерных систем программными средствами.
+</p>
+<p>
+ <b><i>Профессиональный модуль ПМ.11 </i></b><b><i><span style="background: white;">Разработка, администрирование и защита баз данных:</span></i></b>
+</p>
+<p>
+     - ПК 11.1. Осуществлять сбор, обработку и анализ информации для проектирования баз данных.
+</p>
+<p>
+     - ПК 11.2. Проектировать базу данных на основе анализа предметной области.
+</p>
+<p>
+     - ПК 11.3. Разрабатывать объекты базы данных в соответствии с результатами анализа предметной области.
+</p>
+<p>
+     - ПК 11.4. Реализовывать базу данных в конкретной системе управления базами данных.
+</p>
+<p>
+     - ПК 11.5. Администрировать базы данных.
+</p>
+<p>
+     - ПК 11.6. Защищать информацию в базе данных с использованием технологии защиты информации
+</p>
+
+</div>
+</div>
+</div>
+
+<div class="col-md-12 spoiler-main">
+ <a href="vidy-deyatelnosti#spoiler12" data-toggle="collapse" class="btn btn-primary btn-block spoiler collapsed">09.02.07 «Информационные системы и программирование» (квалификация – тестировщик)</a>
+    <div class="collapse" id="spoiler12">
+        <div class="inspoiler">
+
+ <i>Основные виды деятельности:</i>
+<table cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+    <td>
+        <p>
+ <b><i>Основные виды деятельности</i></b><b><i>:</i></b>
+        </p>
+    </td>
+</tr>
+<tr>
+    <td>
+        <p>
+             -&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Разработка модулей программного обеспечения для компьютерных систем;
+        </p>
+    </td>
+</tr>
+<tr>
+    <td>
+        <p>
+             -&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Осуществление интеграции программных модулей;
+        </p>
+    </td>
+</tr>
+<tr>
+    <td>
+        <p>
+             -&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Сопровождение и обслуживание программного обеспечения компьютерных систем;
+        </p>
+    </td>
+</tr>
+<tr>
+    <td>
+        <p>
+             -&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Соадминистрирование баз данных и серверов;
+        </p>
+    </td>
+</tr>
+<tr>
+    <td>
+        <p>
+             -&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Разработка, администрирование и защита баз данных.
+        </p>
+    </td>
+</tr>
+</tbody>
+</table>
+<p>
+ <i><br>
+    Выпускник, освоивший образовательную программу, должен обладать профессиональными компетенциями (далее- ПК), соответствующими основным видам настоящего ФГОС СПО:</i>
+</p>
+<p>
+ <b><i>Профессиональный модуль ПМ.01 Разработка модулей программного обеспечения для компьютерных систем:</i></b>
+</p>
+<p>
+     -&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ПК 1.1 – Формировать алгоритмы разработки программных модулей в соответствии с техническим заданием.
+</p>
+<p>
+     -&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ПК 1.2 – Разрабатывать программные модули в соответствии с техническим заданием.
+</p>
+<p>
+     -&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ПК 1.3 -&nbsp; Выполнять отладку программных модулей с использованием специализированных программных средств.
+</p>
+<p>
+     -&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ПК 1.4 - &nbsp;Выполнять тестирование программных модулей.
+</p>
+<p>
+     -&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ПК 1.5 - &nbsp;Осуществлять рефакторинг и оптимизацию программного кода.
+</p>
+<p>
+     - &nbsp;&nbsp;&nbsp;ПК 1.6 - &nbsp;Разрабатывать модули программного обеспечения для мобильных платформ.
+</p>
+<p>
+ <b><i>Профессиональный модуль ПМ.02 Осуществление интеграции программных модулей:</i></b>
+</p>
+<p>
+     -&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ПК 2.1 - <span style="background: white;">Разрабатывать требования к программным модулям на основе анализа проектной и технической документации на предмет взаимодействия компонент.</span>
+</p>
+<p>
+     -&nbsp;&nbsp;&nbsp; ПК 2.2 – <span style="background: white;">Выполнять интеграцию модулей в программное обеспечение.</span>
+</p>
+<p>
+     -&nbsp;&nbsp;&nbsp; ПК 2.3 – <span style="background: white;">Выполнять отладку программного модуля с использованием специализированных программных средств.</span>
+</p>
+<p>
+     -&nbsp;&nbsp;&nbsp; ПК 2.4 – <span style="background: white;">Осуществлять разработку тестовых наборов и тестовых сценариев для программного обеспечения.</span>
+</p>
+<p>
+     -&nbsp;&nbsp;&nbsp; ПК 2.5 – Производить инспектирование компонент программного обеспечения на предмет соответствия стандартам кодирования.
+</p>
+<p>
+ <b><i>Профессиональный модуль ПМ 04 <span style="background: white;">&nbsp;Сопровождение и обслуживание программного обеспечения компьютерных систем:</span></i></b>
+</p>
+<p>
+     -&nbsp; ПК 4.1. Осуществлять инсталляцию, настройку и обслуживание программного обеспечения компьютерных систем.
+</p>
+<p>
+     - ПК 4.2. Осуществлять измерения эксплуатационных характеристик программного обеспечения компьютерных систем.
+</p>
+<p>
+     - ПК 4.3. Выполнять работы по модификации отдельных компонент программного обеспечения в соответствии с потребностями заказчика.
+</p>
+<p>
+     - ПК 4.4. Обеспечивать защиту программного обеспечения компьютерных систем программными средствам.
+</p>
+<p>
+ <b><i>Профессиональный модуль ПМ 11 </i></b><b><i><span style="background: white;">Разработка, администрирование и защита баз данных:</span></i></b>
+</p>
+<p>
+     -&nbsp;&nbsp; ПК 11.1. Осуществлять сбор, обработку и анализ информации для проектирования баз данных.
+</p>
+<p>
+     -&nbsp;&nbsp; ПК 11.2. Проектировать базу данных на основе анализа предметной области.
+</p>
+<p>
+     -&nbsp;&nbsp; ПК 11.3. Разрабатывать объекты базы данных в соответствии с результатами анализа предметной области.
+</p>
+<p>
+     -&nbsp; ПК 11.4. Реализовывать базу данных в конкретной системе управления базами данных.
+</p>
+<p>
+     -&nbsp; ПК 11.5. Администрировать базы данных.
+</p>
+ -&nbsp; ПК 11.6. Защищать информацию в базе данных с использованием технологии защиты информации
+
+</div>
+</div>
+</div>
+
+<div class="col-md-12 spoiler-main">
+ <a href="vidy-deyatelnosti#spoiler13" data-toggle="collapse" class="btn btn-primary btn-block spoiler collapsed">09.02.06 «Сетевое и системное администрирование»</a>
+    <div class="collapse" id="spoiler13">
+        <div class="inspoiler">
+
+<table cellspacing="0" cellpadding="0">
+ <tbody><tr>
+  <td>
+  <p><b>Виды деятельности</b><b>:</b></p>
+  </td>
+ </tr>
+ <tr>
+  <td>
+  <p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  Выполнение работ по проектированию сетевой инфраструктуры;</p>
+  </td>
+ </tr>
+ <tr>
+  <td>
+  <p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  Организация сетевого администрирования;</p>
+  </td>
+ </tr>
+ <tr>
+  <td>
+  <p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  Эксплуатация объектов сетевой инфраструктуры;</p>
+  </td>
+ </tr>
+ <tr>
+  <td>
+  <p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  Управление сетевыми сервисами;</p>
+  </td>
+ </tr>
+ <tr>
+  <td>
+  <p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  Сопровождение модернизации сетевой инфраструктуры.</p>
+  </td>
+ </tr>
+</tbody></table>
+
+<p><i>Выпускник,
+освоивший образовательную программу, должен обладать профессиональными
+компетенциями (далее - ПК), соответствующими основным видам деятельности настоящего
+ФГОС СПО:</i></p>
+
+<p><b><i>Профессиональный
+модуль ПМ.01 <span style="color: #333333; background: white;">Выполнение работ по
+проектированию сетевой инфраструктуры:</span></i></b></p>
+
+<p>- &nbsp;ПК&nbsp;1.1. Выполнять
+проектирование кабельной структуры компьютерной сети.</p>
+
+<p>- ПК&nbsp;1.2. Осуществлять выбор технологии, инструментальных
+средств и &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;средств &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;вычислительной техники при организации
+процесса разработки и исследования объектов профессиональной деятельности.</p>
+
+<p>- ПК&nbsp;1.3.
+Обеспечивать защиту информации в сети с использованием программно-&nbsp;&nbsp; аппаратных средств.</p>
+
+<p>- ПК&nbsp;1.4.
+Принимать участие в приемо-сдаточных испытаниях компьютерных сетей и сетевого
+оборудования различного уровня и в оценке качества и экономической
+эффективности сетевой топологии.</p>
+
+<p>- ПК&nbsp;1.5.
+Выполнять требования нормативно-технической документации, иметь опыт оформления
+проектной документации.</p>
+
+<p><b><i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Профессиональный модуль ПМ.02
+Организация сетевого администрирования:</i></b></p>
+
+<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ПК&nbsp;2.1.
+Администрировать&nbsp;локальные вычислительные сети и принимать меры по устранению
+возможных сбоев.</p>
+
+<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ПК&nbsp;2.2.
+Администрировать сетевые ресурсы в информационных системах.</p>
+
+<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ПК&nbsp;2.3.
+Обеспечивать сбор данных для анализа использования и функционирования
+программно-технических средств компьютерных сетей.</p>
+
+<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ПК&nbsp;2.4.
+Взаимодействовать со специалистами смежного профиля при разработке методов,
+средств и технологий применения объектов профессиональной деятельности</p>
+
+<p><b><i>Профессиональный модуль ПМ.03 Эксплуатация
+объектов сетевой инфраструктуры:</i></b></p>
+
+<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ПК&nbsp;3.1.
+Устанавливать, настраивать, эксплуатировать и обслуживать технические и
+программно-аппаратные средства компьютерных сетей.</p>
+
+<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ПК&nbsp;3.2.
+Проводить профилактические работы на объектах сетевой инфраструктуры и рабочих
+станциях.</p>
+
+<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ПК&nbsp;3.3.
+Устанавливать, настраивать, эксплуатировать и обслуживать сетевые конфигурации.</p>
+
+<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ПК&nbsp;3.4.
+Участвовать в разработке схемы послеаварийного восстановления работоспособности
+компьютерной сети, выполнять восстановление и резервное копирование информации.</p>
+
+<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ПК&nbsp;3.5.
+Организовывать инвентаризацию технических средств сетевой инфраструктуры,
+осуществлять контроль оборудования после его ремонта.</p>
+
+ПК&nbsp;3.6. Выполнять замену расходных
+материалов и мелкий ремонт периферийного оборудования, определять устаревшее
+оборудование и программные средства сетевой инфраструктуры.
+
+</div>
+</div>
+</div>
+
+<div class="col-md-12 spoiler-main">
+ <a href="vidy-deyatelnosti#spoiler14" data-toggle="collapse" class="btn btn-primary btn-block spoiler collapsed">10.02.05 «Обеспечение информационной безопасности автоматизированных систем»</a>
+    <div class="collapse" id="spoiler14">
+        <div class="inspoiler">
+
+<table cellspacing="0" cellpadding="0" style="border-collapse: collapse; background: white;">
+ <tbody><tr>
+  <td>
+  <p><b><i>Основные виды деятельности:</i></b></p>
+  <p><span style="color: #333333;">- Эксплуатация автоматизированных (информационных) систем в защищенном &nbsp;&nbsp;</span></p>
+  <p><span style="color: #333333;">&nbsp; исполнении;</span></p>
+  </td>
+  <td>
+  <p><span style="color: #333333;">&nbsp;</span></p>
+  </td>
+ </tr>
+ <tr>
+  <td>
+  <p><span style="color: #333333;">- Защита информации в автоматизированных системах программными и
+  программно-</span></p>
+  <p><span style="color: #333333;">&nbsp; аппаратными средствами</span><span style="color: #333333;">;</span></p>
+  </td>
+  <td>
+  <p><span style="color: #333333;">&nbsp;</span></p>
+  </td>
+ </tr>
+ <tr>
+  <td>
+  <p><span style="color: #333333;">- Защита информации техническими средствами</span><span style="color: #333333;">.</span></p>
+  </td>
+  <td></td>
+ </tr>
+</tbody></table>
+
+<p><i>Выпускник,
+освоивший образовательную программу, должен обладать профессиональными
+компетенциями (далее - ПК), соответствующими основным видам деятельности настоящего
+ФГОС СПО:</i><b>&nbsp;</b></p>
+
+<p><b><i>Профессиональный модуль
+ПМ.01 Эксплуатация автоматизированных (информационных) систем в защищенном
+исполнении:</i></b></p>
+
+<p>- ПК 1.1. Производить
+установку и настройку компонентов автоматизированных (информационных) систем в
+защищенном исполнении в соответствии с требованиями эксплуатационной
+документации.</p>
+
+<p>- ПК 1.2.Администрировать
+программные и программно-аппаратные компоненты автоматизированной
+(информационной) системы в защищенном исполнении.</p>
+
+<p>- ПК 1.3.Обеспечивать
+бесперебойную работу автоматизированных (информационных) систем в защищенном
+исполнении в соответствии с требованиями эксплуатационной документации.</p>
+
+<p>- ПК 1.4. Осуществлять
+проверку технического состояния, техническое обслуживание и текущий ремонт,
+устранять отказы и восстанавливать работоспособность автоматизированных
+(информационных) систем в защищенном исполнении.</p>
+
+<p><b><i>Профессиональный модуль ПМ
+02 Защита информации в автоматизированных системах программными и
+программно-аппаратными средствами:</i></b></p>
+
+<p>- ПК 2.1. Осуществлять
+установку и настройку отдельных программных, программно-аппаратных средств
+защиты информации.</p>
+
+<p>- ПК 2.2. Обеспечивать
+защиту информации в автоматизированных системах отдельными программными, программно-аппаратными
+средствами.</p>
+
+<p>- ПК 2.3. Осуществлять
+тестирование функций отдельных программных и программно-аппаратных средств
+защиты информации.</p>
+
+<p>- ПК 2.4. Осуществлять
+обработку, хранение и передачу информации ограниченного доступа.</p>
+
+<p>- ПК 2.5. Уничтожать
+информацию и носители информации с использованием программных и
+программно-аппаратных средств.</p>
+
+<p>- ПК 2.6. Осуществлять
+регистрацию основных событий в автоматизированных (информационных) системах, в
+том числе с использованием программных и программно-аппаратных средств
+обнаружения, предупреждения и ликвидации последствий компьютерных атак.</p>
+
+<p><b><i>Профессиональный модуль
+ПМ.03 Защита информации техническими средствами:</i></b></p>
+
+<p>- ПК 3.1. Осуществлять
+установку, монтаж, настройку и техническое обслуживание технических средств
+защиты информации в соответствии с требованиями эксплуатационной документации.</p>
+
+<p>- ПК 3.2. Осуществлять
+эксплуатацию технических средств защиты информации в соответствии с
+требованиями эксплуатационной документации.</p>
+
+<p>- ПК 3.3. Осуществлять
+измерение параметров побочных электромагнитных излучений и наводок, создаваемых
+техническими средствами обработки информации ограниченного доступа.</p>
+
+<p>- ПК 3.4. Осуществлять
+измерение параметров фоновых шумов, а также физических полей, создаваемых
+техническими средствами защиты информации.</p>
+
+<p>- ПК 3.5. Организовывать
+отдельные работы по физической защите объектов информатизации.</p>
+
+<p><b><i>Профессиональный модуль
+ПМ.04 Выполнение работ по одной или нескольким профессиям рабочих, должностям
+служащих</i></b></p>
+
+<p>- ПК 01 Производить
+инсталляцию, настройку и обслуживание программного обеспечения компьютерных
+систем.</p>
+
+<p>- ПК 02 Создавать и
+управлять на персональном компьютере текстовыми документами, таблицами,
+презентациями и содержанием баз</p>
+
+<p>данных, работать в
+графических редакторах.</p>
+
+<p>- ПК 03 Выполнять работы
+по модификации отдельных компонент программного обеспечения.</p>
+
+- ПК 04 Обеспечивать
+защиту программного обеспечения компьютерных систем.
+
+</div>
+</div>
+
+ <!--
+<h2 style="text-align: center;">Фотографии с производственных практик</h2>
+
+<img width="576" alt="1.jpg" src="/upload/medialibrary/d83/1.jpg" height="576" data-mce-src="images/Spec/prakt/1.jpg" data-mce-style="display: block; margin-left: auto; margin-right: auto;" title="1.jpg">
+
+
+<img width="510" alt="2.jpg" src="/upload/medialibrary/379/2.jpg" height="383" data-mce-src="images/Spec/prakt/2.jpg" title="2.jpg">
+
+
+<img width="604" alt="3.jpg" src="/upload/medialibrary/c7f/3.jpg" height="453" data-mce-src="images/Spec/prakt/3.jpg" title="3.jpg">
+
+
+ <img width="604" alt="4.jpg" src="/upload/medialibrary/b7f/4.jpg" height="453" data-mce-src="images/Spec/prakt/4.jpg" title="4.jpg">
+
+
+ <img width="576" alt="5.jpg" src="/upload/medialibrary/8f3/5.jpg" height="576" data-mce-src="images/Spec/prakt/5.jpg" title="5.jpg">
+
+
+ <img width="538" alt="9.jpg" src="/upload/medialibrary/e84/9.jpg" height="717" data-mce-src="images/Spec/prakt/9.jpg" title="9.jpg">
+
+
+ <img width="538" alt="10.jpg" src="/upload/medialibrary/7c9/10.jpg" height="717" data-mce-src="images/Spec/prakt/10.jpg" title="10.jpg">
+
+
+ <img width="538" alt="11.jpg" src="/upload/medialibrary/c2a/11.jpg" height="717" data-mce-src="images/Spec/prakt/11.jpg" title="11.jpg">
+
+
+ <img width="538" alt="12.jpg" src="/upload/medialibrary/54d/12.jpg" height="717" data-mce-src="images/Spec/prakt/12.jpg" title="12.jpg">
+
+
+ <img width="512" alt="13.jpg" src="/upload/medialibrary/ea7/13.jpg" height="288" data-mce-src="images/Spec/prakt/13.jpg" title="13.jpg">
+
+
+ <img width="576" alt="14.jpg" src="/upload/medialibrary/2a2/14.jpg" height="432" data-mce-src="images/Spec/prakt/14.jpg" title="14.jpg">
+
+
+ <img width="544" alt="15.jpg" src="/upload/medialibrary/500/15.jpg" height="306" data-mce-src="images/Spec/prakt/15.jpg" title="15.jpg">
+
+
+ <img width="544" alt="19.jpg" src="/upload/medialibrary/3ae/19.jpg" height="408" data-mce-src="images/Spec/prakt/19.jpg" title="19.jpg">
+
+
+ <img width="518" alt="20.jpg" src="/upload/medialibrary/faa/20.jpg" height="922" data-mce-src="images/Spec/prakt/20.jpg" title="20.jpg">
+
+
+ <img width="576" alt="21.jpg" src="/upload/medialibrary/b67/21.jpg" height="768" data-mce-src="images/Spec/prakt/21.jpg" title="21.jpg">
+
+
+ <img width="544" alt="22.jpg" src="/upload/medialibrary/ac3/22.jpg" height="306" data-mce-src="images/Spec/prakt/22.jpg" title="22.jpg">
+
+
+ <img width="530" alt="23.jpg" src="/upload/medialibrary/ca8/23.jpg" height="717" data-mce-src="images/Spec/prakt/23.jpg" title="23.jpg">
+
+
+ <img width="518" alt="24.jpg" src="/upload/medialibrary/da7/24.jpg" height="922" data-mce-src="images/Spec/prakt/24.jpg" title="24.jpg">
+
+
+ <img width="544" alt="25.jpg" src="/upload/medialibrary/2cf/25.jpg" height="306" data-mce-src="images/Spec/prakt/25.jpg" title="25.jpg">
+
+
+ <img width="538" alt="26.jpg" src="/upload/medialibrary/e7e/26.jpg" height="717" data-mce-src="images/Spec/prakt/26.jpg" title="26.jpg">
+
+
+ <img width="544" alt="27.jpg" src="/upload/medialibrary/357/27.jpg" height="408" data-mce-src="images/Spec/prakt/27.jpg" title="27.jpg">
+
+
+ <img width="509" alt="28.jpg" src="/upload/medialibrary/ab4/28.jpg" height="380" data-mce-src="images/Spec/prakt/28.jpg" title="28.jpg">
+
+
+ <img width="538" alt="29.jpg" src="/upload/medialibrary/d98/29.jpg" height="717" data-mce-src="images/Spec/prakt/29.jpg" title="29.jpg">
+
+
+ <img width="544" alt="30.jpg" src="/upload/medialibrary/20e/30.jpg" height="306" data-mce-src="images/Spec/prakt/30.jpg" title="30.jpg">
+
+ 
+ -->
+ 
+</div>
+</div>
+</div>
+    </main>
+
+    <!--========================================================
+                            FOOTER
+  =========================================================-->
+  <footer>
+    
+    <section>      
+      <div class="container">
+        <div class="row">
+          <div class="col-sm-6">
+            <h1 class="navbar-brand">
+              <a href="../../index.html">
+                <div class="footer_name">
+<span class="material-design-bookmark46"> <span style="font-size: 16pt;">Московский приборостроительный техникум </span> </span> <span class="footer-title1"> </span>
+<p style=" font-size:14pt;">
+	 ФГБОУ ВО РЭУ им. Г.В. Плеханова
+</p>
+</div>              </a>
+            </h1>
+            <div class="row flow-offset-3">
+              <div class="col-sm-4 col-xs-4">
+                
+	<ul class="list text-uppercase">
+									<li><a href="../../index.html">Главная</a></li>
+						
+									<li><a href="../../o-tekhnikume/index.html">О техникуме</a></li>
+						
+									<li><a href="../../spetsialnosti/obshchie-svedeniya/index.html">Специальности</a></li>
+						
+									<li><a href="../../abiturientu/index.html">Абитуриенту</a></li>
+						
+									<li><a href="../index.html">Студенту</a></li>
+						
+			</ul>
+               </div>
+              <div class="col-sm-4 col-xs-4">
+                
+	<ul class="list text-uppercase">
+									<li><a href="http://www.ucmpt.ru/">Доп. образование</a></li>
+						
+									<li><a href="../../kontakty/index.html">Контакты</a></li>
+						
+									<li><a href="../../avtoshkola/index.html">Автошкола</a></li>
+						
+			</ul>
+               </div>
+              <div class="col-sm-4 col-xs-4">
+               
+               </div>
+            </div>
+
+              <p class="rights pull-left">
+                &#169; <span id="copyright-year"></span> |
+                <a href="../../index.html">Все права защищены &copy;</a>
+              </p>
+              <ul class="list-inline pull-right ">
+				  <li><a style="font-size:1.1em;" class="fa fa-vk fa" href="https://vk.com/mptru" target="_blank" rel="nofollow"></a></li>
+                  <li><a style="font-size:1.1em;" class="fa fa-instagram " href="https://www.instagram.com/mpt.ru/" target="_blank" rel="nofollow"></a></li>
+                  <li><a style="font-size:1.1em;" class="fa fa-facebook " href="https://www.facebook.com/reamptru/" target="_blank" rel="nofollow"></a></li>
+                  <li><a style="font-size:1.1em;" class="fa fa-google " href="https://plus.google.com/u/0/communities/106203543525356216195" target="_blank" rel="nofollow"></a></li>
+
+              </ul>
+
+          </div>
+          <div class="col-sm-6 inset-1">
+            <div class="map">
+              <div id="google-map" class="map_model">
+
+
+<div class="map-responsive">
+ 
+  <iframe src="https://yandex.ru/map-widget/v1/-/CGeIFBk7" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+ 
+</div>
+				</div>
+            </div>
+          </div>
+        </div>
+      <!-- {%FOOTER_LINK} -->
+      </div> 
+    </section>    
+  </footer>
+
+
+<script type="text/html" id="js-hot-line-form-template">
+    <div class="panel">
+        <form class="panel-body" id="js-hot-line-form">
+            <div class="form-group">
+                <label for="hot-line-name">Имя</label>
+                <input type="text" name="name" class="form-control" id="hot-line-name" placeholder="Имя" required>
+            </div>
+
+            <div class="form-group">
+                <label for="hot-line-email">Email адрес</label>
+                <input type="email" name="email" class="form-control" id="hot-line-email" placeholder="Email" required>
+            </div>
+
+            <div class="form-group">
+                <label for="hot-line-phone">Телефон</label>
+                <input type="tel" name="phone" class="form-control" id="hot-line-phone" placeholder="Телефон" required>
+            </div>
+
+            <div class="form-group">
+                <label for="hot-line-message">Сообщение</label>
+                <textarea name="message" class="form-control" id="hot-line-message" placeholder="Сообщение" required></textarea>
+            </div>
+
+            <div class="checkbox">
+                <label>
+                    <input type="checkbox" required> Принимаю условия использования
+                </label>
+            </div>
+
+            <div class="form-group text-center">
+                <button type="submit" class="btn btn-default">Отправить</button>
+            </div>
+        </form>
+    </div>
+</script>
+  </div>
+
+
+  <!-- Include all compiled plugins (below), or include individual files as needed -->         
+  <script src="../../local/templates/mpt/js/bootstrap.min.js"></script>
+  <script src="../../local/templates/mpt/js/jquery.cookie.js"></script>
+  <script src="../../local/templates/mpt/js/jquery.easing.1.3.js"></script>
+  <script src="../../local/templates/mpt/js/tmstickup.js"></script>
+  <script src="../../local/templates/mpt/js/jquery.ui.totop.js"></script>
+  <script src="https://mpt.ru/local/templates/mpt/js/jquery.equalheights.js"></script>
+  <script src="../../local/templates/mpt/js/superfish.js"></script>
+  <script src="https://mpt.ru/local/templates/mpt/js/jquery.responsive.tabs.js"></script>
+  <script src="../../local/templates/mpt/js/jquery.rd-navbar.js"></script>
+  <script src="https://mpt.ru/local/templates/mpt/js/jquery.ui.accordion.min.js"></script>
+  <script src="https://mpt.ru/local/templates/mpt/js/owl.carousel.min.js"></script>
+  <script src="../../local/templates/mpt/js/wow.js"></script>
+  <script src="https://mpt.ru/local/templates/mpt/js/jquery.mobile.customized.min.js"></script>
+  <script src="https://mpt.ru/local/templates/mpt/js/camera.js"></script>
+  <script src="https://mpt.ru/local/templates/mpt/js/TMSearch.js"></script>
+  <script src="https://mpt.ru/local/templates/mpt/js/jquery.touch-touch.js"></script>
+  <script src="../../local/templates/mpt/js/jquery.rd-parallax.js"></script>
+  <script src="../../local/templates/mpt/js/jquery.fancybox.min.js"></script>    
+  <script src="../../local/templates/mpt/js/tm-scripts.js"></script>    
+  <script src="../../local/templates/mpt/js/versionsv.js"></script>    
+  <script src="../../local/templates/mpt/js/lazysizes.min.js"></script>
+  <script src="../../local/templates/mpt/js/app.js"></script>
+  <!-- </script> -->
+  <script type="text/javascript">
+var source_link = '<p>Источник: <a href="https://mpt.ru/studentu/praktiki/vidy-deyatelnosti/'&#32;+&#32;location.href&#32;+&#32;'">' + location.origin + location.pathname + '</a></p>';
+jQuery(
+    function($)
+    {
+        if (window.getSelection) $('body').bind( //тут необходимо выбрать правильный селектор, то есть тот див (к примеру) где у вас контент
+            'copy',
+            function()
+            {
+                var selection = window.getSelection();
+                var range = selection.getRangeAt(0);
+                var magic_div = $('<div>').css({ overflow : 'hidden', width: '1px', height : '1px', position : 'absolute', top: '-10000px', left : '-10000px' });
+                magic_div.append(range.cloneContents(), source_link);
+                $('body').append(magic_div);
+                var cloned_range = range.cloneRange();
+                selection.removeAllRanges();
+                var new_range = document.createRange();
+                new_range.selectNode(magic_div.get(0));
+                selection.addRange(new_range);
+                window.setTimeout(
+                    function()
+                    {
+                        selection.removeAllRanges();
+                        selection.addRange(cloned_range);
+                        magic_div.remove();
+                    }, 0
+                );
+            }
+        );
+    }
+);
+</script>
+
+<!-- Yandex.Metrika counter -->
+ 
+<script type="text/javascript" >
+    (function (d, w, c) {
+        (w[c] = w[c] || []).push(function() {
+            try {
+                w.yaCounter45914937 = new Ya.Metrika({
+                    id:45914937,
+                    clickmap:true,
+                    trackLinks:true,
+                    accurateTrackBounce:true,
+                    webvisor:true
+                });
+            } catch(e) { }
+        });
+
+        var n = d.getElementsByTagName("script")[0],
+            s = d.createElement("script"),
+            f = function () { n.parentNode.insertBefore(s, n); };
+        s.type = "text/javascript";
+        s.async = true;
+        s.src = "https://mc.yandex.ru/metrika/watch.js";
+
+        if (w.opera == "[object Opera]") {
+            d.addEventListener("DOMContentLoaded", f, false);
+        } else { f(); }
+    })(document, window, "yandex_metrika_callbacks");
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/45914937" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+
+  </body>
+</html>

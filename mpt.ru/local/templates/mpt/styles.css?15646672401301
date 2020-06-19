@@ -1,0 +1,82 @@
+.parallax {
+color:#fff;
+}
+.f-left {
+float:left;
+}
+.f-left:first-child {
+margin-left:-50px;
+}
+
+
+@media (max-width:991px) {
+	.head-row {
+	margin-top: 10px !important;
+	margin-bottom:10px !important;
+}
+	.row .head-row:first-child {
+	display:flex;
+	justify-content:center;
+}
+	.row .head-row:first-child img {
+height:100px !important;
+}
+
+	.row .head-row:first-child .head-title {
+font-size:17px;
+}
+.row .head-row:nth-child(2) p + p {
+
+margin-top: 11px
+
+}
+}
+
+a.spoiler:after{
+    content: "\f139";
+    color: #fff;
+    font-family: 'FontAwesome';
+    position: absolute;
+    right: 35px;  
+}
+
+a.spoiler.collapsed:after{
+    content: "\f13a";
+    color: #fff;
+    font-family: 'FontAwesome';
+    position: absolute;
+    right: 35px;
+}
+
+a.btn.btn-primary.btn-block.spoiler{
+    color: #fff;
+    text-decoration: none;
+}
+
+a.btn.btn-primary.btn-block.spoiler{
+    background-color: rgb(150, 143, 154);
+    transition: 1.5s;
+}
+
+a.btn.btn-primary.btn-block.spoiler.collapsed{
+    background-color: #65387d;
+}
+
+.inspoiler{
+    background-color: rgba(128,128,128,0.05);
+    padding: 15px;
+    overflow: hidden;
+}
+
+a.btn.btn-primary.btn-block.spoiler:hover{
+    background-color: #c94a53;
+    transition: 0.5s;
+}
+
+div.spoiler-main {
+    margin-bottom: 10px;
+}
+.navbar-default .navbar-nav li a{
+font-size:0.875em;
+}
+

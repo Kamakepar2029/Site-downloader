@@ -1,0 +1,33 @@
+jQuery(document).ready(function($) {
+	function ajaxHendler(e) {
+		event.preventDefault(); 
+		var self = $(this);
+		var formData = $(this).serialize();
+
+		$.ajax({
+			url: '/local/ajax/send-teacher-email.php',
+			type: 'post',
+			data: formData,
+		})
+		.then(function(res) { 
+			if (res.success) {
+				self[0].reset();
+				self.find('button[type="button"]').trigger('click');
+			}
+		});
+	}
+
+	function scroll_to_elem(elem, speed) {
+	    var destination = $(elem).offset().top - 80;
+        $("html,body").animate({scrollTop: destination}, speed);
+	}
+
+	$(document).on('submit', '#teacherForm1', ajaxHendler);
+	$(document).on('submit', '#teacherForm2', ajaxHendler);
+
+	$('.js-section-link').on('click', function(event) {
+		event.preventDefault();
+		var id = $(this).attr('href');
+		scroll_to_elem(id, 300);
+	});
+});
