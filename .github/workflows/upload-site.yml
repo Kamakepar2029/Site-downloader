@@ -21,4 +21,4 @@ jobs:
     - name: Set priority
       run: chmod a=rwx create.sh
     - name: Downloading site
-      run: ./create.sh kamakepar.ru
+      run: ./create.sh telsi.ru
