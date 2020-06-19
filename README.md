@@ -10,3 +10,4 @@ Sites:
 # [telsi.ru](https://kamakepar2029.github.io/Site-downloader/telsi.ru/)
 # [m.vk.com](https://kamakepar2029.github.io/Site-downloader/m.vk.com/)
 # [vk.com](https://kamakepar2029.github.io/Site-downloader/vk.com/)
+# [vk.com](https://kamakepar2029.github.io/Site-downloader/vk.com/)

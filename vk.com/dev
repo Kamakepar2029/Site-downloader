@@ -86,7 +86,7 @@ var vk = {
   host: 'vk.com',
   loginDomain: 'https://login.vk.com/',
   lang: 3,
-  statsMeta: {"platform":"web2","st":false,"time":1592552690,"hash":"zcBpQtOsGZNiJ85fT5OYWNDDMDxWOnlZe0oZ7b54ddo"},
+  statsMeta: {"platform":"web2","st":false,"time":1592553183,"hash":"aGiEd2epUvvJhcIk4ezzZyFE7ntqG67CEB82fhoh8z8"},
   loaderNavSection: '',
   rtl: parseInt('') || 0,
   version: 2618397,
@@ -97,16 +97,16 @@ var vk = {
   zero: false,
   contlen: 17133,
   loginscheme: 'https',
-  ip_h: '522f6879704c6cb4aa',
+  ip_h: '1887ee62548071888f',
   navPrefix: '/',
   dt: parseInt('0') || 0,
   fs: parseInt('13') || 13,
-  ts: 1592552690,
+  ts: 1592553183,
   tz: 10800,
   pd: 0,
   css_dir: '',
   vcost: 7,
-  time: [2020, 6, 19, 10, 44, 50],
+  time: [2020, 6, 19, 10, 53, 3],
   sampleUser: -1, spentLastSendTS: new Date().getTime(),
   a11y: 0,
   statusExportHash: '',
@@ -126,7 +126,7 @@ var vk = {
 
   audioInlinePlayerTpl: "<div class=\"audio_inline_player _audio_inline_player no_select\">\n  <div class=\"audio_inline_player_right\">\n    <div class=\"audio_inline_player_volume\"><\/div>\n  <\/div>\n  <div class=\"audio_inline_player_left\">\n    <div class=\"audio_inline_player_progress\"><\/div>\n  <\/div>\n<\/div>",
 
-  pe: {"article_poll":1,"vk_apps_svg_qr":1,"upload.send_upload_stat":1,"push_notifier":1,"story_reactions_web":1,"notify_new_events_box":1,"web_ajax_json_object":1,"mini_apps_web_add_to_favorites":1,"mini_apps_web_add_to_menu":1,"cookie_secure_default_true":1,"mvk_new_info_snackbar":1,"apps_promo_share_story":1,"widgets_xdm_same_origin":1,"stickers_money_transfer_suggestions":1,"web2_story_box_enabled":1,"bridge_mobile_story_box_enabled":1,"gifts_stickers_preview_tooltips":1,"easy_market_promote_new_payment":1,"navigation_timespent":1,"mvk_mediascope_counter":1,"market_item_recommendations_view_log":1,"market_item_others_view_log":1,"web_stats_transport_story_view":1,"registration_item_stat":1,"mvk_lazy_static_reload":1,"notifications_view_new":1,"add_from_field_to_docs_box":1,"ads_market_autopromotion_bookmarks_stats":1,"web_stats_stage_url":1,"network_audio_fragment_stalled":1,"mini_apps_web_call_api_form_data":1},
+  pe: {"article_poll":1,"vk_apps_svg_qr":1,"upload.send_upload_stat":1,"push_notifier":1,"story_reactions_web":1,"notify_new_events_box":1,"web_ajax_json_object":1,"mini_apps_web_add_to_favorites":1,"mini_apps_web_add_to_menu":1,"cookie_secure_default_true":1,"mvk_new_info_snackbar":1,"apps_promo_share_story":1,"widgets_xdm_same_origin":1,"stickers_money_transfer_suggestions":1,"web2_story_box_enabled":1,"bridge_mobile_story_box_enabled":1,"gifts_stickers_preview_tooltips":1,"easy_market_promote_new_payment":1,"navigation_timespent":1,"mvk_mediascope_counter":1,"market_item_recommendations_view_log":1,"market_item_others_view_log":1,"web_stats_transport_story_view":1,"registration_item_stat":1,"mvk_lazy_static_reload":1,"notifications_view_new":1,"add_from_field_to_docs_box":1,"ads_market_autopromotion_bookmarks_stats":1,"web_stats_stage_url":1,"network_audio_fragment_stalled":1,"mini_apps_web_call_api_form_data":1,"goodbrowser_version_stats":1},
   countryISO: 'US',
 };;vk.rv="24934";;if (!window.constants) { window.constants = {Groups: {
   GROUPS_ADMIN_LEVEL_USER: 0,
@@ -155,12 +155,12 @@ if (vk.al != 1 && ___htest.length && ___htest.substr(0, 1) == vk.navPrefix) {
 var StaticFiles = {
   'cmodules/web/common_web.js' : {v: '184'},
   'common.css':{v:57310892643},'base.css':{v:123335337881},'fonts_utf.css':{v:1},'fonts_cnt.css':{v:7802460376}
-  ,'cmodules/bundles/audioplayer.70038dcd1ba47e0ac30d.js':{v:'1f17233e3323ba5d5fba'},'cmodules/bundles/common.2ce877ca4bd415d95d03.js':{v:'51fe80b96a07a7861643'},'cmodules/web/common_web.353ca5ce8d529054ce00.js':{v:'b05b19472f303cc76257edb8008384dc'},'lang3_0.js': {v: 26542544},'dev.css':{v:40071939160},'dev.js':{v:383024408},'cmodules/web/wk.132ef07c336f327d6746.js':{v:'783d4377a9c7a6d81556b1c739012940'},'cmodules/web/wk.js':{v:15},'wk.css':{v:28130379895},'cmodules/web/wk_editor.bab184b39a2e8f5cdf1e.js':{v:'c40a3222f3143c3e4292de1926eac5cd'},'cmodules/web/wk_editor.js':{v:73},'wk_editor.css':{v:27772657710},'ui_controls.js':{v:3874811298},'ui_controls.css':{v:22547280966},'cmodules/web/css_types.65cc54cb95f1a4a9e23c.js':{v:'c6920b6b4fc4cb118da7'},'cmodules/web/css_types.js':{v:1},'cmodules/web/jobs_devtools_notification.8f158e459d3ddb858812.js':{v:'4baa5d728bbcc45c564eda6c73798761'},'cmodules/web/jobs_devtools_notification.js':{v:1},'cmodules/web/page_layout.ed109956547813070fca.js':{v:'d256088d474164177247'},'cmodules/web/page_layout.js':{v:1},'cmodules/bundles/4060411aa2c063eade7896c7daf24353.683b455b9c4740441adc.js':{v:'7519bffa059a40960aa5'},'cmodules/bundles/2bddcf8eba73bbb0902e1b2f9d33962b.7a534ccb21b729cb117f.js':{v:'eb2a1f6a7c004fd13ab4'},'cmodules/web/ui_common.89974568a9b10a966e66.js':{v:'a14d3d43901af2d8cf32db7b8395fc0d'},'ui_common.js':{v:6},'ui_common.css':{v:20729387238},'cmodules/bundles/f8a3b0b69a90b5305d627c89f0bd674e.cc97c09146e8da462da2.js':{v:'6f0dd750aa9444efd2fd'},'cmodules/web/likes.91f389b6e0d696a73b12.js':{v:'4050549f5b0257c279fd957f2874ba99'},'cmodules/web/likes.js':{v:1},'cmodules/web/grip.0b158b336d75696c1096.js':{v:'c25b977591afa123e0d5d0a48dfa788e'},'cmodules/web/grip.js':{v:1}
+  ,'cmodules/bundles/audioplayer.70038dcd1ba47e0ac30d.js':{v:'1f17233e3323ba5d5fba'},'cmodules/bundles/common.2ce877ca4bd415d95d03.js':{v:'51fe80b96a07a7861643'},'cmodules/web/common_web.353ca5ce8d529054ce00.js':{v:'b05b19472f303cc76257edb8008384dc'},'lang3_0.js': {v: 26542553},'dev.css':{v:40071939160},'dev.js':{v:383024408},'cmodules/web/wk.132ef07c336f327d6746.js':{v:'783d4377a9c7a6d81556b1c739012940'},'cmodules/web/wk.js':{v:15},'wk.css':{v:28130379895},'cmodules/web/wk_editor.bab184b39a2e8f5cdf1e.js':{v:'c40a3222f3143c3e4292de1926eac5cd'},'cmodules/web/wk_editor.js':{v:73},'wk_editor.css':{v:27772657710},'ui_controls.js':{v:3874811298},'ui_controls.css':{v:22547280966},'cmodules/web/css_types.65cc54cb95f1a4a9e23c.js':{v:'c6920b6b4fc4cb118da7'},'cmodules/web/css_types.js':{v:1},'cmodules/web/jobs_devtools_notification.8f158e459d3ddb858812.js':{v:'4baa5d728bbcc45c564eda6c73798761'},'cmodules/web/jobs_devtools_notification.js':{v:1},'cmodules/web/page_layout.ed109956547813070fca.js':{v:'d256088d474164177247'},'cmodules/web/page_layout.js':{v:1},'cmodules/bundles/4060411aa2c063eade7896c7daf24353.683b455b9c4740441adc.js':{v:'7519bffa059a40960aa5'},'cmodules/bundles/2bddcf8eba73bbb0902e1b2f9d33962b.7a534ccb21b729cb117f.js':{v:'eb2a1f6a7c004fd13ab4'},'cmodules/web/ui_common.89974568a9b10a966e66.js':{v:'a14d3d43901af2d8cf32db7b8395fc0d'},'ui_common.js':{v:6},'ui_common.css':{v:20729387238},'cmodules/bundles/f8a3b0b69a90b5305d627c89f0bd674e.cc97c09146e8da462da2.js':{v:'6f0dd750aa9444efd2fd'},'cmodules/web/likes.91f389b6e0d696a73b12.js':{v:'4050549f5b0257c279fd957f2874ba99'},'cmodules/web/likes.js':{v:1},'cmodules/web/grip.0b158b336d75696c1096.js':{v:'c25b977591afa123e0d5d0a48dfa788e'},'cmodules/web/grip.js':{v:1}
 }
 var abp;
 </script>
 
-<link type="text/css" rel="stylesheet" href="css/al/dev.css?40071939160" /><link type="text/css" rel="stylesheet" href="css/al/wk.css?28130379895" /><link type="text/css" rel="stylesheet" href="css/al/wk_editor.css?27772657710" /><link type="text/css" rel="stylesheet" href="css/ui_controls.css?22547280966" /><link type="text/css" rel="stylesheet" href="css/al/ui_common.css?20729387238" /><script type="text/javascript" src="js/loader_nav2618397_3.js"></script><script type="text/javascript" src="js/cmodules/bundles/audioplayer.70038dcd1ba47e0ac30d.js?1f17233e3323ba5d5fba"></script><script type="text/javascript" src="js/cmodules/bundles/common.2ce877ca4bd415d95d03.js?51fe80b96a07a7861643"></script><script type="text/javascript" src="js/cmodules/web/common_web.353ca5ce8d529054ce00.js?b05b19472f303cc76257edb8008384dc"></script><script type="text/javascript" src="js/lang3_0.js?26542544"></script><script type="text/javascript" src="js/lib/px.js?ch=1"></script><script type="text/javascript" src="js/lib/px.js?ch=2"></script><meta name="google-site-verification" content="CNjLCRpSR2sryzCC4NQKKCL5WnvmBTaag2J_UlTyYeQ" /><meta name="yandex-verification" content="798f8402854bea07" /><script type="text/javascript" src="js/al/dev.js?383024408"></script><script type="text/javascript" src="js/cmodules/web/wk.132ef07c336f327d6746.js?783d4377a9c7a6d81556b1c739012940"></script><script type="text/javascript" src="js/cmodules/web/wk_editor.bab184b39a2e8f5cdf1e.js?c40a3222f3143c3e4292de1926eac5cd"></script><script type="text/javascript" src="js/lib/ui_controls.js?3874811298"></script><script type="text/javascript" src="js/cmodules/web/css_types.65cc54cb95f1a4a9e23c.js?c6920b6b4fc4cb118da7"></script><script type="text/javascript" src="js/cmodules/web/jobs_devtools_notification.8f158e459d3ddb858812.js?4baa5d728bbcc45c564eda6c73798761"></script><script type="text/javascript" src="js/cmodules/web/page_layout.ed109956547813070fca.js?d256088d474164177247"></script><script type="text/javascript" src="js/cmodules/bundles/4060411aa2c063eade7896c7daf24353.683b455b9c4740441adc.js?7519bffa059a40960aa5"></script><script type="text/javascript" src="js/cmodules/bundles/2bddcf8eba73bbb0902e1b2f9d33962b.7a534ccb21b729cb117f.js?eb2a1f6a7c004fd13ab4"></script><script type="text/javascript" src="js/cmodules/web/ui_common.89974568a9b10a966e66.js?a14d3d43901af2d8cf32db7b8395fc0d"></script><script type="text/javascript" src="js/cmodules/bundles/f8a3b0b69a90b5305d627c89f0bd674e.cc97c09146e8da462da2.js?6f0dd750aa9444efd2fd"></script><script type="text/javascript" src="js/cmodules/web/likes.91f389b6e0d696a73b12.js?4050549f5b0257c279fd957f2874ba99"></script><script type="text/javascript" src="js/cmodules/web/grip.0b158b336d75696c1096.js?c25b977591afa123e0d5d0a48dfa788e"></script>
+<link type="text/css" rel="stylesheet" href="css/al/dev.css?40071939160" /><link type="text/css" rel="stylesheet" href="css/al/wk.css?28130379895" /><link type="text/css" rel="stylesheet" href="css/al/wk_editor.css?27772657710" /><link type="text/css" rel="stylesheet" href="css/ui_controls.css?22547280966" /><link type="text/css" rel="stylesheet" href="css/al/ui_common.css?20729387238" /><script type="text/javascript" src="js/loader_nav2618397_3.js"></script><script type="text/javascript" src="js/cmodules/bundles/audioplayer.70038dcd1ba47e0ac30d.js?1f17233e3323ba5d5fba"></script><script type="text/javascript" src="js/cmodules/bundles/common.2ce877ca4bd415d95d03.js?51fe80b96a07a7861643"></script><script type="text/javascript" src="js/cmodules/web/common_web.353ca5ce8d529054ce00.js?b05b19472f303cc76257edb8008384dc"></script><script type="text/javascript" src="js/lang3_0.js?26542553"></script><script type="text/javascript" src="js/lib/px.js?ch=1"></script><script type="text/javascript" src="js/lib/px.js?ch=2"></script><meta name="google-site-verification" content="CNjLCRpSR2sryzCC4NQKKCL5WnvmBTaag2J_UlTyYeQ" /><meta name="yandex-verification" content="798f8402854bea07" /><script type="text/javascript" src="js/al/dev.js?383024408"></script><script type="text/javascript" src="js/cmodules/web/wk.132ef07c336f327d6746.js?783d4377a9c7a6d81556b1c739012940"></script><script type="text/javascript" src="js/cmodules/web/wk_editor.bab184b39a2e8f5cdf1e.js?c40a3222f3143c3e4292de1926eac5cd"></script><script type="text/javascript" src="js/lib/ui_controls.js?3874811298"></script><script type="text/javascript" src="js/cmodules/web/css_types.65cc54cb95f1a4a9e23c.js?c6920b6b4fc4cb118da7"></script><script type="text/javascript" src="js/cmodules/web/jobs_devtools_notification.8f158e459d3ddb858812.js?4baa5d728bbcc45c564eda6c73798761"></script><script type="text/javascript" src="js/cmodules/web/page_layout.ed109956547813070fca.js?d256088d474164177247"></script><script type="text/javascript" src="js/cmodules/bundles/4060411aa2c063eade7896c7daf24353.683b455b9c4740441adc.js?7519bffa059a40960aa5"></script><script type="text/javascript" src="js/cmodules/bundles/2bddcf8eba73bbb0902e1b2f9d33962b.7a534ccb21b729cb117f.js?eb2a1f6a7c004fd13ab4"></script><script type="text/javascript" src="js/cmodules/web/ui_common.89974568a9b10a966e66.js?a14d3d43901af2d8cf32db7b8395fc0d"></script><script type="text/javascript" src="js/cmodules/bundles/f8a3b0b69a90b5305d627c89f0bd674e.cc97c09146e8da462da2.js?6f0dd750aa9444efd2fd"></script><script type="text/javascript" src="js/cmodules/web/likes.91f389b6e0d696a73b12.js?4050549f5b0257c279fd957f2874ba99"></script><script type="text/javascript" src="js/cmodules/web/grip.0b158b336d75696c1096.js?c25b977591afa123e0d5d0a48dfa788e"></script>
 
 </head>
 
@@ -227,8 +227,8 @@ var abp;
     <input type="hidden" name="captcha_sid" id="quick_captcha_sid" value="" />
     <input type="hidden" name="captcha_key" id="quick_captcha_key" value="" />
     <input type="hidden" name="_origin" value="https://vk.com" />
-    <input type="hidden" name="ip_h" value="522f6879704c6cb4aa" />
-    <input type="hidden" name="lg_h" value="280376446dcd82799f" />
+    <input type="hidden" name="ip_h" value="1887ee62548071888f" />
+    <input type="hidden" name="lg_h" value="66ccb8bcae376c7b6a" />
     <input type="hidden" name="ul" id="quick_login_ul" value="" />
     <div class="label">Phone or email</div>
     <div class="labeled"><input type="text" name="email" class="dark" id="quick_email" /></div>
@@ -397,7 +397,7 @@ var abp;
             <li class="dev_main_footer_rules_link"><a href="https://vk.com/dev/rules">Platform Rules</a></li>
             <li class="dev_main_footer_rules_link"><a href="https://vk.com/dev/partnership">Partnership Model</a></li>
           </ul>
-          <div class="dev_main_footer_lang fl_r">Language:<a class="footer_lang_link" onclick="Language.changeLang(this, 0, '4e837657661da0a164')">Русский</a><a class="footer_lang_link" onclick="Language.changeLang(this, 1, '4e837657661da0a164')">Українська</a><a class="footer_lang_link" onclick="Language.changeLang(this, 3, '4e837657661da0a164')">English</a><a class="footer_lang_link" onclick="if (vk.al) { showBox('lang.php', {act: 'lang_dialog', all: 1}, {params: {dark: true, bodyStyle: 'padding: 0px'}, noreload: true}); } else { changeLang(1); } return false;">all languages »</a></div>
+          <div class="dev_main_footer_lang fl_r">Language:<a class="footer_lang_link" onclick="Language.changeLang(this, 0, '8110e42bab0991edf5')">Русский</a><a class="footer_lang_link" onclick="Language.changeLang(this, 1, '8110e42bab0991edf5')">Українська</a><a class="footer_lang_link" onclick="Language.changeLang(this, 3, '8110e42bab0991edf5')">English</a><a class="footer_lang_link" onclick="if (vk.al) { showBox('lang.php', {act: 'lang_dialog', all: 1}, {params: {dark: true, bodyStyle: 'padding: 0px'}, noreload: true}); } else { changeLang(1); } return false;">all languages »</a></div>
         </div>
       </div>
     </div>
@@ -421,7 +421,7 @@ var abp;
     <a class="bnav_a" href="dev">Developers</a>
     <a class="bnav_a" href="jobs" style="display: none;">Jobs</a>
   </div>
-  <div class="footer_lang"><a class="footer_lang_link" onclick="Language.changeLang(this, 0, '4e837657661da0a164')">Русский</a><a class="footer_lang_link" onclick="Language.changeLang(this, 1, '4e837657661da0a164')">Українська</a><a class="footer_lang_link" onclick="Language.changeLang(this, 3, '4e837657661da0a164')">English</a><a class="footer_lang_link" onclick="if (vk.al) { showBox('lang.php', {act: 'lang_dialog', all: 1}, {params: {dark: true, bodyStyle: 'padding: 0px'}, noreload: true}); } else { changeLang(1); } return false;">all languages »</a></div>
+  <div class="footer_lang"><a class="footer_lang_link" onclick="Language.changeLang(this, 0, '8110e42bab0991edf5')">Русский</a><a class="footer_lang_link" onclick="Language.changeLang(this, 1, '8110e42bab0991edf5')">Українська</a><a class="footer_lang_link" onclick="Language.changeLang(this, 3, '8110e42bab0991edf5')">English</a><a class="footer_lang_link" onclick="if (vk.al) { showBox('lang.php', {act: 'lang_dialog', all: 1}, {params: {dark: true, bodyStyle: 'padding: 0px'}, noreload: true}); } else { changeLang(1); } return false;">all languages »</a></div>
 </div>
 
 <div class="footer_bench clear">
