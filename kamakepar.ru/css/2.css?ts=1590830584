@@ -1,0 +1,135 @@
+
+#wb_header { height: 96px; }
+#wb_header > .wb_cont_bg { background-color: transparent; }
+#wb_header > .wb_cont_bg:before { background: transparent none repeat-x scroll center top; }
+#wb_main { height: 2010px; }
+#wb_main > .wb_cont_bg { background-color: transparent; }
+#wb_main > .wb_cont_bg:before { background: transparent none repeat left top; background-size: auto auto; }
+#wb_footer { height: 70px; }
+#wb_footer > .wb_cont_bg { background-color: transparent; }
+#wb_footer > .wb_cont_bg:before { background: transparent none repeat-x scroll center top; }
+html { scroll-behavior: smooth; }
+body { background-color: transparent; }
+body.site:before { background: transparent url("http://kamakepar.ru/css/gallery/810-[converted]-ts1523620048.png") repeat scroll center top; background-size: auto auto; }
+.wb_sbg { background: transparent none repeat-y scroll center bottom; }
+body, .wb_sbg { min-width: 320px; min-height: 2176px; }
+.wb_cont_inner { width: 320px; height: 100%; }
+.wb_cont_bg { width: 320px; margin-left: -160px; }
+.root { height: 2176px; min-height: 2176px; }
+#wb_element_instance29 .btn-collapser { display: inline-block; margin-top: 0px; background-color: #ffffff; border-color: #000000; }
+#wb_element_instance29 .btn-collapser > .icon-bar { background-color: #000000; }
+#wb_element_instance29 .btn-collapser:hover { background-color: #078a70; border-color: #ffffff; }
+#wb_element_instance29 .btn-collapser:hover > .icon-bar { background-color: #ffffff; }
+#wb_element_instance29 { top: 60px; left: 14px; min-width: 293px; width: 293px; min-height: 29px; height: 29px; display: block; z-index: 758; }
+#wb_element_instance29 ul { background: #ffffff none repeat left top; border: 1px none #000000; }
+#wb_element_instance29 > ul { display: none; }
+#wb_element_instance29.collapse-expanded > ul { display: block; float: none; height: auto; overflow: hidden; overflow-y: auto; }
+#wb_element_instance29.collapse-expanded > ul > li { display: block; }
+#wb_element_instance29.collapse-expanded li > ul { position: static; }
+#wb_element_instance29.collapse-expanded li.active > ul { display: block!important; }
+#wb_element_instance29.collapse-expanded li.over > ul { display: block!important; }
+#wb_element_instance29, #wb_element_instance29 ul { text-align: right; }
+#wb_element_instance29 ul ul { background: transparent none no-repeat left top; }
+#wb_element_instance29 li { margin: 0px 0px 0px 0px; }
+#wb_element_instance29 li a { text-transform: uppercase; border: 1px none #000000; padding: 10px 15px 10px 15px; font: normal bold 12px Helvetica,Arial,sans-serif; text-decoration: none; color: #000000; line-height: 14px; background: transparent none no-repeat left top; }
+#wb_element_instance29 li.over > a, #wb_element_instance29 li:focus > a { border: 1px none #000000; font: normal bold 12px Helvetica,Arial,sans-serif; text-decoration: none; color: #ffffff; line-height: 14px; background: #078a70 none no-repeat left top; }
+#wb_element_instance29 li.active > a { border: 1px none #000000; font: normal bold 12px Helvetica,Arial,sans-serif; text-decoration: none; color: #ffffff; line-height: 14px; background: #078a70 none no-repeat left top; }
+#wb_element_instance29:not(.collapse-expanded) .vmenu ul.open-left,#wb_element_instance29:not(.collapse-expanded) .hmenu ul.open-left { left: auto; right: 100%; }
+#wb_element_instance29:not(.collapse-expanded) .hmenu > li > ul.open-left { left: auto; right: 0; }
+#wb_element_instance30 { opacity: 1; border-radius: 0px 0px 0px 0px; -moz-border-radius: 0px 0px 0px 0px; -webkit-border-radius: 0px 0px 0px 0px; border: 5px none #d1d1d1; box-sizing: border-box; overflow: hidden; top: 0px; left: -4px; min-width: 321px; width: 321px; min-height: 51px; height: 51px; display: block; z-index: 567; }
+#wb_element_instance30 img { width: 321px; height: 51px; display: block; position: static; left: 0px; top: 0px; }
+#wb_element_instance31 p:last-child { margin-bottom: 0; }
+#wb_element_instance31 { opacity: 1; top: 17px; left: 20px; min-width: 190px; width: 190px; min-height: 24px; height: 24px; display: block; z-index: 565; }
+#wb_element_instance32 { top: -99px; left: 0; right: 0; min-height: 100px; height: 100px; display: block; z-index: 179; }
+#wb_element_instance32 > .wb_shp { display: block; background-color: rgba(255, 255, 255, 1); border: 5px none #c0c0c0; border-radius: 0px 0px 0px 0px; -moz-border-radius: 0px 0px 0px 0px; -webkit-border-radius: 0px 0px 0px 0px; width: 100%; height: 100px; }
+#wb_element_instance32 > .wb_shp:before { background: transparent none repeat scroll left top; background-size: auto auto; opacity: 1; }
+#wb_element_instance33 p:last-child { margin-bottom: 0; }
+#wb_element_instance33 { opacity: 1; top: 500px; left: 15px; min-width: 291px; width: 291px; min-height: 66px; height: 66px; display: block; z-index: 213; }
+#wb_element_instance34 p:last-child { margin-bottom: 0; }
+#wb_element_instance34 { opacity: 1; top: 460px; left: 15px; min-width: 291px; width: 291px; min-height: 24px; height: 24px; display: block; z-index: 177; }
+#wb_element_instance35 p:last-child { margin-bottom: 0; }
+#wb_element_instance35 { opacity: 1; top: 1275px; left: 14px; min-width: 292px; width: 292px; min-height: 24px; height: 24px; display: block; z-index: 156; }
+#wb_element_instance36 p:last-child { margin-bottom: 0; }
+#wb_element_instance36 { opacity: 1; top: 896px; left: 15px; min-width: 291px; width: 291px; min-height: 24px; height: 24px; display: block; z-index: 378; }
+#wb_element_instance37 p:last-child { margin-bottom: 0; }
+#wb_element_instance37 { opacity: 1; top: 1310px; left: 14px; min-width: 292px; width: 292px; min-height: 132px; height: 132px; display: block; z-index: 157; }
+#wb_element_instance38 p:last-child { margin-bottom: 0; }
+#wb_element_instance38 { opacity: 1; top: 930px; left: 15px; min-width: 291px; width: 291px; min-height: 154px; height: 154px; display: block; z-index: 536; }
+#wb_element_instance39 p:last-child { margin-bottom: 0; }
+#wb_element_instance39 { opacity: 1; top: 377px; left: 15px; min-width: 291px; width: 291px; min-height: 24px; height: 24px; display: block; z-index: 175; }
+#wb_element_instance40 { top: 0px; left: 0; right: 0; min-height: 360px; height: 360px; display: block; z-index: 158; }
+#wb_element_instance40 > .wb_shp { display: block; background-color: rgba(255, 255, 255, 1); border: 5px none #c0c0c0; border-radius: 0px 0px 0px 0px; -moz-border-radius: 0px 0px 0px 0px; -webkit-border-radius: 0px 0px 0px 0px; width: 100%; height: 360px; }
+#wb_element_instance40 > .wb_shp:before { background: transparent url("http://kamakepar.ru/css/gallery/max-ostrozhinskiy-414273-unsplash-ts1523614171.jpg") repeat fixed center center; background-size: cover; opacity: 1; }
+#wb_element_instance41 { top: 359px; left: 0; right: 0; min-height: 60px; height: 60px; display: block; z-index: 161; }
+#wb_element_instance41 > .wb_shp { display: block; background-color: rgba(202, 147, 28, 1); border: 0px solid #000000; border-radius: 0px 0px 0px 0px; -moz-border-radius: 0px 0px 0px 0px; -webkit-border-radius: 0px 0px 0px 0px; width: 100%; height: 60px; }
+#wb_element_instance41 > .wb_shp:before { background: transparent none repeat scroll left top; background-size: auto auto; opacity: 1; }
+#wb_element_instance42 { top: 20px; left: 0px; display: block; z-index: 9999; }
+
+
+@media (min-width: 768px) {
+}
+
+@media (min-width: 992px) {
+	#wb_header { height: 96px; }
+	#wb_main { height: 1240px; }
+	#wb_footer { height: 70px; }
+	body, .wb_sbg { min-width: 992px; min-height: 1406px; }
+	.wb_cont_inner { width: 992px; }
+	.wb_cont_bg { width: 992px; margin-left: -496px; }
+	.root { height: 1406px; min-height: 1406px; }
+	#wb_element_instance29 { top: 37px; left: 472px; min-width: 490px; width: 490px; min-height: 34px; height: 34px; display: block; }
+	#wb_element_instance29 ul { background: transparent none no-repeat left top; }
+	#wb_element_instance29 .btn-collapser { display: none; }
+	#wb_element_instance29 > ul { display: block; }
+	#wb_element_instance30 { top: 0px; left: 0px; min-width: 470px; width: 470px; min-height: 97px; height: 97px; display: block; overflow: hidden; }
+	#wb_element_instance30 img { width: 482.02803497941px; height: 97px; display: block; position: relative; left: 0px; top: 0px; max-width: inherit; }
+	#wb_element_instance31 { top: 30px; left: 20px; min-width: 247px; width: 247px; min-height: 24px; height: 24px; display: block; }
+	#wb_element_instance32 { top: -99px; left: 0; right: 0; min-height: 100px; height: 100px; display: block; }
+	#wb_element_instance32 > .wb_shp { width: 100%; height: 100px; }
+	#wb_element_instance33 { top: 530px; left: 290px; min-width: 673px; width: 673px; min-height: 154px; height: 154px; display: block; }
+	#wb_element_instance34 { top: 530px; left: 30px; min-width: 240px; width: 240px; min-height: 30px; height: 30px; display: block; }
+	#wb_element_instance35 { top: 910px; left: 30px; min-width: 240px; width: 240px; min-height: 30px; height: 30px; display: block; }
+	#wb_element_instance36 { top: 730px; left: 30px; min-width: 240px; width: 240px; min-height: 30px; height: 30px; display: block; }
+	#wb_element_instance37 { top: 910px; left: 290px; min-width: 673px; width: 673px; min-height: 286px; height: 286px; display: block; }
+	#wb_element_instance38 { top: 730px; left: 290px; min-width: 673px; width: 673px; min-height: 132px; height: 132px; display: block; }
+	#wb_element_instance39 { top: 390px; left: 30px; min-width: 933px; width: 933px; min-height: 38px; height: 38px; display: block; }
+	#wb_element_instance40 { top: 0px; left: 0; right: 0; min-height: 360px; height: 360px; display: block; }
+	#wb_element_instance40 > .wb_shp { width: 100%; height: 360px; }
+	#wb_element_instance41 { top: 359px; left: 0; right: 0; min-height: 100px; height: 100px; display: block; }
+	#wb_element_instance41 > .wb_shp { width: 100%; height: 100px; }
+	#wb_element_instance42 { top: 20px; left: 0px; display: block; }
+}
+
+@media (min-width: 1200px) {
+	#wb_header { height: 96px; }
+	#wb_main { height: 584px; }
+	#wb_footer { height: 1181px; }
+	body, .wb_sbg { min-width: 1200px; min-height: 1861px; }
+	.wb_cont_inner { width: 1200px; }
+	.wb_cont_bg { width: 1200px; margin-left: -600px; }
+	.root { height: 1861px; min-height: 1861px; }
+	#wb_element_instance29 { top: 32px; left: 421px; min-width: 750px; width: 750px; min-height: 34px; height: 34px; display: block; }
+	#wb_element_instance29 ul { background: transparent none no-repeat left top; }
+	#wb_element_instance29 .btn-collapser { display: none; }
+	#wb_element_instance29 > ul { display: block; }
+	#wb_element_instance30 { top: 6px; left: -10px; min-width: 570px; width: 570px; min-height: 114px; height: 114px; display: block; overflow: hidden; }
+	#wb_element_instance30 img { width: 570px; height: 114.6812749004px; display: block; position: relative; left: 0px; top: 0px; max-width: inherit; }
+	#wb_element_instance31 { top: 1130px; left: 25px; min-width: 290px; width: 290px; min-height: 24px; height: 24px; display: block; }
+	#wb_element_instance32 { top: -99px; left: 0; right: 0; min-height: 100px; height: 100px; display: block; }
+	#wb_element_instance32 > .wb_shp { width: 100%; height: 100px; }
+	#wb_element_instance33 { top: 220px; left: 280px; min-width: 880px; width: 880px; min-height: 65px; height: 65px; display: block; }
+	#wb_element_instance34 { top: 223px; left: 10px; min-width: 240px; width: 240px; min-height: 34px; height: 34px; display: block; }
+	#wb_element_instance35 { top: 480px; left: 10px; min-width: 240px; width: 240px; min-height: 34px; height: 34px; display: block; }
+	#wb_element_instance36 { top: 370px; left: 10px; min-width: 240px; width: 240px; min-height: 34px; height: 34px; display: block; }
+	#wb_element_instance37 { top: 464px; left: 280px; min-width: 880px; width: 880px; min-height: 65px; height: 65px; display: block; }
+	#wb_element_instance38 { top: 370px; left: 280px; min-width: 880px; width: 880px; min-height: 86px; height: 86px; display: block; }
+	#wb_element_instance39 { top: 99px; left: 10px; min-width: 1142px; width: 1142px; min-height: 42px; height: 42px; display: block; }
+	#wb_element_instance40 { top: 20px; left: 0; right: 0; min-height: 440px; height: 440px; display: block; }
+	#wb_element_instance40 > .wb_shp { width: 100%; height: 440px; }
+	#wb_element_instance41 { top: 70px; left: 0; right: 0; min-height: 100px; height: 100px; display: block; }
+	#wb_element_instance41 > .wb_shp { width: 100%; height: 100px; }
+	#wb_element_instance42 { top: 20px; left: 0px; display: block; }
+}
+
+@media (max-width: 767px) {
+}
