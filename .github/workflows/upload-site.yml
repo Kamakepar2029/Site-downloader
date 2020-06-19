@@ -20,5 +20,5 @@ jobs:
         
     - name: Set priority
       run: chmod a=rwx create.sh
-    - name: Build with Gradle
+    - name: Downloading site
       run: ./create.sh kamakepar.ru
