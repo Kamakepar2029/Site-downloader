@@ -9,3 +9,4 @@ Sites:
 # [covid19-official.tk](https://kamakepar2029.github.io/Site-downloader/covid19-official.tk/)
 # [telsi.ru](https://kamakepar2029.github.io/Site-downloader/telsi.ru/)
 # [m.vk.com](https://kamakepar2029.github.io/Site-downloader/m.vk.com/)
+# [vk.com](https://kamakepar2029.github.io/Site-downloader/vk.com/)
