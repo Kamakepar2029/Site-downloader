@@ -5,10 +5,9 @@ Enter site you want to download and save the file
 
 # All sites that have being downloaded:
 Sites:
-# [name.kamakepar.ru](https://kamakepar2029.github.io/Site-downloader/name.kamakepar.ru/)
-# [covid19-official.tk](https://kamakepar2029.github.io/Site-downloader/covid19-official.tk/)
-# [telsi.ru](https://kamakepar2029.github.io/Site-downloader/telsi.ru/)
-# [m.vk.com](https://kamakepar2029.github.io/Site-downloader/m.vk.com/)
-# [vk.com](https://kamakepar2029.github.io/Site-downloader/vk.com/)
-# [vk.com](https://kamakepar2029.github.io/Site-downloader/vk.com/)
-# [try--kamakepar.repl.co](https://kamakepar2029.github.io/Site-downloader/try--kamakepar.repl.co/)
+# [name.kamakepar.ru](http://site-downloader.tk/name.kamakepar.ru/)
+# [covid19-official.tk](http://site-downloader.tk/covid19-official.tk/)
+# [telsi.ru](http://site-downloader.tk/telsi.ru/)
+# [m.vk.com](http://site-downloader.tk/m.vk.com/)
+# [vk.com](http://site-downloader.tk/vk.com/)
+# [try--kamakepar.repl.co](http://site-downloader.tk/try--kamakepar.repl.co/)
