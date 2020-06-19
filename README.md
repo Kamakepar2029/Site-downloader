@@ -11,3 +11,4 @@ Sites:
 # [m.vk.com](http://site-downloader.tk/m.vk.com/)
 # [vk.com](http://site-downloader.tk/vk.com/)
 # [try--kamakepar.repl.co](http://site-downloader.tk/try--kamakepar.repl.co/)
+# [labworks.mpt.ru](http://site-downloader.tk/labworks.mpt.ru/)

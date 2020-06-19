@@ -1,0 +1,70 @@
+<!-- Author: Anton Kablov  -->
+<!doctype html>
+<html>
+<head>
+<title> Восстановление пароля </title>
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<link href="../static/labworks/style.css" rel="stylesheet" type="text/css" />
+<link rel="stylesheet" href="../static/labworks/jquery-ui.css">
+
+<link rel="stylesheet" href="http://code.jquery.com/ui/1.11.4/themes/smoothness/jquery-ui.css">
+
+
+
+
+<style type="text/css">
+	
+	#navigation {
+		position: relative;
+	}
+	
+	nav {
+		position: absolute;
+		right: 20px;
+	}
+</style>
+
+</head>
+
+<body>
+
+<div id="main">
+    	<div id="header">
+        	<p id="header_text">LABWORKS</p>
+       	</div>
+        
+        <div id="navigation">
+        	
+        	<a href="../index.html">Главная</a>
+        	
+            
+        </div>
+        
+        <div id="content">
+        	
+        	
+
+<h1>Восстановление пароля</h1>       
+
+<p>Забыли пароль? Введите свой адрес электронной почты ниже, и мы вышлем вам инструкцию, как установить новый пароль.</p>
+
+<form action="index.html" method="post">
+<input type='hidden' name='csrfmiddlewaretoken' value='m4v8whCaljWK2hEfQyeZYM8F81SP2JUj' />
+<p><label for="id_email">Адрес электронной почты:</label> <input id="id_email" maxlength="254" name="email" type="email" /></p>
+<p><input type="submit" value="Восстановить мой пароль" /></p>
+</form>
+
+
+        
+        </div>
+</div>
+
+
+<script type="text/javascript" src="../static/labworks/jquery-2.1.4.min.js"></script>
+
+
+
+
+</body>
+</html>

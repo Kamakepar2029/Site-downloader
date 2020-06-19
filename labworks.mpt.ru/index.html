@@ -1,0 +1,81 @@
+<!-- Author: Anton Kablov  -->
+<!doctype html>
+<html>
+<head>
+<title> Система учета лабораторных работ </title>
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<link href="static/labworks/style.css" rel="stylesheet" type="text/css" />
+<link rel="stylesheet" href="static/labworks/jquery-ui.css">
+
+<link rel="stylesheet" href="http://code.jquery.com/ui/1.11.4/themes/smoothness/jquery-ui.css">
+
+
+
+
+<style type="text/css">
+	
+	#navigation {
+		position: relative;
+	}
+	
+	nav {
+		position: absolute;
+		right: 20px;
+	}
+</style>
+
+</head>
+
+<body>
+
+<div id="main">
+    	<div id="header">
+        	<p id="header_text">LABWORKS</p>
+       	</div>
+        
+        <div id="navigation">
+        	
+        	<a href="index.html">Главная</a>
+        	
+            
+        </div>
+        
+        <div id="content">
+        	
+        	
+
+
+
+<form method="post" action="http://labworks.mpt.ru/login/">
+<input type='hidden' name='csrfmiddlewaretoken' value='m4v8whCaljWK2hEfQyeZYM8F81SP2JUj' />
+<table>
+<tr>
+    <td><label for="id_username">Email:</label></td>
+    <td><input id="id_username" maxlength="254" name="username" type="text" /></td>
+</tr>
+<tr>
+    <td><label for="id_password">Пароль:</label></td>
+    <td><input id="id_password" name="password" type="password" /></td>
+</tr>
+</table>
+
+<input type="submit" value="Войти" />
+<input type="hidden" name="next" value="/" />
+</form>
+
+<p><a href="password_reset/index.html">Забыли пароль?</a></p>
+
+
+        
+        </div>
+</div>
+
+
+<script type="text/javascript" src="static/labworks/jquery-2.1.4.min.js"></script>
+
+
+
+
+</body>
+</html>
