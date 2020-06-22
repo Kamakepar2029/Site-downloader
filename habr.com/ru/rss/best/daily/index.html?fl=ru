@@ -1,0 +1,487 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"  >
+  <channel>
+    <title>Лучшие публикации за сутки</title>
+    <link>https://habr.com/ru/top/daily/</link>
+    <description><![CDATA[Лучшие публикации за последние 24 часа]]></description>
+    <language>ru</language>
+    <managingEditor>editor@habr.com</managingEditor>
+    <generator>habr.com</generator>
+    <pubDate>Mon, 22 Jun 2020 15:37:34 GMT</pubDate>
+    
+      <image>
+        <link>https://habr.com/ru/</link>
+        <url>https://habr.com/images/logo.png</url>
+        <title>Хабр</title>
+      </image>
+
+          
+
+
+
+    <item>
+      <title><![CDATA[[Перевод] Визуализация генеративных алгоритмов: гифа, деревья, повторяющиеся и дифференциальные линии (на Python)]]></title>
+      <guid isPermaLink="true">https://habr.com/ru/post/507602/</guid>
+      <link>https://habr.com/ru/post/507602/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=507602</link>
+      <description><![CDATA[<img src="https://habrastorage.org/webt/bd/-s/ch/bd-schjdn5jw6b_6fxidj1_9dlw.jpeg" alt="image"><br>
+<br>
+<h3>Введение</h3><br>
+Паттерны всегда меня очаровывали. Даже не важно какие. Я экспериментировал со многими: сети, листья и их переплетения, ветви, молнии, флокирование, очертания фигур, реки, скальный осадок, пейзажи, слизистая плесень, лишайники, взаимодействие и расплавление, клеточные автоматы, некоторые фракталы и другие штуки. Мне кажется, что самое приятное — это то, как сложные и затейливые результаты можно получить от набора простых правил.<br>
+<br>
+<img src="https://habrastorage.org/webt/0c/ta/ss/0ctass5xvqtro4qixedd46pzjli.jpeg" alt="image"><br>
+<br>
+В последнее время мне были особенно интересны биологические образы и дифференциальный рост. У меня есть опыт в вычислительной математике, но не в биологии. Поэтому у меня мало знаний в том, как биологические системы работают. И всё же, я экспериментировал довольно много над воссозданием различных биологических закономерностей. Одна из сложностей заключается в том, чтобы попытаться воссоздать некоторые образы или закономерности максимально малым количеством простых правил.<br>
+<br>
+Иногда мне удается воссоздать явление, которое я собирался создать, а иногда — нет. Чаще всего я получаю нечто интересное, даже если это не всегда то, что было задумано.<br> <a href="https://habr.com/ru/post/507602/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=507602#habracut">Осторожно, тяжелые красивые картинки</a>]]></description>
+      
+      <pubDate>Sun, 21 Jun 2020 21:36:54 GMT</pubDate>
+      <dc:creator>degenerative_art</dc:creator>
+      <category><![CDATA[Python]]></category><category><![CDATA[Алгоритмы]]></category><category><![CDATA[Визуализация данных]]></category><category><![CDATA[Графический дизайн]]></category><category><![CDATA[Дизайн]]></category>
+      <category>python</category><category>generative art</category><category>генеративное искусство</category><category>алгоритмы</category><category>визуализация данных на Питон</category>
+    </item>
+
+
+
+      <item>
+      <title><![CDATA[PHP-Дайджест № 182 (1 – 22 июня 2020)]]></title>
+      <guid isPermaLink="true">https://habr.com/ru/post/507636/</guid>
+      <link>https://habr.com/ru/post/507636/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=507636</link>
+      <description><![CDATA[<a href="https://habr.com/ru/post/507636/"><div style="text-align:center;"><img src="https://habrastorage.org/getpro/habr/post_images/dd5/3c3/3b2/dd53c33b2a501f4727f6929a1e3a2318.jpg"></div></a><br>
+<p>Свежая подборка со ссылками на новости и материалы. В выпуске: 3 принятых и 6 новых RFC-предложений из PHP Internals, включая голосование за новый синтаксис для атрибутов — <code>@@</code> и почему <code>#[]</code> был бы лучше, переименования black/whitelist в PHP-мире, как отлаживают PHP-разработчики, аналог ngrok на PHP, видео, подкасты и многое другое.<br>
+<br>
+Приятного чтения!</p><br> <a href="https://habr.com/ru/post/507636/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=507636#habracut">Читать дальше &rarr;</a>]]></description>
+      
+      <pubDate>Mon, 22 Jun 2020 06:27:52 GMT</pubDate>
+      <dc:creator>pronskiy</dc:creator>
+      <category><![CDATA[Разработка веб-сайтов]]></category><category><![CDATA[PHP]]></category><category><![CDATA[Symfony]]></category><category><![CDATA[Yii]]></category><category><![CDATA[Laravel]]></category>
+      <category><![CDATA[дайджест]]></category><category><![CDATA[php-дайджест]]></category><category><![CDATA[PHP]]></category><category><![CDATA[Symfony]]></category><category><![CDATA[Laravel]]></category><category><![CDATA[Yii]]></category><category><![CDATA[Laminas]]></category><category><![CDATA[PHP 8]]></category>
+    </item>
+
+
+
+
+
+
+
+      <item>
+      <title><![CDATA[Скрипт выборки российских облигаций по параметрам]]></title>
+      <guid isPermaLink="true">https://habr.com/ru/post/506720/</guid>
+      <link>https://habr.com/ru/post/506720/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=506720</link>
+      <description><![CDATA[Уже несколько лет я пользуюсь облигациями в качестве замены депозита, потому что процент дохода, который можно получить со вклада <a href="http://www.cbr.ru/statistics/avgprocstav/" rel="nofollow">стабильно падает</a>. В отличии от ситуации с депозитом, в облигациях всегда <a href="https://smart-lab.ru/q/bonds/" rel="nofollow">можно найти</a> большую доходность. И в этой ситуации меня не устраивало только количество времени на механическую работу по поиску подходящих вариантов бумаг.<br>
+<br>
+<img src="https://habrastorage.org/getpro/habr/post_images/8a2/7fa/ddf/8a27faddfbdea9e9317849137943d453.gif"><br>
+<i>Работа скрипта по поиску облигаций на Московской бирже</i><br>
+<br>
+Так как сервисов по поиску российских облигаций много, но ни один из них не имеет достаточной гибкости и простоты и поэтому на работу с ними тратится достаточно много времени. Исходя из этого и решил разработать собственный скрипт для поиска облигаций. <br>
+<br>
+Сделал это на Node.js с выводом полученных результатов в локальный html файл с интерактивной таблицей от <a href="https://developers.google.com/chart/interactive/docs/gallery?hl=ru" rel="nofollow">Google Charts</a> (а в случае, если JavaScript отключен в браузере, что например происходит при открытии этого html файла из мессенджера на iPhone, то отображается статическая версия таблицы, также сгенерированная скриптом).<br> <a href="https://habr.com/ru/post/506720/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=506720#habracut">Поиски замены вклада на Мосбирже</a>]]></description>
+      
+      <pubDate>Mon, 22 Jun 2020 02:26:25 GMT</pubDate>
+      <dc:creator>empenoso</dc:creator>
+      <category><![CDATA[JavaScript]]></category><category><![CDATA[Node.JS]]></category><category><![CDATA[API]]></category><category><![CDATA[Визуализация данных]]></category><category><![CDATA[Финансы в IT]]></category>
+      <category><![CDATA[парсинг]]></category><category><![CDATA[котировка]]></category><category><![CDATA[биржа]]></category><category><![CDATA[инвестиции]]></category><category><![CDATA[статистика]]></category><category><![CDATA[ценные бумаги]]></category><category><![CDATA[облигации]]></category><category><![CDATA[биржевая торговля]]></category><category><![CDATA[JavaScript]]></category><category><![CDATA[Node.JS]]></category>
+    </item>
+
+
+
+
+
+
+
+  
+
+
+
+    <item>
+      <title><![CDATA[[Перевод] Не надо следовать JavaScript-трендам]]></title>
+      <guid isPermaLink="true">https://habr.com/ru/post/507518/</guid>
+      <link>https://habr.com/ru/post/507518/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=507518</link>
+      <description><![CDATA[Однажды, когда у вас выдался не самый светлый день, вы увидели новый твит о том, как пользоваться хуками React. Но по какой-то причине ваша компания или ваша команда ещё не перешли на хуки. Или, может быть, вы ими пользуетесь, но не таким способом, который можно было бы назвать «трендовым». Возможно, вы применяете Vue.js или Angular, но React-хуки лезут буквально отовсюду, вы видите сообщения о них так часто, что возникает такое ощущение, будто скоро о них «заговорит» даже микроволновка.<br>
+<br>
+Так как день у вас был не очень удачным, вы начали задаваться вопросом о том, всё ли благополучно с вашим кодом. Может, стоить зарефакторить тот кусок программы, который вы только что прошли? После того, как вы перестали задавать себе вопросы о своём коде, у вас заработала фантазия, вы стали представлять себе то, как хуки будут смотреться в вашей кодовой базе.<br>
+<br>
+Дальше вы ощутили непреодолимое желание всё же воспользоваться хуками. Вы обратились к тимлиду, или разослали сообщения всей команде, рассказали о новом замечательном подходе к решению задач, и выступили с предложением, в соответствии с которым вы начинаете работать по-новому.<br>
+<br>
+<a href="https://habr.com/ru/company/ruvds/blog/507518/"><div style="text-align:center;"><img src="https://habrastorage.org/getpro/habr/post_images/3af/2f9/54a/3af2f954aef70dfce5fc5e8709bb0402.jpg"></div></a><br>
+<i><font color="#999999">Обложка выдуманной книги: «Переписываем фронтенд каждые шесть недель»</font></i><br> <a href="https://habr.com/ru/post/507518/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=507518#habracut">Читать дальше &rarr;</a>]]></description>
+      
+      <pubDate>Sun, 21 Jun 2020 15:18:02 GMT</pubDate>
+      <dc:creator>ru_vds</dc:creator>
+      <category><![CDATA[Блог компании RUVDS.com]]></category><category><![CDATA[Разработка веб-сайтов]]></category><category><![CDATA[JavaScript]]></category>
+      <category>JavaScript</category><category>разработка</category>
+    </item>
+
+
+
+      <item>
+      <title><![CDATA[Ламповый фонокорректор]]></title>
+      <guid isPermaLink="true">https://habr.com/ru/post/507454/</guid>
+      <link>https://habr.com/ru/post/507454/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=507454</link>
+      <description><![CDATA[<img src="https://habrastorage.org/webt/wf/n3/vs/wfn3vsznperjsh1o9pi4rzmklnm.jpeg"><br>
+<br>
+Сборка фонокорректора.<br>
+<br>
+Фонокорректор — усилитель, восстанавливающий исходный спектр записанного на пластинке звукового сигнала, усиливающий выходное напряжение головки звукоснимателя до типичного уровня линейного выхода.<br> <a href="https://habr.com/ru/post/507454/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=507454#habracut">Читать дальше &rarr;</a>]]></description>
+      
+      <pubDate>Mon, 22 Jun 2020 04:30:59 GMT</pubDate>
+      <dc:creator>GMaksim2008</dc:creator>
+      <category><![CDATA[DIY или Сделай сам]]></category>
+      <category><![CDATA[diy или сделай сам]]></category>
+    </item>
+
+
+
+
+
+
+
+      <item>
+      <title><![CDATA[Мониторинг через UptimeRobot]]></title>
+      <guid isPermaLink="true">https://habr.com/ru/post/507660/</guid>
+      <link>https://habr.com/ru/post/507660/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=507660</link>
+      <description><![CDATA[<a href="https://habr.com/ru/company/ruvds/blog/507660/"><div style="text-align:center;"><img src="https://habrastorage.org/webt/we/xx/kk/wexxkkds8xfypuh_ni9cgobqa98.jpeg"></div></a><br>
+Любому сайту нужен мониторинг, не существует такого ресурса, о даунтайме которого владелец предпочел бы не знать. Забавно, что многие разработчики не мониторят свои пет-проекты, а фрилансеры вообще почти никогда не заморачиваются проверкой доступности, хотя это как правило не сложнее чем подключить какую-нибудь аналитику и может сэкономить много нервов.<br>
+<br>
+Существует не один десяток сервисов для мониторинга сайтов, большинство из них полностью платные или сильно урезанные в бесплатной версии. Особняком от них стоит <a href="https://uptimerobot.com/" rel="nofollow">UptimeRobot</a>, который предоставляет огромный функционал бесплатно и позволяет гибко настраивать платную подписку под свои нужды.<br>
+<br>
+В большинстве случаев UptimeRobot шлёт HTTP-запросы на указанный адрес и по заголовкам ответа определяет его доступность (2хх — всё ок, 4хх/5хх — в течение 30 секунд обстреливает повторными запросами из других точек, если ответ снова отрицательный, засчитывается downtime).<br> <a href="https://habr.com/ru/post/507660/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=507660#habracut">Читать дальше &rarr;</a>]]></description>
+      
+      <pubDate>Mon, 22 Jun 2020 09:17:31 GMT</pubDate>
+      <dc:creator>ruvds</dc:creator>
+      <category><![CDATA[Блог компании RUVDS.com]]></category><category><![CDATA[Разработка веб-сайтов]]></category><category><![CDATA[Серверное администрирование]]></category><category><![CDATA[Веб-аналитика]]></category>
+      <category><![CDATA[аналитика]]></category><category><![CDATA[аналитика сайта]]></category><category><![CDATA[разработка]]></category><category><![CDATA[серверное администрирование]]></category>
+    </item>
+
+
+
+
+
+
+
+      <item>
+      <title><![CDATA[Аналитика для хантинга разработчиков и CTO]]></title>
+      <guid isPermaLink="true">https://habr.com/ru/post/507534/</guid>
+      <link>https://habr.com/ru/post/507534/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=507534</link>
+      <description><![CDATA[<a href="https://hsto.org/webt/wp/fl/xj/wpflxjy3e5b5s4x8zd8ah3ncetc.jpeg" rel="nofollow"><img src="https://habrastorage.org/webt/wp/fl/xj/wpflxjy3e5b5s4x8zd8ah3ncetc.jpeg"></a><br>
+<br>
+<h2>Аналитика рынка разработчиков и CTO:</h2><br>
+<ul>
+<li>Сколько денег хотят разработчики и CTO, которые не ищут работу и как можно их замотивировать</li>
+<li>4 ключевых причины, которые могут снижать стоимость разработчиков и что может повышать их ценность;</li>
+<li>12 факторов, с помощью которых вы можете заинтересовать опытных экспертов;</li>
+<li>Могут ли кандидаты стоить для вас дешевле. Что делать, если у вас проблемы с наймом. Как кризис и пандемия повлияли на хантинг. Общие рекомендации современного хантинга.</li>
+</ul> <a href="https://habr.com/ru/post/507534/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=507534#habracut">Читать дальше &rarr;</a>]]></description>
+      
+      <pubDate>Mon, 22 Jun 2020 08:46:57 GMT</pubDate>
+      <dc:creator>newhr</dc:creator>
+      <category><![CDATA[Блог компании New.HR]]></category><category><![CDATA[Исследования и прогнозы в IT]]></category><category><![CDATA[Карьера в IT-индустрии]]></category><category><![CDATA[Управление персоналом]]></category>
+      <category><![CDATA[аналитика]]></category><category><![CDATA[карьера]]></category><category><![CDATA[карьера программиста]]></category><category><![CDATA[карьера в it-индустрии]]></category><category><![CDATA[карьера в it]]></category><category><![CDATA[зарплата]]></category><category><![CDATA[зарплата программиста]]></category><category><![CDATA[зарплата в it]]></category><category><![CDATA[зарплаты разработчиков]]></category><category><![CDATA[зарплатные ожидания]]></category><category><![CDATA[зарплатная вилка]]></category><category><![CDATA[зарплата it-специалиста]]></category><category><![CDATA[карьерный рост]]></category><category><![CDATA[карьера в ит]]></category>
+    </item>
+
+
+
+
+
+
+
+  
+
+
+
+    <item>
+      <title><![CDATA[[Перевод] Анализ кристалла сдвигового регистра у математического сопроцессора 8087]]></title>
+      <guid isPermaLink="true">https://habr.com/ru/post/507598/</guid>
+      <link>https://habr.com/ru/post/507598/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=507598</link>
+      <description><![CDATA[Числа с плавающей запятой необходимы для научного программирования, однако первые процессоры напрямую поддерживали лишь операции с целыми числами. Но ранние микропроцессоры всё же могли производить операции с числами с плавающей запятой. Такие операции просто разбивались на множество целочисленных, манипуляции с экспонентой и дробной частью. Иначе говоря, поддержка плавающей запятой не сделала возможной операции с ней в принципе – она просто серьёзно их ускорила. Существует ещё один способ представления нецелых чисел – это числа с фиксированной запятой, у которых есть неизменное количество цифр после десятичного разделителя. С ними работать проще, однако с их помощью можно представить диапазон заметно меньшего размера.<br>
+<br>
+Хотя операции с плавающей запятой на мейнфреймах были обычным делом уже в 1950-х и 1960-х годах, только в 1980-м Intel представила сопроцессор с плавающей запятой 8087 для микрокомпьютеров.<br>
+<br>
+8087 не был первым чипом с поддержкой плавающей запятой. National Semiconductor представила <a href="http://www.projects.scorchingbay.nz/dokuwiki/_media/electronic/datasheet/national/an-186_mm57109_interface_to_microprocessor.pdf" rel="nofollow">MM57109</a> Number Cruncher Unit [«перемалыватель цифр»] – так его реально назвали – в 1977-м. Это был, по сути, чип от научного калькулятора на 12 цифр в новом корпусе, работающий с десятичными значениями в двоичном представлении, и требовавший ввода данных в <a href="https://ru.wikipedia.org/wiki/%D0%9E%D0%B1%D1%80%D0%B0%D1%82%D0%BD%D0%B0%D1%8F_%D0%BF%D0%BE%D0%BB%D1%8C%D1%81%D0%BA%D0%B0%D1%8F_%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C" rel="nofollow">обратной польской записи</a>. Чип работал до абсурдного медленно: к примеру, на вычисление тангенса могло уйти до секунды. AMD представила свой первый чип с поддержкой плавающей запятой, <a href="https://www.hartetechnologies.com/manuals/AMD/AMD%209511%20FPU.pdf" rel="nofollow">Am9511</a>, в <a href="http://www.cpushack.com/2010/09/23/arithmetic-processors-then-and-now/" rel="nofollow">1978-м</a>. Этот чип поддерживал 32-битные числа с плавающей запятой, и на вычисление тангенса тратил до 1,4 мс. В итоге Intel купила у AMD лицензию на Am9511 и продавала его как 8231. 8087 на 10 МГц, для сравнения, мог вычислить тангенс за 54 мкс, работая с 80-битным числом с плавающей запятой. Вот насколько быстродействие и точность 8087 были выше его предшественников.<br> <a href="https://habr.com/ru/post/507598/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=507598#habracut">Читать дальше &rarr;</a>]]></description>
+      
+      <pubDate>Mon, 22 Jun 2020 11:00:01 GMT</pubDate>
+      <dc:creator>SLY_G</dc:creator>
+      <category><![CDATA[Производство и разработка электроники]]></category><category><![CDATA[Старое железо]]></category>
+      <category>8086</category><category>8087</category><category>сопроцессор</category>
+    </item>
+
+
+
+      <item>
+      <title><![CDATA[Обсуждение системы голосования, разработанной ДИТ Москвы]]></title>
+      <guid isPermaLink="true">https://habr.com/ru/post/507640/</guid>
+      <link>https://habr.com/ru/post/507640/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=507640</link>
+      <description><![CDATA[<h1 id="otkrytye-ishodniki">Открытые исходники</h1><br>
+<p>Недавно в открытый доступ были выложены <a href="https://github.com/moscow-technologies/blockchain-voting/tree/voting2020/elec2020" rel="nofollow">исходники системы голосования</a>, которая по всей видимости, и будет применяться на электронном голосовании по Конституции в Москве и Нижнем Новгороде.</p><br>
+<p>Данным посланием хабражителям я хотел бы открыть обсуждение того, что получилось у разработчиков, и как нам теперь с этим жить.</p> <a href="https://habr.com/ru/post/507640/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=507640#habracut">Читать дальше &rarr;</a>]]></description>
+      
+      <pubDate>Mon, 22 Jun 2020 07:04:56 GMT</pubDate>
+      <dc:creator>nnseva</dc:creator>
+      <category><![CDATA[Информационная безопасность]]></category><category><![CDATA[Open source]]></category><category><![CDATA[Программирование]]></category><category><![CDATA[Анализ и проектирование систем]]></category><category><![CDATA[Криптовалюты]]></category>
+      <category><![CDATA[2020ог]]></category><category><![CDATA[2020og]]></category><category><![CDATA[конституция]]></category><category><![CDATA[голосование]]></category><category><![CDATA[общероссийское]]></category>
+    </item>
+
+
+
+
+
+
+
+      <item>
+      <title><![CDATA[В поисках обеда: распознавание активности по данным фитнес-трекера]]></title>
+      <guid isPermaLink="true">https://habr.com/ru/post/507362/</guid>
+      <link>https://habr.com/ru/post/507362/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=507362</link>
+      <description><![CDATA[Мне посчастливилось участвовать в проекте SOLUT, который стартовал в ЛАНИТ около года назад. Проект развивается благодаря активному участию Центра компетенции больших данных ЛАНИТ (ЦК Дата), и главное технологическое новшество проекта заключается в использовании машинного обучения для мониторинга человеческой активности. Основным источником данных для нас являются сенсоры фитнес-трекеров, закрепленные на руках работников. В первую очередь, результаты распознавания помогают поднять производительность труда и оптимизировать производственные процессы на стройке. Также анализ поведения рабочих позволяет отслеживать самочувствие человека, соблюдение техники безопасности и напоминает строителям про обед.<br>
+<br>
+<div style="text-align:center;"><img src="https://habrastorage.org/getpro/habr/post_images/4eb/5fa/2d2/4eb5fa2d2a376e23fdf984936ce46822.jpg"></div><a href="https://www.huffingtonpost.co.uk/john-mcmenamin/lunch-atop-a-skyscraper-v_b_2525996.html?guccounter=1&amp;guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&amp;guce_referrer_sig=AQAAAFqmJUhi84sX_DYS2l13KVS0CX-50jBmzbGaH0ffSsGZMei_Vyz3_Vo8Oc7wNMDuRS8P9bd88K-EycMxVqdMLYtPlQKi3muvP6mvAUs55HOovDJ7LJqwAvYM4csSO08vQVPKd3Wv1D9SM8bIdJJHMyQMQakEv0-nyepJAq3yJXgP" rel="nofollow"><i>Источник</i></a><br> <a href="https://habr.com/ru/post/507362/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=507362#habracut">Читать дальше &rarr;</a>]]></description>
+      
+      <pubDate>Mon, 22 Jun 2020 07:01:22 GMT</pubDate>
+      <dc:creator>art_pro</dc:creator>
+      <category><![CDATA[Блог компании ГК ЛАНИТ]]></category><category><![CDATA[Data Mining]]></category><category><![CDATA[Big Data]]></category><category><![CDATA[Машинное обучение]]></category><category><![CDATA[Data Engineering]]></category>
+      <category><![CDATA[cleverdata]]></category><category><![CDATA[ланит]]></category><category><![CDATA[solut]]></category><category><![CDATA[мониторинг]]></category><category><![CDATA[большие данные и машинное обучение]]></category>
+    </item>
+
+
+
+
+
+
+
+  
+
+
+
+    <item>
+      <title><![CDATA[[Перевод] Как x86_x64 адресует память]]></title>
+      <guid isPermaLink="true">https://habr.com/ru/post/507720/</guid>
+      <link>https://habr.com/ru/post/507720/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=507720</link>
+      <description><![CDATA[Сегодня я собираюсь поговорить про адресацию памяти: один, казалось бы, небольшой, и тем не менее удивительно непростой элемент семантики команд архитектуры х86_64. В особенности хочется поговорить про команду <code>mov</code> и то, как через <i>только одну эту команду</i> х86_64 пользователю становятся доступны различные методы адресации памяти.<br>
+<br>
+Я не буду говорить про остальные затрагивающие память команды (то есть, благодаря CISC, почти все остальные), команды которые пишут массивные фрагменты памяти (это о тебе, <code>fxsave</code>), или иные касающиеся темы вопросы (модели кода, независящий от адреса код, и бинарная релокация). Я также не буду затрагивать исторические режимы адресации или режимы, которые активны при работе процессора x86_64 не в 64-битном режиме (т.е. любые отличные от long mode с 64-битным кодом).<br>
+<br>
+<h2>Некоторые ограничения</h2><br>
+Несмотря на кошмарное наследие кодирования команд х86_64, а может и благодаря ему, у адресации памяти есть некоторые ограничения.<br>
+<br>
+Начнем с хорошего:<br>
+<br>
+<ul>
+<li>На достаточно высоком уровне в архитектуре х86_64 есть всего два режима адресации.</li>
+<li>Все регистры в обоих режимах адресации должны быть строго одинакового размера. Другими словами, мы не можем странным образом смешивать 64, 32 и 16-битные регистры и получать актуальный адрес — в кодировании х86_64 для подобного маневра попросту нет места.</li>
+</ul> <a href="https://habr.com/ru/post/507720/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=507720#habracut">Читать дальше &rarr;</a>]]></description>
+      
+      <pubDate>Mon, 22 Jun 2020 13:05:10 GMT</pubDate>
+      <dc:creator>Data_center_MIRAN</dc:creator>
+      <category><![CDATA[Блог компании Дата-центр «Миран»]]></category><category><![CDATA[Алгоритмы]]></category><category><![CDATA[Компьютерное железо]]></category><category><![CDATA[Программирование]]></category><category><![CDATA[Процессоры]]></category>
+      <category>Miran</category><category>Миран</category><category>Дата-центр &quot;Миран&quot;</category><category>память</category><category>адресация памяти</category><category>процессоры</category><category>x86_x64</category>
+    </item>
+
+
+
+      <item>
+      <title><![CDATA[Дайджест свежих материалов из мира фронтенда за последнюю неделю №420 (15 — 21 июня 2020)]]></title>
+      <guid isPermaLink="true">https://habr.com/ru/post/507624/</guid>
+      <link>https://habr.com/ru/post/507624/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=507624</link>
+      <description><![CDATA[Предлагаем вашему вниманию подборку с ссылками на новые материалы из области фронтенда и около него.<br>
+<br>
+<p><img src="https://habrastorage.org/webt/a8/xk/xk/a8xkxkirlfnoc2u0rig1puvmiec.png"></p> <a href="https://habr.com/ru/post/507624/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=507624#habracut">Читать дальше &rarr;</a>]]></description>
+      
+      <pubDate>Sun, 21 Jun 2020 19:47:15 GMT</pubDate>
+      <dc:creator>alexzfort</dc:creator>
+      <category><![CDATA[Разработка веб-сайтов]]></category><category><![CDATA[CSS]]></category><category><![CDATA[JavaScript]]></category><category><![CDATA[HTML]]></category>
+      <category><![CDATA[дайджест]]></category><category><![CDATA[фронтенд]]></category><category><![CDATA[css]]></category><category><![CDATA[js]]></category><category><![CDATA[es6]]></category><category><![CDATA[vue]]></category><category><![CDATA[react]]></category><category><![CDATA[angular]]></category><category><![CDATA[html5]]></category><category><![CDATA[браузеры]]></category><category><![CDATA[ссылки]]></category>
+    </item>
+
+
+
+
+
+
+
+  
+
+
+
+    <item>
+      <title><![CDATA[[Перевод] «Самый опасный геймер» (про четвертое измерение, про игры Braid, Witness и их загадочного творца Джонатана Блоу)]]></title>
+      <guid isPermaLink="true">https://habr.com/ru/post/489300/</guid>
+      <link>https://habr.com/ru/post/489300/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=489300</link>
+      <description><![CDATA[<i>Статья 2012 года</i><br>
+<br>
+Видеоигры сейчас один и самых прибыльных видов развлечений в Америке, а также один из самых подростковых, глупых и не «нагружающих» мозг. Серьезно? По крайней мере, так считает Джонатан Блоу. Он — самый жесткий критик игровой индустрии и ее самый ценный разработчик, который стремится изменить наше представление об играх и сторителлинге. Следующим релизом,<a href="https://ru.wikipedia.org/wiki/The_Witness" rel="nofollow"> The Witness</a>, Блоу может укрепить свое наследие или закончить карьеру. Может ли истинное искусство процветать в индустрии с многомиллиардным доходом от лазерных пушек и плотоядных пришельцев?<br>
+<br>
+<div style="text-align:center;"><img src="https://habrastorage.org/webt/zj/7r/ea/zj7rea9bzuollrcotf4sattdepa.png"></div><br>
+<br>
+Как и многие состоятельные люди, Джонатан Блоу хорошо помнит момент, когда он стал богатым. В то время, в конце 2008 года, он был в минусе на 40 000 $ и жил в скромной квартире в Сан- Франциско, более трех лет тщательно оттачивая свою видеоигру,<a href="https://ru.wikipedia.org/wiki/Braid" rel="nofollow"> <i>Braid</i></a> — в жанре<a href="https://ru.wikipedia.org/wiki/%D0%9F%D0%BB%D0%B0%D1%82%D1%84%D0%BE%D1%80%D0%BC%D0%B5%D1%80" rel="nofollow"> платформер</a>-<a href="https://ru.wikipedia.org/wiki/%D0%93%D0%BE%D0%BB%D0%BE%D0%B2%D0%BE%D0%BB%D0%BE%D0%BC%D0%BA%D0%B0_(%D0%B6%D0%B0%D0%BD%D1%80_%D0%BA%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80%D0%BD%D1%8B%D1%85_%D0%B8%D0%B3%D1%80)" rel="nofollow">головоломка</a> с возможностью изменения масштаба времени. (как если бы, <i>Super Mario Bros.</i> встретился с<a href="https://ru.wikipedia.org/wiki/%D0%91%D0%BE%D1%80%D1%85%D0%B5%D1%81,_%D0%A5%D0%BE%D1%80%D1%85%D0%B5_%D0%9B%D1%83%D0%B8%D1%81" rel="nofollow"> Борхесом</a>), в которую Блоу влил еще 200 000 $. Хотя <i>Braid</i> был выпущена и разрекламирована прессой, на августовском сервисе Microsoft’s Xbox Live Arcade, Блоу не увидел ни цента от игры, пока в один осенний день он не сел в кафе in the city’s Mission district. <br>
+<br>
+<div style="text-align:center;"><img src="https://habrastorage.org/webt/z7/0v/uk/z70vukh3t7zezusm8lu7kwszkoa.png"></div><br>
+<br>
+<i>«Я открыл свой веб-браузер и, святые угодники, теперь я богат»</i>, — вспоминает он. <i>«На моем банковском счете было много нулей»</i>.<br>
+<br>
+Однако, на этом сходство Блоу со средним миллионером заканчивается, потому, что в отличие от большинства богатых людей, он, кажется, слегка раздражен воспоминанием о том, как разбогател. Когда Блоу сказал мне во время типично метафизического разговора в парке возле его офиса в Беркли, что его неожиданность оказалась «абсурдной», он не имел в виду это в причудливом смысле <i>«Можете ли вы поверить в мою удачу?»</i> он имел в виду это в философском, разочарованно-горьком смысле глубоко ироничной шутки Провидения. <br> <a href="https://habr.com/ru/post/489300/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=489300#habracut">Читать дальше &rarr;</a>]]></description>
+      
+      <pubDate>Mon, 22 Jun 2020 08:43:20 GMT</pubDate>
+      <dc:creator>Asya_Dyu</dc:creator>
+      <category><![CDATA[Блог компании SkillFactory]]></category><category><![CDATA[Разработка игр]]></category><category><![CDATA[Научно-популярное]]></category><category><![CDATA[Биографии гиков]]></category><category><![CDATA[Интервью]]></category>
+      <category>разработка игр</category><category>геймдев</category><category>геймдизайн</category>
+    </item>
+
+
+
+      <item>
+      <title><![CDATA[Стартап Nautilus Data Technologies готовит к спуску на воду новый дата-центр]]></title>
+      <guid isPermaLink="true">https://habr.com/ru/post/507712/</guid>
+      <link>https://habr.com/ru/post/507712/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=507712</link>
+      <description><![CDATA[<img src="https://habrastorage.org/webt/cr/mm/1g/crmm1g9_8-nmcwsdzr1ivvnc76e.png"><br>
+<br>
+В индустрии дата-центров работа продолжается, несмотря на кризис. Например, стартап Nautilus Data Technologies недавно заявил о намерении запустить новый плавучий ДЦ. О Nautilus Data Technologies стало известно несколько лет назад, когда компания сообщила о планах разработать плавучий дата-центр. Казалось, это очередная идея-фикс, которая никогда не будет реализована. Но нет, в 2015 году компания начала работу над своим первым дата-центром Eli M. Его плавучая основа была спущена на воду в <a href="https://datacenterfrontier.com/nautilus-data-barges-ahead-with-floating-data-center/" rel="nofollow">30 километрах от Сан-Франциско</a>. Мощность ДЦ составила 8 МВт, а вместимость — 800 серверных стоек.<br>
+ <br>
+Стартап ранее получил около $36 миллионов инвестиций от разных партнеров. Сейчас в него <a href="https://datacenterfrontier.com/nautilus-gets-100-million-to-complete-first-floating-data-center/" rel="nofollow">вложился крупнейший инвестор</a> — компания Orion Energy Partners. Инвестировала она в водоплавающие дата-центры $100 млн. Средства пойдут на расширение возможностей дата-центров, создание дополнительных объектов, новые исследования и т.п.<br> <a href="https://habr.com/ru/post/507712/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=507712#habracut">Читать дальше &rarr;</a>]]></description>
+      
+      <pubDate>Mon, 22 Jun 2020 14:24:22 GMT</pubDate>
+      <dc:creator>Seleditor</dc:creator>
+      <category><![CDATA[Блог компании Selectel]]></category><category><![CDATA[Компьютерное железо]]></category><category><![CDATA[Сетевое оборудование]]></category><category><![CDATA[Сетевые технологии]]></category>
+      <category><![CDATA[Nautilus Data Technologies]]></category><category><![CDATA[дата-центр]]></category><category><![CDATA[вода]]></category><category><![CDATA[серверы]]></category>
+    </item>
+
+
+
+
+
+
+
+  
+
+
+
+    <item>
+      <title><![CDATA[[Перевод] Асинхронный Python-код медленнее обычного кода]]></title>
+      <guid isPermaLink="true">https://habr.com/ru/post/507570/</guid>
+      <link>https://habr.com/ru/post/507570/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=507570</link>
+      <description><![CDATA[Большинство программистов понимают то, что асинхронный Python-код имеет более высокий уровень конкурентности, чем обычный синхронный код. Это даёт некоторые основания полагать, что асинхронный код способен показывать более высокий уровень производительности при решении распространённых задач вроде выдачи динамических веб-страниц или поддержки веб-API.<br>
+<br>
+<a href="https://habr.com/ru/company/ruvds/blog/507570/"><img src="https://habrastorage.org/webt/eb/w1/-3/ebw1-367wm5lg3knoum9tllolhc.jpeg"></a><br>
+<br>
+Но, к сожалению, Python-интерпретатор не выполняет асинхронный код быстрее синхронного.<br>
+<br>
+В реалистичных условиях асинхронные веб-фреймворки показывают немного худшую пропускную способность (выраженную в запросах в секунду), чем обычные, и отличаются гораздо более сильной изменчивостью задержек.<br> <a href="https://habr.com/ru/post/507570/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=507570#habracut">Читать дальше &rarr;</a>]]></description>
+      
+      <pubDate>Mon, 22 Jun 2020 13:16:02 GMT</pubDate>
+      <dc:creator>ru_vds</dc:creator>
+      <category><![CDATA[Блог компании RUVDS.com]]></category><category><![CDATA[Высокая производительность]]></category><category><![CDATA[Разработка веб-сайтов]]></category><category><![CDATA[Python]]></category>
+      <category>Python</category><category>разработка</category><category>асинхронный код</category><category>бенчмаркинг</category><category>фреймворк</category>
+    </item>
+
+
+
+  
+
+    <item>
+      <title><![CDATA[[Из песочницы] Cложный код или история одного интервью]]></title>
+      <guid isPermaLink="true">https://habr.com/ru/post/507684/</guid>
+      <link>https://habr.com/ru/post/507684/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=507684</link>
+      <description><![CDATA[Хотелось бы поделиться своей историей неудачи, если понимать под этим негативный фидбек от компании после ревью технического задания. Конечно же, каждый подобный опыт — это всегда прекрасная возможность пересмотреть стратегию, сделать определенные выводы из своих или чужих ошибок. И в данном случае, у меня есть отличный повод порефлексировать над пережитым опытом интервью, даже несмотря на то, что он не закончился оффером. Хочу заранее выразить свою благодарность за время, которое вы потратите на чтение этой статьи с кодом и усилия, приложенные на их понимание. Хочу выразить двойную благодарность, если при этом читатель поделится своим мнением.<br> <a href="https://habr.com/ru/post/507684/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=507684#habracut">Читать дальше &rarr;</a>]]></description>
+      
+      <pubDate>Mon, 22 Jun 2020 11:29:57 GMT</pubDate>
+      <dc:creator>itallix</dc:creator>
+      <category><![CDATA[Программирование]]></category><category><![CDATA[Совершенный код]]></category><category><![CDATA[Карьера в IT-индустрии]]></category>
+      <category>интервью</category><category>java</category><category>javascript</category><category>архитектура</category><category>игра</category>
+    </item>
+
+
+
+
+
+      <item>
+      <title><![CDATA[Я есть root. Получаем стабильный shell]]></title>
+      <guid isPermaLink="true">https://habr.com/ru/post/507612/</guid>
+      <link>https://habr.com/ru/post/507612/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=507612</link>
+      <description><![CDATA[Давайте представим, что мы получили бэк-коннект в результате эксплуатации RCE-уязвимости в условном PHP-приложении. Но едва ли это соединение можно назвать полноценным. Сегодня разберемся в том, как прокачать полученный доступ и сделать его более стабильным.<br>
+<br>
+Это третья часть из цикла статей по повышению привилегий в ОС Linux, я есть root. <a href="https://habr.com/ru/company/jetinfosystems/blog/505740/">Первая статья</a> была обзорной, во <a href="https://habr.com/ru/company/jetinfosystems/blog/506750/">второй статье</a> я разбирал вектор повышения через SUID/SGID.<br>
+<br>
+<img src="https://habrastorage.org/webt/4b/h5/d8/4bh5d8ed_e0kmoota1mwwqyekps.png" alt="image"><br> <a href="https://habr.com/ru/post/507612/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=507612#habracut">Читать дальше &rarr;</a>]]></description>
+      
+      <pubDate>Mon, 22 Jun 2020 10:34:23 GMT</pubDate>
+      <dc:creator>true-hero</dc:creator>
+      <category><![CDATA[Блог компании Инфосистемы Джет]]></category><category><![CDATA[Информационная безопасность]]></category>
+      <category><![CDATA[linux]]></category><category><![CDATA[OSCP]]></category>
+    </item>
+
+
+
+
+
+
+
+  
+
+
+
+    <item>
+      <title><![CDATA[[Перевод] Конференция QCon. Овладение хаосом: руководство Netflix для микросервисов. Часть 2]]></title>
+      <guid isPermaLink="true">https://habr.com/ru/post/507622/</guid>
+      <link>https://habr.com/ru/post/507622/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=507622</link>
+      <description><![CDATA[Джош Эванс рассказывает о хаотичном и ярком мире микросервисов Netflix, начиная с самых основ — анатомии микросервисов, проблем, связанных с распределенными системами и их преимуществ. Опираясь на этот фундамент, он исследует культурные, архитектурные и операционные методы, которые ведут к овладению микросервисами. <a href="https://habr.com/ru/post/507622/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=507622#habracut">Читать дальше &rarr;</a>]]></description>
+      
+      <pubDate>Sun, 21 Jun 2020 19:24:03 GMT</pubDate>
+      <dc:creator>ua-hosting</dc:creator>
+      <category><![CDATA[Блог компании ua-hosting.company]]></category><category><![CDATA[Анализ и проектирование систем]]></category><category><![CDATA[IT-инфраструктура]]></category><category><![CDATA[Конференции]]></category><category><![CDATA[Микросервисы]]></category>
+      <category>Netflix</category><category>микросервисы</category><category>Javaweb</category><category>Oracle</category>
+    </item>
+
+
+
+      <item>
+      <title><![CDATA[Где учиться программированию в Петербурге: программы при поддержке JetBrains]]></title>
+      <guid isPermaLink="true">https://habr.com/ru/post/507710/</guid>
+      <link>https://habr.com/ru/post/507710/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=507710</link>
+      <description><![CDATA[Мы заинтересованы в том, чтобы повышать образовательный уровень в IT-сфере,  и готовы строить высшее образование вместе с вузом.<br>
+<br>
+В этом посте мы расскажем об образовательных проектах в Петербурге, которые поддерживает JetBrains: о бакалаврских и магистерских программах в НИУ ВШЭ, ИТМО, СПбГУ и о Computer Science Center.<br>
+<br>
+<div style="text-align:center;"><img src="https://habrastorage.org/getpro/habr/post_images/036/484/52d/03648452d07922adc4ed3f73c7a9c9b9.jpg"></div><br> <a href="https://habr.com/ru/post/507710/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=507710#habracut">Читать дальше &rarr;</a>]]></description>
+      
+      <pubDate>Mon, 22 Jun 2020 13:01:57 GMT</pubDate>
+      <dc:creator>radiodasha</dc:creator>
+      <category><![CDATA[Блог компании Образовательные проекты JetBrains]]></category><category><![CDATA[Машинное обучение]]></category><category><![CDATA[Программирование]]></category><category><![CDATA[Промышленное программирование]]></category><category><![CDATA[Учебный процесс в IT]]></category>
+      <category><![CDATA[вшэ]]></category><category><![CDATA[вшэ спб]]></category><category><![CDATA[итмо]]></category><category><![CDATA[computer science center]]></category><category><![CDATA[программирование]]></category><category><![CDATA[программирование для начинающих]]></category><category><![CDATA[вуз]]></category><category><![CDATA[образование в it]]></category>
+    </item>
+
+
+
+
+
+
+
+  
+
+
+
+    <item>
+      <title><![CDATA[[Перевод] Беспроводной телефон из консервных банок]]></title>
+      <guid isPermaLink="true">https://habr.com/ru/post/507410/</guid>
+      <link>https://habr.com/ru/post/507410/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=507410</link>
+      <description><![CDATA[<h3>Новый подход к старой игрушке — беспроводной телефон из консервных банок берёт прошлогоднюю технологию и впихивает её в современность!</h3><br>
+<img src="https://habrastorage.org/getpro/habr/post_images/2d1/49c/40d/2d149c40dd20f3bac5fbdc76b1a2108b.jpg" alt="image"><br>
+<br>
+Буквально вчера я вёл серьёзный телефонный разговор, как вдруг мой бананофон перестал работать! Я очень расстроился. Ну, всё — я последний раз пропускаю звонок из-за этого дурацкого телефона! (Оглядываясь назад, стоит признать, что я в тот момент был, возможно, слишком сильно зол).<br>
+<br>
+<img src="https://habrastorage.org/getpro/habr/post_images/548/afd/fa2/548afdfa286b78ce3d1caa8533cb19af.png"><br>
+<br>
+Пришло время обновлений. И вот он – новый беспроводной телефон из консервной банки! Новый, улучшенный псевдотелефон, подходящий для всех моих коммуникационных нужд!<br> <a href="https://habr.com/ru/post/507410/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=507410#habracut">Читать дальше &rarr;</a>]]></description>
+      
+      <pubDate>Mon, 22 Jun 2020 07:00:01 GMT</pubDate>
+      <dc:creator>SLY_G</dc:creator>
+      <category><![CDATA[Беспроводные технологии]]></category><category><![CDATA[DIY или Сделай сам]]></category>
+      <category>телефон</category><category>банки</category>
+    </item>
+
+
+
+
+
+
+
+
+
+  </channel>
+</rss>
