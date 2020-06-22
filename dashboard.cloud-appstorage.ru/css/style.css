@@ -1,0 +1,23 @@
+.projects-box{
+  width:100%;
+  text-align: center;
+}
+.projects-box .add-box{
+  width:100%;
+  background:#3cb0d6;
+  color:white;
+  padding:12px 0px;
+}
+.projects-box .add-box:hover{
+  background:#7b5fdc;
+}
+.add-box a{
+  color:inherit;
+}
+.add-box a:hover{
+  text-decoration: none;
+}
+.projects{
+  display: flex;
+  justify-content: space-around;
+}
