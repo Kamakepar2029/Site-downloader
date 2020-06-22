@@ -7,4 +7,3 @@ Enter site you want to download and save the file
 Sites:
 # [mpt.ru](http://site-downloader.tk/mpt.ru/)
 # [labworks.mpt.ru](http://site-downloader.tk/labworks.mpt.ru/)
-# [dashboard.cloud-appstorage.ru/](http://site-downloader.tk/dashboard.cloud-appstorage.ru//)
