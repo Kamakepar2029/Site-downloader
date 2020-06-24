@@ -12,3 +12,4 @@ Sites:
 # [habr.com](http://site-downloader.tk/habr.com/)
 # [duckduckgo.ru](http://site-downloader.tk/duckduckgo.ru/)
 # [duckduckgo.com](http://site-downloader.tk/duckduckgo.com/)
+# [mail.ru](http://site-downloader.tk/mail.ru/)
