@@ -13,3 +13,4 @@ Sites:
 # [duckduckgo.ru](http://site-downloader.tk/duckduckgo.ru/)
 # [duckduckgo.com](http://site-downloader.tk/duckduckgo.com/)
 # [mail.ru](http://site-downloader.tk/mail.ru/)
+# [ya.ru](http://site-downloader.tk/ya.ru/)
