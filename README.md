@@ -11,3 +11,4 @@ Sites:
 # [dashboard.cloud-appstorage.ru/phone-example](http://site-downloader.tk/dashboard.cloud-appstorage.ru/phone-example/)
 # [habr.com](http://site-downloader.tk/habr.com/)
 # [duckduckgo.ru](http://site-downloader.tk/duckduckgo.ru/)
+# [duckduckgo.com](http://site-downloader.tk/duckduckgo.com/)
