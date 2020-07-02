@@ -15,5 +15,5 @@ Sites:
 # [mail.ru](http://site-downloader.tk/mail.ru/)
 # [ya.ru](http://site-downloader.tk/ya.ru/)
 # [dashboard-0.flycricket.io](http://site-downloader.tk/dashboard-0.flycricket.io/)
-# [sch171.ru](http://site-downloader.tk/sch171.ru/)
-# [sch171.ru/JS.html](http://site-downloader.tk/sch171.ru/JS.html/)
+# [sch171.ru](http://site-downloader.tk/sch171.ru)
+# [sch171.ru/JS.html](http://site-downloader.tk/sch171.ru/JS.html)
