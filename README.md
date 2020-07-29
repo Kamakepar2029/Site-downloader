@@ -18,3 +18,4 @@ Sites:
 # [sch171.ru](http://site-downloader.tk/sch171.ru)
 # [sch171.ru/JS.html](http://site-downloader.tk/sch171.ru/JS.html)
 # [regads.xyz/ru](http://site-downloader.tk/regads.xyz/ru/)
+# [regads.xyz/ru/index.html](http://site-downloader.tk/regads.xyz/ru/index.html/)
