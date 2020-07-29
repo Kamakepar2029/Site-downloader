@@ -17,3 +17,4 @@ Sites:
 # [dashboard-0.flycricket.io](http://site-downloader.tk/dashboard-0.flycricket.io/)
 # [sch171.ru](http://site-downloader.tk/sch171.ru)
 # [sch171.ru/JS.html](http://site-downloader.tk/sch171.ru/JS.html)
+# [regads.xyz/ru](http://site-downloader.tk/regads.xyz/ru/)
